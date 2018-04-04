@@ -56,7 +56,7 @@ const vetsAdapter = require('./lib/vets-adapter')({
 
 fractal.components.engine(vetsAdapter);
 
-docs.set('path', 'docs');
+docs.set('path', 'content');
 
 const theme = require('@frctl/mandelbrot')({
   lang: 'en-US',
