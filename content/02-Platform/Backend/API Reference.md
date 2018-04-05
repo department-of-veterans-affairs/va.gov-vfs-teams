@@ -1,6 +1,6 @@
 ---
-title: Vets.gov API Reference
-label: Reference
+title: Backend API Reference
+label: API Reference
 ---
 
 <div id="swagger-ui"></div>
@@ -10,8 +10,6 @@ label: Reference
 <script src="/api-reference/swagger-ui-standalone-preset.js"> </script>
 
 <script>
-window.onload = function() {
-  // Build a system
 	var url = "https://dev-api.vets.gov/v0/apidocs";
 
 	if(window.location.href.match(/localhost/)){
@@ -33,6 +31,5 @@ window.onload = function() {
   })
 
   window.ui = ui
-}
 </script>
 
