@@ -7,4 +7,4 @@ This repository contains the source for the VA Digital Services Platform Documen
 
 ## Installation
 
-Please see the installation documentation at `./docs/installation.md` to learn how to set up a local copy of this documentation and submit changes.
+Please see the installation documentation at `./docs/development.md` to learn how to set up a local copy of this documentation and submit changes.

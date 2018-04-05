@@ -90,7 +90,8 @@ theme.on('init', (env) => {
 fractal.cli.command('watch', () => {
   const logger = fractal.cli.console;
   const server = fractal.web.server({
-    sync: true
+    sync: true,
+    port: 3002
   });
   server.on('error', err => logger.error(err.message));
 
