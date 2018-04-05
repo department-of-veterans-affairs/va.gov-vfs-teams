@@ -5,9 +5,9 @@ label: API Reference
 
 <div id="swagger-ui"></div>
 
-<link rel="stylesheet" href="/api-reference/swagger-ui.css" type="text/css">
-<script src="/api-reference/swagger-ui-bundle.js"> </script>
-<script src="/api-reference/swagger-ui-standalone-preset.js"> </script>
+<link rel="stylesheet" href="../../../api-reference/swagger-ui.css" type="text/css">
+<script src="../../../api-reference/swagger-ui-bundle.js"> </script>
+<script src="../../../api-reference/swagger-ui-standalone-preset.js"> </script>
 
 <script>
 	var url = "https://dev-api.vets.gov/v0/apidocs";
