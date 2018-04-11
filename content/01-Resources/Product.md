@@ -1,4 +1,0 @@
-# Product
-
-## Planning
-## Tracking
