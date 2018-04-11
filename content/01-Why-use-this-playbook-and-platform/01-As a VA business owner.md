@@ -1,3 +1,8 @@
+---
+title: The Case for Business Owners 
+label: As a Business Owner
+---
+
 I can use the Playbook and the modern platform to…
 
 - Back up project prioritizations with user research and analytics

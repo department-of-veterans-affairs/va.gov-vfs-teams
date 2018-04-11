@@ -1,6 +1,6 @@
 ---
 title: VA Digital Services Platform Documentation
-label: Introduction
+label: Getting Started
 ---
 
 **This is a work in progress proof of concept documentation effort, not yet ready for use or external review.**
