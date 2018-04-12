@@ -1,3 +1,8 @@
+---
+title: Including the User in Requirements Planning
+label: Including the User in Requirements Planning
+---
+
 When starting a project, it’s important to understand the problem your team is trying to solve. To develop this foundation we start by answering  a few basic questions.
 - Who is the end user?
 - What are they trying to achieve?
