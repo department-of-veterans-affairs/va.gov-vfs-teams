@@ -2,8 +2,118 @@
 title: How To Build and Launch a Form on Name.gov
 label: How To Build and Launch a Form on Name.gov
 ---
-Sample Health Care Application (Form 10-10EZ) https://www.vets.gov/health-care/apply/application/veteran-information/personal-information
 
-Sample Health Care Application (Form 10-10EZ) schema: https://github.com/department-of-veterans-affairs/vets-json-schema/blob/master/src/schemas/10-10EZ/schema.js
+- Sample Health Care Application (Form 10-10EZ) [https://www.vets.gov/health-care/apply/application/veteran-information/personal-information](https://www.vets.gov/health-care/apply/application/veteran-information/personal-information)
 
-Sample Sample Health Care Application (Form 10-10EZ) front-end: https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/js/hca
+- Sample Health Care Application (Form 10-10EZ) schema: [https://github.com/department-of-veterans-affairs/vets-json-schema/blob/master/src/schemas/10-10EZ/schema.js](https://github.com/department-of-veterans-affairs/vets-json-schema/blob/master/src/schemas/10-10EZ/schema.js)
+
+- Sample Sample Health Care Application (Form 10-10EZ) front-end: [https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/js/hca](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/js/hca)
+
+## Define, Design, and Build the form:
+
+1. [Define the project and requirements](jump link to Define section)
+2. Email **** Angela Gantt-Curtis **** and **** Marvoureen Dolor **** to get the green light to start building **** \*Required**
+3. [Design the form](jump link to Design section), referring to the various [design components](jump link) to see what you may want to use for the various form interactions.
+  1. [Form samples to look at before you get started - both schema, FE, any design system components that make sense]
+4. Email ATO documentation to Vets.gov Privacy and ATO Officers **** \*Required**
+  1. If using an existing API, there&#39;s a certain amount of ATO already in place. The additional things you&#39;d need to get in place to be covered are:
+    1. Add a new section to [System Security Plan](link?)
+      1. [Examples / how to]
+    2. Add new fields to the [PIA and PTA docs](link?)
+      1. [Examples / how to]
+    3. If there&#39;s a new connection involved, then you&#39;ll need an MOU
+      1. [Examples / how to]
+    4. [Where to link to this info, right now it&#39;s vets-ato, can they access that?]
+5. Slack the Platform team to kick off implementation activities **** \*Required**
+  1. Include link to description in vets-contrib including
+    1. What problem the feature is solving
+    2. What the feature will do
+    3. What data it will consume, and from what APIs
+    4. Whether it will submit data to any APIs and what data
+  2. Include names and contact info for engineering support to be included in pager duty
+  3. Storage and connection configurations will get spun up
+  4. There will likely be questions about architecture and data review needed at this point to set up infrastructure, so you can expect an app walkthrough meeting that the Platform team will coordinate.
+  5. * NOTE: at this time, any features that require custom storage within vets-api are not supported (to avoid data migrations or new tables). In the next iteration of this documentation, we hope to provide an approach allowing for this.*
+6. Create your own branch off of vets-json-schema **** \*Required**
+  1. [Reference this schema development guide to ensure your PR will pass the various merge requirements](link to doc enumerating schema details...)
+  2. This is for the back-end: set up the form schema there to incorporate into your form
+  3. This is for the basic structure for submission to the API and contains some required fields and some basic validation
+  4. Use common definitions for schema elements
+7. Create your own branch off of vets-website **** \*Required**
+  1. [Reference this front-end development guide to ensure your PR will pass the various merge requirements](link to doc enumerating details from Jeff)
+  2. This is where you&#39;ll build the front-end of the form
+  3. This is where you&#39;ll incorporate most of the validation and conditional fields
+  4. Use this [Yeoman form generator](**[**https://github.com/department-of-veterans-affairs/generator-vets-website**](https://github.com/department-of-veterans-affairs/generator-vets-website)**) to create a React skeleton for the form on your new vets-website branch **** \*Required**
+8. Create your own branch off of vets-api that takes in the form data and saves it   ****\*Required**
+  1. Reference this [back-end development guide](need link from James) to ensure your PR will pass the various merge requirements
+  2. This normally will happen in parallel with the vets-website build
+9. Slack the Platform team to add your URL to the server config **** \*Required**
+  1. By default, the app will be password protected in dev, staging, and production (though remember the page won&#39;t exist in production because of the production:false flag).
+10. Build your app by submitting PRs iteratively to have code merged to master **** \*Required**
+  1. Submit PRs for vets-json-schema, vets-website, and vets-api when you&#39;ve completed enough code that you&#39;re ready to start verifying your progress in staging.
+    1. If the PRs are related to or dependent on each other, make sure they reference each other
+    2. Use [WIP] in your PR titles if you have a PR open but aren&#39;t ready for it to be reviewed and merged to master.
+    3. Request a Review from [who? how?]
+    4. [Naming convention or label needed]
+    5. **RISK:** since other teams don&#39;t use our same tracking system (Rational vs GitHub), we won&#39;t be able to have context for code reviews. We&#39;ll be limited to checking architecture, regression testing, and code cleanliness.
+  2. You'll get a code review from the digital service team for each PR you merge
+    1. Reviewer will perform a code review: [https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Code%20Review%20Norms.md#specific-questions-to-ask-when-code-reviewing](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Code%20Review%20Norms.md#specific-questions-to-ask-when-code-reviewing)) including things like regression testing, checking code style, unit test coverage, etc.
+    2. Expect some collaborative conversation with the Reviewer as this is underway
+    3. An accessibility review will be a part of this too.
+  3. Once approved, your PRs will be merged into master, and your app will be deployed to the Dev and Staging environments
+    1. Note: by default, all forms built using the Form Generator will have a gate on them to prevent the application from appearing in production
+    2. **RISK:** right now, the team building this could remove the production:false flag on their own if they wanted to (i.e. without the app going through the proper reviews etc). Do we want to prevent that systematically, or not?
+    3. NOTE: may want to consider moving to a fork model long term, while just putting a cap on the volume of app builds in the short term so that it can be handled in the manner described here.
+    4. QUESTION: do we want to set up GitHub roles for non-DS teams such that they don&#39;t have Review or Approve access? Not sure if it&#39;s possible…
+  4. If you have static content to support the app, add it to the [ignore list] ( [https://github.com/department-of-veterans-affairs/vets-website/blob/master/script/build.js#L114](https://github.com/department-of-veterans-affairs/vets-website/blob/master/script/build.js#L114) ), which will automatically be prevented from building in production.
+  5. **Rachael ^ add something about also not including nav for the static content until go live**
+  6. Continuously perform 508 testing (jump link)
+11. When it&#39;s robust enough, perform [usability testing](jump link)
+12. Send a [product guide](link to template) to the **Call Center or Aubrey??** so they can prepare their scripts and train their teams
+
+## Launch Your Form!
+
+1. Slack the platform team to schedule a launch review **** \*Required**
+  1. Include load testing specs in the request
+  2. This review will consist of a screenshare walkthrough of your app to check:
+    1. **i.** General architecture review
+    2. **ii.** Interface documentation overview
+    3. **iii.** Authentication and authorization checks
+    4. **iv.** Confirmation of data scoping
+    5. **v.** Checks for adequate logging
+    6. **vi.** Appropriate external service request patterns
+    7. **vii.** Rate limiting requirements
+  3. Make any updates that are needed from your review
+2. Schedule walkthrough with VA&#39;s 508 Office
+  1. And check to make sure the automated tests are running properly
+  2. Make any updates required by 508 office
+3. Slack the QA team to schedule testing **** \*Required**
+  1. Note: how can we actually understand the business requirements enough to be responsible for QA? But at the same time, how can we ensure that good quality apps are being launched if we entrust QA in a separate team?
+4. Slack Platform team to enable vets-api **** \*Required**
+5. Set launch criteria
+  1. How will you know that you&#39;re ready for soft launch?
+  2. How will you know that you&#39;re ready for hard launch?
+6. Submit PR for Soft Launch **** \*Required**
+  1. Remove the production:false flag from the application itself
+  2. **Rachael add somewhere above: don&#39;t do navigation changes yet**
+  3. Your form will now be available in production, password protected, with no navigation and supporting static content hidden
+  4. Pre-launch code review includes a few extra elements:
+    1. Check for 508 automated tests
+    2. Verify that e2e tests exist
+    3. Verify that unit test coverage is satisfactory on FE (BE is checked automatically)
+    4. Verify that the launch review is good to go
+  5. LONG TERM:** would like feature flags to be able to hide navigation-related menu items and static content.
+7. Perform User Acceptance Testing(jump link to section above)
+8. Check that analytics and monitoring are working properly
+9. Confirm that Call Center is ready to handle the new traffic to this tool
+10. Slack Platform team to have password removed **** \*Required**
+  1. Include links to your PRs from here so that Platform team can coordinate this happening at the same time as your Hard Launch PRs.
+  2. This step will allow your link to be visible to Google in the site map, so users may find it and use it, even if there's no navigation to it from the live site itself.
+11. Submit PR for Hard Launch **** \*Required**
+  1. Remove static content from the [ignore list]( [https://github.com/department-of-veterans-affairs/vets-website/blob/master/script/build.js#L114](https://github.com/department-of-veterans-affairs/vets-website/blob/master/script/build.js#L114) )
+  2. Add navigation to static content and the app
+  3. [What to call this bc Launch Prep PR isn&#39;t right. Labels / title standards to apply so we know it&#39;s the finished product?]
+  4. **Note:** prior to merge, double check that the password has been removed
+
+### What happens when there&#39;s an error in production? And is our call center process (i.e. Aubrey) supporting these apps?
+[To be filled out later]
