@@ -1,3 +1,8 @@
+---
+title: How can this guide help me?
+label: Why use this?
+---
+
 VA has made strides over the years modernizing the technology powering Veteran-facing tools. From paper to digital, from manual to automated processes, from client servers to the cloud. The challenge now is to take lessons learned across these modernization efforts, and consolidate onto a single modern platform that allows for scalable delivery of new features, and provides a consistent online experience for users. Ultimately, providing online tools to Veterans, Dependents, family members, and caregivers  whose design, performance, and security are on par with the private sector.
 
 
