@@ -1,4 +1,3 @@
-## Frontend Guide
 ### Getting Started on the front end
 Overview of vets-website: broad architecture and structure (in progress)
 - Extended WebsiteToolchain.md

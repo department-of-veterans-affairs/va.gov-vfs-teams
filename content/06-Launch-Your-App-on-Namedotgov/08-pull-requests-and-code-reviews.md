@@ -1,0 +1,1 @@
+Who exactly will be performing the code reviews has yet to be determined. Probably rotating members of Ad Hoc, but that’s not sustainable long term, especially if there are lots of teams building at the same time.
