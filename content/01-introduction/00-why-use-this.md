@@ -11,3 +11,15 @@ This modern platform and playbook are VA’s response to that challenge, as an a
 In conversations with business owners, project managers, developers, researchers, and designers across VA, current challenges designing, building, and deploying features became clear. The major takeaways that contributed to the platform and playbook solutions are:
 
  - [Discovery takeaways]
+
+## Use Cases
+
+### VA Business Owner
+
+### VA Project Manager
+
+### VA Designer
+
+### VA Developer
+
+### Outside Team
