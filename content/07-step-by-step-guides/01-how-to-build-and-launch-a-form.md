@@ -12,22 +12,22 @@ label: How To Build and Launch a Form on Name.gov
 ## Define, Design, and Build the form:
 
 1. [Define the project and requirements](jump link to Define section)
-2. Email **** Angela Gantt-Curtis **** and **** Marvoureen Dolor **** to get the green light to start building **** \*Required**
+2. Email **Angela Gantt-Curtis** and **Marvoureen Dolor** to get the green light to start building \*Required**
 3. [Design the form](jump link to Design section), referring to the various [design components](jump link) to see what you may want to use for the various form interactions.
-  1. [Form samples to look at before you get started - both schema, FE, any design system components that make sense]
-4. Email ATO documentation to Vets.gov Privacy and ATO Officers **** \*Required**
-  1. If using an existing API, there&#39;s a certain amount of ATO already in place. The additional things you&#39;d need to get in place to be covered are:
-    1. Add a new section to [System Security Plan](link?)
-      1. [Examples / how to]
-    2. Add new fields to the [PIA and PTA docs](link?)
-      1. [Examples / how to]
-    3. If there&#39;s a new connection involved, then you&#39;ll need an MOU
-      1. [Examples / how to]
-    4. [Where to link to this info, right now it&#39;s vets-ato, can they access that?]
+  - [Form samples to look at before you get started - both schema, FE, any design system components that make sense]
+4. Email ATO documentation to Vets.gov Privacy and ATO Officers \*Required**
+  - If using an existing API, there&#39;s a certain amount of ATO already in place. The additional things you&#39;d need to get in place to be covered are:
+    - Add a new section to [System Security Plan](link?)
+      - [Examples / how to]
+    - Add new fields to the [PIA and PTA docs](link?)
+      - [Examples / how to]
+    - If there&#39;s a new connection involved, then you&#39;ll need an MOU
+      - [Examples / how to]
+    - [Where to link to this info, right now it&#39;s vets-ato, can they access that?]
 5. Slack the Platform team to kick off implementation activities **** \*Required**
-  1. Include link to description in vets-contrib including
-    1. What problem the feature is solving
-    2. What the feature will do
+  - Include link to description in vets-contrib including
+    - What problem the feature is solving
+    - What the feature will do
     3. What data it will consume, and from what APIs
     4. Whether it will submit data to any APIs and what data
   2. Include names and contact info for engineering support to be included in pager duty
