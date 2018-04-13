@@ -9,7 +9,7 @@ VA’s Veteran-facing Tools Playbook is a collection of resources for teams acro
 
 If you’d like guidance on recruiting participants for user testing, [visit the Research section].
 If you’d like templates for creating user-centered product requirements, [visit the Product Planning section].
-If you’d like to use modern design patterns for a new product or features you’re building, [visit the Design System section].
+If you’d like to use modern design patterns for a new product or features you’re building, [visit the Design Patterns section].
 
 And so on! Browse through the resources to see what might be helpful to you. Click a project phase in the menu on the left to get started, or search by keyword.
 
