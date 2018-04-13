@@ -13,6 +13,7 @@
     "start": "fractal watch",
     "test": "karma start --single-run",
     "build-site": "fractal build-site",
+    "heroku-serve": "fractal start",
     "site": "fractal build-site && gh-pages -d build",
     "test-publish": "cp package.json dist/jean-pants/package.json && cd dist/jean-pants && yalc publish && cd ../../",
     "test-watch": "karma start --auto-watch",
