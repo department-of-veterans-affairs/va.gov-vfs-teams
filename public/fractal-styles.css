@@ -69,7 +69,7 @@
 }
 
 #tree-docs .Tree-depth-3 .Tree-collectionLabel {
-  color: #048;
+  display: none;
   font-size: 1rem;
 }
 
@@ -79,6 +79,11 @@
 
 #tree-docs .Tree-depth-3 .Tree-collectionItems .Tree-item a{
   font-size: .85rem;
+}
+
+#tree-docs .Tree-depth-3 .Tree-collectionItems .Tree-item:nth-child(1) a{
+  font-size: 1rem;
+  margin-left: -12px;
 }
 
 /* Link size and spacing */

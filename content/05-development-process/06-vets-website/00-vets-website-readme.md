@@ -1,6 +1,6 @@
 ---
 title: Vets-Website ReadMe
-label: ReadMe
+label: Vets-Website
 ---
 ## Platform Features
 
