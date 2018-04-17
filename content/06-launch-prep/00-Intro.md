@@ -1,10 +1,10 @@
 ---
-title: Launch Your App on Name.gov
+title: Launch Prep
 label: Intro
 ---
 If you’d like to build and launch a new feature on [name.gov], at a high level the process will look like this:
 
-1. [Get access, get your repos set up, get oriented!] *(NEEDS LINK)*
+1. [Get access, get your repos set up, get oriented!](/docs/development-process/getting-started)
 2. Leverage resources as needed in this Veteran-facing Tools Playbook to [define the product or feature](/docs/defining-the-project/intro) you’re creating
 3. Email Angela Gantt-Curtis and Marvoureen Dolor to get the green light to start building
 4. Submit any [ATO paperwork] *(NEEDS LINK)*

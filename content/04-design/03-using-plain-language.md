@@ -1,10 +1,7 @@
 ---
 title: Using Plain Language
-label: Writing clearly
+label: Using Plain Language
 ---
-
-
-
 ## Our guiding principle for content is that “doing” is better than “explaining.”
 Our goal is to give Veterans the tools and content they need to complete a task—quickly and easily. We're constantly asking the question “what does a Veteran want to accomplish during this visit?”
 
