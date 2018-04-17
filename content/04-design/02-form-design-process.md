@@ -1,5 +1,5 @@
 ---
-title: Form Design process
+title: Form Design Process
 label: Form Design Process
 ---
 
