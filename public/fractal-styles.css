@@ -53,6 +53,11 @@
   margin-top: 1rem;
 }
 
+/* Adjust first header up */
+#tree-docs {
+  margin-top: -1rem;
+}
+
 /* Don’t make the sections headers clickable */
 #tree-docs .Tree-depth-2 > h4 {
   background: transparent;
@@ -61,11 +66,32 @@
   text-transform: uppercase;
 }
 #tree-docs .Tree-depth-2 > h4 span {
-  padding-left: 1.70rem !important;
+  padding-left: 1.7rem !important;
 }
 #tree-docs .Tree-depth-2 > h4:hover {
   background: transparent;
   cursor: default;
+}
+
+/* Hide subhead collection label */
+#tree-docs .Tree-depth-3 .Tree-collectionLabel {
+  display: none;
+  font-size: 1rem;
+}
+
+/* Style nested links */
+#tree-docs .Tree-depth-3 .Tree-collectionItems {
+  margin-left: 1rem;
+}
+#tree-docs .Tree-depth-3 .Tree-collectionItems .Tree-item a {
+
+  margin-left: -1rem;
+  padding-left: 3rem !important;
+}
+#tree-docs .Tree-depth-3 .Tree-collectionItems .Tree-item:nth-child(1) a {
+  font-weight: bold;
+  font-size: 1rem;
+  padding-left: 2rem !important;
 }
 
 /* Link size and spacing */
