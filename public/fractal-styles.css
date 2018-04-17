@@ -68,6 +68,19 @@
   cursor: default;
 }
 
+#tree-docs .Tree-depth-3 .Tree-collectionLabel {
+  color: #048;
+  font-size: 1rem;
+}
+
+#tree-docs .Tree-depth-3 .Tree-collectionItems {
+  margin-left: 12px;
+}
+
+#tree-docs .Tree-depth-3 .Tree-collectionItems .Tree-item a{
+  font-size: .85rem;
+}
+
 /* Link size and spacing */
 #tree-docs a.Tree-entityLink {
   font-size: 1rem;
