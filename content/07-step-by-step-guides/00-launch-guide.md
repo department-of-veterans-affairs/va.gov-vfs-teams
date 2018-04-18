@@ -1,7 +1,8 @@
 ---
-title: Launch Prep
+title: Launch Guide
 label: Intro
 ---
+
 If you’d like to build and launch a new feature on [name.gov], at a high level the process will look like this:
 
 1. [Get access, get your repos set up, get oriented!](/docs/development-process/getting-started)
