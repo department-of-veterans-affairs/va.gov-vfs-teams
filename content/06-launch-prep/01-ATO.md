@@ -2,6 +2,12 @@
 title: Obtaining Authority To Operate
 label: ATO
 ---
+<span style="color: red">
+This needs to be further discussed as a group and refined for scalability, but here are some initial thoughts:
+<br><br>Ad Hoc / DSVA probably shouldn’t handle or check for ATO. Anyone building things should probably be responsible for going through that whole process themselves and making sure they’re covered. All teams could build under one overarching ATO for the platform, but ensuring all products have appropriate ATO requirements met will be the responsibility of those building the products and an ATO Lead at VA.
+</span>
+
+
 ### Contacts:
 - **System Owner:** Angela Gant-Curtis, Deputy Portfolio Director, Office Phone: (540)760-7222, angela.gant-curtis@va.gov
 - **ISO:** Griselda Gallegos, NDC AITC Information Security Officer (ISO), Office:(512) 326-6037, griselda.gallegos@va.gov
