@@ -2,7 +2,7 @@
 title: Request Processing
 label: Request Processing
 ---
-Request processing occurs after [Routing](./Routing.md), [Authentication](./Authentication.md), and [Authorization](./Authorization.md). It consists of validating any user input or parameters, processing that input, and generating a response.
+Request processing occurs after [Routing](./Routing.md), [Authentication](./authentication), and [Authorization](./authorization). It consists of validating any user input or parameters, processing that input, and generating a response.
 
 ## Example
 

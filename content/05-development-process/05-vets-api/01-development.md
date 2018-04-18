@@ -14,5 +14,5 @@ Further Reading:
 
 ## Process
 
-Please see the [Development Workflow](../Workflow.md) documentation to learn
+Please see the [Development Workflow](../development-workflow) documentation to learn
 how to ship changes to Vets-API.

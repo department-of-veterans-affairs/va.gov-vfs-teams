@@ -2,7 +2,7 @@
 title: Authorization
 label: Authorization
 ---
-Authorization is a process of permitting an identity, asserted through authentication, of accessing a specified resource. Requests to Vets-API integration endpoints must be authorized based on the provided [Authentication](./Authentication.md) information. Vets-API provides authorization functions through Policy classes in `app/policies`.
+Authorization is a process of permitting an identity, asserted through authentication, of accessing a specified resource. Requests to Vets-API integration endpoints must be authorized based on the provided [Authentication](./authentication) information. Vets-API provides authorization functions through Policy classes in `app/policies`.
 
 ## All Actions
 

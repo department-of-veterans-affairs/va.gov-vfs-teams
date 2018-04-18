@@ -16,7 +16,7 @@ The Vets-API Platform is a wrapper around VA data services with utilities and to
 
 ## Development
 
-See the [Development](./Development.md) documentation to get started with
+See the [Vets-API Development](./development) documentation to get started with
 a local instance of Vets-API and for guidance on how to submit changes and new features.
 
 ## Integration Overview
