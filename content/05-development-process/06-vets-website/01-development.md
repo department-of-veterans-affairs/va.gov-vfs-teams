@@ -6,11 +6,11 @@ New integrations are added to Vets-Website at https://github.com/department-of-v
 
 Further Reading:
 
-https://reactjs.org/
-https://github.com/department-of-veterans-affairs/vets-website/blob/master/README.md
-https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Using%20GitHub%20and%20Contributing%20Code.md
+- https://reactjs.org/
+- https://github.com/department-of-veterans-affairs/vets-website/blob/master/README.md
+- https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Using%20GitHub%20and%20Contributing%20Code.md
 
 ## Process
 
-Please see the [Development Workflow](../Workflow.md) documentation to learn
+Please see the [Development Workflow](../development-workflow) documentation to learn
 how to ship changes to Vets-Website.
