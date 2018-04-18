@@ -29,6 +29,9 @@
 .Frame-panel {
   background-color: #ffffff;
 }
+.Document-content {
+  padding-bottom: 8rem;
+}
 
 
 /* Override Fractal left-nav */
