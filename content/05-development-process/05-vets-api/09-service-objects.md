@@ -312,4 +312,4 @@ my_integration_health_check:
     mock_profile: false
 ```
 
-See the [Settings Documentation](https://github.com/department-of-veterans-affairs/vets-contrib/blob/master/Developer%20Process/Vets-API/Settings.md) for more details.
+See the [Settings Documentation](./settings) for more details.

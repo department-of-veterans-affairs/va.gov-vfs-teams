@@ -3,7 +3,7 @@ title: PDF Generation
 label: PDF Generation
 ---
 Vet-API provides PDF generation options that can be used to convert
-[Form](./Forms.md) submissions into PDFs that are more easily handled by
+[Form](./forms) submissions into PDFs that are more easily handled by
 existing VA processes. VBA forms may be submitted to the Central Mail API.
 
 1. Add the blank form to `lib/pdf_fill/forms/pdfs/#{form_id}.pdf`
@@ -45,12 +45,15 @@ module PdfFill
 end
 ```
 3. Add your new class to the `PdfFill::Filler::FORM_CLASSES` constant.
+
 ```ruby
 FORM_CLASSES = {
   '21P-530' => PdfFill::Forms::Va21p530
 }.freeze
 ```
+
 4. Run `PdfFill::Filler.fill_form`
+
 ```ruby
 burial_claim = SavedClaim::Burial.find(1)
 # lib/pdf_fill/forms/pdfs/#{form_id}.pdf must point to the empty pdf

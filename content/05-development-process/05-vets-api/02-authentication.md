@@ -23,7 +23,7 @@ end
 
 ## Levels of Assurance
 
-Vets-API provides guarantees that the user initiating the request is correlated to the identifying information within the User object. There are four possible Levels of Assurance provided based on the mechanism by which the user authenticated. Ensure you are familiar with each of them, and validate the proper LOA requirements appropriately in your integration's policies. Please see [Authorization](./Authorization.md) for details on how to provide services only to users authenticated with the proper LOA.
+Vets-API provides guarantees that the user initiating the request is correlated to the identifying information within the User object. There are four possible Levels of Assurance provided based on the mechanism by which the user authenticated. Ensure you are familiar with each of them, and validate the proper LOA requirements appropriately in your integration's policies. Please see [Authorization](./authorization) for details on how to provide services only to users authenticated with the proper LOA.
 
 **Level 1:** There is no identity proofing requirement at this level. However, the fact that the user is able to authenticate to the identity provider gives some assurance. It means the identity provider has some relationship with the user because they have issued them a credential (username and password). Credentials are required to login.
 

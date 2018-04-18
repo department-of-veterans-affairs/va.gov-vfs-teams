@@ -6,7 +6,7 @@ label: Response Serialization
 
 Responses to requests must be JSON formatted.  To that end, we use `ActiveModel::Serializer` to consistently structure and serialize our endpoint responses.  
 
-This adheres to the JSON API specification.  It also ensures that endpoint responses will always follow the [`"data": "attributes": ...`](http://jsonapi.org/format/#document-top-level) schema pattern.  
+This adheres to the JSON API specification.  It also ensures that endpoint responses will always follow the `"data": "attributes": ...` [schema pattern](http://jsonapi.org/format/#document-top-level).  
 
 For example, here is a sample response body:
 
