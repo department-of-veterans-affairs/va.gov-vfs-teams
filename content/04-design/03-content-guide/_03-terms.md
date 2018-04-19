@@ -1,10 +1,12 @@
-# Terms
+---
+title: Terms
+---
 
 ## Introduction:
 
-These words or phrases are not captured by, or run counter to, entries in CMS or M-W. Specifically, they:
+These words or phrases are not captured by, or run counter to, entries in Chicago Manual of Style or Merriam–Webster. Specifically, they:
 
-- Have a different spelling or a different use of capitalization or hyphenation than what's found in CMS and M-W
+- Have a different spelling or a different use of capitalization or hyphenation than what’s standard
 - Surfaced during the concurrence process (e.g., say "VA claim exam" rather than "C&P exam"; say "decision notice" rather than "decision letter")
 - List a plain-language example or usage
 - Are VA-specific proper nouns (e.g., Veterans' Mortgage Life Insurance. We need to be accurate about whether a term is capitalized, plural, singular possessive, plural possessive, etc.)
@@ -24,7 +26,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 
 - became ill: use "got sick."
 - became worse: use "got worse."
-- beneficiary: Use this term to mean the person picked to get the money from a life insurance policy when the policyholder dies. In other uses, avoid this term in favor of “family member.” 
+- beneficiary: Use this term to mean the person picked to get the money from a life insurance policy when the policyholder dies. In other uses, avoid this term in favor of “family member.”
 - Benefits Delivery at Discharge (BDD) program: “Benefits” is plural.
 
 ### C
@@ -35,12 +37,12 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 - certifying official (VA certifying official)
 - Character of Discharge review process
 - character of service (more casually referred to as "type of service"): This is a "block" or box on the DD214 that states one of the following: honorable, general/under honorable conditions, under other than honorable conditions, uncharacterized, or bad conduct.
-- chronic: Use "long-lasting", or when needed, "illness that lasts for a long time." 
+- chronic: Use "long-lasting", or when needed, "illness that lasts for a long time."
 - claim exam: This is the C&P exam. The correct way to refer to it is "VA claim exam."
 - click: Avoid using this word (especially the phrase "click here") to prompt users to click on a link; instead link the appropriate words. For example: “[Find an accredited representative to help you](https://www.vets.gov/disability-benefits/apply-for-benefits/help/index.html).” or “[Learn more about evidence requirements](https://www.vets.gov/disability-benefits/claims-process/evidence/).”
 - compensation: use "payment" or "payments."
 - competent: defined as of legal age and sound mind.
-- conditions: on first mention use "illness" or "injury." All other mentions "condition" or "conditions" is OK. 
+- conditions: on first mention use "illness" or "injury." All other mentions "condition" or "conditions" is OK.
 - contamination: defined as water that was found to have toxic chemicals in it. (Exception: On the Camp Lejeune page, don't define this term.)
 - continuous: use "without a break" as in "without a break in service."
 - convalescence: use "rehab care."
@@ -55,7 +57,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 - dentistry: use "dental care."
 - Department of Veterans Affairs (no apostrophe)
 - Dependents’ Educational Assistance Program (also called Survivors’ and Dependents’ Educational Assistance Program): Both terms are regularly shortened to DEA.
-- dependents of Veterans: use "qualified dependents." 
+- dependents of Veterans: use "qualified dependents."
 - deprivation: defined as a lack of things such as sleep that people need for their physical and mental well being.
 - decision notice: We should *not* refer to this as the "decision letter." The Veteran undergoes a VA claim exam (casually referred to as a C&P exam), and then after VA reviews the evidence, they sent the Veteran a "decision notice" that includes the disability rating.
 - disability or permanent disability: defined as a disability that doesn't go away. (Note, this definition goes on the Disability home page only. Remove from other pages.)
@@ -83,7 +85,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
   - educational program
 - equivalent: Use "as in." For example, “other separation documents,” as in “DD214 or other separation documents”
 - era: Uppercase for Vietnam Era (this is a VA term). If you need to talk about the Vietnam War, which has different dates associated with it than Vietnam Era, style it with "era" lc: Vietnam War era.
-- evidence: Define as "supporting documents" and add, "like a doctor's report or medical test results," as needed. 
+- evidence: Define as "supporting documents" and add, "like a doctor's report or medical test results," as needed.
 - exception: Used to call special attention to something. It should be bolded and never in all caps.
 - excluding: Use "not counting" or "not including."
 - expedited: Use "faster."
@@ -92,7 +94,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 
 ### F
 
-- family member: Use this term instead of “beneficiary” whenever possible. 
+- family member: Use this term instead of “beneficiary” whenever possible.
 - Family Servicemembers’ Group Life Insurance (FSGLI)
 - federal: Do not cap "federal" for generic usage such as "federal agency."
 - Fibromyalgia: Defined as a sickness that causes tiredness, pain in different areas of your body, and sleep, memory, and mood problems
@@ -182,7 +184,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 - Prisoner of War: Capped to match the 10-10EZ.
 - Project 112/SHAD
 - process (a claim): use "review."
-- prove...is related to: use "show...is likely caused by" 
+- prove...is related to: use "show...is likely caused by"
 - PTSD: posttraumatic stress disorder (no hyphen)
 
 ### Q
@@ -201,7 +203,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 - Selected Reserve
 - service connected: Hyphenate when preceding a noun. For example, "a Veteran with a service-connected disability." Otherwise, do not hyphenate. For example, "The disability is considered service connected."
 - service-connected condition: defined as an illness or injury caused—or made worse by—your active-duty service. OR where possible, add the definition in another sentence. For example, A service-connected condition is an illness or injury caused—or made worse by—your active-duty service.
-- service-connected disability: In most cases, add the definition separately as either another sentence or a note below a bulleted list. For example, Having a service-connected disability means we've concluded that you're disabled because of an illness or injury caused—or made worse—by your active-duty service. 
+- service-connected disability: In most cases, add the definition separately as either another sentence or a note below a bulleted list. For example, Having a service-connected disability means we've concluded that you're disabled because of an illness or injury caused—or made worse—by your active-duty service.
 - service-connection: Hyphenate this term. For example, "You may be eligible for service-connection."
 - Service-Disabled Veterans Insurance (S-DVI): Life insurance for Veterans who have become disabled as a result of serving in the military.
 - Servicemember: One word and cap the S.
@@ -233,7 +235,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 - vesicant agents: use "vesicant (blistering) agents."
 - Vet Center: Cap the C.
 - Veteran: Always capitalize.
-- Veteran Health Identification Card (VHIC) 
+- Veteran Health Identification Card (VHIC)
 - Veterans Benefits Administration (VBA)
 - Veterans cemetery: "Veterans" does not take an apostrophe and "cemetery" is capitalized only when part of the full name of a cemetery. (e.g., "Family members may be eligible if they are buried in a Veterans cemetery.")
 - Veterans Crisis Line: "Veterans" does not take an apostrophe (1-800-273-8255)

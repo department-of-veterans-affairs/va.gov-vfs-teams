@@ -1,4 +1,7 @@
-# Style, Formatting, and Grammar
+---
+title: Style, Formatting, and Grammar
+label: Style and Formatting
+---
 
 ## Style Elements
 
@@ -31,9 +34,9 @@ Here are some examples:
   - Can I get more than one degree under the GI Bill?
   - You'll have to pick which one you want to use.
   - You can use only one program at a time.
- 
+
  Spell out ordinal numbers 1-10: first, second, third, etc. Then use numerals: 11th, 12th, 13th, etc.
- 
+
 - percentages: Use numerals rather than spelling out the number. Use the percentage symbol rather than the word “percent” (a combined disability rating of 70%) with no space between the numeral and the percent symbol. **Note:** vets.gov style deviates from 18F style for [percentages](https://pages.18f.gov/content-guide/numbers-and-percentages/). We take this approach for scannability and because we have a fair amount of text discussing disability ratings in the Disability section. Both AP and Chicago Manual of Style recommend our approach for technical or scientific writing. Disability ratings fall into this category of writing.
 - phone numbers: Don't use parentheses for the area code. Include 1- in front of the number: 1-401-283-3542.
 - phone numbers with an extension: Use clear language like "press 1" rather than something more vague like "option 1" or "choose option 1." For example: Please call 1-877-222-VETS (8387), then press 2, from 8:00 a.m. to 5:00 p.m. (ET).
@@ -56,17 +59,34 @@ Please call 1-800-123-4567 between 8:00 a.m. and 5:00 p.m. (ET)
   - Keep list items short (1 or 2 sentences in length)
   - Keep bullets in the same list parallel in construction (for example, each bullet starts with a verb) and consistent in style, grammar, and use of punctuation.
 
-   | Before   |
----| ---------| -----------
-   | **How it works** |
-   | Several military occupational specialties have a risk of exposure to asbestos, including mining, milling, shipyard work, insulation work, demolition of old buildings, carpentry, and construction. VA also recognizes a risk of exposure in the manufacturing and installation of flooring, roofing, cement sheet, and pipe products. If you served in one of these specialties, you should be tested for related health risks. |
+---
 
-   | After   |
----| --------| ------------
-   | **Do I need to get tested?** |
-   | If you had a job during your service where you might have had contact with asbestos, you need to get tested for health problems.
-   | **Get tested if you worked in:** <ul><li>Mining</li><li>Milling</li><li>Shipyards</li><li>Construction and carpentry</li><li>Knocking down old buildings (demolition)</li></ul>|
-   | **Get tested if you made or worked with products like:** <ul><li>Insulation</li><li>Flooring</li><li>Roofing</li><li>Cement sheet</li><li>Pipes</li></ul>|
+***Before***
+### How it works
+
+Several military occupational specialties have a risk of exposure to asbestos, including mining, milling, shipyard work, insulation work, demolition of old buildings, carpentry, and construction. VA also recognizes a risk of exposure in the manufacturing and installation of flooring, roofing, cement sheet, and pipe products. If you served in one of these specialties, you should be tested for related health risks.
+
+---
+
+***After***
+### Do I need to get tested?
+If you had a job during your service where you might have had contact with asbestos, you need to get tested for health problems.
+
+### Get tested if you worked in:
+- Mining
+- Milling
+- Shipyards
+- Construction and carpentry
+- Knocking down old buildings (demolition)
+
+### Get tested if you made or worked with products like:
+- Insulation
+- Flooring
+- Roofing
+- Cement sheet
+- Pipes
+
+---
 
 ### In the **After** example:
 
@@ -74,5 +94,5 @@ Please call 1-800-123-4567 between 8:00 a.m. and 5:00 p.m. (ET)
 - The first sentence clearly outlines what the reader needs to know and the action they need to take.
 - Plain language creates a conversational tone — without complicated terms like “exposure” — while still conveying the seriousness of the subject.
 - Bullets make it easier for readers to see at a glance which occupations might have put them at risk.
-- comma: Use the serial comma (sometimes referred to as the Oxford comma).
-- exclamation point: We don't use the exclamation point since it does not align with the Vets.gov tone, which is warm and quiet.
+- Comma: Use the serial comma (sometimes referred to as the Oxford comma).
+- Exclamation point: We don’t use the exclamation point since it does not align with the Vets.gov tone, which is warm and quiet.

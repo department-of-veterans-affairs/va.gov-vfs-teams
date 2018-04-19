@@ -1,4 +1,3 @@
-# Vets.gov voice and tone
 
 **Voice** is the style, or personality, of a communication. The vets.gov voice should be consistent across all our communications. The vets.gov voice is direct, transparent, dedicated, and human. It’s that of a trusted advocate — ready with information, advice, and updates.
 
@@ -24,7 +23,7 @@ Don't put the label before the person     | Use person-first language
 disabled and terminally ill policyholders | policyholders who are disabled and terminally ill
 homeless women Veterans                   | women Veterans who are homeless
 
-### Use plain language. 
+### Use plain language.
 
 **Plain language uses:**
 - Common, recognizable words that often have fewer syllables than their more complex synonyms (“help” rather than “assistance” and "happen" rather than "occur")

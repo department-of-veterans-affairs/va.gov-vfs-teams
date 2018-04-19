@@ -1,7 +1,9 @@
-# Content and Structure
+---
+title: Content and Structure
+---
 
 ## Need to Know vs. Nice to Know
-Need-to-know information answers specific questions or helps solve the user’s problems. [Always put this information first](https://pages.18f.gov/content-guide/structure-the-content/) — in the material as a whole and within sections. Key information that is buried with less crucial information can confuse users, or they might miss it altogether.  
+Need-to-know information answers specific questions or helps solve the user’s problems. [Always put this information first](https://pages.18f.gov/content-guide/structure-the-content/) — in the material as a whole and within sections. Key information that is buried with less crucial information can confuse users, or they might miss it altogether.
 
 Save nice-to-know information for later on, or even better, cut it if it doesn’t help your audience understand or act on your main message. If you need to include background information, keep it brief.
 
