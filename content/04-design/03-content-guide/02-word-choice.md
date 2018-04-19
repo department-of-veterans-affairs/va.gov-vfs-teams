@@ -1,4 +1,6 @@
-# Word Choice
+---
+title: Word Choice
+---
 Always use common words that Veterans will understand. If a term may be unfamiliar but you need to use it, be sure to give a plain-language definition.
 
 **Note:** Veterans aren’t the only ones visiting vets.gov — their spouses, children, and other family members may also be looking for information about VA benefits and services. Consider defining military jargon terms that may be familiar to Veterans, but not to their dependents.
@@ -15,7 +17,7 @@ In some cases, you may want to introduce your reader to a complicated word becau
 
 ## Words to avoid
 
-Avoid                  | Plain-language suggestions  | Notes and examples                                                  
+Avoid                  | Plain-language suggestions  | Notes and examples
 -----------------------| ----------------------------| -------------
 acquire                | get                         |
 additional             | more, other                 |
@@ -56,7 +58,7 @@ well                   | healthy
 
 ## Words to use sparingly
 
-Use sparingly                                 | Notes                             
+Use sparingly                                 | Notes
 ----------------------------------------------| ------
 compensation                                  | Whenever possible, choose more specific language, like “monthly payment”
 medical                                       | Whenever possible, use "health" instead
@@ -68,6 +70,5 @@ such as                                       | Whenever possible, use "like," "
 
 Define                         | Notes
 -------------------------------| ------------------
-bereavement                    | Use (grief) in parentheses 
+bereavement                    | Use (grief) in parentheses
 confidential                   | Define as private.
-
