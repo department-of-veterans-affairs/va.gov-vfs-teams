@@ -1,6 +1,6 @@
 ---
-title: Pre-Launch Testing
-label: Pre-Launch Testing
+title: Pre-Launch Testing Guide
+label: Testing Guide
 ---
 Before launching your product, it's crucial to test your product both internally and with users. Below are a few guides for testing:
 

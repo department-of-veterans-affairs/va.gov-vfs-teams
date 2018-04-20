@@ -1,3 +1,7 @@
+---
+title: Validating Your Hypothesis with User Research
+label: Validating Hypotheses With Research
+---
 Talking with users provides invaluable insight into the obstacles they currently face and gives your team the opportunity to validate the accuracy of your solution hypothesis.
 
 In order to get the most meaningful insights out of your conversations with users, we recommend going through a few steps:

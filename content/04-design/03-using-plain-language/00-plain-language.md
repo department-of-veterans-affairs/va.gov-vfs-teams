@@ -1,4 +1,8 @@
-## “doing” is better than “explaining.”
+---
+title: Plain Language Guide
+label: Plain Language Guide
+---
+## “Doing” is better than “Explaining.”
 Our goal is to give Veterans the tools and content they need to complete a task—quickly and easily. We're constantly asking the question “what does a Veteran want to accomplish during this visit?”
 
 ### Content Principles

@@ -1,14 +1,7 @@
 ---
-title: How To Build and Launch a Form on Name.gov
-label: How To Build and Launch a Form on Name.gov
+title: Guide to Launch a Product on Vets.gov
+label: Guide to Launch a Product
 ---
-
-- Sample Health Care Application (Form 10-10EZ) [https://www.vets.gov/health-care/apply/application/veteran-information/personal-information](https://www.vets.gov/health-care/apply/application/veteran-information/personal-information)
-
-- Sample Health Care Application (Form 10-10EZ) schema: [https://github.com/department-of-veterans-affairs/vets-json-schema/blob/master/src/schemas/10-10EZ/schema.js](https://github.com/department-of-veterans-affairs/vets-json-schema/blob/master/src/schemas/10-10EZ/schema.js)
-
-- Sample Sample Health Care Application (Form 10-10EZ) front-end: [https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/js/hca](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/js/hca)
-
 ## Define, Design, and Build the form:
 
 1. [Define the project and requirements](jump link to Define section)
@@ -114,6 +107,15 @@ label: How To Build and Launch a Form on Name.gov
   - Add navigation to static content and the app
   - [What to call this bc Launch Prep PR isn&#39;t right. Labels / title standards to apply so we know it&#39;s the finished product?]
   - **Note:** prior to merge, double check that the password has been removed
+
+
+## Samples
+- Sample Health Care Application (Form 10-10EZ) [https://www.vets.gov/health-care/apply/application/veteran-information/personal-information](https://www.vets.gov/health-care/apply/application/veteran-information/personal-information)
+
+- Sample Health Care Application (Form 10-10EZ) schema: [https://github.com/department-of-veterans-affairs/vets-json-schema/blob/master/src/schemas/10-10EZ/schema.js](https://github.com/department-of-veterans-affairs/vets-json-schema/blob/master/src/schemas/10-10EZ/schema.js)
+
+- Sample Sample Health Care Application (Form 10-10EZ) front-end: [https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/js/hca](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/js/hca)
+
 
 ### What happens when there&#39;s an error in production? And is our call center process (i.e. Aubrey) supporting these apps?
 [To be filled out later]
