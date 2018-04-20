@@ -1,13 +1,14 @@
 ---
-title: Including the User in Requirements Planning
-label: Including the User in Requirements Planning
+title: Understanding User Needs
+label: Understanding User Needs
 ---
-
 When starting a project, it’s important to understand the problem your team is trying to solve. To develop this foundation we start by answering  a few basic questions.
-- Who is the end user?
+- Who is the user?
 - What are they trying to achieve?
-- How do they achieve this now?
-- How do they describe the challenges they face?
+- How do they currently achieve this?
+- When do they face challenges?
+- Why do they face those challenges?
+- How can we make it easier?
 
 Here is an example of how the answers to these questions can be put together to form a problem statement from the end user’s perspective:
 

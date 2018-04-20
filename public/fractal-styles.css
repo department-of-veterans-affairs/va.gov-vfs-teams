@@ -33,18 +33,48 @@
   padding-bottom: 8rem;
 }
 
+.Prose > *:not(:last-child){
+  margin-bottom: 1.5em;
+}
+
 
 /* Override Fractal left-nav */
 
 /* Suppress caret */
+h4.Tree-collectionLabel{
+  pointer-events: none;
+}
+
+.Tree-depth-3 .Tree-collectionLabel{
+  pointer-events: all;
+  font-size: 1rem;
+  position: relative;
+  color: #048;
+}
+
+.Tree-depth-3.is-closed .Tree-collectionLabel::before{
+  content: '+';
+}
+
+.Tree-depth-3 .Tree-collectionLabel::before{
+  content: '-';
+  font-weight: bold;
+  font-size: 1rem;
+  color: #048;
+  position: absolute;
+  vertical-align: top;
+  left: 12px;
+  top: 6px
+}
+
 .Tree-collectionLabel span::before {
   content: none;
 }
 
 /* Expose submenus */
-#tree-docs .Tree-collection.is-closed .Tree-collectionItems {
+/*#tree-docs .Tree-collection.is-closed .Tree-collectionItems {
   display: block;
-}
+}*/
 
 /* Hide Documentation title */
 #tree-docs .Tree-title {
@@ -53,7 +83,7 @@
 
 /* Space sections out */
 #tree-docs .Tree-depth-2 {
-  margin-top: 1rem;
+  margin-top: 1.5rem;
 }
 
 /* Adjust first header up */
@@ -77,10 +107,10 @@
 }
 
 /* Hide subhead collection label */
-#tree-docs .Tree-depth-3 .Tree-collectionLabel {
+/*#tree-docs .Tree-depth-3 .Tree-collectionLabel {
   display: none;
   font-size: 1rem;
-}
+}*/
 
 /* Style nested links */
 #tree-docs .Tree-depth-3 .Tree-collectionItems {
@@ -91,11 +121,10 @@
   margin-left: -1rem;
   padding-left: 3rem !important;
 }
-#tree-docs .Tree-depth-3 .Tree-collectionItems .Tree-item:nth-child(1) a {
-  font-weight: bold;
-  font-size: 1rem;
+/*#tree-docs .Tree-depth-3 .Tree-collectionItems .Tree-item:nth-child(1) a {
+
   padding-left: 2rem !important;
-}
+}*/
 
 /* Link size and spacing */
 #tree-docs a.Tree-entityLink {
