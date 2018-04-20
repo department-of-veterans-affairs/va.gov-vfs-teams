@@ -106,6 +106,14 @@ h4.Tree-collectionLabel{
   cursor: default;
 }
 
+.Tree-collection.is-closed .Tree-collectionItems{
+  display: block !important;
+}
+
+.Tree-depth-3.is-closed .Tree-collectionItems{
+  display: none !important;
+}
+
 /* Hide subhead collection label */
 /*#tree-docs .Tree-depth-3 .Tree-collectionLabel {
   display: none;
