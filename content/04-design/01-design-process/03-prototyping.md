@@ -1,6 +1,6 @@
 ---
-title: Prototyping your designs
-label: Prototyping
+title: Prototyping your designs for effective feedback
+label: Prototyping Solutions
 ---
 
 We take different approaches depending on the complexity of the situation. In all cases we start with the usual discovery activities
@@ -20,7 +20,7 @@ We take different approaches depending on the complexity of the situation. In al
   - The constraint is helpful in keeping interactions simple
 - Negotiate with your team to find the right approach
 
-Addendum:
+### Addendum:
 - We use a few different tools to get this done
   - Text outlines (.csv, .md)
   - Diagrams (.sketch)

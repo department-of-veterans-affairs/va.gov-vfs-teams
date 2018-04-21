@@ -1,6 +1,6 @@
 ---
 title: Form Design Process
-label: Form Design Process
+label: Form Design Tips
 ---
 
 **Stakeholders:**
