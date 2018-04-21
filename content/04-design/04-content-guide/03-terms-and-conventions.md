@@ -1,5 +1,6 @@
 ---
-title: Terms
+title: Terms & Conventions
+label: Terms & Conventions
 ---
 
 ## Introduction:
