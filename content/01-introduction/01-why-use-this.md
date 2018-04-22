@@ -20,7 +20,7 @@ If you're a researcher, you can use this playbook to devise a research strategy 
 If you're a project manager, you can use this playbook to craft an iterative product plan that will guide your team to launch quickly and often. Check out the ['From Insights to a Product Plan'](../defining-the-project/from-insights-to-a-product-plan) to get your team moving and take a look at the ['Launch Prep'](../launch-prep/steps-to-launch) section to get the ball rolling on important items like ATO, analytics and preparing materials for the call center.
 
 #### VA Designer
-If you're a designer, you can use this playbook to learn techniques about breaking down information architecture, leverage VA's design system for delivering visual consistency and discover ways to use plain language while crafting your user experience. Check out the ['Design Process'](../design/design-process/design-process) section for more.
+If you're a designer, you can use this playbook to learn techniques about breaking down information architecture, leverage VA's design system for delivering visual consistency and discover ways to use plain language while crafting your user experience. Check out the ['Design Introduction'](../design-process/design-introduction) section for more.
 
 #### VA Developer
 If you're a developer, you can use this playbook to get up and running quickly with plenty of resources from setting up schemas, making pull requests and sending data through our established API gateways. Start off in the ['Development Process - Getting Started'](../development-process/getting-started) section.

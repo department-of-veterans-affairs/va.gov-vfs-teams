@@ -6,7 +6,7 @@ The VA Veteran-facing Tools Playbook is a guide for teams across VA to quickly b
 
 The documentation is broken into 4 stages of product development:
 1. [Defining your project](../defining-the-project/project-introduction)
-1. [Designing your user experience](../design/design-introduction)
+1. [Designing your user experience](../design-process/design-introduction)
 1. [Developing your application](../development-process/getting-started)
 1. [Launching your product on Vets.gov](../launch-prep/steps-to-launch)
 

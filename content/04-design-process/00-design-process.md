@@ -1,6 +1,6 @@
 ---
 title: Designing things for Vets.gov
-label: Design Approach
+label: Design Introduction
 ---
 
 Every project should go through a thorough discovery process. Sometimes (always) a simple seeming project has hidden complexity.
