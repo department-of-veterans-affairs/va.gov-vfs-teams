@@ -46,7 +46,6 @@
 ## Solution Approach
 
 ## Value Propositions
-[Prioritization spreadsheet](...)
 
 #### User Value
 

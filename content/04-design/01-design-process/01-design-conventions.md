@@ -11,7 +11,7 @@ The Vets.gov Design System documents these design patterns and the React code to
 
 ## Design Conventions
 ### Keep it simple
-There is a lot of unavoidable complexity in VA policy and proceedure, we endeavor not to add to it. This manifests in a few ways:
+There is a lot of unavoidable complexity in VA policy and procedure, we endeavor not to add to it. This manifests in a few ways:
 - Limit the number of decisions that a Veteran needs to make in one screen. We usually try to keep the number of questions under five. Two or three is even better.
 - Find out what questions we need to ask. Sometimes we will “add” a question to simplfy things. Where a paper form might have a multicolumn table to ask questions about dependents, we will ask if they have any dependents. If the answer is no, we skip the table entirely. Similar for any fields that match an “if yes, please explain” pattern.
 - Prefer simplicity over flexibility. It can feel helpful to give Veterans multiple ways or places to enter data. But this increases complexity and can end up being more confusing (and brittle) than reassuring.
@@ -19,7 +19,7 @@ There is a lot of unavoidable complexity in VA policy and proceedure, we endeavo
 - Minimize obfuscation. We don’t do the •••••••••• thing with SSN. Let people see the data they are entering.
 
 ### Reduce data entry
-Everyone is frustrated having to enter data repeatedly, especially if it is stuff that VA should already know. Once someone is signed in, we should do eveything we can to reduce this.
+Everyone is frustrated having to enter data repeatedly, especially if it is stuff that VA should already know. Once someone is signed in, we should do everything we can to reduce this.
 - Prefill data. We get as much data from VA systems as we can. If VA already knows it, we present it for review and help Veterans update if necessary.
 - Embed small forms. If there is a small second form involved, we add the unique questions conditionally. We fill the common stuff (name, date of birth, etc.) in from the data we’ve already collected and submit both forms if necessary.
 - Save in progress. Any Vets.gov form can save progress so that a Veteran who is interrupted can pick up again later.

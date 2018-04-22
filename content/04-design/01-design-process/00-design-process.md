@@ -13,7 +13,7 @@ Every project should go through a thorough discovery process. Sometimes (always)
 6. Repeat until good enough to launch...
 
 ## Listening
-Solving the problems people actually have, is cristical to success. Projects often come out of someone’s passion to improve services. But that perspective can omit important factors. It's important to really poke at the edges of the idea to find trouble spots early in the process. Talking to the folks on the service side of the equation is
+Solving the problems people actually have, is critical to success. Projects often come out of someone’s passion to improve services. But that perspective can omit important factors. It's important to really poke at the edges of the idea to find trouble spots early in the process. Talking to the folks on the service side of the equation is
 - Talk to people on both sides of the equation
   - From the business side:
     - What do you need to from Veterans to help them?
@@ -30,7 +30,7 @@ Solving the problems people actually have, is cristical to success. Projects oft
 Once you think you’ve identified all the challenges, put a solution on the table. The faster this happens the better. It should feel complete, but don’t worry, you will probably find problems with this first pass. Doing it fast exposes these new facets of the problem early in the process. Keep talking to your stakeholders.
 
 ## Testing your ideas
-Get protptypes in front of a representative sample of your audience and take notes. There is a ton of great writing on usability feedback sessions.
+Get prototypes in front of a representative sample of your audience and take notes. There is a ton of great writing on usability feedback sessions.
 - This can be in person, or remote. We’ve gotten great feedback in both scenarios.
 - Decide ahead of time what questions you are trying to answer and plan the conversation to expose those answers.
 - Make sure you get your questions covered, but don’t be afraid to chase tangents. Sometimes they end up in interesting places
