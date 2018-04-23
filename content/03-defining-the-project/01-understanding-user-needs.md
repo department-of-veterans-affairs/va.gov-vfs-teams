@@ -19,3 +19,6 @@ With a problem statement defined, it can be used to establish a solution hypothe
 > *By letting Veterans apply for a Veteran ID Card on [name.gov], we can provide users with a simple way to prove their Veteran status without having to carry around their DD214.*
 
 In the next section, you’ll find details into how to validate your hypotheses with users to ensure that your team has identified the right problem and are working toward the optimal solution.
+
+<!-- Next Button -->
+<a href='./validating-hypotheses-with-research'><div class="next-button"><h5 class="next-text">Next: Validating Hypotheses With Research</h5></div></a>

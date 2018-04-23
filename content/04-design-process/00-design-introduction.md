@@ -2,7 +2,6 @@
 title: Designing things for Vets.gov
 label: Design Introduction
 ---
-
 Every project should go through a thorough discovery process. Sometimes (always) a simple seeming project has hidden complexity.
 
 1. Listen to business, technical stakeholders, and Veterans to really understand the problem area
