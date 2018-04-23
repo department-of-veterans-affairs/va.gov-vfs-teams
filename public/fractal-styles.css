@@ -145,3 +145,38 @@ h4.Tree-collectionLabel{
 .is-current .Tree-entityLink {
   background-color: rgba(251,217,128,.25);
 }
+
+
+
+
+
+/*Next Button*/
+.next-button{
+  border: 1px solid #048;
+  border-radius: 4px;
+  box-sizing: border-box;
+  cursor: pointer;
+  float: left;
+  margin-top: 20px;
+  transition: all 0.15s ease-out;
+}
+
+.next-button:hover{
+  background: #048;
+}
+
+.next-button:hover .next-text a{
+  color: white;
+}
+
+.next-text{
+  position: relative;
+  padding: 9px 0;
+}
+
+.next-text a{
+  color: #048;
+  padding: 10px;
+  position: relative;
+  text-decoration: none;
+}

@@ -1,6 +1,6 @@
 ---
 title: How can this guide help me?
-label: Why use this?
+label: Why Use This?
 ---
 If you're a part of a VA organization creating applications for Veterans to receive benefits; the Veteran Playbook can help you achieve your goals. Vets.gov has developed a modular technical infrastructure that makes it easy for your team to design, develop and launch apps with modern resources like integrated analytics, plug-&-play code and daily deployment.
 
@@ -27,3 +27,6 @@ If you're a developer, you can use this playbook to get up and running quickly w
 
 #### VA Business Owner
 If you're a VA Business owner, you can use this playbook to define user-driven product requirements and align them with your organization's goals. Check out the project
+
+<!-- Next Button -->
+<a href='../defining-the-project/project-introduction'><div class="next-button"><h5 class="next-text">Next: Project Introduction</h5></div></a>

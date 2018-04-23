@@ -37,3 +37,6 @@ At Vets.gov we use a Agile Software Development process and break down our work 
 - Submit ATO paperwork
 - Set up Google Analytics
 - Contact the Call Center to inform them of launch
+
+<!-- Next Button -->
+<a href='../design-process/design-introduction'><div class="next-button"><h5 class="next-text">Next: Design Introduction</h5></div></a>
