@@ -4,7 +4,7 @@ _Categories adapted from [Salesforce Lightning Design System](https://www.lightn
 
 Alerts the user of important system-related issues or status. It’s initiated by the system and it’s not a result of the user’s actions.
 
-***Note:** See [content style guide](/docs/messaging-and-error-handling/messaging-design-guide#next-step-calls-to-action) for guidance on when to consider adding instruction to call the Vets.gov Help Desk or other "next-step" call to action.*
+**Note:** See [content style guide](/docs/messaging-and-error-handling/messaging-design-guide#next-step-calls-to-action) for guidance on when to consider adding instruction to call the Vets.gov Help Desk or other "next-step" call to action.
 
 ### Scheduled downtime notice
 
