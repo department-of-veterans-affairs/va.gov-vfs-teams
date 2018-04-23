@@ -156,8 +156,8 @@ h4.Tree-collectionLabel{
   border-radius: 4px;
   box-sizing: border-box;
   cursor: pointer;
+  float: left;
   margin-top: 20px;
-  float: right;
   transition: all 0.15s ease-out;
 }
 
