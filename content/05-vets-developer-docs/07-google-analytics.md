@@ -1,7 +1,8 @@
 ---
-title: Setting Up Google Analytics
-label: Analytics
+title: Google Analytics
+label: Google Analytics
 ---
+
 ## Planning for Analytics in Design
 This documentation outlines analytics considerations for the Vets.gov Google Tag Manager container and its Google Analytics account (UA-50123418-3) and is not specific to the DAP implementation.
 

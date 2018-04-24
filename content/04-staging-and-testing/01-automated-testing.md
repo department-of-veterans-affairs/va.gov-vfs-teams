@@ -1,12 +1,9 @@
 ---
-title: Automated Accessibility Testing
-label: Automated Accessibility Testing
+title: Automated Testing
+label: Automated Testing
 ---
-The intent of this script is to create a common language, extensible functions, and predictable test runs for automated keyboard testing.
-
-## Methodology
-
-For the initial test script, I used custom `data-` attributes that take cues from Java and BEM naming conventions:
+## Automated 508 Accessibility Tests
+The intent of this script is to create a common language, extensible functions, and predictable test runs for automated keyboard testing. For the initial test script, I used custom `data-` attributes that take cues from Java and BEM naming conventions:
 
 * `data-nwId="`
 * `page-name`
