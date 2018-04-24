@@ -1,5 +1,5 @@
 ---
-title: Welcome! Let's build great apps together
+title: Welcome! Let's Build Great Apps Together
 label: Getting Started
 ---
 ## Ready to create a product on Vets.gov?
@@ -13,14 +13,17 @@ Here is a summary of what to expect:
 7. Create a launch plan and work with the Vets.gov platform team to deploy your app to live users.
 
 ### [Follow this step-by-step guide to launch your app](./launch-guide)
+
 ---
-### Want to browse general resources on how to research, plan, design, and build great Veteran-facing Tools?
-[Check out the general Discovery, Design and Define, Stage, and Deploy resources in this Playbook](./browse-resources)
 
-### Want to get code for modern VA web components and design patterns?
-[Go to the system elements to view the patterns and grab the code to replicate them](./)
+#### Want to browse general resources on how to research, plan, design, and build great Veteran-facing Tools?
+- [Check out the general Discovery, Design and Define, Stage, and Deploy resources in this Playbook](./browse-resources)
 
+#### Want to get code for modern VA web components and design patterns?
+- [Go to the system elements to view the patterns and grab the code to replicate them](./)
 
+<br>
+<br>
 *If you have any questions during your journey through this documentation, email [docs@va.gov](mailto:docs@va.gov)*
 
 <!-- Next Button -->
