@@ -4,13 +4,23 @@ label: Getting Started
 ---
 The VA Veteran-facing Tools Playbook is a guide for teams across VA to quickly build online applications that help Veterans get the services and benefits they deserve. It contains the steps, best practices, and governance necessary to launch VA applications with the support of the Digital Service’s modern development infrastructure.
 
-The documentation is broken into 4 stages of product development:
+Follow the steps to create a Product on Vets.gov
 1. [Defining your project](../defining-the-project/project-introduction)
+  - Listen to business, technical stakeholders, and Veterans to really understand the problem area
+  - Define what "success" means in trackable metrics
+  - Map out potential solutions
 1. [Designing your user experience](../design-process/design-introduction)
-1. [Developing your application](../development-process/getting-started)
-1. [Launching your product on Vets.gov](../launch-prep/steps-to-launch)
-
-These resources can also be mixed and matched to create VA products that don't get added to the Vets.gov domain. There are tools such as the [VA Design System] <span style="color:red">(NEEDS LINK)</span> and strategies for [conducting user research](../defining-the-project/validating-hypotheses-with-research).
+  - Further flesh out solution ideas
+  - Test those solutions with all groups above, and apply what you learn
+  - Coordinate with content team and overall site architecture
+1. [Developing and Testing your app](../development-process/getting-started)
+  - Build the application
+  - Test some more with all groups above
+  - Bug find and fix
+1. [Deploying your product on Vets.gov and marketing to real users](../deploy-your-app/steps-to-launch)
+  - Test in production with real users
+  - Deploy! And track the performance
+  - If all is going well, spread the word so Veterans can easily find and use what you've built
 
 Thanks for your interest in the Veteran-facing Tools Playbook and we can't wait to see what you create!
 
