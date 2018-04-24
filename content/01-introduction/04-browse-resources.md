@@ -18,3 +18,6 @@ label: Browse Resources
   - Test in production with real users
   - Deploy! And track the performance
   - If all is going well, spread the word so Veterans can easily find and use what you've built
+
+  <!-- Next Button -->
+  <a href='../discovery/discovery-introduction'><div class="next-button"><h5 class="next-text">Next: Discovery Introduction</h5></div></a>

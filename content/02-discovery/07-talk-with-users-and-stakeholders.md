@@ -1,5 +1,5 @@
 ---
-title: Talk with users and stakeholders
+title: Talk With Users and Stakeholders
 label: Talk With Users and Stakeholders
 ---
 ## Running research sessions
@@ -7,3 +7,6 @@ You need at least two people to run a research session. One person will facilita
 - Reassure the participant that you are testing software, not them
 - We don’t want to steer the participant, but being friendly is fine!
 - We try not to schedule sessions back to back, everyone needs a break. More than a couple a day can be overwhelming.
+
+<!-- Next Button -->
+<a href='./synthesize-your-findings'><div class="next-button"><h5 class="next-text">Next: Synthesize Your Discovery Findings</h5></div></a>

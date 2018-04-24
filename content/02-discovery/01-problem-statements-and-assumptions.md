@@ -21,4 +21,4 @@ With a problem statement defined, it can be used to establish a solution hypothe
 In the next section, you’ll find details into how to validate your hypotheses with users to ensure that your team has identified the right problem and are working toward the optimal solution.
 
 <!-- Next Button -->
-<a href='./validating-hypotheses-with-research'><div class="next-button"><h5 class="next-text">Next: Validating Hypotheses With Research</h5></div></a>
+<a href='./product-outline'><div class="next-button"><h5 class="next-text">Next: Create a Product Outline</h5></div></a>

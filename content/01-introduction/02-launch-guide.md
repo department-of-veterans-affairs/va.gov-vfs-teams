@@ -2,9 +2,9 @@
 title: Step-by-Step Guide to Creating and Launching an App on Vets.gov
 label: Vets.gov Launch Guide
 ---
-Keep this guide someplace handy so you can track your progress through your product’s lifecycle - checking in with stakeholders and the platform team along the way.
+##### Keep this guide someplace handy so you can track your progress through your product’s lifecycle - checking in with stakeholders and the platform team along the way.
 ---
-## Roadmap Planning
+## 1. Roadmap Planning
 VA will need some initial information about your project to collaborate with you on prioritization.
 
 1. Know what teammates you already have ready to work on this
@@ -12,34 +12,45 @@ VA will need some initial information about your project to collaborate with you
 1. Know who your Project Manager and/or Business Owner is
 1. Have a 2-sentence max description of your project idea and the problem it's solving
 
-You'll know you're done with this phase when:
+**You'll know you're done with this phase when:**
 - [ ] Project information has been emailed to [Marvo Dolor](mailto:marvourneen.dolor@va.gov)
 
-## Discovery
+---
+## 2. Discovery
 Once Marvo has connected you to a DSVA Coordinator, you have your full implementation team together, and you have VA’s green light to get started
 
 1. Follow the process of [discovering user and business challenges and needs](../discovery/discovery-introduction.)
+  - Draft personas, a problem statement, and assumptions
+  - Create a Product Outline
+  - Document your team composition
+  - Create a Product Charter
+  - Choose a research method
+  - Draft a research plan
+  - Recruit users
+  - Talk with users and stakeholders
+  - Synthesize your discovery findings
+  - Rudimentary technical review
 
-You'll know you're done with this phase when:
+**You'll know you're done with this phase when:**
 - [ ] You've reviewed the Product Outline and Discovery Findings with the DSVA Coordinator
 - [ ] You've reviewed the technical findings with the Vets.gov Platform Team
 - [ ] You've reviewed your solution approach with your Content POC, your IA POC, and your stakeholders
 
-
-## Definition and Design
+---
+## 3. Definition and Design
 Iterate on your solution ideas, and keep testing. Eventually, you'll have the experience fully fleshed out and validated with users, stakeholders, and engineers.
 
-1. Follow the process of [designing and defining the user experience](/)
+1. Follow the process of [designing and defining the user experience](../design-and-define/design-and-define-intro)
 1. Start ATO conversations when you know what kinds of data you'll be consuming and/or updating, and via which data sources.
-1. You've
 
-You'll know you're done with this phase when:
+**You'll know you're done with this phase when:**
 - [ ] The Product Outline is complete
 - [ ] You've done a plain language review of your experience with your Content POC
 - [ ] You've reviewed your end-to-end flow with your DSVA Coordinator, the Vets.gov Platform team, and your stakeholders
 - [ ] You've reviewed your end-to-end flow, and epics, and user stories with your engineering team
 
-## Staging
+---
+## 4. Staging
 You’ll have the platform team’s support at this stage to help you work through any technical roadblocks, perform code reviews, and provide guidance if you have questions as you go.
 
 Full resources:
@@ -59,7 +70,7 @@ Summary checklist:
 - [ ] End-to-end staging experience presented to full implementation team
 - [ ] Add appropriate names for pager duty alerts
 
-## Deploying
+## 5. Deploying
 
 Full resources:
 [Deploying and marketing your application to live users](/)
@@ -78,3 +89,6 @@ Summary checklist:
 - [ ] Production:false flag removed
 - [ ] Monitoring and analytics look good
 - [ ] Web Comms disseminated
+
+<!-- Next Button -->
+<a href='./browse-resources'><div class="next-button"><h5 class="next-text">Next: Browse Resources</h5></div></a>

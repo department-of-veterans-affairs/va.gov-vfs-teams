@@ -1,5 +1,5 @@
 ---
-title: Designing and defining the user experience
+title: Design and Define Your User Experience
 label: Design and Define Intro
 ---
 # Will be Removed
