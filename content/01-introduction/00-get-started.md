@@ -1,28 +1,25 @@
 ---
-title: VA Digital Services Platform Documentation
+title: Welcome! Let's build great apps together
 label: Getting Started
 ---
-The VA Veteran-facing Tools Playbook is a guide for teams across VA to quickly build online applications that help Veterans get the services and benefits they deserve. It contains the steps, best practices, and governance necessary to launch VA applications with the support of the Digital Service’s modern development infrastructure.
+## Ready to create a product on Vets.gov?
+Here is a summary of what to expect:
+1. Email Marvo to get your project on the Roadmap
+2. Get connected with a DSVA Coordinator
+3. Do Discovery to validate your understanding of user and business needs
+4. Iterate on your Design and Define the solution
+5. Work with the Vets.gov platform team to get your app up in Staging
+6. Iterate based on usability testing
+7. Create a launch plan and work with the Vets.gov platform team to deploy your app to live users.
 
-Follow the steps to create a Product on Vets.gov
-1. [Defining your project](../defining-the-project/project-introduction)
-  - Listen to business, technical stakeholders, and Veterans to really understand the problem area
-  - Define what "success" means in trackable metrics
-  - Map out potential solutions
-1. [Designing your user experience](../design-process/design-introduction)
-  - Further flesh out solution ideas
-  - Test those solutions with all groups above, and apply what you learn
-  - Coordinate with content team and overall site architecture
-1. [Developing and Testing your app](../development-process/getting-started)
-  - Build the application
-  - Test some more with all groups above
-  - Bug find and fix
-1. [Deploying your product on Vets.gov and marketing to real users](../deploy-your-app/steps-to-launch)
-  - Test in production with real users
-  - Deploy! And track the performance
-  - If all is going well, spread the word so Veterans can easily find and use what you've built
+### [Follow this step-by-step guide to launch your app](./launch-guide)
+---
+### Want to browse general resources on how to research, plan, design, and build great Veteran-facing Tools?
+[Check out the general Discovery, Design and Define, Stage, and Deploy resources in this Playbook](./browse-resources)
 
-Thanks for your interest in the Veteran-facing Tools Playbook and we can't wait to see what you create!
+### Want to get code for modern VA web components and design patterns?
+[Go to the system elements to view the patterns and grab the code to replicate them](./)
+
 
 *If you have any questions during your journey through this documentation, email [docs@va.gov](mailto:docs@va.gov)*
 
