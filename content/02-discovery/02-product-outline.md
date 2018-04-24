@@ -1,6 +1,6 @@
 ---
-title: Transforming Research Insights in a Project Plan
-label: From Insights to a Project Plan
+title: Create a Product Outline
+label: Product Outline
 ---
 Now that your team has a strong understanding of your users’ needs, you can combine those insights with the your organization's business requirements to define project goals.
 
@@ -10,9 +10,8 @@ With those items documented it is much easier to map out your team's MVP approac
 
 If you haven't already started a product outline during the Project Introduction, no worries; we ask that you start with a few basics:
 
-## Example Project Plan
+## Example Product Outline
 ---
-
 #### Problem Statement
  Veterans have trouble applying for dependent benefits. Currently the only way they can apply is with paper form that they have to mail in. This leads to a lot of missing data that makes processing their applications difficult and they often have to wait a long time to receive a declaration.
 
@@ -37,6 +36,3 @@ We plan on building a digital form with React.js on the frontend and a backend s
 - Project Manager: _Firstname Lastname_ (______@va.gov)
 - Engineer: _Firstname Lastname_ (______@va.gov)
 - Designer: _Firstname Lastname_ (______@va.gov)
-
-<!-- Next Button -->
-<a href='./kickoff-your-project'><div class="next-button"><h5 class="next-text">Next: Kickoff Your Project</h5></div></a>

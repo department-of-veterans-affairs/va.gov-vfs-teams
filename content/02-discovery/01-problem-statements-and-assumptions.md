@@ -1,6 +1,6 @@
 ---
-title: Understanding User Needs
-label: Understanding User Needs
+title: Problem Statement and Assumptions
+label: Problem Statement and Assumptions
 ---
 When starting a project, it’s important to understand the problem your team is trying to solve. To develop this foundation we start by answering  a few basic questions.
 - Who is the user?

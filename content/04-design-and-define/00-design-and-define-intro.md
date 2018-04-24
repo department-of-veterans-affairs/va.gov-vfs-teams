@@ -1,7 +1,23 @@
 ---
-title: Designing things for Vets.gov
-label: Design Introduction
+title: Designing and defining the user experience
+label: Design and Define Intro
 ---
+# Will be Removed
+- [ ] ATO review started with DSVA Coordinator
+- [ ] Usability testing plan developed with DSVA Coordinator
+- [ ] Content plain language review complete
+- [ ] Platform technical review complete
+- [ ] Usability testing complete
+- [ ] Information architecture developed with DSVA Coordinator
+- [ ] Design artifacts complete
+- [ ] Conditional and error states complete
+- [ ] End-to-end experience presented to full implementation team
+- [ ] Epics and User Stories written
+---
+
+
+
+
 Every project should go through a thorough discovery process. Sometimes (always) a simple seeming project has hidden complexity.
 
 1. Listen to business, technical stakeholders, and Veterans to really understand the problem area

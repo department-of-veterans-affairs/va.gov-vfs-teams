@@ -1,18 +1,25 @@
 ---
-title: VA Digital Services Platform Documentation
+title: Welcome! Let's build great apps together
 label: Getting Started
 ---
-The VA Veteran-facing Tools Playbook is a guide for teams across VA to quickly build online applications that help Veterans get the services and benefits they deserve. It contains the steps, best practices, and governance necessary to launch VA applications with the support of the Digital Service’s modern development infrastructure.
+## Ready to create a product on Vets.gov?
+Here is a summary of what to expect:
+1. Email Marvo to get your project on the Roadmap
+2. Get connected with a DSVA Coordinator
+3. Do Discovery to validate your understanding of user and business needs
+4. Iterate on your Design and Define the solution
+5. Work with the Vets.gov platform team to get your app up in Staging
+6. Iterate based on usability testing
+7. Create a launch plan and work with the Vets.gov platform team to deploy your app to live users.
 
-The documentation is broken into 4 stages of product development:
-1. [Defining your project](../defining-the-project/project-introduction)
-1. [Designing your user experience](../design-process/design-introduction)
-1. [Developing your application](../development-process/getting-started)
-1. [Launching your product on Vets.gov](../launch-prep/steps-to-launch)
+### [Follow this step-by-step guide to launch your app](./launch-guide)
+---
+### Want to browse general resources on how to research, plan, design, and build great Veteran-facing Tools?
+[Check out the general Discovery, Design and Define, Stage, and Deploy resources in this Playbook](./browse-resources)
 
-These resources can also be mixed and matched to create VA products that don't get added to the Vets.gov domain. There are tools such as the [VA Design System] <span style="color:red">(NEEDS LINK)</span> and strategies for [conducting user research](../defining-the-project/validating-hypotheses-with-research).
+### Want to get code for modern VA web components and design patterns?
+[Go to the system elements to view the patterns and grab the code to replicate them](./)
 
-Thanks for your interest in the Veteran-facing Tools Playbook and we can't wait to see what you create!
 
 *If you have any questions during your journey through this documentation, email [docs@va.gov](mailto:docs@va.gov)*
 
