@@ -13,8 +13,8 @@ This phase of work takes the project from findings uncovered during discovery to
 1. [Review technical capabilities](./review-technical-capabilities): validate that the designed solution will be feasible with the technology available, and document risks and questions.
 1. [Prototype and test](./prototyping-and-testing): Live code or clickable prototype, find the fastest and most useful way to prove out your idea. It is probably live code. Live prototypes are easier to test, and if they work for users, have made significant front end progress.
 1. [Coordinate with content team](./content-guide/coordinate-content): Writing is incredibly important to the success of products. We need to write clearly in the product. We also need to consider and update the relevant static content to make the product easy to find and use.
-1. [Incorporate feedback](./):We almost never get it right on the first try. Tease out the underlying issues exposed by feedback sessions. Modify your prototype and test again.
-1. [Document solutions](./): Once you have a validated solution, document your design decisions and write tickets for remaining work.
+1. [Incorporate feedback](./incorporating-feedback):We almost never get it right on the first try. Tease out the underlying issues exposed by feedback sessions. Modify your prototype and test again.
+1. [Document solutions](./document-solutions): Once you have a validated solution, document your design decisions and write tickets for remaining work.
 
 #### Repeat
 You probably will not get it right the first time. Cycle through this process as many times as you need to, to get to a launchable state. But at the same time, there is nothing like being live to really test if it works. Balance the level of “done-ness” you need with the mission critical nature of your service.
