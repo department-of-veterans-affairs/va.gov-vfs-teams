@@ -38,4 +38,4 @@ We plan on building a digital form with React.js on the frontend and a backend s
 - Designer: _Firstname Lastname_ (______@va.gov)
 
 <!-- Next Button -->
-<a href='./team-composition'><div class="next-button"><h5 class="next-text">Next: Document Your Team Composition</h5></div></a>
+<a href='./draft-research-plan'><div class="next-button"><h5 class="next-text">Next: Draft a Research Plan</h5></div></a>

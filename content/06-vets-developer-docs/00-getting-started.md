@@ -2,7 +2,6 @@
 title: Getting Started
 label: Getting Started
 ---
-
 The Vets.gov Platform is broken into three parts: Vets-Website, which contains frontend applications and components that a Veteran interacts with, and Vets-API, a JSON-based API that the frontend uses to provide data to and from VA systems.
 
 To build an Application on Vets.gov, which can be anything from a digital form to a map-based facility locator, developers will create a Frontend experience in React on Vets-Website, and connect it to an Integration on Vets-API, which manages the data flow to and from VA systems.
