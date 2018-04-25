@@ -31,3 +31,6 @@ Get prototypes in front of a representative sample of your audience and take not
 Get the whole team involved. Design, development, and copy folks all have their own perspective and will pick out different elements of the feedback. It also helps to socialize the feedback if more people had direct exposure. It is also usually really rewarding to hear Veteran voices talk about your work.
 
 You are going to be tempted to immediately jump to solutions for problems that come up when Veterans use your prototype. Hold off until you’ve gotten all the feedback together and sifted through it.
+
+<!-- Next Button -->
+<a href='./content-guide/coordinate-content'><div class="next-button"><h5 class="next-text">Next: Coordinating With the Content Team</h5></div></a>

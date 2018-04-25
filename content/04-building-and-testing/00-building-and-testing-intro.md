@@ -1,10 +1,10 @@
 ---
 title: Building and Testing Introduction
-label: Building and Testing Intro
+label: Build and Test Intro
 ---
 
 Process:
-1. [Start developing](./development-workflow): develop iteratively, code locally and deploy to staging as you go. Reference the Vets.gov workflow as an example.
+1. [Start developing](../vets-developer-docs/development-workflow): develop iteratively, code locally and deploy to staging as you go. Reference the Vets.gov workflow as an example.
 1. Include automated testing in each deployment: here are examples and instructions for how this is done on Vets.gov for reference.
   - [Automated 508 accessibility tests](./automated-testing)
   - [Automated unit and end-to-end tests](../vets-developer-docs/vets-website/unit-tests)

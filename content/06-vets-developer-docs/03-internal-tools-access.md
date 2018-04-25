@@ -28,7 +28,7 @@ You do not need to run the SOCKS proxy while you're developing unless you need a
 
 You'll need to submit your SSH public key to DSVA as part of your onboarding process. If you don't already have a SSH public key, or you're not sure if you do, here are the steps to create one:
 
-1. First run the following comman in your terminal: `cd ~/.ssh`.
+1. First run the following command in your terminal: `cd ~/.ssh`.
   If this command returns the following error message, `cd: no such file or directory`,
   you will need to create a .ssh directory by following these steps:
   1. Create the directory by running `mkdir ~/.ssh`.
@@ -133,15 +133,15 @@ SOCKS proxy server is running. You can `$ nc -z 127.0.0.1 2001` as a first step.
 
 1. Configure the `proxy` profile like this:
 
-   ![](/assets/develop/images/switchy-omega-config-1.png)
+   ![](/va-digital-services-platform-docs/assets/develop/images/switchy-omega-config-1.png)
 
 1. Configure the `auto switch` profile like this:
 
-   ![](/assets/develop/images/switchy-omega-config-2.png)
+   ![](/va-digital-services-platform-docs/assets/develop/images/switchy-omega-config-2.png)
 
 1. In Chrome's menu bar, click on the proxy app and change the setting to 'auto switch':
 
-   ![](/assets/develop/images/switch-omega-auto-switch.png)
+   ![](/va-digital-services-platform-docs/assets/develop/images/switch-omega-auto-switch.png)
 
 1. NOTE: You may have to uncheck a settings flag in Chrome, see
 

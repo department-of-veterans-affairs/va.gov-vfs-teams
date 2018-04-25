@@ -67,6 +67,26 @@ h4.Tree-collectionLabel{
   top: 6px
 }
 
+.Tree-depth-4 .Tree-collectionLabel{
+  padding-left: 3rem !important;
+}
+
+.Tree-depth-4.is-closed .Tree-collectionLabel::before{
+  content: '+';
+}
+
+.Tree-depth-4 .Tree-collectionLabel::before{
+  content: '-';
+  font-weight: bold;
+  font-size: 1rem;
+  color: #048;
+  position: absolute;
+  vertical-align: top;
+  left: 12px;
+  top: 6px
+}
+
+
 .Tree-collectionLabel span::before {
   content: none;
 }
@@ -111,6 +131,10 @@ h4.Tree-collectionLabel{
 }
 
 .Tree-depth-3.is-closed .Tree-collectionItems{
+  display: none !important;
+}
+
+.Tree-depth-4.is-closed .Tree-collectionItems{
   display: none !important;
 }
 
