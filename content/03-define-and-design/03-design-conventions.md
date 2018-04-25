@@ -1,19 +1,11 @@
 ---
-title: Vets.gov Design Conventions
+title: Design Conventions
 label: Design Conventions
 ---
-
-
-Vets.gov’s design is based on the [United States Web Design System](https://designsystem.digital.gov/) (USWDS) with some additional specifications to meet the needs of VA’s particular audience: Veterans and their families.
-
-## The Design System
-The Vets.gov Design System documents these design patterns and the React code to express them. Using a design system can radically simplify the process of getting to a first draft. In many cases, it allows you to skip high fidelity prototypes and go directly to code, based on text outlines of the form structure. But in cases where you may need to figure out a new pattern, you can also use a [Sketch template file](/assets/design/templates/vets-gov-pattern-library.sketch) as a starting point. It will allow you to quickly build screens using common static content and form patterns. From there you can link images together in InVision or another prototyping tool of choice.
-
-## Design Conventions
 ### Keep it simple
 There is a lot of unavoidable complexity in VA policy and procedure, we endeavor not to add to it. This manifests in a few ways:
 - Limit the number of decisions that a Veteran needs to make in one screen. We usually try to keep the number of questions under five. Two or three is even better.
-- Find out what questions we need to ask. Sometimes we will “add” a question to simplfy things. Where a paper form might have a multicolumn table to ask questions about dependents, we will ask if they have any dependents. If the answer is no, we skip the table entirely. Similar for any fields that match an “if yes, please explain” pattern.
+- Find out what questions we need to ask. Sometimes we will “add” a question to simplify things. Where a paper form might have a multicolumn table to ask questions about dependents, we will ask if they have any dependents. If the answer is no, we skip the table entirely. Similar for any fields that match an “if yes, please explain” pattern.
 - Prefer simplicity over flexibility. It can feel helpful to give Veterans multiple ways or places to enter data. But this increases complexity and can end up being more confusing (and brittle) than reassuring.
 - Minimize the number of fields. Social Security numbers and phone numbers are one field. We deal with dashes and other formatting on the back end.
 - Minimize obfuscation. We don’t do the •••••••••• thing with SSN. Let people see the data they are entering.
@@ -32,3 +24,6 @@ Every paper form has at least one signature line. So far, the agreement to terms
 
 ### Being specific
 We try not to assume too much context. Most people are not expert in VA benefits. In situations where we are collecting similar information about multiple parties (e.g. contact details) we clearly level at both the chunk and field level where practical. This is especially helpful to folks with memory issues (common in cases of TBI). This approach can be aided by building a list of people first, and then looping through the questions for each.
+
+<!-- Next Button -->
+<a href='./visual-design'><div class="next-button"><h5 class="next-text">Next: Vets.gov Visual Design</h5></div></a>
