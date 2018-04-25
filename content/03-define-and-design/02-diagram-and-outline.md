@@ -7,7 +7,7 @@ Understanding the information architecture(IA) of your user experience is a crit
 
 One case when IA is extremely important is when transforming a paper form into a digital experience. At Vets.gov, we start by working through a paper form and mapping it out in a spreadsheet. Here is an example:
 - <a href="https://www.vba.va.gov/pubs/forms/VBA-21-686c-ARE.pdf" target="blank">686 Paper Form</a>
-- [686 Information Architecture Mapping](/assets/design/templates/686-form-outline.csv)
+- [686 Information Architecture Mapping](/va-digital-services-platform-docs/assets/design/templates/686-form-outline.csv)
 
 Your information architecture mapping might look a lot different depending on the type of experience you're trying to create, but regardless, it will be extremely helpful to helpful for diagramming your user experience.
 

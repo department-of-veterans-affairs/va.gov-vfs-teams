@@ -16,7 +16,7 @@ Further, it's important for your team establish a workflow to make sure you stay
 ## Agile Resources
 At Vets.gov we use a Agile Software Development process and measure our work in two week sprints. If you'd like to learn more about planning agile sprints checkout [18f's agile guide](https://lean-product-design.18f.gov/9-plan-sprint-agile/).
 
- The Vets.gov agile workflow is managed using Github and a Github integration called [Zenhub](https://zenhub.com) that turns Github issues into a project board. If you're interested in learning more about using Zenhub as a workflow management tool - here is a [Zenhub Onboarding Guide](/assets/define/templates/zenhub_onboarding.pdf) and a [Zenhub Project Management Guide](/assets/define/templates/zenhub_project_management.pdf).
+ The Vets.gov agile workflow is managed using Github and a Github integration called [Zenhub](https://zenhub.com) that turns Github issues into a project board. If you're interested in learning more about using Zenhub as a workflow management tool - here is a [Zenhub Onboarding Guide](/va-digital-services-platform-docs/assets/define/templates/zenhub_onboarding.pdf) and a [Zenhub Project Management Guide](/va-digital-services-platform-docs/assets/define/templates/zenhub_project_management.pdf).
 
  If you have any questions about setting up Zenhub, contact Ryan at ryan.luu@adhocteam.us.
 

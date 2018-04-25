@@ -17,17 +17,17 @@ Each of these parts are defined in separate open source repositories:
 
 ## Onboarding
 
-As part of the onboarding effort, you should provide your name, email address, SSH public key ([help generating one](https://github.com/department-of-veterans-affairs/vets-contrib/blob/master/Developer%20Process/Internal%20Tool%20Access.md#ssh-key)), and GitHub username.
+As part of the onboarding effort, you should provide your name, email address, SSH public key ([help generating one](./internal-tools-access/#requirements)), and GitHub username.
 
 You'll be given access to the #dsva-platform-project support channel on the DSVA Slack, contributor access to all three repositories, credentials to access the shared test environments (https://dev.vets.gov, https://staging.vets.gov), and access to Internal Tools. **Your first step should be verifying that you have all of this**.
 
 ## Development
 
-Developer documentation is split between frontend (Vets-Website) and backend (Vets-API) paths. To get started building the frontend user experience for your application, see the [Vets-Website Developer Process](/Developer%20Process/Vets-Website) documentation. To build the backend integration with a VA service and provide data services to the frontend of your application, see the [Vets-API Developer Process](/Developer%20Process/Vets-API) documentation.
+Developer documentation is split between frontend (Vets-Website) and backend (Vets-API) paths. To get started building the frontend user experience for your application, see the [Vets-Website Developer Process](./vets-website/vets-website-readme) documentation. To build the backend integration with a VA service and provide data services to the frontend of your application, see the [Vets-API Developer Process](./vets-website/vets-api-readme) documentation.
 
 ## Internal Tools
 
-To access metrics, build logs, deployment information and exception details, please reference the [Internal Tools](./Internal%20Tool%20Access.md) documentation.
+To access metrics, build logs, deployment information and exception details, please reference the [Internal Tools](./internal-tools-access) documentation.
 
 ## Questions
 
