@@ -2,7 +2,6 @@
 title: Prototyping Your Designs for Effective Feedback
 label: Prototyping & Testing
 ---
-
 It’s important to validate solutions with the people who will use them before we launch. By testing prototypes before we fully develop solutions, we catch and avoid errors that would be much more costly to fix later.
 
 We take different approaches depending on the complexity of the situation. We don’t have a hard and fast rule for how this works, just that it is done.
