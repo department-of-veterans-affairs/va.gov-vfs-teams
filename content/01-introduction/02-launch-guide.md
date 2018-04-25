@@ -30,7 +30,7 @@ Once Marvo has connected you to a DSVA Coordinator, your full implementation tea
 ### Expected timeframe: 2 - 6 weeks
 Iterate on your solution ideas, and keep testing. Eventually, you'll have the experience fully fleshed out and validated with users, stakeholders, and engineers.
 
-1. Work through all X steps of [designing and defining the user experience](../design-and-define/design-and-define-intro)
+1. Work through all X steps of [designing and defining the user experience](../define-and-design/define-and-design-introduction)
 
 ### [WIP]
 
