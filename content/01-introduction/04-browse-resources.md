@@ -6,7 +6,7 @@ label: Browse Resources
   - Listen to business, technical stakeholders, and Veterans to really understand the problem area
   - Define what "success" means in trackable metrics
   - Map out potential solutions
-1. [Designing and defining the user experience](../define-and-design/define-and-design-intro)
+1. [Designing and defining the user experience](../define-and-design/define-and-design-introduction)
   - Further flesh out solution ideas
   - Test those solutions with all groups above, and apply what you learn
   - Coordinate with content team and overall site architecture
