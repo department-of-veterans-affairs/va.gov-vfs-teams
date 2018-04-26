@@ -20,7 +20,7 @@ Here is a summary of what to expect:
 - [Check out the general Discovery, Design and Define, Stage, and Deploy resources in this Playbook](./browse-resources)
 
 #### Want to get code for modern VA web components and design patterns?
-- [Go to the system elements to view the patterns and grab the code to replicate them](./)
+- [Go to the system elements to view the patterns and grab the code to replicate them](https://department-of-veterans-affairs.github.io/design-system/)
 
 <br>
 <br>
