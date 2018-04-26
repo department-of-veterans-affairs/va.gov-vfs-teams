@@ -44,7 +44,7 @@ Iterate on your solution ideas, and keep testing. Eventually, you'll have the ex
 This is all about getting your application built and online! You’ll have the platform team’s support at this stage to help you work through any technical roadblocks, perform code reviews, and provide guidance if you have questions as you go.
 
 1. Send engineer names and contact info to your Platform POC to get added to pager duty
-1. Work through all steps to [build and test your application](../staging-and-testing/staging-and-testing-intro)
+1. Work through all steps to [build and test your application](../building-and-testing/building-and-testing-intro)
 1. Work with your Platform POC to:
   - add supporting static content pages to the ignore list
   - get your URL added to the server config
