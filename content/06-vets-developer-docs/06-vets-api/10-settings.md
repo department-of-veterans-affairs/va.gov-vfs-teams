@@ -27,7 +27,7 @@ my_external_service:
 ...
 ```
 
-# Settings in the development, staging, and production [name].gov environments
+# Settings in the development, staging, and production Vets.gov environments
 
 Settings in non-local environments are managed by the Platform team. Changes to settings (new settings, changed settings, or removed settings) must be coordinated with them. See the [Communication](../05-Build-and-Development/Communication.md) documentation for more details on how to request changes.
 

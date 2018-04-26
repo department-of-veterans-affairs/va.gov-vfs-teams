@@ -3,7 +3,7 @@ title: Internal Tools Access
 label: Internal Tools Access
 ---
 
-This document describes tools available to [name].gov developers, and configuration required to access them. You'll need access to these tools if you need:
+This document describes tools available to Vets.gov developers, and configuration required to access them. You'll need access to these tools if you need:
 
 * Build logs and details from Jenkins (linked to from GitHub PRs for each project)
 * System metrics for diagnostic/troubleshooting purposes (Grafana/Prometheus)

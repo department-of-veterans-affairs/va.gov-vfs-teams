@@ -28,13 +28,12 @@ TIP: Prefix your branch name with your team's initials for improved management.
 ## Review Instances
 
 Open Pull Requests are automatically deployed to an isolated "Review Instance"
-in the [name].gov's development environment. A "View deployment" button on
+in the Vets.gov's development environment. A "View deployment" button on
 the Pull Request page will provide the instance address. This can be
 particularly useful for [WIP] testing and review.
 
-Further Reading (TODO migrate to contrib):
-
-* https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Review%20Instances.md
+Further Reading:
+* [Review Instances](./review-instances)
 
 ## Automated Testing
 
@@ -57,14 +56,14 @@ production Monday through Friday at 3:00PM ET.
 
 Further Reading: (TODO migrate to contrib):
 
-* https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Deployment%20Process.md
+* [Deployment](./deployment)
 
 ## Security Considerations
 
-The [name].gov code base is public, but deployed to and hosted on heavily secured
+The Vets.gov code base is public, but deployed to and hosted on heavily secured
 infrastructure with connectivity to the VA network. Code is expected to
 follow industry-standard best security practices, and never relies on secuirty
-by obscurity. Refer to the [Settings](./Settings.md) to learn how to access
+by obscurity. Refer to the [Settings](./vets-api/settings) to learn how to access
 private information / secrets that are required by your integration when
 running in a protected environment.
 
