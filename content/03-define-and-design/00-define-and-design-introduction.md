@@ -16,8 +16,8 @@ This phase of work takes the project from findings uncovered during discovery to
 1. [Incorporate feedback](./incorporating-feedback):We almost never get it right on the first try. Tease out the underlying issues exposed by feedback sessions. Modify your prototype and test again.
 1. [Document solutions](./document-solutions): Once you have a validated solution, document your design decisions and write tickets for remaining work.
 
-#### Repeat
-You probably will not get it right the first time. Cycle through this process as many times as you need to, to get to a launchable state. But at the same time, there is nothing like being live to really test if it works. Balance the level of “done-ness” you need with the mission critical nature of your service.
+#### Repeat as needed
+You probably will not get it right the first time. Cycle through this process as many times as it takes, to get to a launchable state. But at the same time, there is nothing like being live to really test if it works. Balance the level of “done-ness” you need with the mission critical nature of your service.
 
 <!-- Next Button -->
 <a href='./review-and-scope'><div class="next-button"><h5 class="next-text">Next: Review Discovery Findings and Scope Your Project</h5></div></a>
