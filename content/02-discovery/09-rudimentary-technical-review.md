@@ -2,8 +2,7 @@
 title: Rudimentary Technical Review
 label: Rudimentary Technical Review
 ---
-# Overall philosophy
-
+## Overall philosophy
 Use an existing API if it's available and will provide what's needed to meet core product functionality and performance standards. If the experience (both user experience and business process experience) for the product in question would be significantly deprecated with any of our existing options, then we need more technical discovery to determine how to create a new service: i.e. should someone build a middle service, or should it be a direct connection?
 
 *(Note: "significantly deprecated" is a judgement call to be made by the Product Manager in consultation with their implementation team.)*
@@ -24,6 +23,6 @@ Use an existing API if it's available and will provide what's needed to meet cor
 - Is the data underneath changing frequently?
 - For Getting or Posting data, will it have to communicate with more than one system?
 - Is there a lot of logic needed to transform the data into what we need for the product?
- 
+
 <!-- Next Button -->
 <a href='../define-and-design/define-and-design-introduction'><div class="next-button"><h5 class="next-text">Next: Define and Design Your User Experience</h5></div></a>
