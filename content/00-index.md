@@ -12,15 +12,15 @@ Here is a summary of what to expect:
 6. Iterate based on usability testing
 7. Create a launch plan and work with the Vets.gov platform team to deploy your app to live users.
 
-### [Follow this step-by-step guide to launch your app](./launch-guide)
+### [Follow this step-by-step guide to launch your app](./docs/introduction/launch-guide)
 
 ---
 
 #### Want to browse general resources on how to research, plan, design, and build great Veteran-facing Tools?
-- [Check out the general Discovery, Design and Define, Stage, and Deploy resources in this Playbook](./browse-resources)
+- [Check out the general Discovery, Design and Define, Stage, and Deploy resources in this Playbook](./docs/introduction/browse-resources)
 
 #### Want to get code for modern VA web components and design patterns?
-- [Go to the system elements to view the patterns and grab the code to replicate them](./)
+- [Go to the system elements to view the patterns and grab the code to replicate them](https://department-of-veterans-affairs.github.io/design-system/)
 
 <br>
 <br>
