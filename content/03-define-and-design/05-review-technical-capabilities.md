@@ -2,15 +2,16 @@
 title: Review The Technical Capabilities
 label: Review Technical Capabilities
 ---
-At this point it is great to do a technical assessment of the decisions that are happening in design. There may be technical constraints to consider or data flows that impact design. Here are some questions to discuss with your engineering team that can help bring clarity to your team's design and development approach.
 
-- How does the information architecture and conditional logic effect the way the engineers develop their schemas?
+How well does the design line up with the technical limitations uncovered in discovery? Are there parts of the design that need to be reconsidered due to technical issues? Is there additional back end development that needs to happen before the project can proceed?
+
+- Does the order the screens mean any changes to schema or imply difficult data handling?
 - Does any information need to be uploaded by the user? How will that uploaded information be stored/sent?
-- Does your user experience have any unique scenarios that aren't currently present in the Vets.gov Design Patterns?
-- Does the user submit data? How will the submitted data be structured? Does a PDF need to be generated?
+- Does the design have any unique scenarios that aren’t currently present in the Vets.gov Design Patterns?
+- Can you submit structured data directly? Or do you need to create a PDF for submission? Both?
 - Are any backend services that are relied upon frequently unavailable? How does that affect error messaging to the user?
 
-These questions and the decisions that stem from them are integral to both defining an ideal user experience and determining the appropriate development strategies. Try to communicate decisions between design and engineering frequently, while continuing to document decisions in your Product Outline.
+Design and engineering can have a lot of impact on each other. The team should be talking about these questions frequently as the design evolves. Document changes in the product outline or a Significant Decisions doc.
 
 <!-- Next Button -->
 <a href='./prototyping-and-testing'><div class="next-button"><h5 class="next-text">Next: Prototyping Your Designs for Effective Feedback</h5></div></a>
