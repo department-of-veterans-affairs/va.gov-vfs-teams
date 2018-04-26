@@ -15,7 +15,7 @@ If you're familiar with cloning repos from Github using Terminal, skip ahead to 
 
 You can put the repo anywhere on your computer, but as a suggestion:
 - In Terminal, navigate to your desktop: `cd ~/desktop`
-- Clone the Github repo by running: `git clone https://github.com/department-of-veterans-affairs/va-digital-services-platform-docs.git` 
+- Clone the Github repo by running: `git clone https://github.com/department-of-veterans-affairs/va-digital-services-platform-docs.git`
 - Then: `cd va-digital-services-platform-docs`
 
 **Install Fractal**

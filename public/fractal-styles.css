@@ -3,7 +3,14 @@
   display: none;
 }
 
-
+/*Hide Index.md File*/
+.Tree-items.Tree-depth-1 .Tree-entity:nth-child(1){
+  display: none;
+}
+/*UnHide other intro files override item before*/
+.Tree-collectionItems .Tree-entity:nth-child(1){
+  display: block !important;
+}
 
 .fractal-vets-logo {
   display: block;
