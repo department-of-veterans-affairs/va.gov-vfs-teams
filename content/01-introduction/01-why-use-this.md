@@ -14,10 +14,10 @@ While writing this playbook, we interviewed business owners, project managers, d
 1. [VA Developer](#va-developer)
 
 #### VA Business Owner
-If you're a VA Business owner, you can use this playbook to define user-driven product requirements and align them with your organization's goals. Check out the ['Project Introduction'](../discovery/discovery-introduction) to get things started!
+If you're a VA Business owner, you can use this playbook to define user-driven product requirements and align them with your organization's goals. Check out the ['Launch Guide'](./launch-guide) to get things started!
 
 #### VA Researcher
-If you're a researcher, you can use this playbook to devise a research strategy for gathering meaningful insights from your target audience that will help define your teams approach in solving users challenges. Check out the ['Draft Research Plan'](../discovery/draft-research-plan) page to learn more about creating a research plan.
+If you're a researcher, you can use this playbook to devise a research strategy for gathering meaningful insights from your target audience that will help define your teams approach in solving users challenges. Check out the ['Discovery Introduction'](../discovery/discovery-introduction) page to learn more about creating a research plan.
 
 #### VA Project Manager
 If you're a project manager, you can use this playbook to craft an iterative product plan that will guide your team to launch quickly and often. Check out the [Product Outline](../discovery/product-outline) page to start documenting important information about your project and stop by the ['Review & Scope'](../define-and-design/review-and-scope) page to learn more about setting up your team's workflow.
