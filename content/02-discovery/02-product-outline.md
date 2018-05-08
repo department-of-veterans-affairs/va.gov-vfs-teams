@@ -4,7 +4,7 @@ label: Product Outline
 ---
 Now that your team has a strong understanding of your users’ needs, you can combine those insights with the your organization's business requirements to define project goals.
 
-A great way to aggregate your findings, assumptions, constraints and MVP plan together is in a document called a [Product Outline](/docs/resources/templates/product-outline). This document serves as a single source of truth for your team throughout your project and is meant to be continuously updated as your project evolves.
+A great way to aggregate your findings, assumptions, constraints and MVP plan together is in a document called a [Product Outline](../resources/templates/product-outline). This document serves as a single source of truth for your team throughout your project and is meant to be continuously updated as your project evolves.
 
 With those items documented it is much easier to map out your team's MVP approach and share your intentions with the VA group so we can help you move your initiative forward.
 
