@@ -6,7 +6,7 @@ Now that your team has a strong understanding of your users’ needs, you can co
 
 A great way to aggregate your findings, assumptions, constraints and MVP plan together is in a document called a **Product Outline**. This document serves as a single source of truth for your team throughout your project and is meant to be continuously updated as your project evolves.
 
-* View the [Product Outline template](template-product-outline)
+* View the [Product Outline template](/va-digital-services-platform-docs/assets/define/templates/product-outline.html)
 * <a href="https://github.com/department-of-veterans-affairs/va-digital-services-platform-docs/blob/master/content/_resources/templates/product-outline.md" target="_blank">Download the Product Outline template</a> as a markdown file
 
 With those items documented it is much easier to map out your team's MVP approach and share your intentions with the VA group so we can help you move your initiative forward.
