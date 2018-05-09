@@ -1,3 +1,8 @@
+---
+title: Template - Product Outline
+label: Product Outline
+---
+
 # [Product Name] Outline
 - GitHub Label:
 - Slack channel:
