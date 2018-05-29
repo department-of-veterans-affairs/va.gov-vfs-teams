@@ -17,7 +17,7 @@ Remember to stay open to having your hypotheses proven wrong. Changing approach 
 1. [Rudimentary technical review](./rudimentary-technical-review): initially explore existing APIs and services to understand the technical landscape.
 1. [Start thinking through ATO requirements](../deploy-your-app/ato)
 
-By the way, as soon as you feel like you have a good understanding of your users needs, you can start on [defining and designing activities](../design-and-define/design-and-define-intro). It's ok and natural for these phases to overlap and inform each other.
+By the way, as soon as you feel like you have a good understanding of your users needs, you can start on [defining and designing activities](../design-and-define/define-and-design-intro). It's ok and natural for these phases to overlap and inform each other.
 
 <!-- Next Button -->
 <a href='./problem-statements-and-assumptions'><div class="next-button"><h5 class="next-text">Next: Problem Statements and Assumptions</h5></div></a>
