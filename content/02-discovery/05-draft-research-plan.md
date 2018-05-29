@@ -17,7 +17,7 @@ A conversation guide is used by a facilitator to organize a research or feedback
 - Prioritizes and sharpens questions.
 - Provides consistency across sessions with different facilitators
 
-Try using this [conversation guide template](/docs/resources/templates/conversation-guide) to help draft a conversation guide for your interviews
+Try using this [conversation guide template](./docs/resources/templates/conversation-guide) to help draft a conversation guide for your interviews
 
 <!-- Next Button -->
 <a href='./recruit-users'><div class="next-button"><h5 class="next-text">Next: Recruit Target Users</h5></div></a>
