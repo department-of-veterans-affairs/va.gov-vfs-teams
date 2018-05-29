@@ -8,7 +8,7 @@ This is a brainstorming session where your team should come up with questions th
 - Do Veterans understand the eligibility requirements for this VA benefit?
 - What are the most difficult parts of this application process that users get stuck on?
 
-Try using this [Planning template](/docs/resources/templates/planning-template) to drive the conversation during your brainstorming session.
+Try using this [Planning template](./docs/resources/templates/planning-template) to drive the conversation during your brainstorming session.
 
 
 ## Creating a conversation guide
