@@ -14,7 +14,7 @@ Remember to stay open to having your hypotheses proven wrong. Changing approach 
 1. [Recruit users](./recruit-users): decide what channels and messaging to use when looking for Veterans, their family members, VSOs, or other potential users to talk to.
 1. [Talk with users and stakeholders](./talk-with-users-and-stakeholders): conduct research sessions.
 1. [Synthesize your discovery findings](./synthesize-your-findings): present your findings in a way that's relevant for those making product or feature decisions.
-1. [Rudimentary technical review](./09-rudimentary-technical-review.md): initially explore existing APIs and services to understand the technical landscape.
+1. [Rudimentary technical review](./rudimentary-technical-review): initially explore existing APIs and services to understand the technical landscape.
 1. [Start thinking through ATO requirements](../deploy-your-app/ato)
 
 By the way, as soon as you feel like you have a good understanding of your users needs, you can start on [defining and designing activities](../design-and-define/design-and-define-intro). It's ok and natural for these phases to overlap and inform each other.
