@@ -16,13 +16,13 @@ Each of these parts are defined in separate open source repositories:
 
 ## Onboarding
 
-As part of the onboarding effort, you should provide your name, email address, SSH public key ([help generating one](./internal-tools-access/#requirements)), and GitHub username.
+As part of the onboarding effort, you should provide your name, email address, SSH public key ([help generating one](./internal-tools-access/#ssh-key)), and GitHub username.
 
-You'll be given access to the #dsva-platform-project support channel on the DSVA Slack, contributor access to all three repositories, credentials to access the shared test environments (https://dev.vets.gov, https://staging.vets.gov), and access to Internal Tools. **Your first step should be verifying that you have all of this**.
+You'll be given access to the #dsva-platform-project support channel on the DSVA Slack, contributor access to all three repositories, credentials to access the shared test environments -- [dev.vets.gov](https://dev.vets.gov) and [staging.vets.gov](https://staging.vets.gov) -- as well as access to Internal Tools. **Your first step should be verifying that you have all of this**.
 
 ## Development
 
-Developer documentation is split between frontend (Vets-Website) and backend (Vets-API) paths. To get started building the frontend user experience for your application, see the [Vets-Website Developer Process](./vets-website/vets-website-readme) documentation. To build the backend integration with a VA service and provide data services to the frontend of your application, see the [Vets-API Developer Process](./vets-website/vets-api-readme) documentation.
+Developer documentation is split between frontend (Vets-Website) and backend (Vets-API) paths. To get started building the frontend user experience for your application, see the [Vets-Website Developer Process](./vets-website/vets-website-readme) documentation. To build the backend integration with a VA service and provide data services to the frontend of your application, see the [Vets-API Developer Process](./vets-api/vets-api-readme) documentation.
 
 ## Internal Tools
 
