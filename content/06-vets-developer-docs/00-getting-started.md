@@ -16,7 +16,7 @@ Each of these parts are defined in separate open source repositories:
 
 ## Onboarding
 
-As part of the onboarding effort, you should provide your name, email address, SSH public key ([help generating one](./internal-tools-access/#ssh-key)), and GitHub username.
+As part of the onboarding effort, you should provide your name, email address, SSH public key ([help generating one](./vets-developer-docs/internal-tools-access/#ssh-key)), and GitHub username.
 
 You'll be given access to the #dsva-platform-project support channel on the DSVA Slack, contributor access to all three repositories, credentials to access the shared test environments -- [dev.vets.gov](https://dev.vets.gov) and [staging.vets.gov](https://staging.vets.gov) -- as well as access to Internal Tools. **Your first step should be verifying that you have all of this**.
 
