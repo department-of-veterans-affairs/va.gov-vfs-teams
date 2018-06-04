@@ -40,4 +40,4 @@ Useful content is:
 > We follow the guidance and rules in the *[Chicago Manual of Style, 16th ed.] (http://www.chicagomanualofstyle.org/home.html)* (CMS), and our dictionary of choice is [*Merriam-Webster's Collegiate Dictionary*](http://www.merriam-webster.com/) (M-W). The vets.gov Style Guide has exceptions to CMS and M-W, plain-language guidance (see Voice and Tone and Word Choice sections), a list of terms specific to VA and vets.gov, as well as government forms referenced on our site.
 
 <!-- Next Button -->
-<a href='./content-guide/voice-and-tone'><div class="next-button"><h5 class="next-text">Next: Voice and Tone</h5></div></a>
+<a href='voice-and-tone'><div class="next-button"><h5 class="next-text">Next: Voice and Tone</h5></div></a>
