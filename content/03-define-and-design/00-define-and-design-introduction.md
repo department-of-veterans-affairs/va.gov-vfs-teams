@@ -23,4 +23,4 @@ label: Introduction
 
 
 <!-- Next Button -->
-<a href='/docs/building-and-testing/building-and-testing-intro'><div class="next-button"><h5 class="next-text">Next: Building and Testing</h5></div></a>
+<a href='../building-and-testing/building-and-testing-intro'><div class="next-button"><h5 class="next-text">Next: Building and Testing</h5></div></a>
