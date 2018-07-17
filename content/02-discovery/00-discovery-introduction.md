@@ -23,4 +23,4 @@ label: Introduction
 
 
 <!-- Next Button -->
-<a href='/docs/define-and-design/define-and-design-introduction'><div class="next-button"><h5 class="next-text">Next: Define and Design (prototyping)</h5></div></a>
+<a href='../define-and-design/define-and-design-introduction'><div class="next-button"><h5 class="next-text">Next: Define and Design (prototyping)</h5></div></a>
