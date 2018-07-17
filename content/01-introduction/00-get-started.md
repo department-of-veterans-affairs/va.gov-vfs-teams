@@ -24,3 +24,7 @@ The <a title="go to Service Design Guide" href="https://department-of-veterans-a
 <a href='discovery/discovery-introduction'><div class="next-button"><h5 class="next-text">Next: Discovery</h5></div></a>
 
 <a href='/docs/discovery/discovery-introduction'><div class="next-button"><h5 class="next-text">Next: Discovery</h5></div></a>
+
+<a href='../docs/discovery/discovery-introduction'><div class="next-button"><h5 class="next-text">Next: Discovery</h5></div></a>
+
+<a href='../discovery/discovery-introduction'><div class="next-button"><h5 class="next-text">Next: Discovery</h5></div></a>
