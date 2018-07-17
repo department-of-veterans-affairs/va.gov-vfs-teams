@@ -15,4 +15,4 @@ The <a title="go to Service Design Guide" href="https://department-of-veterans-a
 **This site is specifically designed to help developers learn how to build services on the Veteran Tools Platform,** including how to set up locally, develop and test iteratively, use VA APIs, and deploy services.
 
 <!-- Next Button -->
-<a href='/docs/define-and-design/define-and-design-introduction'><div class="next-button"><h5 class="next-text">Next: Define and Design (prototyping)</h5></div></a>
+<a href='./docs/discovery/discovery-introduction'><div class="next-button"><h5 class="next-text">Next: Discovery</h5></div></a>
