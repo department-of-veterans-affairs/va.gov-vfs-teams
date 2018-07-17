@@ -21,4 +21,4 @@ The <a title="go to Service Design Guide" href="https://department-of-veterans-a
 *If you have any questions about this documentation, ask in your team's Slack channel or email [elizabeth.hunt@va.gov](mailto:elizabeth.hunt@va.gov)*
 
 <!-- Next Button -->
-<a href='define-and-design/define-and-design-introduction'><div class="next-button"><h5 class="next-text">Next: Define and Design (prototyping)</h5></div></a>
+<a href='discovery/discovery-introduction'><div class="next-button"><h5 class="next-text">Next: Discovery</h5></div></a>
