@@ -1,17 +1,30 @@
 ---
 title: Welcome! Let's Build Great Apps Together
-label: Welcome
+label: Getting Started
+---
+## Ready to create a product on Vets.gov?
+Here is a summary of what to expect:
+1. Email Marvo to get your project on the Roadmap
+2. Get connected with a DSVA Coordinator
+3. Do Discovery to validate your understanding of user and business needs
+4. Iterate on your Design and Define the solution
+5. Work with the Vets.gov platform team to get your app up in Staging
+6. Iterate based on usability testing
+7. Create a launch plan and work with the Vets.gov platform team to deploy your app to live users.
+
+### [Follow this step-by-step guide to launch your app](./docs/introduction/launch-guide)
+
 ---
 
-**To build services and tools on the Veteran Tools Platform, you should follow the steps in the <a title="go to Service Design Guide" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/service-design/" target="_blank">Service Design Guide</a>.**
+#### Want to browse general resources on how to research, plan, design, and build great Veteran-facing Tools?
+- [Check out the general Discovery, Design and Define, Stage, and Deploy resources in this Playbook](./docs/introduction/browse-resources)
 
-This site is specifically designed to help developers learn how to build services on the Veteran Tools Platform, including how to set up locally, develop and test iteratively, using VA APIs, and deploy services.
-
+#### Want to get code for modern VA web components and design patterns?
+- [Go to the system elements to view the patterns and grab the code to replicate them](https://department-of-veterans-affairs.github.io/design-system/)
 
 <br>
 <br>
-
-*If you have any questions about this documentation, ask in your team's Slack channel or email [elizabeth.hunt@va.gov](mailto:elizabeth.hunt@va.gov)*
+*If you have any questions during your journey through this documentation, email [docs@va.gov](mailto:docs@va.gov)*
 
 <!-- Next Button -->
-<a href='/docs/define-and-design/define-and-design-introduction'><div class="next-button"><h5 class="next-text">Next: Define and Design (prototyping)</h5></div></a>
+<a href='./docs/introduction/why-use-this'><div class="next-button"><h5 class="next-text">Next: Why Use This?</h5></div></a>

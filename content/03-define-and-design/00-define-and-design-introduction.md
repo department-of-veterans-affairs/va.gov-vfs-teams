@@ -2,25 +2,22 @@
 title: Define and Design Your Product
 label: Define & Design Intro
 ---
+This phase of work takes the project from findings uncovered during discovery to proposed solutions that are prototyped and tested with an appropriate audience.
 
-### The content in this section has been migrated to the <a title="go to Alpha" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/service-design/alpha" target="_blank">Service Design Guide - Alpha (prototyping)</a>.
+## Process:
 
-**Quick reference**
+1. [Review findings and define scope](./review-and-scope): Use Discovery artifacts to collectively zero in on the smallest meaningful solution to the problem at hand, and define epics for what you'll build.
+1. [Diagraming and outlining](./diagram-and-outline): Map out your product's information architecture and the logical flow for your user experience. Break the process down into bite-sized chunks and figure out the best way to order things for ease of use.
+1. [Explore design conventions](./design-conventions): Learn best practices for creating your user experience and how to maintain consistency with other products that your users may have engaged with on Vets.gov.
+1. [Visual Design](./visual-design): If you are leveraging the Vets.gov design system, you probably don't need to do high fidelity mock ups. Reserve that for situations where you need to create new patterns.
+1. [Review technical capabilities](./review-technical-capabilities): Validate that the designed solution will be feasible with the technology available, and document risks and questions.
+1. [Prototype and test](./prototyping-and-testing): Live code or clickable prototype, find the fastest and most useful way to prove out your idea. It is probably live code. Live prototypes are easier to test, and if they work for users, have made significant front end progress.
+1. [Coordinate with content team](./content-guide/coordinate-content): Writing is incredibly important to the success of products. We need to write clearly in the product. We also need to consider and update the relevant static content to make the product easy to find and use.
+1. [Incorporate feedback](./incorporating-feedback):We almost never get it right on the first try. Tease out the underlying issues exposed by feedback sessions. Modify your prototype and test again.
+1. [Document solutions](./document-solutions): Once you have a validated solution, document your design decisions and write tickets for remaining work.
 
-* <a title="go to Design Guide" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/service-design/related/design" target="_blank">Design guidelines</a>
-
-* <a title="go to design patterns and tools" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/service-design/related/design#design-tools" target="_blank">Design patterns and tools</a>
-
-* <a title="go to ongoing technical discovery" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/service-design/related/other-resources/technical-discovery#ongoing-technical-discovery" target="_blank">Technical capabilities</a>
-
-* <a title="go to Design Sprints" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/service-design/alpha#during-alpha" target="_blank">Prototype and test with users</a> - see the "During Alpha" section
-
-* <a title="go to prototyping" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/service-design/alpha#during-alpha" target="_blank">Prototyping</a> - see the "During Alpha section"
-
-  * <a title="go to prototyping" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/service-design/related/other-resources/alpha-prototypes" target="_blank">See also tips for prototyping</a>
-
-* <a title="go to Content Guidelines" href="https://github.com/department-of-veterans-affairs/vets.gov-content-style-guide" target="_blank">Follow the Content Guidelines</a> for writing content for all screens and interactions
-
+#### Repeat as needed
+You probably will not get it right the first time. Cycle through this process as many times as it takes, to get to a launchable state. But at the same time, there is nothing like being live to really test if it works. Balance the level of “done-ness” you need with the mission critical nature of your service.
 
 <!-- Next Button -->
-<a href='/docs/building-and-testing/building-and-testing-intro'><div class="next-button"><h5 class="next-text">Next: Building and Testing</h5></div></a>
+<a href='./review-and-scope'><div class="next-button"><h5 class="next-text">Next: Review Discovery Findings and Scope Your Project</h5></div></a>

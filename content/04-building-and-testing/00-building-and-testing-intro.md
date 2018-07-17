@@ -3,11 +3,6 @@ title: Building and Testing Introduction
 label: Build and Test Intro
 ---
 
-### The content in this section *has not been migrated* to the <a title="go to Service Design Guide" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/service-design/" target="_blank">Service Design Guide</a>.
-
-**You can see the draft content <a title="go to Beta" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/service-design/beta" target="_blank">Service Design Guide - Beta</a> (building the MVP).**
-
-
 Process:
 1. [Start developing](../vets-developer-docs/getting-started): develop iteratively, code locally and deploy to staging as you go. Reference the Vets.gov workflow as an example.
 1. Include automated testing in each deployment: here are examples and instructions for how this is done on Vets.gov for reference.
