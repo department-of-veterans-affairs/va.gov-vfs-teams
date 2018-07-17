@@ -3,7 +3,7 @@ title: Welcome! Let's Build Great Apps Together
 label: Welcome
 ---
 
-### This site is specifically designed to anwer questions for developers who are building services and tools on the Veteran Tools Platform, including how to set up locally, develop and test iteratively, use VA APIs, etc.
+### This site is specifically designed to answer questions for developers who are building services and tools on the Veteran Tools Platform, including how to set up locally, develop and test iteratively, use VA APIs, etc.
 
 <hr>
 
