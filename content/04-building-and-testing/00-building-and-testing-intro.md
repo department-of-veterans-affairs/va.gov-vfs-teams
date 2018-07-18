@@ -2,22 +2,20 @@
 title: Building and Testing Introduction
 label: Build and Test Intro
 ---
-### The content in this section *has not been migrated* to the <a title="go to Service Design Guide" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/service-design/" target="_blank">Service Design Guide</a>.
+### The content for this page has been migrated to the <a title="go to VA Digital Service Handbook" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/service-design/beta" target="_blank">VA Digital Service Handbook - Beta (building the MVP)</a>.
 
-**You can see the draft content <a title="go to Beta" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/service-design/beta" target="_blank">Service Design Guide - Beta</a> (building the MVP).**
+**Quick reference**
 
+* <a title="go to build and deploy to staging" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/service-design/beta#build-and-deploy-to-staging" target="_blank">Build and deploy to staging</a>
 
-**Process:**
-1. [Start developing](../vets-developer-docs/getting-started): develop iteratively, code locally and deploy to staging as you go. Reference the Vets.gov workflow as an example.
-1. Include automated testing in each deployment: here are examples and instructions for how this is done on Vets.gov for reference.
-  - [Automated 508 accessibility tests](./automated-testing)
-  - [Automated unit and end-to-end tests](../vets-developer-docs/vets-website/forms/tests)
-1. Perform usability testing: now that you have a flow up in staging, validate what challenges and successes users have interacting with it, and determine if there are any critical changes that need to be made prior to deployment. Here are resources from the Discovery section for reference:
-  - <a href='https://methods.18f.gov/discover/' target="blank">Choose a research method for usability testing</a>
-  - [Draft a usability testing plan](../discovery/draft-research-plan)
-  - [Recruit users](../discovery/recruit-users)
-  - [Talk with users and stakeholders](../discovery/talk-with-users-and-stakeholders)
-  - [Synthesize your usability testing findings](../discovery/synthesize-your-findings)
-1. [Perform end-to-end QA testing](./qa): a guide for making sure you catch bugs in staging across many devices and browsers.
-1. [Set up analytics](../vets-developer-docs/google-analytics): examples of how analytics are set up on Vets.gov for reference.
-1. [Load test your app](./): a guide for making sure your app can handle the anticipated request load without breaking.
+* [Automated 508 accessibility testing](./automated-testing)
+
+* [Automated unit and end-to-end testing](../vets-developer-docs/vets-website/forms/tests)
+
+* Plan and conduct <a title="go to usability testing" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/service-design/beta#build-and-deploy-to-staging" target="_blank">usability testing</a> - see Build and Deploy to Staging - Research Sprints
+
+* [Perform end-to-end QA testing](./qa)
+
+* [Set up Google Analytics](../vets-developer-docs/google-analytics)
+
+* [Load test your app](needlink) - a guide for making sure your app can handle the anticipated request load without breaking.

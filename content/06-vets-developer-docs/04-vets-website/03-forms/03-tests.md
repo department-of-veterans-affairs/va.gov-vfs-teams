@@ -115,7 +115,7 @@ You should take a look at an [existing e2e test](https://github.com/department-o
 2. Step through your form, filling out all the fields
 3. Before submitting, open the Redux dev tools and copy out the form data object into a `schema/maximal-test.json` file in your `tests` folder:
 
-![](/va-digital-services-platform-docs/assets/develop/images/forms/redux_dev.png)
+![](/assets/develop/images/forms/redux_dev.png)
 
 Once you've done this, you should be all set to start. We'll step through the burials form e2e tests to see how it works:
 

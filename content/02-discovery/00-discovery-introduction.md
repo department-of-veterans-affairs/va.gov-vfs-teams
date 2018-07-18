@@ -3,7 +3,7 @@ title: Discovering User and VA Needs
 label: Introduction
 ---
 
-### The content in this section has been migrated to the <a title="go to Discovery" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/service-design/discovery" target="_blank">Service Design Guide - Discovery</a>.
+### The content in this section has been migrated to the <a title="go to Discovery" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/service-design/discovery" target="_blank">VA Digital Service Handbook - Discovery</a>.
 
 **Quick reference**
 

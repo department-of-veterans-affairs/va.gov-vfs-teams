@@ -3,7 +3,7 @@ title: Define and Design Your Product
 label: Introduction
 ---
 
-### The content in this section has been migrated to the <a title="go to Alpha" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/service-design/alpha" target="_blank">Service Design Guide - Alpha (prototyping)</a>.
+### The content in this section has been migrated to the <a title="go to Alpha" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/service-design/alpha" target="_blank">VA Digital Service Handbook - Alpha (prototyping)</a>.
 
 **Quick reference**
 

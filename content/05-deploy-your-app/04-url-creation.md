@@ -2,6 +2,10 @@
 title: URL Creation – Process & Guidelines
 label: URL Creation
 ---
+
+### The content for this page has been migrated to the <a title="go to VA Digital Service Handbook" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/service-design/related/other-resources/info-architecture" target="_blank">VA Digital Service Handbook - Defining Information Architecture</a>.
+
+<!--
 The URL path is the component of the URL that follows the domain and directs the user to a specific file, or, page on the site. The path is made up of 1 or more directories, depending on how deep the page is within the site.
 
 The path is primarily determined by the location of the file within the structure of the site – the information architecture.  However, the end of the path – the last directory or the file name – should be determined using the guidelines provide.
@@ -44,3 +48,4 @@ Typical steps in determining a new URL:
   *	Example:  https://www.vets.gov/pension/application/form-527EZ-veteran-pension   (This example is not live)
 
   More standards will be added as they are identified.
+-->
