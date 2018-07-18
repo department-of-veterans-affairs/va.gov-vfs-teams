@@ -2,32 +2,66 @@
 title: Getting Started
 label: Getting Started
 ---
-The Vets.gov Platform is broken into three parts: Vets-Website, which contains frontend applications and components that a Veteran interacts with, and Vets-API, a JSON-based API that the frontend uses to provide data to and from VA systems.
 
-To build an Application on Vets.gov, which can be anything from a digital form to a map-based facility locator, developers will create a Frontend experience in React on Vets-Website, and connect it to an Integration on Vets-API, which manages the data flow to and from VA systems.
 
-For forms, Vets-JSON-Schema contains shared resources used to structure and validate form data between Vets-Website and Vets-API.
+To build a service on the Veteran Tools Platform, which can be anything from a digital form to a map-based facility locator, developers will create a Frontend experience in React on Vets-Website, and connect it to an Integration on Vets-API, which manages the data flow to and from VA systems.
 
-Each of these parts are defined in separate open source repositories:
+* [Getting started](#getting-started)
+* [Development](#development)
+* [Getting help](#getting-help)
 
-1. Vets-Website: https://github.com/department-of-veterans-affairs/vets-website
-1. Vets-API: https://github.com/department-of-veterans-affairs/vets-api
-1. Vets-JSON-Schema: https://github.com/department-of-veterans-affairs/vets-json-schema
+<hr>
 
-## Onboarding
+### Getting started
 
-As part of the onboarding effort, you should provide your name, email address, SSH public key ([help generating one](./internal-tools-access#ssh-key), and GitHub username.
+1. Complete the steps in <a title="go to onboarding" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/service-design/getting-started#general-team-onboarding" target="_blank">general team onboarding</a>.
+<br/><br/>
 
-You'll be given access to the #dsva-platform-project support channel on the DSVA Slack, contributor access to all three repositories, credentials to access the shared test environments -- [dev.vets.gov](https://dev.vets.gov) and [staging.vets.gov](https://staging.vets.gov) -- as well as access to Internal Tools. **Your first step should be verifying that you have all of this**.
+1. Follow the steps for <a title="go to create ssh keys" href="https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/docs/vets-developer-docs/internal-tools-access.html#requirements">creating new SSH keys and configuring the SOCKS proxy</a>.
+<br/><br/>
 
-## Development
+1. Verify that you have
 
-Developer documentation is split between frontend (Vets-Website) and backend (Vets-API) paths. To get started building the frontend user experience for your application, see the [Vets-Website Developer Process](./vets-website/vets-website-readme) documentation. To build the backend integration with a VA service and provide data services to the frontend of your application, see the [Vets-API Developer Process](./vets-api/vets-api-readme) documentation.
+  * Have access to the [Veteran Tools Platform code repositories](#code-repositories)
 
-## Internal Tools
+  * Have credentials for the shared testing environments &mdash;  <a title="go to dev.vets.gov" href="https://dev.vets.gov" target="_blank">dev.vets.gov</a> and <a title="go to staging.vets.gov" href="https://staging.vets.gov" target="_blank">staging.vets.gov</a>
 
-To access metrics, build logs, deployment information and exception details, please reference the [Internal Tools](./internal-tools-access) documentation.
+  * Have access to [Internal Tools](./internal-tools-access)
 
-## Questions
+  * **Tip**: If you have a problem or can't get access, [email us](mailto:elizabeth.hunt@va.gov).
+<br/><br/>
 
-DSVA product and engineering resources are available to provide guidance and support through the development effort. If you encounter issues or have any questions, raise them in the #dsva-platform-project Slack channel.
+1. Review all the content the Vets Developer Docs section (everything after this page).
+<br/><br/>
+
+1. Review the frontend documentation for <a title="Go to Vets-Website readme" href="./vets-website/vets-website-readme" target="_blank">Vets-Website</a>.
+<br/><br/>
+
+1. Review the backend documentation for <a title="Go to Vets-API readme" href="./vets-api/vets-api-readme" target="_blank">Vets-API</a> (including the section named "Integration Overview").
+
+<hr>
+
+### Development
+
+#### Code repositories
+
+The Veteran Tools Platform is broken into three parts:
+
+1. <a title="Go to Vets-Website" href="https://github.com/department-of-veterans-affairs/vets-website" target="_blank">Vets-Website</a>, which contains frontend applications and components users interact with
+
+2. <a title="Go to Vets-API" href="https://github.com/department-of-veterans-affairs/vets-api" target="_blank">Vets-API</a>, a JSON-based API used by the frontend to provide data to and from VA systems
+
+3. <a title="Go to Vets-JSON-Schema" href="https://github.com/department-of-veterans-affairs/vets-json-schema" target="_blank">Vets-JSON-Schema</a>, which contains shared resources used to structure and validate form data between Vets-Website and Vets-API.
+
+
+#### Internal Tools
+
+To access metrics, build logs, deployment information and exception details, see the the [Internal Tools](./internal-tools-access) documentation.
+
+<hr>
+
+### Getting help
+
+DSVA engineering resources are available to provide guidance and support through the development effort.
+
+If you encounter issues or have any questions, raise them in your team's Slack channel, or [email us](mailto:elizabeth.hunt@va.gov).
