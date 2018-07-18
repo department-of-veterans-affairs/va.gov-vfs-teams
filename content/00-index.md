@@ -7,9 +7,9 @@ label: Welcome
 
 <hr>
 
-### The complete process for building services and tools on the Veteran Tools Platform is outlined in the <a title="go to Service Design Guide" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/service-design/" target="_blank">Service Design Guide</a>.
+### The complete process for building services and tools on the Veteran Tools Platform is outlined in the <a title="go to VA Digital Service Handbook" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/service-design/" target="_blank">VA Digital Service Handbook - Service Design Guide</a>.
 
-The <a title="go to Service Design Guide" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/service-design/" target="_blank">Service Design Guide</a> contains user research and design guides, as well as the information you need to
+The <a title="go to VA Digital Service Handbook" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/service-design/" target="_blank">VA Digital Service Handbook - Service Design Guide</a> contains user research and design guides, as well as the information you need to
 * Conduct user research to learn about users and their needs
 * Test possible solutions (prototypes) with users
 * Continuously test the live service to check that it continues to serve users needs
