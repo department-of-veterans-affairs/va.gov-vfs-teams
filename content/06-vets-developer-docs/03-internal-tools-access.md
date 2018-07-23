@@ -29,7 +29,7 @@ You do not need to run the SOCKS proxy while you're developing unless you need a
 1. Create <a title="Go to create ssh keys" href="https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Internal%20Tools.md#create-an-ssh-public-key" target="_blank">new SSH keys</a>.
 <br/><br/>
 
-1. Configure <a title="Go to configure socks proxy" href="https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Internal%20Tools.md#configure-the-socks-proxy" target="_blank">the SOCKS proxy</a>.
+1. Configure <a title="Go to configure socks proxy" href="https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Internal%20Tools.md#configure-the-socks-proxy---for-external-developers" target="_blank">the SOCKS proxy</a>.
 <br/><br/>
 
 1. Learn how to <a title="Go to create ssh keys" href="https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Internal%20Tools.md#accessing-socks-proxy-from-va-network" target="_blank">access SOCKS proxy from the VA network and from the internet</a>
