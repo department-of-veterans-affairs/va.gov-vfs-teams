@@ -31,7 +31,7 @@ There are also a couple of messages you can set, which show up in various places
 
 ## User profile
 
-You will also need to make a couple changes in the user profile code, so that your form can show up in the list of saved forms on the account page. In `src/js/user-profile/helpers.jsx`, you should add your form to the three configuration objects: `formBenefits`, `formLinks`, `trackingPrefixes`, and `sipEnabledForms`. The information for each of these should be in your form config file.
+You will also need to make a couple changes in the user profile code, so that your form can show up in the list of saved forms on the account page. In `src/applications/personalization/profile360/util/helpers.jsx`, you should add your form to the three configuration objects: `formBenefits`, `formLinks`, `trackingPrefixes`, and `sipEnabledForms`. The information for each of these should be in your form config file.
 
 ## Static pages
 
@@ -57,7 +57,7 @@ And somewhere in the file, where you want the widget to show up:
 
 Note that the id matches the `root` property in the front matter. This is the link that will show up will the Javascript code is loading or if it fails to load.
 
-Once that's done, you can open up the static pages entry file at `src/js/static-pages/static-pages-entry.js` and make your changes. Here's an example for the healh care application:
+Once that's done, you can open up the static pages entry file at `src/applications/static-pages/static-pages-entry.js` and make your changes. Here's an example for the healh care application:
 
 ```js
 const healthcarePages = new Set(['/health-care/', '/health-care/apply/', '/health-care/eligibility/']);

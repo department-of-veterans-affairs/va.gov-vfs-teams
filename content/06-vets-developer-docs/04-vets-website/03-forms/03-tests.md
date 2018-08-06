@@ -12,7 +12,7 @@ As you build your form, you should be writing unit tests to make sure your form 
 - That the correct number of fields display validation errors if you submit without entering any information
 - That any conditional logic on the page displays under the correct conditions
 
-We have some helper utilities to make writing tests a little bit easier. Tests should go in a `tests` folder in your application folder. Here's an example unit test that would live at `src/js/vic-v2/tests/config/veteranInformation.unit.spec.jsx`:
+We have some helper utilities to make writing tests a little bit easier. Tests should go in a `tests` folder in your application folder. Here's an example unit test that would live at `src/applications/vic-v2/tests/config/veteranInformation.unit.spec.jsx`:
 
 ```js
 import React from 'react';
@@ -109,13 +109,13 @@ End-to-end (e2e) tests are tests that run in a browser and test that a user can 
 
 We use [Nightwatch](http://nightwatchjs.org/), which runs on top of Selenium, to write our tests.
 
-You should take a look at an [existing e2e test](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/js/burials/tests/00-all-fields.e2e.spec.js) to get a sense of how they're written, but there are some basic steps to follow:
+You should take a look at an [existing e2e test](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/burials/tests/00-all-fields.e2e.spec.js) to get a sense of how they're written, but there are some basic steps to follow:
 
 1. Set up [Redux dev tools](https://github.com/zalmoxisus/redux-devtools-extension). This will let you pull out some information from your form more easily.
 2. Step through your form, filling out all the fields
 3. Before submitting, open the Redux dev tools and copy out the form data object into a `schema/maximal-test.json` file in your `tests` folder:
 
-![](/assets/develop/images/forms/redux_dev.png)
+![](/va-digital-services-platform-docs/assets/develop/images/forms/redux_dev.png)
 
 Once you've done this, you should be all set to start. We'll step through the burials form e2e tests to see how it works:
 

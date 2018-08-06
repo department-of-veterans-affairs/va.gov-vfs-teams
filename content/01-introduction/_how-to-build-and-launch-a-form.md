@@ -114,7 +114,7 @@ label: Guide to Launch a Product
 
 - Sample Health Care Application (Form 10-10EZ) schema: [https://github.com/department-of-veterans-affairs/vets-json-schema/blob/master/src/schemas/10-10EZ/schema.js](https://github.com/department-of-veterans-affairs/vets-json-schema/blob/master/src/schemas/10-10EZ/schema.js)
 
-- Sample Sample Health Care Application (Form 10-10EZ) front-end: [https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/js/hca](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/js/hca)
+- Sample Health Care Application (Form 10-10EZ) front-end: [https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/hca](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/hca)
 
 
 ### What happens when there&#39;s an error in production? And is our call center process (i.e. Aubrey) supporting these apps?

@@ -19,19 +19,17 @@ yo @department-of-veterans-affairs/vets-website
 
 You can answer the questions with the [documentation](https://github.com/department-of-veterans-affairs/vets-website/blob/master/docs/GeneratorOptions.md) as a guide, or if you're just looking to try things out, here are the answers I'm using for this tutorial:
 
-```bash
-? What's the name of your application? This will be the default page title. My new form
-? What folder in src/js should your app live in? new-form
-? What should be the name of your app's entry bundle? newForm
-? What's the root url for this app? /new-form
-? Is this a form app? Yes
-? What's your form number? XX-230
-? What's the Google Analytics event prefix you want to use? new-form-
-? What's the respondent burden of this form in minutes? 30
-? What's the OMB control number for this form? XX3344
-? What's the OMB expiration date for this form? 5/31/2018
-? What's the benefit description for this form? new form benefits
-```
+- What's the name of your application? This will be the default page title. `My new form`
+- What folder in `src/applications/` should your app live in? This can be a subfolder. `new-form`
+- What should be the name of your app's entry bundle? `newForm`
+- What's the root url for this app? `/new-form`
+- Is this a form app? `Y`
+- What's your form number? `XX-230`
+- What's the Google Analytics event prefix you want to use? `new-form-`
+- What's the respondent burden of this form in minutes? `30`
+- What's the OMB control number for this form? `XX3344`
+- What's the OMB expiration date for this form? `5/31/2018`
+- What's the benefit description for this form? `new form benefits`
 
 After you run the generator, run `yarn watch` (or restart it if you already had it running) and navigate to http://localhost:3001/new-form. You should see something like this:
 
@@ -39,7 +37,7 @@ After you run the generator, run `yarn watch` (or restart it if you already had 
 
 ## Updating your form
 
-Now that you're up and running, we can add a new page and field to our form. If you open up `src/js/new-form/config.js`, you should see a formConfig variable:
+Now that you're up and running, we can add a new page and field to our form. If you open up `src/applications/new-form/config.js`, you should see a `formConfig` variable:
 
 ```js
 const formConfig = {
@@ -79,11 +77,16 @@ const formConfig = {
 };
 ```
 
-There's a lot of information already there, and you can check out the form config specifications to see what each property means. For now, we're going to look at the content of the form, which lives in `chapters`.
+There's a lot of information already there, and you can check out the [form config specifications](https://github.com/usds/us-forms-system/tree/master/docs) to see what each property means. For now, we're going to look at the content of the form, which lives in `chapters`.
 
-At the most basic level, our forms consiste of widgets and fields. Widgets are the basic form controls, things like `<input/>` and `<select/>` elements. Fields are the next level up and contain a widget and a `<label/>`, plus some extra optional description information. We then have pages, which are collections of fields, and then chapters, which are collections of pages.
+At the most basic level, our forms consist of: widgets, fields, pages, and chapters.
 
-We can see in the config that there's already one chapter, with one page inside it, called `page1`. In the `page1` object there are a few pieces of information, which we can mostly ignore for now. The important properties for us right now are `uiSchema` and `schema`. `schema` is the initial structure of our page, in the form of a JSON Schema. This describes the type of data that will result from a user filling in our form. It's also used by the form library to determine what fields and widgets to display in the application, except when overriden by `uiSchema`. `uiSchema` is an object that has extra, user interface focused information to help render the form.
+- **Widgets** are the basic form controls, things like `<input/>` and `<select/>` elements.
+- **Fields** are the next level up and contain a widget and a `<label/>`, plus some extra optional description information.
+- We then have **pages**, which are collections of fields.
+- **Chapters** are collections of pages.
+
+We can see in the config that there's already one chapter, with one page inside it, called `page1`. In the `page1` object there are a few pieces of information, which we can mostly ignore for now. The important properties for us right now are `uiSchema` and `schema`. `schema` is the initial structure of our page, in the form of a [JSON Schema](https://spacetelescope.github.io/understanding-json-schema/). This describes the type of data that will result from a user filling in our form. It's also used by the form library to determine what fields and widgets to display in the application, except when overridden by `uiSchema`. `uiSchema` is an object that has extra, user interface-focused information to help render the form.
 
 Let's add a property to `schema`:
 
@@ -134,7 +137,7 @@ That makes it look a little more presentable:
 
 ![](/va-digital-services-platform-docs/assets/develop/images/forms/field-with-label.png)
 
-Note that `uiSchema` doesn't follow exactly the same structure as `schema`: you don't need the `properties` object. This is because `uiSchema` treats everything without a `ui:` prefix as a field name, which one exception for array fields.
+Note that `uiSchema` doesn't follow exactly the same structure as `schema`: you don't need the `properties` object. This is because `uiSchema` treats everything without a `ui:` prefix as a field name, with one exception for array fields.
 
 Changing the the `type` property in your field will change the data accepted and also the way it displays on the form. You can change it to be `boolean` and get a checkbox and `number` to get a number input. If you want a `select` box, you use JSON Schema's `enum` property:
 
@@ -233,4 +236,4 @@ Note that if you refresh in the middle of the form, your data will be lost and t
 
 Once you've reviewed your form, you have to click the checkbox to agree to the privacy policy and then you can submit! For now, though, that Submit button will fail because there's no api to submit the data to.
 
-That's it! Continue on in our documentation to learn about building more complex forms and building out the whole process for building and submitting a new form.
+That's it! Continue on in our documentation to learn about building more complex forms and the whole process for building and submitting a new form.
