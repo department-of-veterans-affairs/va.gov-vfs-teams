@@ -2,7 +2,75 @@
 title: Obtaining Authority To Operate
 label: ATO
 ---
-<span style="color: red">
+
+### Veteran Tools Platform ATO
+
+The Veteran Tools Platform (vets.gov) has [a full ATO from VA](https://github.com/department-of-veterans-affairs/vets.gov-ato/blob/master/ATO%20Memo%20for%20Vets_Gov%202017MAR07.pdf). The DSVA team is responsible for maintaining that ATO by updating it when new tools and services are added to the platform.
+
+**Connect with the DSVA team as early as possible to start the process to update the ATO for the tool or service your team is planning to build.**
+
+
+### Preliminary ATO assessment
+
+Start this as early as possible in your team's project.
+
+1. Create an issue in the [vets.gov-ato](https://github.com/department-of-veterans-affairs/vets.gov-ato) repository.
+
+1. Assign the issue to Brian Gryth (**@briangryth**).
+
+1. Label the issue with the **devops label**.
+
+1. Title the issue **Request to update ATO**.
+
+1. Provide the following information in the issue content.
+
+    * What data are you collecting? For example, what data are you requesting from users?
+    * What data are you using? For example, what data are you requesting from some VA service?
+    * Where does that data come from? For example, what API endpoint are you getting the data from?
+
+1. DSVA will examine the existing ATO documents and determine if they need to be updated based on the information you've provided.
+    * Plan for some back and forth conversation in the Github issue to get all the information DSVA needs.
+
+1. If the ATO does need to be updated:
+    * DSVA will update the relevant ATO documents.
+    * DSVA will provide a link to the updated ATO documents for your team's reference.
+
+1. If the ATO does not need to be updated:
+    * DSVA will let you know, and you can use the existing ATO for your team's reference.
+
+
+### Final ATO assessment
+
+You need a final ATO assessment before you can launch your tool or service. You can complete this step as soon as know that the tool/service **will not** change before launch.
+
+1. Create an issue in the [vets.gov-ato](https://github.com/department-of-veterans-affairs/vets.gov-ato) repository.
+
+1. Assign the issue to Brian Gryth (**@briangryth**).
+
+1. Label the issue with the **devops label**.
+
+1. Title the issue **Request for final ATO assessment**.
+
+1. Provide the following information in the issue content.
+
+    * What data are you collecting? For example, what data are you requesting from users?
+    * What data are you using? For example, what data are you requesting from some VA service?
+    * Where does that data come from? For example, what API endpoint are you getting the data from?
+
+1. DSVA will examine the existing ATO documents and determine if they need to be updated based on the information you've provided.
+    * Plan for some back and forth conversation in the Github issue to get all the information DSVA needs.
+
+1. If the ATO does need to be updated:
+    * DSVA will update the relevant ATO documents.
+    * DSVA will provide a link to the updated ATO documents for your team's reference.
+    * DSVA will submit the updated ATO to VA on our regular schedule (quarterly).
+
+1. If the ATO does not need to be updated:
+    * DSVA will let you know, and you can use the existing ATO for your team's reference.
+
+
+
+<!--span style="color: red">
 This needs to be further discussed as a group and refined for scalability, but here are some initial thoughts:
 <br><br>Ad Hoc / DSVA probably shouldn’t handle or check for ATO. Anyone building things should probably be responsible for going through that whole process themselves and making sure they’re covered. All teams could build under one overarching ATO for the platform, but ensuring all products have appropriate ATO requirements met will be the responsibility of those building the products and an ATO Lead at VA.
 </span>
@@ -60,4 +128,4 @@ Existing ISA MOUs should be modified, as-needed, when additional functionality/d
 - RiskVision needs to be updated each time additional components are being rolled out.  Once you complete a section you submit it.  ISO can view them as they are submitted, but it can’t be moved through the workflow until all sections are submitted.
 *`TO-DO: More details to be provided`*
 - If you are experiencing an issue with RiskVision (aka GRC) send email to the helpdesk: vaGRCservicedesk@va.gov
-- If you get jammed up on RiskVision/ATO items and ISO can’t help, reach out to Sandra Hedtke (Sandra.Hedtke@va.gov), she’s awesome.
+- If you get jammed up on RiskVision/ATO items and ISO can’t help, reach out to Sandra Hedtke (Sandra.Hedtke@va.gov), she’s awesome.-->
