@@ -39,9 +39,16 @@ Start this as early as possible in your team's project.
     * DSVA will let you know, and you can use the existing ATO for your team's reference.
 
 
-### Final ATO assessment
+### Security Review
 
-You need a final ATO assessment before you can launch your tool or service. You can complete this step as soon as know that the tool/service **will not** change before launch.
+You'll need a **security review** and a **final ATO assessment** before you can launch your tool or service. You should complete these steps when you know that your tool/service **will not** change before launch.
+
+
+#### Requesting a Security Review
+
+* Content in progress!
+
+#### Requesting a final ATO Assessment
 
 1. Create an issue in the [vets.gov-ato](https://github.com/department-of-veterans-affairs/vets.gov-ato) repository.
 
