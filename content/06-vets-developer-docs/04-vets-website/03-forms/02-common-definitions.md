@@ -1,6 +1,6 @@
 ---
-title: Using Common Definitions
-label: Common Definitions
+title: Advanced - Using Common Definitions
+label: Form Advanced
 ---
 All of our forms share schemas with the back-end through `vets-json-schema`, the repository where we store JSON Schemas for validating data submitted to a `vets-api` API endpoint. Assuming you've created one of those schemas, the next step is to incorporate that into your form, along with other common definitions we've built.
 
@@ -11,7 +11,7 @@ Assuming you've created your form using our form scaffolding generator, you shou
 ```js
 // import fullSchema from 'vets-json-schema/dist/VIC-schema.json';
 
-...
+// ...code omitted...
 
 // const { } = fullSchema.properties;
 
@@ -23,7 +23,7 @@ If you uncomment those lines and update the import path to match your schema's f
 ```js
 import fullSchema from 'vets-json-schema/dist/VIC-schema.json';
 
-...
+// ...code omitted...
 
 const {
   email
@@ -32,7 +32,7 @@ const {
 // const { } = fullSchema.definitions;
 
 const formConfig = {
-   ...
+   // ...code omitted...
    page1: {
      path: 'first-page',
      title: 'First Page',
@@ -48,7 +48,7 @@ const formConfig = {
        }
      }
    }
-   ...
+   // ...code omitted...
 };
 ```
 
@@ -61,7 +61,7 @@ We have a collection of common definitions and fields on the front-end for you t
 ```js
 import fullSchema from 'vets-json-schema/dist/VIC-schema.json';
 import fullNameUI from '../../common/schemaform/definitions/fullName';
-...
+// ...code omitted...
 
 const {
   veteranFullName
@@ -72,11 +72,11 @@ const {
 } = fullSchema.definitions;
 
 const formConfig = {
-   ...
+  // ...code omitted...
   definitions: {
     fullName
   },
-  ...
+  // ...code omitted...
     page1: {
       path: 'first-page',
       title: 'First Page',
@@ -90,7 +90,7 @@ const formConfig = {
         }
       }
     }
-   ...
+   // ...code omitted...
 };
 ```
 
@@ -108,7 +108,7 @@ Often you'll need to slightly modify common definitions on the front-end to chan
 import fullSchema from 'vets-json-schema/dist/VIC-schema.json';
 import fullNameUI from '../../common/schemaform/definitions/fullName';
 import merge from '../../../platform/utilities/data/merge';
-...
+// ...code omitted...
 
 const {
   veteranFullName
@@ -119,11 +119,11 @@ const {
 } = fullSchema.definitions;
 
 const formConfig = {
-   ...
+   // ...code omitted...
   definitions: {
     fullName
   },
-  ...
+  // ...code omitted...
     page1: {
       path: 'first-page',
       title: 'First Page',
@@ -146,7 +146,7 @@ const formConfig = {
         }
       }
     }
-   ...
+   // ...code omitted...
 };
 ```
 
