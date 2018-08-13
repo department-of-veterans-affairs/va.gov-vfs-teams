@@ -1,6 +1,6 @@
 ---
 title: Tutorial - Creating Your First Form
-label: Form Tutorial
+label: Form - Basic
 ---
 In this doc, we'll walk through creating a new form and making some simple changes.
 

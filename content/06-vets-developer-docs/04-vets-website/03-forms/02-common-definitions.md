@@ -1,6 +1,6 @@
 ---
 title: Advanced - Using Common Definitions
-label: Form Advanced
+label: Form - Advanced
 ---
 All of our forms share schemas with the back-end through `vets-json-schema`, the repository where we store JSON Schemas for validating data submitted to a `vets-api` API endpoint. Assuming you've created one of those schemas, the next step is to incorporate that into your form, along with other common definitions we've built.
 
@@ -56,7 +56,7 @@ Here we're using Javascript's object shorthand syntax to set the `email` propert
 
 ## Using a common front-end definition
 
-We have a collection of common definitions and fields on the front-end for you to use in your form, which are detailed in our [field library doc](https://github.com/department-of-veterans-affairs/vets-website/blob/master/docs/schemaform/field-library.md). Let's try using our common full name field:
+We have a collection of common definitions and fields on the front-end for you to use in your form. Let's try using our common full name field:
 
 ```js
 import fullSchema from 'vets-json-schema/dist/VIC-schema.json';
@@ -105,9 +105,9 @@ Finally, in the code you can see that we're using `fullNameUI` in the `uiSchema`
 Often you'll need to slightly modify common definitions on the front-end to change a label or some conditional logic. The way we typically do that is to use our data utilities to set values on the schema. For example, say we needed to make our `veteranFullName` field expand underneath another field:
 
 ```js
+import _ from 'lodash/fp';
 import fullSchema from 'vets-json-schema/dist/VIC-schema.json';
 import fullNameUI from '../../common/schemaform/definitions/fullName';
-import merge from '../../../platform/utilities/data/merge';
 // ...code omitted...
 
 const {
@@ -132,7 +132,7 @@ const formConfig = {
           'ui:title': 'My field',
           'ui:widget': 'yesNo'
         },
-        veteranFullName: merge(fullNameUI, {
+        veteranFullName: _.merge(fullNameUI, {
           'ui:options': {
             expandUnder: 'myField'
           }
@@ -150,7 +150,7 @@ const formConfig = {
 };
 ```
 
-We've imported our merge function from `platform/utilities/data` and we're merging our `ui:options` into the `fullNameUI` object, so that we don't have to redefine all of the configuration in there. All of the utilities in `platform/utilities/data` treat objects as immutable, and do not modify anythin you pass in to them, so you can reuse `fullNameUI` in another spot in your form without worrying about having to remove the `ui:options` configuration we added.
+We've imported the [Lodash FP (functional programming) library](https://github.com/lodash/lodash/wiki/FP-Guide) and using its `merge` function to merge our `ui:options` into the `fullNameUI` object, so that we don't have to redefine all of the configuration in there. All of the Lodash FP methods treat objects as immutable, not modifying anything you pass in to them, so you can reuse `fullNameUI` in another spot in your form without worrying about having to remove the `ui:options` configuration we added.
 
 ## Things to watch out for
 

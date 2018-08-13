@@ -1,6 +1,6 @@
 ---
 title: Beyond The Basics - Form Validation & Conditional Fields
-label: Form Intermediate
+label: Form - Intermediate
 ---
 Now that you've gone through and created a really simple form using the tutorial, let's take a look at how to handle some common use cases on forms.
 
