@@ -28,8 +28,9 @@ You can answer the questions with the [documentation](https://github.com/departm
 - What's the Google Analytics event prefix you want to use? `new-form-`
 - What's the respondent burden of this form in minutes? `30`
 - What's the OMB control number for this form? `XX3344`
-- What's the OMB expiration date for this form? `5/31/2018`
+- What's the OMB expiration date (in M/D/YYYY format) for this form? `5/31/2018`
 - What's the benefit description for this form? `new form benefits`
+- Which form template would you like to start with? `Choose 'BLANK: A form without any fields'`
 
 After you run the generator, run `yarn watch` (or restart it if you already had it running) and navigate to http://localhost:3001/new-form. You should see something like this:
 
