@@ -158,3 +158,6 @@ The point of having these common definitions and sharing a schema between the fr
 
 - Since we're importing individual fields from `fullSchema`, it can be easy to miss required field rules, since we often import those directly. Make sure you're marking all the necessary fields as required in your form config.
 - Importing individual fields makes it easy to group them in ways specific to the front-end, so make sure if you are grouping things, you're using property names prefixed with `view:` to remove that grouping before submitting.
+
+<!-- Next Button -->
+<a href='./tests'><div class="next-button"><h5 class="next-text">Next: Tests</h5></div></a>

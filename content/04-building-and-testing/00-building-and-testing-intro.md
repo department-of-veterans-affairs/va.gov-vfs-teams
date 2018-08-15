@@ -19,3 +19,6 @@ label: Build and Test Intro
 * [Set up Google Analytics](../vets-developer-docs/google-analytics)
 
 * [Load test your app](needlink) - a guide for making sure your app can handle the anticipated request load without breaking.
+
+<!-- Next Button -->
+<a href='./automated-testing'><div class="next-button"><h5 class="next-text">Next: Automated Testing</h5></div></a>

@@ -233,3 +233,6 @@ function initApplicationSubmitMock() {
 ```
 
 The burial form submission process uses polling, so there are two mocked API responses, but for most forms you'll have just one. Our `mock` helper calls our mock API server and adds a mock response, so that when the form makes a request to the url at the `path` property with the `verb` action, it gets the `value` data back.
+
+<!-- Next Button -->
+<a href='./submitting'><div class="next-button"><h5 class="next-text">Next: Submitting</h5></div></a>

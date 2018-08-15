@@ -104,3 +104,6 @@ TODO: RDoc reference link
 ## Further Reading
 
 1. https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/reference_documents/Auth/authentication_and_authorization_simplified.md
+
+<!-- Next Button -->
+<a href='./authorization'><div class="next-button"><h5 class="next-text">Next: Authorization</h5></div></a>

@@ -80,3 +80,6 @@ Further Reading:
 * https://martinfowler.com/articles/web-security-basics.html
 * https://www.owasp.org/index.php/Main_Page
 * https://www.powerdown.io/blog/posts/stories/web-developer-security-checklist.html
+
+<!-- Next Button -->
+<a href='./internal-tools-access'><div class="next-button"><h5 class="next-text">Next: Internal Tools Access</h5></div></a>

@@ -78,3 +78,6 @@ And here's the error message for a server error:
 ![](/va-digital-services-platform-docs/assets/develop/images/forms/server_error.png)
 
 As long as you return a promise and throw the expected errors, you can do whatever else you need to do in this submit function.
+
+<!-- Next Button -->
+<a href='./save-in-progress'><div class="next-button"><h5 class="next-text">Next: Save In Progress</h5></div></a>

@@ -51,3 +51,6 @@ In this doc, we'll explain where the content you see on the form actually comes 
 6. Page title: The `formConfig.chapters.chapter1.pages.page2.title` property in `src/applications/new-form/config/form.js`.
 
 > **NOTE:** Page titles are not shown on the review page if the chapter they belong to only has a single page.
+
+<!-- Next Button -->
+<a href='../../creating-form-schema'><div class="next-button"><h5 class="next-text">Next: Creating Form Schema</h5></div></a>

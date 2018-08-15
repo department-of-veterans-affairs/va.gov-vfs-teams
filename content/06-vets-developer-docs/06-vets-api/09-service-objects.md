@@ -313,3 +313,6 @@ my_integration_health_check:
 ```
 
 See the [Settings Documentation](./settings) for more details.
+
+<!-- Next Button -->
+<a href='./settings'><div class="next-button"><h5 class="next-text">Next: Settings</h5></div></a>

@@ -109,3 +109,6 @@ Before, we didn't have anything written down that described how things went to p
 ### Different flows between features and hotfixes
 
 This is one of the weaknesses with Git Flow, which requires additional management. We've simplified this by creating a process that is the same for both features and hotfixes. It's expected that things will go to production at least weekly, meaning that there shouldn't be any feature or hotfix branches to manage for long periods of time.
+
+<!-- Next Button -->
+<a href='./google-analytics'><div class="next-button"><h5 class="next-text">Next: Google Analytics</h5></div></a>

@@ -63,3 +63,6 @@ burial_claim.form_id # => '21P-530'
 PdfFill::Filler.fill_form(burial_claim) # => "tmp/pdfs/21P-530_1.pdf"
 
 ```
+
+<!-- Next Button -->
+<a href='./request-processing'><div class="next-button"><h5 class="next-text">Next: Request Processing</h5></div></a>
