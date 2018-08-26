@@ -21,5 +21,5 @@ Follow the process appropriate for your status (the team you're on):
 
   * Ask your Team Lead to set you up on Github.
 
-**[I'm on another VA contractor team](github-other-va)**
+* **[I'm on another VA contractor team](github-other-va.md)**
 
