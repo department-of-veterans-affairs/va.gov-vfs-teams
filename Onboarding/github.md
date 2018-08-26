@@ -14,7 +14,8 @@ All teams working on the Veteran Tools Platform use VA's <a title="Go to VA Gith
   * Do not use a personal Github account for VA work.
   * Do not use a previous employer Github account for VA work.
 * Github requires two-factor authentication (2FA) for new accounts.
-* If you have problems using Github, [check the Github FAQs for potential solutions](../faqs#github).
+* If you have problems using Github, [check the Github FAQs for potential solutions](../faqs.md#github).
+
 
 <hr>
 
