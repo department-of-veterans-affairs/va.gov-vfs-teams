@@ -3,7 +3,7 @@
 <hr>
 
 * [General information](#general-information)
-* [Create Github and Slack accounts](#create-github-and-slack-accounts)
+* [Github and Slack onboarding](#github-and-slack-onboarding)
 * [Github and Slack for VA contractors](#github-and-slack-for-va-contractors)
 
 <hr>
@@ -19,23 +19,6 @@ All teams working on the Veteran Tools Platform use VA's <a title="Go to VA Gith
 3. Tracking team progress throughout the delivery process using Github Issues.
 4. Keeping track of code and related version history.
 
-### Slack
-
-Teams working on the Veteran Tools Platform use [Slack](https://slack.com) for day-to-day communication and collaboration. Because there are many teams working in Slack (DSVA, VA, contractors), we've established [norms for communication](norms-communication.md). **Please review these so you understand how to use Slack effectively and how to communicate with DSVA.**
-
-<hr>
-
-## Create Github and Slack accounts
-
-* **I'm on the DSVA team (or detailed to DSVA)**
-<br/>You'll be given an "Onboarding Checklist" when you start. Follow the steps to set up your Github and Slack accounts.
-
-* **I'm on DSVA's primary vendor team**
-<br/>Ask your Team Lead to set you up on Github and Slack.
-
-* **I'm on another VA contractor team**
-<br/>Follow the steps for [Github and Slack for VA contractors](#github-and-slack-for-va-contractors).
-
 #### Github Tips
 
 * Everyone working on the Veteran Tools Platform must set up a Github account.
@@ -45,6 +28,26 @@ Teams working on the Veteran Tools Platform use [Slack](https://slack.com) for d
   * Do not use a previous employer Github account for VA work.
 * Github requires two-factor authentication (2FA) for new accounts.
 * If you have problems using Github, [check the Github FAQs for potential solutions](../faqs.md#github).
+
+
+### Slack
+
+Teams working on the Veteran Tools Platform use [Slack](https://slack.com) for day-to-day communication and collaboration. Because there are many teams working in Slack (DSVA, VA, contractors), we've established [norms for communication](norms-communication.md). **Please review these so you understand how to use Slack effectively and how to communicate with DSVA.**
+
+<hr>
+
+## Github and Slack onboarding
+
+Choose an onboarding process based on your status (the team you're on):
+
+* **I'm on the DSVA team (or detailed to DSVA)**
+<br/>You'll be given an "Onboarding Checklist" when you start. Follow the steps to set up your Github and Slack accounts.
+
+* **I'm on DSVA's primary vendor team**
+<br/>Ask your Team Lead to set you up on Github and Slack.
+
+* **I'm on another VA contractor team**
+<br/>Follow the steps for [Github and Slack for VA contractors](#github-and-slack-for-va-contractors).
 
 <hr>
 
