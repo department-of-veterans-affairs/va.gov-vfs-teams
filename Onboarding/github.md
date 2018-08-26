@@ -1,6 +1,6 @@
 # Onboarding - Github
 
-All teams working on the Veteran Tools Platform use <a title="Go to VA Github" href="https://github.com/department-of-veterans-affairs" target="_blank">Github</a> for
+All teams working on the Veteran Tools Platform use VA's <a title="Go to VA Github" href="https://github.com/department-of-veterans-affairs" target="_blank">Github organization</a> for
 
 1. Storing and sharing project documents. We do this to keep a record of project work and so all teams can learn from what other teams are doing.
 2. Storing and sharing Work Practices &#8212; our best practices for how we do things.
