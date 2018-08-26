@@ -10,5 +10,6 @@ Choose an onboarding process based on your status (the team you're on):
 
 * **I'm on another VA contractor team**
 
-  * Follow the steps for [Github and Slack for VA contractors](github-and-slack.md).
+  * [Learn how we use Github and Slack](github-and-slack.md#general-information).
+  * Follow the steps for [Github and Slack for VA contractors](github-and-slack.md#github-and-slack-for-va-contractors).
   * Complete additional [onboarding steps for different types of work you'll be doing](https://department-of-veterans-affairs.github.io/va-digital-service-handbook/delivery/onboard-team).
