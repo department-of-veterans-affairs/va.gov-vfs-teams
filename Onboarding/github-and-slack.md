@@ -38,16 +38,11 @@ Teams working on the Veteran Tools Platform use [Slack](https://slack.com) for d
 
 ## Github and Slack onboarding
 
-Choose an onboarding process based on your status (the team you're on):
+* **DSVA team members (or detailees)** should follow the steps in your "Onboarding Checklist."
 
-* **I'm on the DSVA team (or detailed to DSVA)**
-<br/>You'll be given an "Onboarding Checklist" when you start. Follow the steps to set up your Github and Slack accounts.
+* **Members of DSVA's primary vendor team** should ask their Team Lead to get them set up.
 
-* **I'm on DSVA's primary vendor team**
-<br/>Ask your Team Lead to set you up on Github and Slack.
-
-* **I'm on another VA contractor team**
-<br/>Follow the steps for [Github and Slack for VA contractors](#github-and-slack-for-va-contractors).
+* **Members of other VA contractor teams** should [follow the steps below](#github-and-slack-for-va-contractors).
 
 <hr>
 
