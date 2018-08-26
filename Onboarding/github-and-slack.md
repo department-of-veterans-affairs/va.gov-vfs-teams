@@ -21,7 +21,7 @@ All teams working on the Veteran Tools Platform use VA's <a title="Go to VA Gith
 
 ### Slack
 
-Teams working on the Veteran Tools Platform use <a href="https://slack.com" target="_blank">Slack</a> for day-to-day communication and collaboration. Because there are many teams working in Slack (DSVA, VA, contractors), we've established [norms for communication](norms-communication.md). **Please review these so you understand how to use Slack effectively and how to communicate with DSVA.**
+Teams working on the Veteran Tools Platform use [Slack](https://slack.com) for day-to-day communication and collaboration. Because there are many teams working in Slack (DSVA, VA, contractors), we've established [norms for communication](norms-communication.md). **Please review these so you understand how to use Slack effectively and how to communicate with DSVA.**
 
 <hr>
 
