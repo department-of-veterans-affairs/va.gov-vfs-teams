@@ -1,6 +1,6 @@
 # Github onboarding for VA contractors
 
-*Note: This process applies only to VA contractors who are not DSVA's primary vendor.**
+*Note: This process applies only to VA contractors who are not DSVA's primary vendor.*
 
 **Tips:**
 * All contractor team members must set up a Github account.
@@ -9,7 +9,7 @@
   * Do not use a personal Github account for VA work.
   * Do not use a previous employer Github account for VA work.
 * Github requires two-factor authentication (2FA) for new accounts.
-  * If you're using an older Github account without 2FA, you'll need to turn on 2FA. You may see an error when you ```git push```. [See the Github FAQs to resolve it](faqs#github).
+* If you have problems using Github, [check the Github FAQs for potential solutions](faqs#github).
 
 <hr>
 
@@ -28,7 +28,7 @@
 
 3. Email the spreadsheet to your DSVA contact.
 
-4. DSVA will add the people on the list to the VA Github organization. See [Github access](#github-access)
+4. DSVA will add the people on the list to the VA Github organization. See [Github access](#github-access).
 
 5. If your team is new to Github, we can arrange a short meeting to show you how to use it share documents.
 
