@@ -4,7 +4,7 @@
 
 * [General information](#general-information)
 * [Create Github and Slack accounts](#create-github-and-slack-accounts)
-* [Github onboarding for VA contractors](#github-onboarding-for-va-contractors)
+* [Github and Slack for VA contractors](#github-and-slack-for-va-contractors)
 
 <hr>
 
