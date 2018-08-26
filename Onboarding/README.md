@@ -2,13 +2,11 @@
 
 Choose an onboarding process based on your status (the team you're on):
 
-* **I'm on the DSVA team (or detailed to DSVA)**
-<br/>You'll be given an "Onboarding Checklist" when you start. Follow the steps to get set up.
+* **DSVA team members (or detailees)** should follow the steps in your "Onboarding Checklist" (given to you when you start work).
 
-* **I'm on DSVA's primary vendor team**
-<br/>Ask your Team Lead to set you up.
+* **Members of DSVA's primary vendor team** should ask their Team Lead for help onboarding.
 
-* **I'm on another VA contractor team**
+* **Members of other VA contractor teams** should:
 
   * [Learn how we use Github and Slack](github-and-slack.md#general-information).
   * Follow the steps for [Github and Slack for VA contractors](github-and-slack.md#github-and-slack-for-va-contractors).
