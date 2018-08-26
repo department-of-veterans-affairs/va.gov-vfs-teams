@@ -1,4 +1,4 @@
-# Norms for VA Contractors
+# Norms for Communication
 
 *Notes:*
 * *"Internal contractor" refers to DSVA's primary vendor contractor, e.g., AdHoc*
