@@ -7,6 +7,15 @@ All teams working on the Veteran Tools Platform use VA's <a title="Go to VA Gith
 3. Tracking team progress throughout the delivery process using Github Issues.
 4. Keeping track of code and related version history.
 
+**Tips:**
+* Everyone working on the Veteran Tools Platform must set up a Github account.
+* Github accounts are subject to FOIA.
+  * Set up a **new Github account** for VA work.
+  * Do not use a personal Github account for VA work.
+  * Do not use a previous employer Github account for VA work.
+* Github requires two-factor authentication (2FA) for new accounts.
+* If you have problems using Github, [check the Github FAQs for potential solutions](../faqs#github).
+
 <hr>
 
 * [Get started with Github](#get-started-with-github)
@@ -33,16 +42,6 @@ Follow the process appropriate for your status (the team you're on):
 
 *Note: This process applies only to those VA contractors who are not DSVA's primary vendor.*
 
-**Tips:**
-* All contractor team members must set up a Github account.
-* Github accounts are subject to FOIA.
-  * Set up a **new Github account** for VA work.
-  * Do not use a personal Github account for VA work.
-  * Do not use a previous employer Github account for VA work.
-* Github requires two-factor authentication (2FA) for new accounts.
-* If you have problems using Github, [check the Github FAQs for potential solutions](faqs#github).
-
-
 ### Create Github accounts
 
 1. Have everyone on your team create a Github account.
@@ -57,7 +56,7 @@ Follow the process appropriate for your status (the team you're on):
 5. If your team is new to Github, we can arrange a short meeting to show you how to use it share documents.
 
 
-### Github access
+### Github access for VA contractors
 
 Once they've been added to the VA Github organization, team members will have access to the following Github repos.
 
@@ -72,6 +71,6 @@ Once they've been added to the VA Github organization, team members will have ac
 * [vets-api-mockdata](https://github.com/department-of-veterans-affairs/vets-api-mockdata) (private, developers have Read access)
 
 
-### Github for developers
+### Github for  for VA contractor developers
 
 Developers must complete <a  href="https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/docs/vets-developer-docs/getting-started.html#getting-started" target="_blank">additional steps</a> to access the Github code repositories and tools they'll need for development and deployment.
