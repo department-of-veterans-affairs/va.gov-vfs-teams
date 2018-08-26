@@ -13,14 +13,13 @@ All teams working on the Veteran Tools Platform use <a title="Go to VA Github" h
 
 Follow the process appropriate for your status (the team you're on):
 
-#### I'm on the DSVA team (or detailed to DSVA)
+* **I'm on the DSVA team (or detailed to DSVA)**
 
-* You'll be given an "Onboarding Checklist" when you start. Follow the steps to set up your Github account.
+  * You'll be given an "Onboarding Checklist" when you start. Follow the steps to set up your Github account.
 
-#### I'm on DSVA's primary vendor team
+* **I'm on DSVA's primary vendor team**
 
-* Ask your Team Lead to set you up on Github.
+  * Ask your Team Lead to set you up on Github.
 
-* **[I'm on another VA contractor team](github-other-va)**
+**[I'm on another VA contractor team](github-other-va)**
 
-<hr>
