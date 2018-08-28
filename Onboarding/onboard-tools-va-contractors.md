@@ -13,7 +13,7 @@ Here's how to get started:
 
 ## Request Github and Slack access
 
-1. Have each team member review the [Github tips](github-info.md) **before creating their Github account.**
+1. Have each team member review the [tips for creating a Github account](github-info.md#tips-for-creating-a-github-account) **before creating their Github account.**
 
 1. Have everyone on your team create a Github account.
 

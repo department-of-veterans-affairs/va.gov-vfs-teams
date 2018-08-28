@@ -33,7 +33,8 @@ Review the norms for communication so you understand how to communicate effectiv
 
 ### 3. Review the [Github tips and guidance](github-info.md)
 
-Make sure you review the [Github tips](github-info.md) **before** you create your Github account.
+Make sure you review the [tips for creating a Github account](github-info.md#tips-for-creating-a-github-account) **before** you create your Github account.
+* For DSVA detailees, you can use your USDS Github account.
 
 
 <hr>
