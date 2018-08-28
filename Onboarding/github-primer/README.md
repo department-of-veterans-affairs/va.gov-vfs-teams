@@ -28,8 +28,8 @@
 * **Branch dropdown**
   * The master branch is always the source of truth for your product folder.
   * Make sure you're on the master branch. Switch if you're not.
-* **Create new file button** - add a new file (we'll come back to this)
-* **Upload files button** - (we'll come back to this)
+* **Create new file button** - add a new file
+* **Upload files button** - upload files
 * **Folder files and sub-folders**
   * Folders have to contain at least one file.
   * README.md files are automatically displayed at the root of each folder. If you don't have a README.md file in a folder, the screen will just show the list of files and sub-folders.
