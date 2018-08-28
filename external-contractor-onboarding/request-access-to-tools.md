@@ -30,12 +30,12 @@ To work on the Veteran Tools Platform, each team member needs access to the VA G
 1. Email the spreadsheet to your DSVA contact.
 
 1. DSVA will add the people on the list to
-    * The VA Github organization. See [Github access](#github-access-for-va-contractors).
-    * Slack channels relevant to your project. See [Slack access](#slack-access-for-va-contractors).
+    * The VA Github organization
+    * Slack channels relevant to your project
 
 1. Developers must complete [additional onboarding steps](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/docs/vets-developer-docs/getting-started.html#getting-started) to access the code repositories and tools they'll need for development and deployment. They should complete these steps as soon as they've received the email invitation to join the VA Github organization.
 
-1. Understand [norms for using these tools](norms-tools)
+1. Understand the [norms for using these tools](norms-tools) when you're working on the Veteran Tools Platform.
 
 
 #### Tip:
