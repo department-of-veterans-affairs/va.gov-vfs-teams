@@ -1,6 +1,6 @@
 # Tools Onboarding for VA Contractors
 
-**This document applies only to contractor working on the Veteran Tools Platform who are not DSVA's primary vendor contractor (or its subcontractors).**
+**This document applies only to VA contractors who are not DSVA's primary vendor contractor (or its subcontractors).**
 
 To work on the Veteran Tools Platform, each team member needs access to the VA Github organization and access to DSVA Slack channels.
 
@@ -15,9 +15,9 @@ Here's how to get started:
 
 1. Have each team member review the [tips for creating a Github account](github-info.md#tips-for-creating-a-github-account) **before creating their Github account.**
 
-1. Have everyone on your team create a Github account.
+1. Have everyone on the team create a Github account.
 
-1. [Use this spreadsheet](va-contractor-team-tracker.xlsx) to capture all names, email addresses, and Github usernames for your team.
+1. [Use this spreadsheet](va-contractor-team-tracker.xlsx) to capture all names, email addresses, and Github usernames for the team.
     * Indicate which team members are developers (so we can give them access to developer code repos and tools).
     * Please rename it according to your team, e.g., BAH-team-tracker.xlsx.
 
