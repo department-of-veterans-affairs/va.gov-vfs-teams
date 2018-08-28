@@ -67,11 +67,11 @@
 
 ### Create a file
 
-1. If you like writing on your computer, do it there and go to [Upload files](#upload-files)
+1. If you like writing on your computer, do it there and then [upload the file](#upload-files).
 1. Or write in the Github interface by click **Create new file**.
 1. Name your file.
     * Use lowercase names and dashes between words.
-1. Write your content using [Markdown](https://guides.github.com/features/mastering-markdown/)
+1. Write your content using [Markdown](https://guides.github.com/features/mastering-markdown/).
 1. To save your file, scroll to the bottom of the screen to start [creating a pull request](#create-a-pull-request).
 
 
