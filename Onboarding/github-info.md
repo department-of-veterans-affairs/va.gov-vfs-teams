@@ -11,7 +11,7 @@ Teams working on the Veteran Tools Platform use [Github](https://github.com/depa
 4. Manage code and related version history.
 
 
-## ### Creating a Github account
+### Creating a Github account
 
 1. Everyone working on the Veteran Tools Platform must set up a Github account.
 1. Github accounts are subject to FOIA.
@@ -25,7 +25,7 @@ Teams working on the Veteran Tools Platform use [Github](https://github.com/depa
 
 ### Store and share documents
 
-GitHub is a system that stores documents and keeps a revision history of those files. It's divided into "repositories," which are groups of related files or documents. For example, this file lives in the ```vets-work-practices``` repo.
+GitHub is a system that stores documents and keeps a revision history of those files. It's divided into "repositories" (or "repos") which are groups of related files or documents. For example, this file lives in the ```vets-work-practices``` repo.
 
 For non-developers, most of their Github work happens in the ```vets.gov-team``` repo where they store and share files.
 
@@ -46,7 +46,7 @@ Each Github repo has a section called "Issues." [Learn about issues](https://gui
 
 The "Issues" section of the ```vets.gov-team``` repo is where all teams manage their Epics, User Stories, and agile workflow.
 
-We use [Zenhub]() with Github to turn the "Issues" section into an [scrum board](https://en.wikipedia.org/wiki/Scrum_(software_development)).
+We use [Zenhub](https://www.zenhub.com) with Github to turn the "Issues" section into an [scrum board](https://en.wikipedia.org/wiki/Scrum_(software_development)).
 
 All teams use Zenhub to manage their agile workflow.
 * Learn how to [get started using Zenhub](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Onboarding%20and%20Offboarding/zenhub_onboarding.pdf)
