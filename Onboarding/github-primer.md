@@ -1,4 +1,4 @@
-# Github introduction for BAH-526
+# Github Primer
 
 * Github introduction materials
 * You can use this folder to practice in

@@ -6,8 +6,8 @@ To work on the Veteran Tools Platform, each team member needs access to the VA G
 
 Here's how to get started:
 
-* Request access to Github and Slack
-* Understand your access
+* [Request access to Github and Slack](#request-github-and-slack-access)
+* [Understand your access](#understand-your-access)
 
 <hr>
 
