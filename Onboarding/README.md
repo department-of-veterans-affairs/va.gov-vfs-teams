@@ -11,7 +11,7 @@
 * [Onboarding for everyone](#onboarding-for-everyone)
 * [Onboarding by organization](#onboarding-by-organization)
   * [DSVA team and detailees](#dsva-team-members-and-detailees)
-  * [Internal contractors](#internal-contractors-and-its-subcontractors)
+  * [Internal contractors](#internal-contractors)
   * [VA contractors](#va-contractors)
 
 <hr>
@@ -45,7 +45,7 @@ Make sure you review the [Github tips](github-info.md) **before** you create you
 No need to worry! DSVA Admin (and/or your DSVA Buddy) will provide everything you need to get started with our culture, process, and tools.
 
 
-### Internal contractor (and its subcontractors)
+### Internal contractors
 
 * Contact your Team Lead to get started.
   * TODO - fix Internal Contractor documentation so it's only about the contractor and link to it.
