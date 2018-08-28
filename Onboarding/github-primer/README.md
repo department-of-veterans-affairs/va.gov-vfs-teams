@@ -108,7 +108,7 @@ Let's say you want to create a new subfolder called "mynewfolder" inside the exi
 
 To delete a folder, you first need to delete all the documents in it. Once you do that, the folder will disappear.
 
-If you have to create a pull request for each file you want to delete, this could take a lot of time. It's easier to delete a folder and its contents via the command line. Add a team mate for help using the command line.
+If you have to create a pull request for each file you want to delete, this could take a lot of time. It's easier to delete a folder and its contents via the command line. Ask a teammate for help using the command line.
 
 
 
@@ -121,7 +121,7 @@ If you have to create a pull request for each file you want to delete, this coul
 1. Make sure you're comparing the master branch to your new branch. If it says you're comparing master to master or your branch to your branch, select the master branch from the 1st dropdown and the new branch Github created from the 2nd dropdown.
 1. If the changes look good, click **Create pull request**.
 1. Click **Create pull request** again.
-1. Assign someone to review your pull request. Choice of reviewer depends on what you're trying to do. If you're not sure, ask a team mate.
+1. Assign someone to review your pull request. Choice of reviewer depends on what you're trying to do. If you're not sure, ask a teammate.
 1. Github will check that the file can be merged (has no conflicts) and then notifies your reviewer.
 1. When your reviewer receives the Github notification, they'll accept your PR.
 1. After that, if you return to your pull request, it will show that it's been merged.
