@@ -1,33 +1,6 @@
 # Onboarding - Github and Slack
 
-<hr>
 
-* [General information](#general-information)
-* [Github and Slack onboarding](#github-and-slack-onboarding)
-* [Github and Slack for VA contractors](#github-and-slack-for-va-contractors)
-
-<hr>
-
-## General information
-
-### Github
-
-All teams working on the Veteran Tools Platform use VA's <a title="Go to VA Github" href="https://github.com/department-of-veterans-affairs" target="_blank">Github organization</a> for
-
-1. Storing and sharing project documents. We do this to keep a record of project work and so all teams can learn from what other teams are doing.
-2. Storing and sharing Work Practices &#8212; our best practices for how we do things.
-3. Tracking team progress throughout the delivery process using Github Issues.
-4. Keeping track of code and related version history.
-
-#### Github Tips
-
-* Everyone working on the Veteran Tools Platform must set up a Github account.
-* Github accounts are subject to FOIA.
-  * Set up a **new Github account** for VA work.
-  * Do not use a personal Github account for VA work.
-  * Do not use a previous employer Github account for VA work.
-* Github requires two-factor authentication (2FA) for new accounts.
-* If you have problems using Github, [check the Github FAQs for potential solutions](../faqs.md#github).
 
 
 ### Slack

@@ -1,8 +1,10 @@
 # Norms for Communication
 
-*Notes:*
-* *"Internal contractor" refers to DSVA's primary vendor contractor, e.g., AdHoc*
-* *"VA contractor" refers to a contractor working with another VA team (not DSVA)*
+**This document applies to the DSVA team (including detailees) and any contractor working on the Veteran Tools Platform.**
+
+*Definitions:*
+* *"Internal contractors" refers to DSVA's primary vendor contractor (e.g., AdHoc) and its subcontractors.*
+* *"VA contractors" refers to any other contractor team working on the Veteran Tools Platform.*
 
 <hr>
 
@@ -68,7 +70,7 @@ We will track these "gray areas," so we can document our responses to them and d
 ### 2. Use the 2 Slack channels for different purposes.
 
 * **For product questions** use your team's "product" Slack channel (e.g., *#claimsmodern*).
-  * Example question: "Where can I find previous research?",
+  * Example question: "Where can I find previous research?"
 * **For process questions**, use the *#support-external* Slack channel.
   * Example questions: "I can't get the proxy to work" or "How do I integrate this into that?" or "How do I use Zenhub to do X?"
 * If you don't get a response within a few hours, ping someone you know in the channel to look at your question.
@@ -108,5 +110,5 @@ We want the system/process for VA contractor communication to be
 ### Problems to solve
 
 * Contractors can't direct the work of other contractors.
-* Need to minimize disruption of internal contractors (who are doing other PI work).
+* Need to minimize disruption of internal contractors (who are doing other program work).
 * Need to minimize the amount of time DSVA Product Managers spend with autonomous VA contractors.

@@ -28,7 +28,7 @@ If you have any questions about the Code of Conduct, your DSVA contact can answe
 
 There are many teams working on the Veteran Tools Platform from different organizations (DSVA, internal contractors, VA contractors).
 
-Review these communication norms so you understand how to communicate effectively with DSVA, as well as expectations for contractor-to-contractor communication.**
+Review these communication norms so you understand how to how to communicate effectively with DSVA, as well as our expectations for contractor-to-contractor communication.**
 
 
 ### Review the [Github tips and guidance](github-info.md)
@@ -42,7 +42,7 @@ Make sure you review the [Github tips](github-info.md) **before** you create you
 
 ### DSVA team members (and detailees)
 
-No need to worry! DSVA Admin (and/or your DSVA Buddy) will provide everything you need to get started with our culture, process, and tools.
+No need to worry! DSVA Admin (and/or your DSVA Buddy) will provide you with everything you need to get started with our culture, process, and tools.
 
 
 ### Internal contractor (and its subcontractors)
