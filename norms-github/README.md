@@ -1,4 +1,4 @@
-# Github Information
+# Norms for using Github
 
 <hr>
 
@@ -33,6 +33,7 @@ Teams working on the Veteran Tools Platform use [Github](https://github.com/depa
 1. Github requires two-factor authentication (2FA) for new accounts.
     * If you use a Github account without enabling 2FA, you're likely to have problems pushing code.
 
+
 ## Using Github
 
 ### Store and share documents
@@ -50,8 +51,8 @@ You can use Github by visiting the repo URL in your browser and editing files fr
 
 If you're not familiar with Github, use the web interface to learn how Github works and what you can do with it.
 
-* Review the [Github primer to learn how to do basic tasks like creating a file or submitting a pull request](github-primer).
-* See [tips for managing Github folders](#tips-for-managing-files-and-folders).
+* Review the [Github primer to learn how to do basic tasks like creating a file or submitting a pull request](github-primer.md).
+* See [tips for managing Github files and folders](#tips-for-managing-files-and-folders).
 
 
 ### Tips for managing files and folders
