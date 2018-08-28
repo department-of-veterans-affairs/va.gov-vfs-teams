@@ -44,11 +44,10 @@ You can use Github by visiting the repo URL in your browser and editing files fr
 
 Each Github repo has a section called "Issues." [Learn about issues](https://guides.github.com/features/issues/).
 
-The "Issues" section of the ```vets.gov-team``` repo is where all teams manage their Epics, User Stories, and agile workflow.
-
 We use [Zenhub](https://www.zenhub.com) with Github to turn the "Issues" section into an [scrum board](https://en.wikipedia.org/wiki/Scrum_(software_development)).
 
-All teams use Zenhub to manage their agile workflow.
+The "Issues" section of the ```vets.gov-team``` repo is where all teams manage their Epics, User Stories, and agile workflow.
+
 * Learn how to [get started using Zenhub](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Onboarding%20and%20Offboarding/zenhub_onboarding.pdf)
 * See [how we use Zenhub for product/agile management](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Product%20Management/zenhub_product_management.pdf).
 
