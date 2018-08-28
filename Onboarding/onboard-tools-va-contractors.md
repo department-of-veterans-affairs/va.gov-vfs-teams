@@ -5,6 +5,7 @@
 To work on the Veteran Tools Platform, each team member needs access to the VA Github organization and access to DSVA Slack channels.
 
 Here's how to get started:
+  * *Tip*: This step should be completed by a single person on behalf of the whole team.
 
 * [Request access to Github and Slack](#request-github-and-slack-access)
 * [Understand your access](#understand-your-access)

@@ -31,7 +31,7 @@ There are many teams working on the Veteran Tools Platform from different organi
 Review the norms for communication so you understand how to communicate effectively with DSVA, as well as expectations for contractor-to-contractor communication.
 
 
-### 3. Review the [Github tips and guidance](github-info.md)
+### 3. Review the [Github tips and information](github-info.md)
 
 Make sure you review the [tips for creating a Github account](github-info.md#tips-for-creating-a-github-account) **before** you create your Github account.
 * For DSVA detailees, you can use your USDS Github account.
@@ -54,5 +54,5 @@ No need to worry! DSVA Admin (and/or your DSVA Buddy) will provide everything yo
 
 ### 3. VA contractors
 
-* [Follow these steps](onboard-tools-va-contractors.md) to get team members set up with the tools they need to work on the Veteran Tools Platform.
-  * *Tip*: This step should be completed by a single person on behalf of the whole team.
+* [Follow these steps](onboard-tools-va-contractors.md) to request access to tools for team members.
+* [Learn how to use the tools](info-tools) to do your work.
