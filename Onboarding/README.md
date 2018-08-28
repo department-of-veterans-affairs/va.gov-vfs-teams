@@ -19,19 +19,19 @@
 ## Onboarding for everyone
 
 
-### Review the [Veteran Tools Platform Code of Conduct](../code-of-conduct.md).
+### 1. Review the [Veteran Tools Platform Code of Conduct](../code-of-conduct.md).
 
 If you have any questions about the Code of Conduct, your DSVA contact can answer them.
 
 
-### Review the [norms for communication](norms-communication.md)
+### 2. Review the [norms for communication](norms-communication.md)
 
 There are many teams working on the Veteran Tools Platform from different organizations (DSVA, internal contractors, VA contractors).
 
 Review these communication norms so you understand how to communicate effectively with DSVA, as well as expectations for contractor-to-contractor communication.**
 
 
-### Review the [Github tips and guidance](github-info.md)
+### 3. Review the [Github tips and guidance](github-info.md)
 
 Make sure you review the [Github tips](github-info.md) **before** you create your Github account.
 
