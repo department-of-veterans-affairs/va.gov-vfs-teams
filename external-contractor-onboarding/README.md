@@ -11,7 +11,7 @@
 <hr>
 
 * [Step 1: Understand culture](#step-1-culture)
-* [Step 2: Request access to tools](#step-2:-request-access-to-tools)
+* [Step 2: Request access to tools](#step-2-request-access-to-tools)
 * [Step 3: Understand norms for using tools](#step-3-understand-norms-for-using-tools)
 
 <hr>
