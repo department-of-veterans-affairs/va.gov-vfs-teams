@@ -50,7 +50,7 @@ You can use Github by visiting the repo URL in your browser and editing files fr
 
 If you're not familiar with Github, use the web interface to learn how Github works and what you can do with it.
 
-* Review the [Github primer](github-primer.md) to learn how to do basic tasks like creating a file or submitting a pull request.
+* Review the [Github primer to learn how to do basic tasks like creating a file or submitting a pull request](github-primer.md).
 * See [tips for managing Github folders](#tips-for-managing-files-and-folders).
 
 
