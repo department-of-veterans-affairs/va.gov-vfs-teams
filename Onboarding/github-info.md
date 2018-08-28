@@ -44,8 +44,28 @@ Github makes it easy to "style" text-based documents using Markdown syntax. Lear
 
 You can use Github by visiting the repo URL in your browser and editing files from there. Or you can use the command line to interact with files.
 
-* If you're not familiar with Github, use the web interface to learn how Github works and what you can do with it.
-* If you're not familiar with Github, review the [Github primer](github-primer.md) to learn how to do basic tasks like creating a file or submitting a pull request.
+If you're not familiar with Github, use the web interface to learn how Github works and what you can do with it.
+
+* Review the [Github primer](github-primer.md) to learn how to do basic tasks like creating a file or submitting a pull request.
+* See [tips for managing Github folders](#tips-for-managing-github-folders).
+
+
+### Tips for managing Github folders
+
+1. Always use a dash (-) between words in file and folder names.
+    * If a folder (or a file) name has white space in it, Github fills each white space with ```%20```. E.g., ```https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Work%20Practices/Accessibility%20and%20508```
+    * This makes it hard for people to read Github URLs and even harder to type them (e.g., if you're on your mobile device).
+1. Use meaningful descriptive titles for files (and folders).
+    * Give files (and folders) descriptive names to help people understand what's in them **before they click into them**.
+    * Avoid acronyms in titles. Characters are cheap. Use them!
+    * Descriptive titles make it much easier to find things using Github's Search function.
+1. Include a useful README.md file at the root of your folder structure, e.g., inside your "Product/Design" folder.
+    * Useful READMEs tell people what's in the sub-folders and files **before they click into them**.
+    * Consider a TOC approach - [here's an example](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Work%20Practices/Research)
+1. Use a predictable folder structure.
+    * Follow examples set by people/teams who came before you. Browse around in ```vets.gov-team``` repo to see what other teams have done.
+    * Don't make a bunch of sub-folders that each only contain a few files. This makes it much harder for people to find things.
+1. When a folder contains 12 or more files, start thinking about grouping files into sub-folders to make it easier for people to find stuff.
 
 
 ### Manage agile workflow

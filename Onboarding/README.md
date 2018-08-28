@@ -19,7 +19,7 @@
 ## Onboarding for everyone
 
 
-### 1. Review the [Veteran Tools Platform Code of Conduct](../code-of-conduct.md).
+### 1. Review the [Veteran Tools Platform Code of Conduct](../code-of-conduct.md)
 
 If you have any questions about the Code of Conduct, your DSVA contact can answer them.
 
