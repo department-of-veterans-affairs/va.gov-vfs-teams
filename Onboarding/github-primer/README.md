@@ -42,11 +42,11 @@
 
 ## Basic Github workflow
 
-1. You make a commit, which means adding, editing, or deleting one or more files
-1. Github creates a new branch for you
-1. You create a pull request (PR) asking to merge your new branch into the master branch
-1. A DSVA team member reviews and approves your PR
-1. Your commit is merged into the master branch and is visible to everyone
+1. You make a commit, which means adding, editing, or deleting one or more files.
+1. Github creates a new branch for you.
+1. You create a pull request (PR) asking to merge your new branch into the master branch.
+1. Another team member reviews and approves your PR.
+1. Your commit is merged into the master branch and is visible to everyone.
 
     * A **commit** is a set of changes from the previous version of the repository.
     * A **branch** is a way to isolate a set of commits you want to make to the repository.
