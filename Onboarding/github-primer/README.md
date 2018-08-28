@@ -8,10 +8,11 @@
 * [Common activities](#common-activities)
   * [Edit a file](#edit-a-file)
   * [Create a file](#create-a-file)
+  * [Upload files](#upload-files)
   * [Create a folder](#create-a-folder)
   * [Delete a file](#delete-a-file)
-  * [Upload files](#upload-files)
   * [Delete a folder](#delete-a-folder)
+  * [Create a pull request](#create-a-pull-request)
 
 <hr>
 
@@ -63,7 +64,7 @@
 1. To save your file, scroll to the bottom of the screen to start [creating a pull request](#create-a-pull-request).
 
 
-#### Create a file
+### Create a file
 
 1. If you like writing on your computer, do it there and go to [Upload files](#upload-files)
 1. Or write in the Github interface by click **Create new file**.
@@ -73,7 +74,7 @@
 1. To save your file, scroll to the bottom of the screen to start [creating a pull request](#create-a-pull-request).
 
 
-#### Upload files
+### Upload files
 
 1. Click **Upload files**.
 1. Drag files into the box (or click **choose your files**).
@@ -81,7 +82,7 @@
 1. To upload the file(s), scroll to the bottom of the screen to start [creating a pull request](#create-a-pull-request).
 
 
-#### Create a folder
+### Create a folder
 
 Let's say you want to create a new subfolder called "mynewfolder" inside the existing "superbigfolder" folder. To create the folder, you'll create a README.md file first and tell it that it lives inside the "mynewfolder" folder.
 
@@ -95,14 +96,14 @@ Let's say you want to create a new subfolder called "mynewfolder" inside the exi
 1. When the pull request is merged for you, you'll see the README file inside the new "mynewfolder" folder.
 
 
-#### Delete a file
+### Delete a file
 
 1. Navigate to the file you want to delete.
 1. Click the **trash can icon**
 1. To delete the file, scroll to the bottom of the screen to start [creating a pull request](#create-a-pull-request).
 
 
-#### Delete a folder
+### Delete a folder
 
 To delete a folder, you first need to delete all the documents in it. Once you do that, the folder will disappear.
 
