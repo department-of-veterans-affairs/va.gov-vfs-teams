@@ -23,7 +23,7 @@
 
 ## Github web interface tour
 
-[See the following features on this page](https://github.com/department-of-veterans-affairs/vets-work-practices).
+[Visit this page](https://github.com/department-of-veterans-affairs/vets-work-practices) to see the UI features below:
 
 * **Branch dropdown**
   * The master branch is always the source of truth for your product folder.
@@ -34,7 +34,8 @@
   * Folders have to contain at least one file.
   * README.md files are automatically displayed at the root of each folder. If you don't have a README.md file in a folder, the screen will just show the list of files and sub-folders.
 
-[See the following features on this page](https://github.com/department-of-veterans-affairs/vets-work-practices/tree/master/Onboarding).
+[Visit this page](https://github.com/department-of-veterans-affairs/vets-work-practices/tree/master/Onboarding) to see the UI features below:
+
 * **Find file button** - an alternate way to search
 * **History button** - Shows the history of the folder or file you're currently viewing
 
