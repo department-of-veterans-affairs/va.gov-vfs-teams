@@ -33,7 +33,7 @@ Have all team members review the:
 
 * [Norms for using Github](../norms-github)
 
-  * Be sure team members review the [tips for creating a Github account](../norms-github/README.md#tips-for-creating-a-github-account) **before** they create their Github account (see [Request access to tools](#request-access-to-tools).
+  * Be sure team members review the [tips for creating a Github account](../norms-github/README.md#tips-for-creating-a-github-account) **before** they create a Github account in [Step #2](#step-2-request-access-to-tools).
 
 
 ## Step 2: Request access to tools
