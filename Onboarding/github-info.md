@@ -5,6 +5,10 @@
 * [Background](#background)
 * [Tips for creating a Github account](#tips-for-creating-a-github-account)
 * [Using Github](#using-github)
+  * [Store and share documents](#store-and-share-documents)
+  * [Create, edit, and delete files](#create-edit-and-delete-files)
+  * [Tips for managing files and folders](#tips-for-managing-files-and-folders)
+  * [Manage agile workflow](#manage-agile-workflow)
 * [Get help with Github](#get-help-with-github)
 
 <hr>
@@ -50,7 +54,7 @@ If you're not familiar with Github, use the web interface to learn how Github wo
 * See [tips for managing Github folders](#tips-for-managing-github-folders).
 
 
-### Tips for managing Github folders
+### Tips for managing files and folders
 
 1. Always use a dash (-) between words in file and folder names.
     * If a folder (or a file) name has white space in it, Github fills each white space with ```%20```. E.g., ```https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Work%20Practices/Accessibility%20and%20508```
