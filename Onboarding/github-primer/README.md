@@ -123,9 +123,9 @@ If you have to create a pull request for each file you want to delete, this coul
 1. Click **Create pull request** again.
 1. Assign someone to review your pull request. Choice of reviewer depends on what you're trying to do. If you're not sure, ask a teammate.
 1. Github will check that the file can be merged (has no conflicts) and then notifies your reviewer.
-1. When your reviewer receives the Github notification, they'll accept your PR.
+1. When your reviewer receives the Github notification, they'll accept your pull request.
 1. After that, if you return to your pull request, it will show that it's been merged.
-1. That screen will ask if you want to delete the pull request branch. Do it - it's no longer needed.
+    * The pull request screen will ask if you want to delete the pull request branch. Do it - it's no longer needed.
 
 *Notes*:
 * DSVA team members, DSVA detailees, and Internal contractors have *the ability to save directly to the master branch.*
