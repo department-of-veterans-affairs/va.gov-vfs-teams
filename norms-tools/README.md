@@ -15,7 +15,7 @@
 * [Using Slack](#using-slack)
 * [Using Github](#using-github)
   * [Access to Github repos](#access-to-github-repos)
-  * [Specifics for using vets.gov-team repo](#specifics-for-using-vets-gov-team-repo)
+  * [Specifics for using vets.gov-team repo](#specifics-for-using-vetsgov-team-repo)
 
 <hr>
 
@@ -55,5 +55,5 @@ External contractors have access to the following Github repos (after they've be
 1. Your team should store project documents in your Github "Product" folder.
     * At a minimum, your team must store Research, Design, and Engineering documents in this folder.
 
-1.     
+1. More content on the way    
 
