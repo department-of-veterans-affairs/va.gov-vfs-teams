@@ -11,7 +11,7 @@ Teams working on the Veteran Tools Platform use [Github](https://github.com/depa
 4. Manage code and related version history.
 
 
-### Creating a Github account
+## Creating a Github account
 
 1. Everyone working on the Veteran Tools Platform must set up a Github account.
 1. Github accounts are subject to FOIA.
@@ -40,7 +40,7 @@ You can use Github by visiting the repo URL in your browser and editing files fr
 * If you're not familiar with Github, review the [Github primer](github-primer.md) to learn how to do basic tasks like creating a file or submitting a pull request.
 
 
-### Managing agile workflow
+### Manage agile workflow
 
 Each Github repo has a section called "Issues." [Learn about issues](https://guides.github.com/features/issues/).
 
@@ -52,7 +52,7 @@ The "Issues" section of the ```vets.gov-team``` repo is where all teams manage t
 * See [how we use Zenhub for product/agile management](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Product%20Management/zenhub_product_management.pdf).
 
 
-### Getting help    
+### Get help with Github
 
 1. If you have problems using Github, [check the Github FAQs for potential solutions](../faqs.md#github).
 2. Ask in a Slack channel.
