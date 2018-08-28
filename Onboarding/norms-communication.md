@@ -20,24 +20,23 @@
 ### DSVA authorizes access for VA contractors.
 
 * To ensure we limit VA access to the right people, a DSVA person will add VA contractors.
-  * VA contractors have [access to these items](external-team-access.md#github-repos---current) - current as of August 2018
-  * If a new need arises (e.g., access to a new Github repo is needed), internal contractors will direct the request to the DSVA Product Manager, who will determine access and permissions.
+  * If a new need arises (e.g., access to a new Github repo is needed), direct the request to the DSVA Product Manager, who will determine access and permissions.
   * Internal contractors cannot add VA contractors to Slack channels or to Github repos.
 
 ### DSVA and internal contractors provide support.
-* DSVA and internal contractor teams will monitor the "Product" Slack channel for product-focused questions/inquiries from external contractors.
-  * E.g., *#claimsmodern* for the BAH team working on 526 forms
-* DSVA and internal contractor teams will monitor the "Support" Slack channel for code and other development/deployment questions from external contractors.
-  * Rainbows team is assigned to be in support channel to provide support for BAH.
-  * Matt/Liz will capture requests for information/questions into a "FAQs" document so that future teams can refer to it **before asking an FAQ in the *#support-external* channel**.
+* DSVA and internal contractor teams will monitor the "Product" Slack channel for product-focused questions/inquiries from VA contractors.
+  * E.g., *#claimsmodern* for the VA contractor team working on 526 forms
+* DSVA and internal contractor teams will monitor the "Support" Slack channel for development, deployment, and project management questions from VA contractors.
 
 
 ### Internal contractors can answer "How do I?" questions.
 
+For example,
 * How to set up and run a local dev environment
 * How to access and deploy code
 * How to get answers to specific code-related questions
-  * The answers to "How do I?" questions are not directions; they're instructions to properly set up and use DSVA tools
+
+The answers to "How do I?" questions are not directions; they're instructions to properly set up and use DSVA tools.
 
 
 ### Internal contractors cannot direct VA contractor roadmaps.
@@ -45,7 +44,8 @@
 Contractors cannot direct the roadmaps of other contractors or tell them what project they should work on next. For example,
 * What should I be working on?
 * What task should I do next?
-  * If these questions come up, internal contractors should tell VA contractors to contact their own Project Manager. If there is no external Project Manager, VA contractors should contact their DSVA Product Manager.
+
+If these questions come up, internal contractors should tell VA contractors to contact their own Project Manager.
 
 **We do want Internal/VA contractors to collaborate because their projects will have dependencies and connections.**
 * For example, an Internal contractor may provide guidance or feedback on an VA contractor's architecture so that adjustments can be made to allow dependent tools to work well together.
@@ -53,7 +53,7 @@ Contractors cannot direct the roadmaps of other contractors or tell them what pr
 
 #### Gray areas
 
-Questions are bound to come up that fall somewhere between "How do I?" and "What do I?" In these cases, internal contractors should direct VA contractors to the DSVA Product Manager, who will decide how to handle the request for information or question to be answered.
+Questions are bound to come up that fall somewhere between "How do I?" and "What do I?" In these cases, internal contractors should direct VA contractors to the DSVA Product Manager, who will decide how to handle the question/request.
 
 We will track these "gray areas," so we can document our responses to them and decrease the amount of time the DSVA Product Manager needs to spend on them in the future.
 
