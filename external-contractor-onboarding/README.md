@@ -43,4 +43,4 @@ Have all team members review the:
 
 ## Step 3: Understand norms for using tools
 
-* [Understand how to use the tools](norms-tools) to do your work.
+* [Understand how to use the tools](../norms-tools) to do your work.
