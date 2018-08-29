@@ -10,11 +10,16 @@
 
 <hr>
 
+* [Welcome!](#welcome-to-the-veteran-tools-platform)
 * [Step 1: Understand culture](#step-1-understand-culture)
 * [Step 2: Request access to tools](#step-2-request-access-to-tools)
 * [Step 3: Understand norms for using tools](#step-3-understand-norms-for-using-tools)
 
 <hr>
+
+## Welcome to the Veteran Tools Platform
+
+We're excited that your team will be building an application (or feature) on the Veteran Tools Platform! This is the place to get started with onboarding your team.
 
 ## Step 1: Understand culture
 

@@ -71,7 +71,7 @@ The "Products" folder contains information about each product (application or fe
 
 ### Work Practices folder
 
-The "Work Practices" folder contains DSVA and Internal Contractor processes. These **do not apply to External Contractors**.
+The "Work Practices" folder contains DSVA and Internal Contractor processes &#8212; how we do things. These **do not apply to External Contractors**.
 
 **Action item**
 * Unless you are sent a direct link to a document in the "Work Practices" folder, **you should ignore everything in the Work Practices folder.**
