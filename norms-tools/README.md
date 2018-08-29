@@ -58,6 +58,13 @@ The ```vets.gov-team``` repo contains content about the Veteran Tools Platform s
 
 ### Products folder
 
+The "Products" folder contains information about each product (application or feature) on the Veteran Tools Platform. Your team will be assigned a "Products" folder (or sub-folder) to work in.
+
+* We encourage you to browse content in other "Products" folders to see how other teams have organized their content or presented their findings.
+  * This is especially important if your team is working on adding a feature to an existing application. You'll want to learn the history of the application by seeing what's happened so far.
+* Your project may be slightly different, so you don't need to exactly copy what other teams have done. Use your best judgement about what works for your project!
+* If you have any questions, ask your DSVA contact.
+
 **Action item**
 * For historical and tracking purposes, your team must store its project documents in your assigned "Products" folder. If you don't know which folder that is, ask your DSVA contact.
 * At a minimum, your team must store Research, Design, and Engineering documents in this folder.
@@ -67,5 +74,5 @@ The ```vets.gov-team``` repo contains content about the Veteran Tools Platform s
 The "Work Practices" folder contains DSVA and Internal Contractor processes. These **do not apply to External Contractors**.
 
 **Action item**
-* Unless you are sent a direct link to a document in the "Work Practices" folder, **you should ignore everything in that folder.**
+* Unless you are sent a direct link to a document in the "Work Practices" folder, **you should ignore everything in the Work Practices folder.**
 * If you have any questions about the processes you should follow as an External Contractor, ask your DSVA contact.
