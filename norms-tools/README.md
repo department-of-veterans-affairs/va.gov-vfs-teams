@@ -58,7 +58,7 @@ The ```vets.gov-team``` repo contains content about the Veteran Tools Platform s
 
 ### Products folder
 
-**Action item***
+**Action item**
 * For historical and tracking purposes, your team must store its project documents in your assigned "Products" folder. If you don't know which folder that is, ask your DSVA contact.
 * At a minimum, your team must store Research, Design, and Engineering documents in this folder.
 
