@@ -1,5 +1,6 @@
-# vets-work-practices
-Public-facing work practices for teams working on the Veteran Tools Platform
+# Work Practices for the Veteran Tools Platform
+
+* This repo contains public-facing work practices for teams working on the Veteran Tools Platform.
 
 <hr>
 
@@ -13,8 +14,12 @@ Public-facing work practices for teams working on the Veteran Tools Platform
 
 <hr>
 
-* [Onboarding for VA Contractors](external-contractor-onboarding)
-* [Frequently Asked Questions](faqs.md)
+### Content for all teams
+* [Code of Conduct](code-of-conduct)
 * [Norms for Communication](norms-communication.md)
 * [Norms for using Github](norms-github)
-* [Code of Conduct for working on the Veteran Tools Platform](code-of-conduct)
+* [Frequently Asked Questions](faqs.md)
+
+### Content for External Contractors
+* [Onboarding for External Contractors](external-contractor-onboarding)
+* [Norms for using tools](norms-tools)
