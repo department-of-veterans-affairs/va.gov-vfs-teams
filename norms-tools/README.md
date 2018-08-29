@@ -14,7 +14,7 @@
 
 * [Using Slack](#using-slack)
 * [Understanding Github access](#understanding-github-access)
-* [Using the vets.gov-team repo](#using-the-vets-gov-team-repo)
+* [Using the vets.gov-team repo](#using-the-vetsgov-team-repo)
 
 <hr>
 
@@ -36,12 +36,12 @@
 
 The [VA Github organization](https://github.com/department-of-veterans-affairs) contains many repos from teams across the VA. To make it easier for External Contractor teams working on the Veteran Tools Platform, we've listed the repos that are relevant to your work.
 
-After your team has been added to the VA Github organization (see [External Contractor onboarding](../external-contractor-onboarding/request-access-to-tools.md)), your team will have access to these repos:
+After your team has been added to the VA Github organization (see [requesting access to tools](../external-contractor-onboarding/request-access-to-tools.md)), your team will have access to these repos:
 
 * [vets.gov-team](https://github.com/department-of-veterans-affairs/vets.gov-team) (private, write access)
     * We'll set up a "Product" folder for your team, which you'll use to store and share project documents.
     * Your team will use Github issues in this repo to manage your agile workflow and to request tasks from the DSVA team.
-    * See [using the vets.gov-team repo](#using-the-vets-gov-team-repo).
+    * See [using the vets.gov-team repo](#using-the-vetsgov-team-repo).
 * [vets-ato](https://github.com/department-of-veterans-affairs/vets.gov-ato) (private, read access)
     * Provided so your team can review the current ATO documents.
 * [vets-website](https://github.com/department-of-veterans-affairs/vets-website) (public, developers have Write access)
