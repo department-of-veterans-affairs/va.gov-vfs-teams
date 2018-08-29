@@ -36,7 +36,7 @@
 
 The [VA Github organization](https://github.com/department-of-veterans-affairs) contains many repos from teams across the VA. To make it easier for External Contractor teams working on the Veteran Tools Platform, we've listed the repos that are relevant to your work.
 
-After your team has been added to the VA Github organization (see [External Contractor onboarding](../external-contractor-onboarding/request-access-to-tools)), your team will have access to these repos:
+After your team has been added to the VA Github organization (see [External Contractor onboarding](../external-contractor-onboarding/request-access-to-tools.md)), your team will have access to these repos:
 
 * [vets.gov-team](https://github.com/department-of-veterans-affairs/vets.gov-team) (private, write access)
     * We'll set up a "Product" folder for your team, which you'll use to store and share project documents.
