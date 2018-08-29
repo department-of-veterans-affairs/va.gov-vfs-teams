@@ -5,7 +5,7 @@ label: ATO
 
 ### Veteran Tools Platform ATO
 
-The Veteran Tools Platform (vets.gov) has [a full ATO from VA](https://github.com/department-of-veterans-affairs/vets.gov-ato/blob/master/ATO%20Memo%20for%20Vets_Gov%202017MAR07.pdf). The DSVA team is responsible for maintaining that ATO by updating it when new tools and services are added to the platform.
+The Veteran Tools Platform (everything in the vets.gov domain) has [platform-wide ATO from VA](https://github.com/department-of-veterans-affairs/vets.gov-ato/blob/master/ATO%20Memo%20for%20Vets_Gov%202017MAR07.pdf) (dated March 2, 2017). The DSVA team is responsible for maintaining that ATO by updating it when new tools and services are added to the platform.
 
 **Connect with the DSVA team as early as possible to start the process to update the ATO for the tool or service your team is planning to build.**
 
@@ -33,10 +33,11 @@ Start this as early as possible in your team's project.
 
 1. If the ATO does need to be updated:
     * DSVA will update the relevant ATO documents.
-    * DSVA will provide a link to the updated ATO documents for your team's reference.
+    * DSVA will make all necessary updates in RiskVision.
+    * DSVA will let you know the ATO has been updated.
 
 1. If the ATO does not need to be updated:
-    * DSVA will let you know, and you can use the existing ATO for your team's reference.
+    * DSVA will let you know that current ATO still applies.
 
 
 ### Security Review
@@ -69,11 +70,11 @@ You'll need a **security review** and a **final ATO assessment** before you can 
 
 1. If the ATO does need to be updated:
     * DSVA will update the relevant ATO documents.
-    * DSVA will provide a link to the updated ATO documents for your team's reference.
-    * DSVA will submit the updated ATO to VA on our regular schedule (quarterly).
+    * DSVA will make all necessary updates in RiskVision.
+    * DSVA will let you know the ATO has been updated.
 
 1. If the ATO does not need to be updated:
-    * DSVA will let you know, and you can use the existing ATO for your team's reference.
+    * DSVA will let you know that current ATO still applies.
 
 
 
