@@ -5,7 +5,7 @@ label: ATO
 
 ### Veteran Tools Platform ATO
 
-The Veteran Tools Platform (everything in the vets.gov domain) has [platform-wide ATO from VA](https://github.com/department-of-veterans-affairs/vets.gov-ato/blob/master/ATO%20Memo%20for%20Vets_Gov%202017MAR07.pdf) (dated March 2, 2017). The DSVA team is responsible for maintaining that ATO by updating it when new tools and services are added to the platform.
+The Veteran Tools Platform (everything in the vets.gov domain) has **a platform-wide ATO from VA** (dated March 2, 2017). The DSVA team is responsible for maintaining that ATO by updating it (and any related RiskVision items) when new applications are added to the platform (or when new features are added to existing applications).
 
 **Connect with the DSVA team as early as possible to start the process to update the ATO for the tool or service your team is planning to build.**
 
