@@ -5,10 +5,9 @@
 * [Background](#background)
 * [Tips for creating a Github account](#tips-for-creating-a-github-account)
 * [Using Github](#using-github)
-  * [Store and share documents](#store-and-share-documents)
-  * [Create, edit, and delete files](#create-edit-and-delete-files)
+  * [What is Github?](#what-is-github)
   * [Tips for managing files and folders](#tips-for-managing-files-and-folders)
-  * [Manage agile workflow](#manage-agile-workflow)
+  * [Managing agile workflow](#managing-agile-workflow)
 * [Get help with Github](#get-help-with-github)
 
 <hr>
@@ -36,23 +35,20 @@ Teams working on the Veteran Tools Platform use [Github](https://github.com/depa
 
 ## Using Github
 
-### Store and share documents
+### What is Github?
 
 GitHub is a system that stores documents and keeps a revision history of those files. It's divided into "repositories" (or "repos") which are groups of related files or documents. For example, this file lives in the ```vets-work-practices``` repo.
 
-For non-developers, most of their Github work happens in the ```vets.gov-team``` repo where they store and share files.
+You can use Github by visiting the URL for a specific repository in your browser and editing files from there. Or you can use the command line to interact with files.
+* If you're not familiar with Github, use the web URL to learn how Github works and what you can do with it.
 
-Github makes it easy to "style" text-based documents using Markdown syntax. Learn how to use [Github Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* For non-developers, most Github work happens in the ```vets.gov-team``` repo where they store and share files.
 
-
-### Create, edit, and delete files
-
-You can use Github by visiting the repo URL in your browser and editing files from there. Or you can use the command line to interact with files.
-
-If you're not familiar with Github, use the web interface to learn how Github works and what you can do with it.
+* Github makes it easy to "style" text-based documents using Markdown syntax. Learn how to use [Github Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 * Review the [Github primer to learn how to do basic tasks like creating a file or submitting a pull request](github-primer.md).
-* See [tips for managing Github files and folders](#tips-for-managing-files-and-folders).
+
+* See also [tips for managing Github files and folders](#tips-for-managing-files-and-folders).
 
 
 ### Tips for managing files and folders
@@ -73,7 +69,7 @@ If you're not familiar with Github, use the web interface to learn how Github wo
 1. When a folder contains 12 or more files, start thinking about grouping files into sub-folders to make it easier for people to find stuff.
 
 
-### Manage agile workflow
+### Managing agile workflow
 
 Each Github repo has a section called "Issues." [Learn about issues](https://guides.github.com/features/issues/).
 
