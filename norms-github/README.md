@@ -39,7 +39,7 @@ Teams working on the Veteran Tools Platform use [Github](https://github.com/depa
 
 GitHub is a system that stores documents and keeps a revision history of those files. It's divided into "repositories" (or "repos") which are groups of related files or documents. For example, this file lives in the ```vets-work-practices``` repo.
 
-* You can use Github by visiting the URL for a specific repository in your browser and editing files from there. Or you can use the command line to interact with files.
+* You can use Github by visiting the URL for a specific repo in your browser and editing files from there. Or you can use the command line to interact with files.
   * If you're not familiar with Github, use the web URL to learn how Github works and what you can do with it.
 
 * For non-developers, most Github work happens in the ```vets.gov-team``` repo where they store and share files.
