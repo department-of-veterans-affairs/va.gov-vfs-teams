@@ -38,7 +38,7 @@ Have all team members review the:
   * Review the norms for communication so you understand how to communicate effectively with DSVA, as well as expectations for communicating and working with other VA contractors.
 
 
-* [Norms for using Github](../norms-github)
+* [Norms for using Github](../Norms/Github)
 
   * Be sure team members review the [tips for creating a Github account](../Norms/Github/README.md#tips-for-creating-a-github-account) **before** they create a Github account in [Step #2](#step-2-request-access-to-tools).
 
