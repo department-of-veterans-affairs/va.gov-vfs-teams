@@ -31,7 +31,7 @@ Have all team members review the:
 
   * If you have questions about the Code of Conduct, ask your DSVA contact.
 
-* [Norms for communication](../norms-communication.md)
+* [Norms for communication](../Norms/communication.md)
 
   * Teams working on the Veteran Tools Platform come from different organizations (DSVA, Internal Contractors, External Contractors).
 
