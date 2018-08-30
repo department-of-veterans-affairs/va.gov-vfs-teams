@@ -15,5 +15,6 @@
 <hr>
 
 * [Consent Form for research participants](va-consent-form-generic.docx)
-* [Sample research readout - Keynote](research-readout-generic.key)
-* [Sample research readout - Powerpoint](research-readout-generic.pptx)
+* [Research readout - Keynote](research-readout-generic.key)
+* [Research readout - Powerpoint](research-readout-generic.pptx)
+* [Call Center product guide](sample-product-guide.pdf)

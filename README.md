@@ -18,6 +18,7 @@
 * [Code of Conduct](code-of-conduct)
 * [Norms for communication](Norms/communication.md)
 * [Norms for using Github](Norms/Github/README.md)
+* [Templates](Templates)
 * [Frequently Asked Questions](faqs.md)
 
 ### Content for External Contractors
