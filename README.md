@@ -16,7 +16,7 @@
 
 ### Content for all teams
 * [Code of Conduct](code-of-conduct)
-* [Norms for Communication](Norms/communication.md)
+* [Norms for communication](Norms/communication.md)
 * [Norms for using Github](Norms/Github/README.md)
 * [Frequently Asked Questions](faqs.md)
 
