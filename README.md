@@ -16,10 +16,10 @@
 
 ### Content for all teams
 * [Code of Conduct](code-of-conduct)
-* [Norms for Communication](norms-communication.md)
-* [Norms for using Github](norms-github)
+* [Norms for Communication](Norms/communication.md)
+* [Norms for using Github](Norms/Github/README.md)
 * [Frequently Asked Questions](faqs.md)
 
 ### Content for External Contractors
-* [Onboarding for External Contractors](external-contractor-onboarding)
-* [Norms for using tools](norms-tools)
+* [Onboarding for External Contractors](External-Contractor-Onboarding)
+* [Norms for using tools](Norms/tools.md)

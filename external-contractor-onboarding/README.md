@@ -38,7 +38,7 @@ Have all team members review the:
 
 * [Norms for using Github](../norms-github)
 
-  * Be sure team members review the [tips for creating a Github account](../norms-github/README.md#tips-for-creating-a-github-account) **before** they create a Github account in [Step #2](#step-2-request-access-to-tools).
+  * Be sure team members review the [tips for creating a Github account](../Norms/Github/README.md#tips-for-creating-a-github-account) **before** they create a Github account in [Step #2](#step-2-request-access-to-tools).
 
 
 ## Step 2: Request access to tools
@@ -48,4 +48,4 @@ Have all team members review the:
 
 ## Step 3: Understand norms for using tools
 
-* [Understand how to use the tools](../norms-tools) to do your work.
+* [Understand how to use the tools](../Norms/tools.md) to do your work.

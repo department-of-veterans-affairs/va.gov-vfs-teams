@@ -19,7 +19,7 @@
 
 To work on the Veteran Tools Platform, each team member needs access to the VA Github organization and access to DSVA Slack channels.
 
-1. Have each team member review the [tips for creating a Github account](../norms-github/README.md#tips-for-creating-a-github-account) **before creating a Github account.**
+1. Have each team member review the [tips for creating a Github account](../Norms/Github/README.md#tips-for-creating-a-github-account) **before creating a Github account.**
 
 1. Have everyone on the team create a Github account.
 
@@ -35,11 +35,9 @@ To work on the Veteran Tools Platform, each team member needs access to the VA G
 
 1. Developers must complete [additional onboarding steps](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/docs/vets-developer-docs/getting-started.html#getting-started) to access the code repositories and tools they'll need for development and deployment. They should complete these steps as soon as they've received the email invitation to join the VA Github organization.
 
-1. Understand the [norms for using these tools](../norms-tools) when you're working on the Veteran Tools Platform.
+1. Understand the [norms for using these tools](../Norms/Tools.md) when you're working on the Veteran Tools Platform.
 
 
 #### Tip:
 
 * If your team is new to Github, we can arrange a short meeting to show you how to use it share documents.
-
-
