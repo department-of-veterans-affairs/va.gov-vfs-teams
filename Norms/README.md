@@ -1,5 +1,7 @@
 # Norms for the Veteran Tools Platform
 
+* This folder contains public-facing content for teams working on the Veteran Tools Platform.
+
 <hr>
 
 **Definitions for terms used in this folder:**

@@ -1,5 +1,7 @@
 # Onboarding for External Contractors
 
+* This folder contains public-facing content for teams working on the Veteran Tools Platform.
+
 **Definitions for terms used in this folder:**
 
 * *"DSVA" refers to DSVA team members and DSVA detailees.*
