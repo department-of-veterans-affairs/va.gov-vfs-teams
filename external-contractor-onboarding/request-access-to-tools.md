@@ -23,7 +23,7 @@ To work on the Veteran Tools Platform, each team member needs access to the VA G
 
 1. Have everyone on the team create a Github account.
 
-1. [Use this spreadsheet](external-contractor-team-tracker.xlsx) to capture all names, email addresses, and Github usernames for the team.
+1. The **team Project Manager** should [use this spreadsheet](external-contractor-team-tracker.xlsx) to capture all names, email addresses, and Github usernames for the team.
     * Indicate which team members are developers (so we can give them access to developer code repos and tools).
     * Please rename the spreadsheet according to your team, e.g., BAH-team-tracker.xlsx.
 
