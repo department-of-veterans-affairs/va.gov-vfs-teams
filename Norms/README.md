@@ -14,10 +14,13 @@
 
 <hr>
 
+### Content for everybody
+
 * [Norms for Communication](communication.md)
 * [Norms for Github](Github)
-* [Frequently Asked Questions](../faqs.md)
+
 
 ### Content for External Contractors
+
 * [Onboarding for External Contractors](../External-Contractor-Onboarding)
 * [Norms for using tools](Norms/tools.md)
