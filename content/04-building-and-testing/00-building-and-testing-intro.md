@@ -6,7 +6,7 @@ label: Build and Test Intro
 
 **Quick reference**
 
-* <a title="go to build and deploy to staging" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/delivery/build-and-test/activities#1-develop-incrementally-by-coding-locally-and-deploying-to-staging-as-you-go." target="_blank">Build and deploy to staging</a>
+* <a title="go to build and deploy to staging" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/delivery/build-and-test/activities#1-develop-incrementally-by-coding-locally-and-deploying-to-staging-as-you-go" target="_blank">Build and deploy to staging</a>
 
 * [Automated 508 accessibility testing](./automated-testing)
 
