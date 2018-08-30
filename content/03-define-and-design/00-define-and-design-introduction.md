@@ -7,7 +7,7 @@ label: Introduction
 
 **Quick reference**
 
-* <a title="go to Design Guide" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/resources/more/design" target="_blank">Design guidelines</a>
+* <a title="go to Design Guide" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/resources/design" target="_blank">Design guidelines</a>
 
 * <a title="go to design patterns and tools" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/resources/design#design-tools" target="_blank">Design patterns and tools</a>
 

@@ -13,9 +13,9 @@ label: Introduction
 
 * <a title="go to research methods" href="https://methods.18f.gov/discover/" target="_blank">Research methods</a>
 
-* <a title="go to create research plan" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/resources/more/user-research#create-a-research-plan" target="_blank">Create a research plan</a>
+* <a title="go to create research plan" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/resources/user-research#create-a-research-plan" target="_blank">Create a research plan</a>
 
-* <a title="go to plan a research sprint" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/resources/more/user-research#plan-a-research-sprint" target="_blank">Recruit participants, run user research, and analyze findings</a>
+* <a title="go to plan a research sprint" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/resources/user-research#plan-a-research-sprint" target="_blank">Recruit participants, run user research, and analyze findings</a>
 
 * <a title="go to technical discovery" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/resources/more/technical-discovery" target="_blank">Technical discovery</a>
 

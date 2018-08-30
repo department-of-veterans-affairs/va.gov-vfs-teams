@@ -3,11 +3,6 @@ title: Obtaining Authority To Operate
 label: ATO
 ---
 
----
-title: Obtaining Authority To Operate
-label: ATO
----
-
 ### The content for this page has been migrated to the <a title="go to VA Digital Service Handbook" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/resources/more/ato" target="_blank">VA Digital Service Handbook - ATO</a>.
 
 <!--span style="color: red">
