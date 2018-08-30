@@ -14,6 +14,6 @@
 
 <hr>
 
-* [Consent Form for research participants](va-consent-form.docx)
+* [Consent Form for research participants](va-consent-form-generic.docx)
 * [Sample research readout - Keynote](research-readout-generic.key)
-* [Sample research readout - Powerpoint](research-readout-generic.ppt)
+* [Sample research readout - Powerpoint](research-readout-generic.pptx)
