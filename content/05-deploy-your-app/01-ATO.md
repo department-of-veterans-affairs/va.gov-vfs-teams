@@ -3,80 +3,12 @@ title: Obtaining Authority To Operate
 label: ATO
 ---
 
-### Veteran Tools Platform ATO
+---
+title: Obtaining Authority To Operate
+label: ATO
+---
 
-The Veteran Tools Platform (everything in the vets.gov domain) has **a platform-wide ATO from VA** (dated March 2, 2017). The DSVA team is responsible for maintaining that ATO by updating it (and any related RiskVision items) when new applications are added to the platform (or when new features are added to existing applications).
-
-**Connect with the DSVA team as early as possible to start the process to update the ATO for the tool or service your team is planning to build.**
-
-
-### Preliminary ATO assessment
-
-Start this as early as possible in your team's project.
-
-1. Create an issue in the [vets.gov-ato](https://github.com/department-of-veterans-affairs/vets.gov-ato) repository.
-
-1. Assign the issue to Brian Gryth (**@briangryth**).
-
-1. Label the issue with the **devops label**.
-
-1. Title the issue **Request to update ATO**.
-
-1. Provide the following information in the issue content.
-
-    * What data are you collecting? For example, what data are you requesting from users?
-    * What data are you using? For example, what data are you requesting from some VA service?
-    * Where does that data come from? For example, what API endpoint are you getting the data from?
-
-1. DSVA will examine the existing ATO documents and determine if they need to be updated based on the information you've provided.
-    * Plan for some back and forth conversation in the Github issue to get all the information DSVA needs.
-
-1. If the ATO does need to be updated:
-    * DSVA will update the relevant ATO documents.
-    * DSVA will make all necessary updates in RiskVision.
-    * DSVA will let you know the ATO has been updated.
-
-1. If the ATO does not need to be updated:
-    * DSVA will let you know that current ATO still applies.
-
-
-### Security Review
-
-You'll need a **security review** and a **final ATO assessment** before you can launch your tool or service. You should complete these steps when you know that your tool/service **will not** change before launch.
-
-
-#### Requesting a Security Review
-
-* Content in progress!
-
-#### Requesting a final ATO Assessment
-
-1. Create an issue in the [vets.gov-ato](https://github.com/department-of-veterans-affairs/vets.gov-ato) repository.
-
-1. Assign the issue to Brian Gryth (**@briangryth**).
-
-1. Label the issue with the **devops label**.
-
-1. Title the issue **Request for final ATO assessment**.
-
-1. Provide the following information in the issue content.
-
-    * What data are you collecting? For example, what data are you requesting from users?
-    * What data are you using? For example, what data are you requesting from some VA service?
-    * Where does that data come from? For example, what API endpoint are you getting the data from?
-
-1. DSVA will examine the existing ATO documents and determine if they need to be updated based on the information you've provided.
-    * Plan for some back and forth conversation in the Github issue to get all the information DSVA needs.
-
-1. If the ATO does need to be updated:
-    * DSVA will update the relevant ATO documents.
-    * DSVA will make all necessary updates in RiskVision.
-    * DSVA will let you know the ATO has been updated.
-
-1. If the ATO does not need to be updated:
-    * DSVA will let you know that current ATO still applies.
-
-
+### The content for this page has been migrated to the <a title="go to VA Digital Service Handbook" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/resources/more/ato" target="_blank">VA Digital Service Handbook - ATO</a>.
 
 <!--span style="color: red">
 This needs to be further discussed as a group and refined for scalability, but here are some initial thoughts:
