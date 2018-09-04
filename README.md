@@ -15,7 +15,7 @@
 <hr>
 
 ### Content for all teams
-* [Code of Conduct](code-of-conduct)
+* [Code of Conduct](code-of-conduct.md)
 * [Norms for communication](Norms/communication.md)
 * [Norms for using Github](Norms/Github/README.md)
 * [Templates](Templates)
