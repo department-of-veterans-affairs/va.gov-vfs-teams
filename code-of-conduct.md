@@ -2,7 +2,7 @@
 
 ## Notes
 
-* This file is a copy of the Code of Conduct here.
+* This file is a copy of the [Code of Conduct here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/CodeOfConduct.md) - visible if you're a member of the VA Github organization.
 * TODO - move the original COC to this location.
 
 ## Background
