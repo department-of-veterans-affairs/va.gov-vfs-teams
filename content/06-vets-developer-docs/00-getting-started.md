@@ -14,7 +14,7 @@ To build a service on the Veteran Tools Platform, which can be anything from a d
 
 ### Getting started
 
-1. Complete the steps in <a title="go to onboarding" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/service-design/getting-started#general-team-onboarding" target="_blank">general team onboarding</a>.
+1. Confirm that your team Project Manager has added your name, Github username, and public SSH key (not the fingerprint) to the team spreadsheet and sent it to DSVA. You'll know when you can visit [this Github repo and see the content](https://github.com/department-of-veterans-affairs/vets.gov-team).
 <br/><br/>
 
 1. Follow the steps for <a title="go to create ssh keys" href="https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/docs/vets-developer-docs/internal-tools-access.html#requirements">creating new SSH keys and configuring the SOCKS proxy</a>.
