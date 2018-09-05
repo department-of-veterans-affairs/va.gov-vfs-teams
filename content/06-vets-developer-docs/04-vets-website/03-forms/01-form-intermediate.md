@@ -331,3 +331,6 @@ If we had left off the `view:` prefix it would be:
 ```
 
 That should get you started with some of the common validation and conditional field scenarios. Many of the options above have extra parameters or options that may help with some less common scenarios, so make sure to check the form config spec for a full picture of all the options offered.
+
+<!-- Next Button -->
+<a href='./form-advanced'><div class="next-button"><h5 class="next-text">Next: Form - Advanced</h5></div></a>

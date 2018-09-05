@@ -16,3 +16,6 @@ Further Reading:
 
 Please see the [Development Workflow](../development-workflow) documentation to learn
 how to ship changes to Vets-API.
+
+<!-- Next Button -->
+<a href='./authentication'><div class="next-button"><h5 class="next-text">Next: Authentication</h5></div></a>

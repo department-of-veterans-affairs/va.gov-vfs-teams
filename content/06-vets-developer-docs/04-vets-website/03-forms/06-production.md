@@ -65,3 +65,6 @@ Another example from the health care application was to fix a bug in our form st
 In this example, we're moving an incorrectly located `isSpanishHispanicLatino` flag and setting it in the right spot.
 
 Writing migrations is not very common, but you may need to do it if you end up modifying a form that's already in production.
+
+<!-- Next Button -->
+<a href='./form-map'><div class="next-button"><h5 class="next-text">Next: Form Map</h5></div></a>

@@ -210,3 +210,6 @@ You will need to replace `<commit>` with the Git hash for the commit where your 
 ### vets-api
 
 Run `bundle update vets_json_schema` and everything should be updated correctly.
+
+<!-- Next Button -->
+<a href='./vets-api/vets-api-readme'><div class="next-button"><h5 class="next-text">Next: Vets API ReadMe</h5></div></a>

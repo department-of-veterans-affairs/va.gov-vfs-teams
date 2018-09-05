@@ -89,3 +89,6 @@ end
 # lib/my_integration/my_external_service/service.rb
 # TODO: apply Settings.my_external_service.secret to headers for the service.  Would be awesome to have a way to do this in the service configuration, or at least in an easier to understand way.
 ```
+
+<!-- Next Button -->
+<a href='../review-instances'><div class="next-button"><h5 class="next-text">Next: Review Instances</h5></div></a>

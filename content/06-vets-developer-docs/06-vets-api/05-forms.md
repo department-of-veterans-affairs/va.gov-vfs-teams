@@ -49,3 +49,6 @@ class ClaimsBaseController < ApplicationController
   end
 end
 ```
+
+<!-- Next Button -->
+<a href='./pdf-generation'><div class="next-button"><h5 class="next-text">Next: PDF Generation</h5></div></a>

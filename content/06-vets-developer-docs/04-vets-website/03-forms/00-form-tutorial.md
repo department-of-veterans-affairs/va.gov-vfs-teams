@@ -238,3 +238,6 @@ Note that if you refresh in the middle of the form, your data will be lost and t
 Once you've reviewed your form, you have to click the checkbox to agree to the privacy policy and then you can submit! For now, though, that Submit button will fail because there's no api to submit the data to.
 
 That's it! Continue on in our documentation to learn about building more complex forms and the whole process for building and submitting a new form.
+
+<!-- Next Button -->
+<a href='./form-intermediate'><div class="next-button"><h5 class="next-text">Next: Form - Intermediate</h5></div></a>

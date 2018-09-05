@@ -143,3 +143,6 @@ module.exports = {
   },
 };
 ```
+
+<!-- Next Button -->
+<a href='./qa'><div class="next-button"><h5 class="next-text">Next: Quality Assurance</h5></div></a>
