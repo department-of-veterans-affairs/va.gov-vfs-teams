@@ -19,7 +19,7 @@
 
 * The <a href="https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Research/Request%20or%20Do%20Research/PRA%20and%20Recruiting/PRA/Screener%20Questionnaire%202900-0770/Digital%20Service%20User%20Screener%20Questionnaire.docx" target="_blank">DSVA screener form</a> has PRA clearance and an established OMB form control number.
   * **For DSVA and Internal contractors**: Follow the process for your specific team.
-  * **For External Contractors**: Follow the process [outlined below](#how-to-recruit-for-a-research-study).
+  * **For External Contractors**: Follow the process [outlined below](#how-to-screen-participants-for-a-research-study).
 
 
 ### How to screen participants for a research study
