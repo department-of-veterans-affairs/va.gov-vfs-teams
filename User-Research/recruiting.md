@@ -40,8 +40,9 @@ DSVA uses Optimal Workshop to host its recruiting screener. This allows us to co
       * ```Team name is [your team's name]```, e.g., "BAH"
       * ```Working on [the name of your team's project]```, e.g., "526 forms"
       * ```For this research study: [name of the research study]```, e.g., "Round 1 research for 781 form"      
-1. Within 2 business days, you will receive a link to a recruiting screener personalized for your team's use.  
-    * If you don't receive a response within 2 business days, reach out to your DSVA contact.
+1. Within 2 business days, DSVA will update the Github issue with a link to the recruiting screener personalized for your team's use.  
+    * Github will send a notification to the person who created the issue. This will be your signal to start using the screener.
+    * If the Github issue isn't updated with a screener link within 2 business days, reach out to your DSVA contact.
 
 #### Recruit participants
 
