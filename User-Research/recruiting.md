@@ -34,7 +34,7 @@ DSVA uses Optimal Workshop to host its recruiting screener. This allows us to co
     * Labels: 
       * ```research```
       * ```[your team's Github label]```, e.g., "BAH-526"
-    * Assign the issue to: ```lalexanderson-dsva```
+    * Assign the issue to: ```[your DSVA contact]```
     * In the comments field: 
       * ```External contractor team requesting a recruiting screener.```
       * ```Team name is [your team's name]```, e.g., "BAH"
