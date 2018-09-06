@@ -50,7 +50,7 @@ DSVA uses Optimal Workshop to host its recruiting screener. This allows us to co
 1. At the end of that period, update the same Github issue by adding a comment with the following information:
     * ```Please export the responses for this screener: [link to the screener].```
     * ```Send the responses to this email address: [email address]```
-    * **Note**: the email address must be an official work email address associated with the external company working on the the specific project, e.g., *somename@bah.com*
+    * **Note**: the email address must be an official work email address associated with the external company working on the specific project, e.g., *somename@bah.com*
 1. Within 2 business days, you will receive an **encrypted email** with the screener responses.  
     * If you don't get a response within 2 days, reach out to your DSVA contact.
 1. Choose potential participants from the screener responses and continue with your normal recruiting process (i.e., setting up dates/times, etc.)
