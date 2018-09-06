@@ -39,16 +39,19 @@ DSVA uses Optimal Workshop to host its recruiting screener. This allows us to co
       * ```External contractor team requesting a recruiting screener.```
       * ```Team name is [your team's name]```, e.g., "BAH"
       * ```Working on [the name of your team's project]```, e.g., "526 forms"
+      * ```For this research study: [name of the research study]```, e.g., "Round 1 research for 781 form"      
 1. Within 2 business days, you will receive a link to a recruiting screener personalized for your team's use.  
-
+    * If you don't receive a response within 2 business days, reach out to your DSVA contact.
 
 #### Recruit participants
 
 1. Send the recruiting screener link out to potential participants.
-1. After you've sent out the link, wait 5 business days. During this time, Optimal will collect screener responses for your team.
-1. After 5 business days, post a message in your team's Product Slack channel (e.g., *#claimsmodern*) and ask for an export of the Optimal responses to your recruiting screener. 
-    * Be sure to include the link to the screener in your Slack message so DSVA can export the correct responses.
-    * If you don't get a response within 24 hours, ping *@lalexanderson* directly via Slack.
+1. Decide how long you want to run the screener, e.g., 1 week, 2 weeks, etc.
+1. At the end of that period, update the same Github issue by adding a comment with the following information:
+    * ```Please export the responses for this screener: [link to the screener].```
+    * ```Send the responses to this email address: [email address]```
+1. Within 2 business days, you will receive an **encrypted email** with the screener responses.  
+    * If you don't get a response within 2 days, reach out to your DSVA contact.
 1. Choose potential participants from the screener responses and continue with your normal recruiting process (i.e., setting up dates/times, etc.)
     * **External Contractors**: [See tips below](#tips).
     * **Note:** If you need specific participant types (e.g., Veterans with a MyHealtheVet account), call potential participants and ask them via phone. Questions asked via phone **are not subject to PRA,** so you can use a phone call to narrow your participant pool to the exact participant types you need.
