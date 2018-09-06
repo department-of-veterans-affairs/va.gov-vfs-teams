@@ -1,6 +1,6 @@
-# Research - Work Practices for the Veteran Tools Platform
+# Templates - Work Practices for the Veteran Tools Platform
 
-* This folder contains public-facing research documents for teams working on the Veteran Tools Platform.
+* This folder contains public-facing templates for teams working on the Veteran Tools Platform.
 
 <hr>
 
