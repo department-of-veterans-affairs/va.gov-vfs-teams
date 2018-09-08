@@ -1,5 +1,9 @@
 # VA Digital Services Platform Documentation
 
+### Pro-tip - Always do a PR to make sure the site continues to build correctly!
+
+<hr>
+
 ### Migration to VA Digital Service Handbook
 
 **In Progress -** The content in this site is being migrated to the <a title="go to Handbook" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/" target="_blank">Handbook site</a>.
