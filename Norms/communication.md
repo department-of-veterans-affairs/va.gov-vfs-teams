@@ -13,7 +13,7 @@
 <hr>
 
 * [DSVA and Internal Contractor responsibilities](#dsva-and-internal-contractor-responsibilities)
-* [External Contractor responsibilities](#va-contractor-responsibilities)
+* [External Contractor responsibilities](#external-contractor-responsibilities)
 * [Background for these decisions](#background-for-these-decisions)
 
 <hr>
