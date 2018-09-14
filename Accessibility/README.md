@@ -17,9 +17,6 @@
 
 **All applications and features on the Veteran Tools Platform are required to be accessible and 508 compliant.** 
 
-  * **For DSVA and Internal Contractors**: Follow the process for your specific team.
-  * **For External Contractors**: Follow the process [outlined below](#screening-participants-for-external-contractors).
-
 
 ### DSVA Accessibility Process
 
