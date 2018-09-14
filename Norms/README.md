@@ -16,11 +16,11 @@
 
 ### Content for everybody
 
-* [Norms for Communication](communication.md)
+* [Norms for Communication](norms-communication.md)
 * [Norms for Github](Github)
 
 
 ### Content for External Contractors
 
-* [Onboarding for External Contractors](../External-Contractor-Onboarding)
-* [Norms for using tools](Norms/tools.md)
+* [Onboarding for External Contractors](../Onboarding-External-Contractors)
+* [Norms for using tools](norms-tools.md)

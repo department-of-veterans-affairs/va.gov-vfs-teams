@@ -16,12 +16,16 @@
 
 ### Content for all teams
 * [Code of Conduct](code-of-conduct.md)
-* [Norms for communication](Norms/communication.md)
+* [Norms for communication](Norms/norms-communication.md)
 * [Norms for using Github](Norms/Github/README.md)
-* [Templates](Templates)
 * [Frequently Asked Questions](faqs.md)
 
 ### Content for External Contractors
-* [Onboarding for External Contractors](External-Contractor-Onboarding)
-* [Norms for using tools](Norms/tools.md)
-* [Recruiting and Screening Research Particpants](User-Research/recruiting.md)
+* [Onboarding for External Contractors](Onboarding-External-Contractors)
+* [Norms for using tools](Norms/norms-tools.md)
+* [Templates](Templates) you can use
+
+* [Recruiting and Screening Research Participants](User-Research/recruiting.md)
+* [User-Research](User-Research) - tasks related to conducting user research
+* [Accessibility](Accessibility) - tasks related to Accessibility and 508 compliance
+* [Security and ATO](Security-and-ATO) - tasks related to security and the Veteran Tools Platform ATO
