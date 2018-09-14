@@ -29,6 +29,7 @@
     * Labels: 
       * ```508/Accessibility```
       * ```[your team's Github label]```, e.g., "BAH-526"
+      * ```external-request```
     * Assign the issue to: ```[your DSVA contact]```
     * In the comments field: 
       * ```Requesting an Accessibility/508 review.```
