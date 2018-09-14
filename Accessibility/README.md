@@ -25,14 +25,13 @@
 #### Request an Accessibility/508 review
 
 1. File a Github issue in the ```vets.gov-team repo``` with the following information:
-    * Title: ```Request VA 508 review```
-    * Labels: 
+    * Title: ```Request Accessibility/508 review```
+    * Add the following Labels: 
       * ```508/Accessibility```
       * ```[your team's Github label]```, e.g., "BAH-526"
       * ```external-request```
     * Assign the issue to: ```[your DSVA contact]```
     * In the comments field: 
-      * ```Requesting an Accessibility/508 review.```
       * ```Team name is [your team's name]```, e.g., "BAH"
       * ```Working on [the name of your team's project]```, e.g., "526 forms"
       * ```For this functionality: [link to working code on staging]``` 
