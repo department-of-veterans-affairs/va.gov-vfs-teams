@@ -52,22 +52,22 @@
         * e.g., ```Functionality adds a new dataset to the Facility Locator so users can search for and view non-VA health providers on the map, as well as in list and detail views.```     
 1. Within XX business days [SLA TBD], DSVA will review your code and let you know the results of your review.
 1. *If problems are found,* DSVA will create a new Github issue for each Accesibility/508 problem found. 
-    1. Each issue will be assigned to the person who requested the review in Step #3. 
+    * The new Github issues will be assigned to the person who requested the review in Step #3. 
     1. Each issue will describe the specific changes required to make the code Accessible/508 compliant - what the problem is, where the problem occurs, how to fix it, and the issue severity.
     1. **Your team is expected to make all the changes prior to launch.** When your team has completed the changes, update each Github issue with the following comment
         * ```Changes completed in this code [link to the working code on staging]```
     1. Close all the issues.
     1. At this point, your code is cleared to launch (*provided you've completed all other pre-launch activities*).
-    1. DSVA will then do Step #4.
+    1. DSVA will then do [Step #4](#step-4-va-508-office-review).
 1. *If no problems are found,* DSVA will update the original Github issue with this comment:
     * ```No issues found.```
     * At this point, your code is cleared to launch (*provided you've completed all other pre-launch activities*).
-    * DSVA will then do Step #4.
+    * DSVA will then do [Step #4](#step-4-va-508-office-review).
 
 
 ### Step 4: VA 508 Office review
 
-**DSVA handles the VA 508 review for your team. You do not need to specifically request it. DSVA will automatically begin the following process for you based on the outcome of Step #3.**
+**DSVA handles the VA 508 review for your team. You do not need to specifically request it. DSVA will automatically begin the following process for you based on the outcome of [Step #3](#step-3-request-an-accessibility508-review).**
 
 Because all Veteran Tools Platform code goes through rigorous manual and automated 508 testing, the VA 508 office has approved DSVA to launch code before the VA 508 office reviews it. 
 
@@ -76,7 +76,7 @@ Because all Veteran Tools Platform code goes through rigorous manual and automat
 1. After the meeting, the VA 508 Office reviews the code and provides feedback/instructions to DSVA.
 
 1. The VA 508 office may request additional changes to your code. If this happens, DSVA will create a new Github issue for each Accesibility/508 problem found by the VA 508 Office.
-    * The issues will be assigned to the person who requested the [initial review](#request-an-accessibility508-review).
+    * The issues will be assigned to the person who requested the [initial review in Step #3](#step-3-request-an-accessibility508-review).
     * Each issue will describe the specific changes required to make the code Accessible/508 compliant - what the problem is, where the problem occurs, how to fix it, and the issue severity. 
 
 1. **Your team is expected to make all the changes as quickly as possible, for example, in the next sprint following receipt of the requested changes.**
