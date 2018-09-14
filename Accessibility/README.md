@@ -2,9 +2,9 @@
 
 <hr>
 
-* **This document applies only to External Contractors.**
+**This document applies only to External Contractors.**
 
-**Definitions for terms used in this folder:**
+* **Definitions for terms used in this folder:**
 
   * *"DSVA" refers to DSVA team members and DSVA detailees.*
 
