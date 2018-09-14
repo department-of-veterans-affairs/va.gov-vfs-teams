@@ -51,14 +51,13 @@
       * Provide a high-level description of the functionality for which you're requesting this review, 
         * e.g., ```Functionality adds a new dataset to the Facility Locator so users can search for and view non-VA health providers on the map, as well as in list and detail views.```     
 1. Within XX business days [SLA TBD], DSVA will review your code and provide feedback on the changes you need to make.
-    *  DSVA will create a new Github issue for each Accesibility/508 problem found. 
-    * Each issue will be assigned to the person who requested the review in Step #3. 
-    * Each issue will describe the specific changes required to make the code Accessible/508 compliant - what the problem is, where the problem occurs, how to fix it, and the issue severity.
-1. **Your team is expected to make all the changes prior to launch.**
-    * When you've completed the changes, update each Github issue with the following comment
-      * ```Changes completed in this code [link to the working code on staging]```
-    * Close the issue.
-    * At this point, your code is cleared to launch (*provided you've completed all other pre-launch activities*).
+1. *If problems are found,* DSVA will create a new Github issue for each Accesibility/508 problem found. 
+    1. Each issue will be assigned to the person who requested the review in Step #3. 
+    1. Each issue will describe the specific changes required to make the code Accessible/508 compliant - what the problem is, where the problem occurs, how to fix it, and the issue severity.
+    1. **Your team is expected to make all the changes prior to launch.** When your team has completed the changes, update each Github issue with the following comment
+        * ```Changes completed in this code [link to the working code on staging]```
+    1. Close all the issues.
+    1. At this point, your code is cleared to launch (*provided you've completed all other pre-launch activities*).
 
 
 ### Step 4: VA 508 Office review
