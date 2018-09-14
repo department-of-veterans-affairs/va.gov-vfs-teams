@@ -19,7 +19,9 @@
 
 **All applications and features on the Veteran Tools Platform are required to be accessible and 508 compliant.** 
 
-### Request an Accessibility/508 review
+### Step 1: Manually test your code for Accessibility/508 compliance
+
+### Step 2: Request an Accessibility/508 review
 
 1. File a Github issue in the ```vets.gov-team repo``` with the following information:
     * Title: ```Request Accessibility/508 review```
@@ -45,7 +47,9 @@
     * At this point, your code is cleared to launch (*provided you've completed all other pre-launch activities*).
 
 
-### VA 508 Office review
+### Step 3: VA 508 Office review
+
+**This process happens automatically through DSVA team action - External Contractors do not need to request this.**
 
 Because all Veteran Tools Platform code goes through rigorous manual and automated 508 testing, the VA 508 office has approved DSVA to launch code before the VA 508 office reviews it. 
 
