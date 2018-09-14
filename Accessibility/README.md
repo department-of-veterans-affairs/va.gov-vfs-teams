@@ -53,7 +53,7 @@ Because all Veteran Tools Platform code goes through rigorous manual and automat
 1. After the meeting, the VA 508 Office reviews the code and provides feedback/instructions to DSVA.
 
 1. The VA 508 office may request additional changes to your code. If this happens, DSVA will create a new Github issue for each Accesibility/508 problem found by the VA 508 Office.
-    * The issues will be assigned to the same person as above.
+    * The issues will be assigned to the person who requested the [initial review](#request-an-accessibility508-review).
     * Each issue will describe the specific changes required to make the code Accessible/508 compliant - what the problem is, where the problem occurs, how to fix it, and the issue severity. 
 
 1. **Your team is expected to make all the changes as quickly as possible, for example, in the next sprint following receipt of the requested changes.**
