@@ -58,9 +58,11 @@
         * ```Changes completed in this code [link to the working code on staging]```
     1. Close all the issues.
     1. At this point, your code is cleared to launch (*provided you've completed all other pre-launch activities*).
+    1. DSVA will then do Step #4.
 1. *If no issues are found,* DSVA will update the original Github issue with this comment:
     * ```No issues found.```
     * At this point, your code is cleared to launch (*provided you've completed all other pre-launch activities*).
+    * DSVA will then do Step #4.
 
 
 ### Step 4: VA 508 Office review
