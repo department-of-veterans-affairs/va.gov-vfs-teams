@@ -57,7 +57,7 @@ Because all Veteran Tools Platform code goes through rigorous manual and automat
     * Each issue will describe the specific changes required to make the code Accessible/508 compliant - what the problem is, where the problem occurs, how to fix it, and the issue severity. 
 
 1. **Your team is expected to make all the changes as quickly as possible, for example, in the next sprint following receipt of the requested changes.**
-  * When you've completed the changes, update each Github issue with the following comment
-  * ```Changes completed in this code [link to the working code on staging]```
-  * **DO NOT close the issue.**
+    * When you've completed the changes, update each Github issue with the following comment
+    * ```Changes completed in this code [link to the working code on staging]```
+    * **DO NOT close the issue.**
     * DSVA will confirm the changes have been made, close the issue, and notify the VA 508 Office that the problem has been resolved.
