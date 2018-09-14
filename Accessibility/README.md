@@ -32,7 +32,8 @@
       * ```Team name is [your team's name]```, e.g., "BAH"
       * ```Working on [the name of your team's project]```, e.g., "526 forms"
       * ```For this functionality: [link to working code on staging]``` 
-      * Provide a high-level description of the functionality for which you're requesting this review, e.g., ```Functionality adds a new dataset to the Facility Locator so users can search for and view non-VA health providers on the map, as well as in list and detail views.```     
+      * Provide a high-level description of the functionality for which you're requesting this review, 
+        * e.g., ```Functionality adds a new dataset to the Facility Locator so users can search for and view non-VA health providers on the map, as well as in list and detail views.```     
 1. Within XX business days [SLA TBD], DSVA will review your code and provide feedback on the changes you need to make.
     *  DSVA will create a new Github issue for each Accesibility/508 problem found. 
     * Each issue will be assigned to the person who requested the review in Step #1. 
@@ -58,6 +59,6 @@ Because all Veteran Tools Platform code goes through rigorous manual and automat
 
 1. **Your team is expected to make all the changes as quickly as possible, for example, in the next sprint following receipt of the requested changes.**
     * When you've completed the changes, update each Github issue with the following comment
-    * ```Changes completed in this code [link to the working code on staging]```
+      * ```Changes completed in this code [link to the working code on staging]```
     * **DO NOT close the issue.**
     * DSVA will confirm the changes have been made, close the issue, and notify the VA 508 Office that the problem has been resolved.
