@@ -40,7 +40,7 @@
     * Each issue will describe the specific changes required to make the code Accessible/508 compliant - what the problem is, where the problem occurs, how to fix it, and the issue severity.
 1. **Your team is expected to make all the changes prior to launch.**
     * When you've completed the changes, update each Github issue with the following comment
-    * ```Changes completed in this code [link to the working code on staging]```
+      * ```Changes completed in this code [link to the working code on staging]```
     * Close the issue.
     * At this point, your code is cleared to launch (*provided you've completed all other pre-launch activities*).
 
