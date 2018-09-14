@@ -30,7 +30,7 @@
 
 1. When your team has pushed all code to staging, you should manually test for Accessibility/508 compliance before doing Step #2.
 
-1. Follow the [manual testing steps in #3 under *Launch Criteria*](#launch-criteria).
+1. Follow the [manual testing steps in #3 under *Launch Criteria*](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Accessibility%20and%20508/a11y-508-launch-guidelines.md#launch-criteria).
 
 1. Fix any issues found and submit your code again.
 
