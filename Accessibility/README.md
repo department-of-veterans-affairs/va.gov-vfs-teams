@@ -19,9 +19,23 @@
 
 **All applications and features on the Veteran Tools Platform are required to be accessible and 508 compliant.** 
 
-### Step 1: Manually test your code for Accessibility/508 compliance
+### Step 1: Automated Accessibility/508 testing
 
-### Step 2: Request an Accessibility/508 review
+1. When you push your code to testing, the automated build process will test for Accessibility/508 compliance.
+
+1. If a build error occurs, fix it and submit your code again.
+
+
+### Step 2: Manually test your code for Accessibility/508 compliance
+
+1. When your team has pushed all code to staging, you should manually test for Accessibility/508 compliance before doing Step #2.
+
+1. Follow the [manual testing steps in #3 under *Launch Criteria*](#launch-criteria).
+
+1. Fix any issues found and submit your code again.
+
+
+### Step 3: Request an Accessibility/508 review
 
 1. File a Github issue in the ```vets.gov-team repo``` with the following information:
     * Title: ```Request Accessibility/508 review```
@@ -38,7 +52,7 @@
         * e.g., ```Functionality adds a new dataset to the Facility Locator so users can search for and view non-VA health providers on the map, as well as in list and detail views.```     
 1. Within XX business days [SLA TBD], DSVA will review your code and provide feedback on the changes you need to make.
     *  DSVA will create a new Github issue for each Accesibility/508 problem found. 
-    * Each issue will be assigned to the person who requested the review in Step #1. 
+    * Each issue will be assigned to the person who requested the review in Step #3. 
     * Each issue will describe the specific changes required to make the code Accessible/508 compliant - what the problem is, where the problem occurs, how to fix it, and the issue severity.
 1. **Your team is expected to make all the changes prior to launch.**
     * When you've completed the changes, update each Github issue with the following comment
@@ -47,9 +61,9 @@
     * At this point, your code is cleared to launch (*provided you've completed all other pre-launch activities*).
 
 
-### Step 3: VA 508 Office review
+### Step 4: VA 508 Office review
 
-**This process happens automatically through DSVA team action - External Contractors do not need to request this.**
+**DSVA handles the VA 508 review for your team. You do not need to specifically request it). DSVA will automatically begin the following process when you've closed all the issues in Step #2.**
 
 Because all Veteran Tools Platform code goes through rigorous manual and automated 508 testing, the VA 508 office has approved DSVA to launch code before the VA 508 office reviews it. 
 
