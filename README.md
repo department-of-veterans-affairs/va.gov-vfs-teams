@@ -24,6 +24,6 @@
 * [Onboarding for External Contractors](Onboarding-External-Contractors)
 * [Norms for using tools](Norms/norms-tools.md)
 * [Templates](Templates) you can use
-* [User-Research](User-Research) - tasks related to conducting user research
+* [User Research](User-Research) - tasks related to conducting user research
 * [Accessibility](Accessibility) - tasks related to Accessibility and 508 compliance
 * [Security and ATO](Security-and-ATO) - tasks related to security and the Veteran Tools Platform ATO
