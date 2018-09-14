@@ -59,7 +59,7 @@
     1. Close all the issues.
     1. At this point, your code is cleared to launch (*provided you've completed all other pre-launch activities*).
     1. DSVA will then do Step #4.
-1. *If no issues are found,* DSVA will update the original Github issue with this comment:
+1. *If no problems are found,* DSVA will update the original Github issue with this comment:
     * ```No issues found.```
     * At this point, your code is cleared to launch (*provided you've completed all other pre-launch activities*).
     * DSVA will then do Step #4.
@@ -67,7 +67,7 @@
 
 ### Step 4: VA 508 Office review
 
-**DSVA handles the VA 508 review for your team. You do not need to specifically request it). DSVA will automatically begin the following process when you've closed any issues found in Step #3.**
+**DSVA handles the VA 508 review for your team. You do not need to specifically request it. DSVA will automatically begin the following process for you based on the outcome of Step #3.**
 
 Because all Veteran Tools Platform code goes through rigorous manual and automated 508 testing, the VA 508 office has approved DSVA to launch code before the VA 508 office reviews it. 
 
