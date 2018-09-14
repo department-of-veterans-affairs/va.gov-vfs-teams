@@ -2,13 +2,15 @@
 
 <hr>
 
+* **This document applies only to External Contractors.**
+
 **Definitions for terms used in this folder:**
 
-* *"DSVA" refers to DSVA team members and DSVA detailees.*
+  * *"DSVA" refers to DSVA team members and DSVA detailees.*
 
-* *"Internal contractors" refers to DSVA's primary vendor contractor (e.g., AdHoc) and its subcontractors.*
+  * *"Internal contractors" refers to DSVA's primary vendor contractor (e.g., AdHoc) and its subcontractors.*
 
-* *"External contractors" refers to any other contractor team working on the Veteran Tools Platform.*
+  * *"External contractors" refers to any other contractor team working on the Veteran Tools Platform.*
 
 <hr>
 
@@ -26,21 +28,19 @@
     * Title: ```Request VA 508 review```
     * Labels: 
       * ```508/Accessibility```
-      * ```[your team's Github label]```, e.g., "BAH-526" or "Griffins"
-    * Assign the issue to: 
-      * If DSVA or Internal Contractor: ```Trevor Pierce```
-      * If External Contractor: ```[your DSVA contact]```
+      * ```[your team's Github label]```, e.g., "BAH-526"
+    * Assign the issue to: ```[your DSVA contact]```
     * In the comments field: 
       * ```Requesting an Accessibility/508 review.```
-      * ```Team name is [your team's name]```, e.g., "BAH" or "Griffins"
+      * ```Team name is [your team's name]```, e.g., "BAH"
       * ```Working on [the name of your team's project]```, e.g., "526 forms"
       * ```For this functionality: [link to working code on staging]``` 
       * Provide a high-level description of the functionality for which you're requesting this review, e.g., ```Functionality adds a new dataset to the Facility Locator so users can search for and view non-VA health providers on the map, as well as in list and details views.```     
 1. Within XX business days [SLA TBD], DSVA will review your code and provide feedback on the changes you need to make.
-    *  DSVA will create a separate Github issue for each 508 problem found. 
+    *  DSVA will create a separate Github issue for each Accesibility/508 problem found. 
     * Each issue will be assigned to the person who requested the review in Step #1. 
-    * Each issue will describe the specific changes that must be made to make the code Accessible/508 compliant - what the problem is, where the problem occurs, how to fix it, and the issue severity.
-1. Your team is expected to make all the changes prior to launch.
+    * Each issue will describe the specific changes required to make the code Accessible/508 compliant - what the problem is, where the problem occurs, how to fix it, and the issue severity.
+1. **Your team is expected to make all the changes prior to launch.**
     * When you've completed the changes, update each Github issue with the following comment
     * ```Changes completed in this code [link to the working code on staging]```
     * Close the issue.
@@ -55,11 +55,11 @@ Because all Veteran Tools Platform code goes through rigorous manual and automat
 
 1. After the meeting, the VA 508 Office reviews the code and provides feedback/instructions to DSVA.
 
-1. The VA 508 office may request additional changes to your code. If this happens, DSVA will create a new Github issue for each problem found by the VA 508 Office.
+1. The VA 508 office may request additional changes to your code. If this happens, DSVA will create a new Github issue for each Accesibility/508 problem found by the VA 508 Office.
   * The issues will be assigned to the same person as above.
-  * Each issue will describe the specific changes that must be made to make the code Accessible/508 compliant - what the problem is, where the problem occurs, how to fix it, and the issue severity. 
+  * Each issue will describe the specific changes required to make the code Accessible/508 compliant - what the problem is, where the problem occurs, how to fix it, and the issue severity. 
 
-1. Your team is expected to make all the changes as quickly as possible, for example, in the next sprint following receipt of the requested changes.
+1. **Your team is expected to make all the changes as quickly as possible, for example, in the next sprint following receipt of the requested changes.**
   * When you've completed the changes, update each Github issue with the following comment
   * ```Changes completed in this code [link to the working code on staging]```
   * **DO NOT close the issue.**
