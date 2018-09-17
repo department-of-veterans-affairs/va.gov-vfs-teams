@@ -33,7 +33,7 @@ To work on the Veteran Tools Platform, each team member needs access to the VA G
     * The VA Github organization
     * Slack channels relevant to your project
 
-1. Developers must complete [additional onboarding steps](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/docs/vets-developer-docs/getting-started.html#getting-started) to access the code repositories and tools they'll need for development and deployment. They should complete these steps as soon as they've received the email invitation to join the VA Github organization.
+1. Developers must complete [additional onboarding steps](#additional-onboarding-steps-for-developers) to access the code repositories and tools they'll need for development and deployment. They should complete these steps as soon as they've received the email invitation to join the VA Github organization.
 
 1. Understand the [norms for using these tools](../Norms/tools.md) when you're working on the Veteran Tools Platform.
 
@@ -41,3 +41,28 @@ To work on the Veteran Tools Platform, each team member needs access to the VA G
 #### Tip:
 
 * If your team is new to Github, we can arrange a short meeting to show you how to use it share documents.
+
+<hr>
+
+## Additional onboarding steps for developers
+
+1. Create [new SSH keys](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Internal%20Tools.md#create-an-ssh-public-key).
+
+1. Request that your SSH keys be authorized so that you can use the developer tools.
+    * File an issue in <a href="https://github.com/department-of-veterans-affairs/vets.gov-team" target="_blank">vets.gov-team repo</a>.
+      * Title: ```Add SSH key for external developer```
+      * Labels: 
+        * ```external-request```
+        * ```devops```
+        * ```your teams' Github label```, e.g., "BAH-526"
+      * Assign the issue to: ```your DSVA contact```
+      * Comment: ```your public SSH key``` (NOT the fingerprint)    
+
+1. When your key has been added, DSVA will close the Github issue, which will send a Github notification to you. This is your signal that you can continue to the next step.
+
+1. Configure [the SOCKS proxy](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Internal%20Tools.md#configure-the-socks-proxy---for-external-developers).
+
+1. Understand [how to use the SOCKS proxy from inside the VA network and from the internet](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Internal%20Tools.md#accessing-socks-proxy-from-va-network).
+
+1. [Test and use the SOCKS proxy](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Internal%20Tools.md#testing-and-using-the-socks-proxy).
+
