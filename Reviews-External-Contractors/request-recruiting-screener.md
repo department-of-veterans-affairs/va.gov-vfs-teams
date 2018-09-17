@@ -2,13 +2,13 @@
 
 * **This document applies only to External Contractors.**
 
-**Definitions for terms used in this folder:**
+* **Definitions for terms used in this folder:**
 
-* *"DSVA" refers to DSVA team members and DSVA detailees.*
+  * *"DSVA" refers to DSVA team members and DSVA detailees.*
 
-* *"Internal contractors" refers to DSVA's primary vendor contractor (e.g., AdHoc) and its subcontractors.*
+  * *"Internal contractors" refers to DSVA's primary vendor contractor (e.g., AdHoc) and its subcontractors.*
 
-* *"External contractors" refers to any other contractor team working on the Veteran Tools Platform.*
+  * *"External contractors" refers to any other contractor team working on the Veteran Tools Platform.*
 
 <hr>
 
