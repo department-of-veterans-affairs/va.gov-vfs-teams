@@ -1,20 +1,21 @@
 # Security and ATO
 
-* This folder contains public-facing information about doing Security Reviews and ATO-related tasks for teams working on the Veteran Tools Platform.
 
 <hr>
 
-**Definitions for terms used in this folder:**
+**This document applies only to External Contractors.**
 
-* *"DSVA" refers to DSVA team members and DSVA detailees.*
+* **Definitions for terms used in this folder:**
 
-* *"Internal contractors" refers to DSVA's primary vendor contractor (e.g., AdHoc) and its subcontractors.*
+  * *"DSVA" refers to DSVA team members and DSVA detailees.*
 
-* *"External contractors" refers to any other contractor team working on the Veteran Tools Platform.*
+  * *"Internal contractors" refers to DSVA's primary vendor contractor (e.g., AdHoc) and its subcontractors.*
+
+  * *"External contractors" refers to any other contractor team working on the Veteran Tools Platform.*
 
 <hr>
 
-* [Request a preliminary ATO assessment](#request-a-preliminary-ato-assessment)
+* [Request a preliminary ATO review](#request-a-preliminary-ato-review)
 * [Request a Pre-launch ATO review](#request-a-pre-launch-ato-review)
 
 <hr>
@@ -26,17 +27,17 @@ The purpose of an Authority To Operate (ATO) is to ensure the risks to VA (opera
 The Veteran Tools Platform has **a platform-wide ATO from VA** (dated March 2, 2017). The DSVA team is responsible for maintaining that ATO. DSVA updates the ATO (and any related RiskVision items) when new applications are added to the platform (or when new features are added to existing applications).
 
 
-### Request a preliminary ATO assessment
+### Request a preliminary ATO review
 
 **Connect with the DSVA team as early as possible to start this process.**
 
 1. File an issue in the <a href="https://github.com/department-of-veterans-affairs/vets.gov-team" target="_blank">vets.gov-team</a> repository. *When you've completed the onboarding steps, you'll be able to view that repo.*
-    * Title: ```Request preliminary ATO assessment```
+    * Title: ```Request preliminary ATO review```
     * Labels:
       * ```external-request```
       * ```devops```
       * ```[your team's Github label]```, e.g., "BAH-526"
-    * Assign to: ```[your team's DSVA contact]```
+    * Assign the issue to: ```[your DSVA contact]```
     * Provide the following information in the Comment field: 
       * What data are you collecting? For example, what data are you requesting from users?
       * What data are you using? For example, what data are you requesting from some VA service?
@@ -57,8 +58,8 @@ You'll need a **Pre-launch ATO review** before you can launch your tool or servi
     * Labels:
       * ```external-request```
       * ```devops```
-      * ```[your team's Github label]```, e.g., "BAH-526"
-    * Assign to: ```[your team's DSVA contact]```
+      * ```[your Github label]```, e.g., "BAH-526"
+    * Assign the issue to: ```[your team's DSVA contact]```
     * Provide the following information in the Comment field: 
       * What data are you collecting? For example, what data are you requesting from users?
       * What data are you using? For example, what data are you requesting from some VA service?

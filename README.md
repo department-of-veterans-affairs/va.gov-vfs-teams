@@ -26,7 +26,9 @@
 * [Onboarding for External Contractors](Onboarding-External-Contractors)
 * [Norms for using tools](Norms/norms-tools.md)
 * [Templates](Templates) you can use
-* [User Research](User-Research) - tasks related to conducting user research
-* [Accessibility](Accessibility) - tasks related to Accessibility and 508 compliance
-* [Security and ATO](Security-and-ATO) - tasks related to security and the Veteran Tools Platform ATO
-* [Design](Design) - tasks related to ux design, interaction design, ui design, and visual design
+* [Request Reviews](Reviews-External-Contractors) - how to request specific DSVA reviews (or QA) of your work
+  * [Request to use a Recruiting Screener](Reviews-External-Contractors/request-recruiting-screener.md)
+  * [Request Preliminary and Pre-launch ATO Reviews](Reviews-External-Contractors/request-ato-reviews.md)
+  * [Request an Accessibility/508 review](Reviews-External-Contractors/request-508-review.md)
+  * [Request Design QA](Reviews-External-Contractors/request-design-qa.md)
+  * [Request Content QA](Reviews-External-Contractors/request-content-qa.md)

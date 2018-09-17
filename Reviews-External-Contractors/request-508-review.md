@@ -39,10 +39,10 @@
 
 1. File a Github issue in the ```vets.gov-team repo``` with the following information:
     * Title: ```Request Accessibility/508 review```
-    * Add the following Labels: 
+    * Labels: 
       * ```508/Accessibility```
-      * ```[your team's Github label]```, e.g., "BAH-526"
       * ```external-request```
+      * ```[your team's Github label]```, e.g., "BAH-526"
     * Assign the issue to: ```[your DSVA contact]```
     * In the comments field: 
       * ```Team name is [your team's name]```, e.g., "BAH"

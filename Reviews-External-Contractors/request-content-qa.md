@@ -1,14 +1,16 @@
-# UX/IxD/UI and Visual Design
+# Content Strategy and Writing
 
 <hr>
 
-**Definitions for terms used in this folder:**
+**This document applies only to External Contractors.**
 
-* *"DSVA" refers to DSVA team members and DSVA detailees.*
+* **Definitions for terms used in this folder:**
 
-* *"Internal contractors" refers to DSVA's primary vendor contractor (e.g., AdHoc) and its subcontractors.*
+  * *"DSVA" refers to DSVA team members and DSVA detailees.*
 
-* *"External contractors" refers to any other contractor team working on the Veteran Tools Platform.*
+  * *"Internal contractors" refers to DSVA's primary vendor contractor (e.g., AdHoc) and its subcontractors.*
+
+  * *"External contractors" refers to any other contractor team working on the Veteran Tools Platform.*
 
 <hr>
 
@@ -30,11 +32,12 @@
 ### Request a Content QA
 
 1. File an issue in ```vets-team repo```.
+    * Title: ```Request Content QA```
     * Labels: 
       * ```content```
       * ```external-request```
       * ```[your team's Github label]```, e.g., "BAH-526"
-    * Assign to: ```[your DSVA contact]```
+    * Assign the issue to: ```[your DSVA contact]```
     * Comment: Provide some context for your team's project and the content for which you're requesting a review.
       * TODO - provide an example here.
 1. Within 4 business days, DSVA will conduct a Content QA using the [Checklist below](#content-qa-checklist).
