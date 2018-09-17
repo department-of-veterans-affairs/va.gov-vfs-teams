@@ -16,33 +16,42 @@
 
 ### General
 
-**All teams working on the Veteran Tools Platform are required to adhere to the [Content Style Guide](https://github.com/department-of-veterans-affairs/vets.gov-content-style-guide).
+* **All teams working on the Veteran Tools Platform are required to adhere to the [Content Style Guide](https://github.com/department-of-veterans-affairs/vets.gov-content-style-guide)**, including standards for
+  * Voice and Tone
+  * Plain Language Word Choice
+  * Terms (in-house style for specific words and phrases)
+  * Government Forms (Applications)
+  * Content and Structure
+  * Style and Formatting
+  * Site Navigation (Language and Conventions)
+* **External Contractor teams should schedule the Content QA when the complete and final build is on staging.** 
+  * The Content QA should happen when the team is confident no further changes will happen before launch.
 
-* The <a href="https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Research/Request%20or%20Do%20Research/PRA%20and%20Recruiting/PRA/Screener%20Questionnaire%202900-0770/Digital%20Service%20User%20Screener%20Questionnaire.docx" target="_blank">DSVA screener form</a> has PRA clearance and an established OMB form control number.
-  * **For DSVA and Internal Contractors**: Follow the process for your specific team.
-  * **For External Contractors**: Follow the process [outlined below](#screening-participants-for-external-contractors).
 
 ### Request a Content QA
 
-1. External teams write their own content.
+1. File an issue in ```vets-team repo```.
+    * Labels: 
+      * ```content```
+      * ```external-request```
+      * ```[your team's Github label]```, e.g., "BAH-526"
+    * Assign to: ```[your DSVA contact]```
+    * Comment: Provide some context for your team's project and the content for which you're requesting a review.
+      * TODO - provide an example here.
+1. Within 4 business days, DSVA will conduct a Content QA using the [Checklist below](#content-qa-checklist).
+1. DSVA will update the Github issue with a Word document (with changes tracked) to show where content needs to be changed.
+1. Complete all the changes requested in the Word document.
+    * If your team has questions (or disagrees with a requested change), use the Github issue to discuss that with DSVA.
+1. When all changes are completed:
+    * Close the issue.
+    * Proceed to other QA and pre-launch activities.
 
-1. Before the final QA, the external team files an issue in vets-team repo.
-    * Labels: ```content-qa``` and ```external-request```
-    * Assign to: ```Beth Potts```
-    * Comment: ```Provides some context for the project and the content review```
-      * An example here will help illustrate what we want from the external team in terms of "context"
-    
-1. Beth assigns the issue to an editor on her team. 
 
-1. The editor [performs a content QA that covers these items](#content-qa-checklist).
-    * Expected turnaround time is 2 business days. **We should discuss SLA as I think 2 days is not much time.**
-
-1. The editor creates a Word doc and uses "track changes" to show where content needs to be changed.
-
-1. The editor uploads the Word doc to the Github issue.
-
-1. The external team makes all the changes and closes the issue.
-    * Our expectation is that the external team makes **all the changes** noted in the Word doc. 
-    * If the external team disagrees with a change, they can use the issue to talk about how to resolve it with the editor.
-
-1. The external team proceeds to final QA.
+### Content QA Checklist
+* Capitalization
+* Spelling
+* Typos
+* Spacing (after periods, etc.)
+* Label style (e.g., "Social Security number," not "SSN")
+* Terms per our style guide (e.g., "file a claim for disability compensation," not "apply for benefits")
+* General style - does the form (or other content) adhere to our style guide? (e.g., "GI Bill", not "G.I. Bill")
