@@ -41,6 +41,7 @@ The Veteran Tools Platform has **a platform-wide ATO from VA** (dated March 2, 2
       * What data are you collecting? For example, what data are you requesting from users?
       * What data are you using? For example, what data are you requesting from some VA service?
       * Where does that data come from? For example, what API endpoint are you getting the data from?
+      * See [an example issue](https://github.com/department-of-veterans-affairs/vets.gov-ato/issues/318) to illustrate the kinds of information we need for this preliminary assessment.
 1. DSVA will examine the existing ATO documents and determine if they need to be updated based on the information you've provided.
     * Plan for some back and forth conversation in the Github issue to get all the information DSVA needs.
 
