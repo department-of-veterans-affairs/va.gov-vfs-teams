@@ -13,7 +13,7 @@
 <hr>
 
 * [General](#general)
-* [Request a Design QA](#request-a-content-qa)
+* [Request a Design QA](#request-a-design-qa)
 
 <hr>
 
