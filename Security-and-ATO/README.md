@@ -36,7 +36,7 @@ The Veteran Tools Platform has **a platform-wide ATO from VA** (dated March 2, 2
       * ```external-request```
       * ```devops```
       * ```[your team's Github label]```, e.g., "BAH-526"
-    * Assign to: ```Brian Gryth```
+    * Assign to: ```[your team's DSVA contact]```
     * Provide the following information in the Comment field: 
       * What data are you collecting? For example, what data are you requesting from users?
       * What data are you using? For example, what data are you requesting from some VA service?
@@ -58,7 +58,7 @@ You'll need a **Pre-launch ATO review** before you can launch your tool or servi
       * ```external-request```
       * ```devops```
       * ```[your team's Github label]```, e.g., "BAH-526"
-    * Assign to: ```Brian Gryth```
+    * Assign to: ```[your team's DSVA contact]```
     * Provide the following information in the Comment field: 
       * What data are you collecting? For example, what data are you requesting from users?
       * What data are you using? For example, what data are you requesting from some VA service?
