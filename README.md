@@ -29,3 +29,4 @@
 * [User Research](User-Research) - tasks related to conducting user research
 * [Accessibility](Accessibility) - tasks related to Accessibility and 508 compliance
 * [Security and ATO](Security-and-ATO) - tasks related to security and the Veteran Tools Platform ATO
+* [Design](Design) - tasks related to ux design, interaction design, ui design, and visual design
