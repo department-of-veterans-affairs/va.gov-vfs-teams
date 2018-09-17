@@ -1,8 +1,6 @@
 # Content Strategy and Writing
 
-<hr>
-
-**This document applies only to External Contractors.**
+* **This document applies only to External Contractors.**
 
 * **Definitions for terms used in this folder:**
 
@@ -11,6 +9,12 @@
   * *"Internal contractors" refers to DSVA's primary vendor contractor (e.g., AdHoc) and its subcontractors.*
 
   * *"External contractors" refers to any other contractor team working on the Veteran Tools Platform.*
+
+<hr>
+
+* [General](#general)
+* [Request a Content QA](#request-a-content-qa)
+* [Content QA Checklist](#content-qa-checklist)
 
 <hr>
 

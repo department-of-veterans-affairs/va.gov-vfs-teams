@@ -1,9 +1,7 @@
 # Security and ATO
 
 
-<hr>
-
-**This document applies only to External Contractors.**
+* **This document applies only to External Contractors.**
 
 * **Definitions for terms used in this folder:**
 
@@ -15,6 +13,7 @@
 
 <hr>
 
+* [What is an Authority to Operate (ATO)](#what-is-an-authority-to-operate-ato)
 * [Request a preliminary ATO review](#request-a-preliminary-ato-review)
 * [Request a Pre-launch ATO review](#request-a-pre-launch-ato-review)
 
@@ -26,6 +25,7 @@ The purpose of an Authority To Operate (ATO) is to ensure the risks to VA (opera
 
 The Veteran Tools Platform has **a platform-wide ATO from VA** (dated March 2, 2017). The DSVA team is responsible for maintaining that ATO. DSVA updates the ATO (and any related RiskVision items) when new applications are added to the platform (or when new features are added to existing applications).
 
+<hr>
 
 ### Request a preliminary ATO review
 
@@ -48,6 +48,7 @@ The Veteran Tools Platform has **a platform-wide ATO from VA** (dated March 2, 2
 
 1. DSVA will provide a preliminary ATO assessment of whether or not the ATO needs to be updated.
 
+<hr>
 
 ### Request a Pre-launch ATO review
 

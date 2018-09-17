@@ -12,8 +12,14 @@
 
 <hr>
 
+* [General](#general)
+* [Request a preliminary ATO review](#request-a-preliminary-ato-review)
+* [Request a Pre-launch ATO review](#request-a-pre-launch-ato-review)
 
-### General
+<hr>
+
+
+## General
 
 **All teams working on the Veteran Tools Platform are required to follow the DSVA process for screening participants for any research study related to the Veteran Tools Platform.** 
 
@@ -22,12 +28,14 @@
   * **For External Contractors**: Follow the process [outlined below](#screening-participants-for-external-contractors).
 
 
-### Screening participants (for External Contractors)
+<hr>
+
+## Screening participants (for External Contractors)
 
 DSVA uses Optimal Workshop to host its recruiting screener. This allows us to collect responses in an organized way and allows us to report PRA "burden hours" (as required by law) for the screener form.
 
 
-#### Request to use recruiting screener
+### Request to use recruiting screener
 
 1. File a Github issue in the ```vets.gov-team repo``` with the following information:
     * Title: ```Request recruiting screener for research study```
@@ -45,7 +53,7 @@ DSVA uses Optimal Workshop to host its recruiting screener. This allows us to co
     * Github will send a notification to the person who created the issue. This will be your signal to start using the screener.
     * If the Github issue isn't updated with a screener link within 2 business days, reach out to your DSVA contact.
 
-#### Recruit participants
+### Recruit participants
 
 1. Send the recruiting screener link out to potential participants.
 1. Decide how long you want to run the screener, e.g., 1 week, 2 weeks, etc.
@@ -59,8 +67,9 @@ DSVA uses Optimal Workshop to host its recruiting screener. This allows us to co
     * **External Contractors**: [See tips below](#tips).
     * **Note:** If you need specific participant types (e.g., Veterans with a MyHealtheVet account), call potential participants and ask them via phone. Questions asked via phone **are not subject to PRA,** so you can use a phone call to narrow your participant pool to the exact participant types you need.
 
+<hr>
 
-#### Tips
+## Tips
 
 * Start recruiting at least 2 weeks before you plan to run the research sessions.
 

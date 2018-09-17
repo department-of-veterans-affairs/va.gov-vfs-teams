@@ -1,8 +1,6 @@
 # Accessibility and 508 compliance
 
-<hr>
-
-**This document applies only to External Contractors.**
+* **This document applies only to External Contractors.**
 
 * **Definitions for terms used in this folder:**
 
