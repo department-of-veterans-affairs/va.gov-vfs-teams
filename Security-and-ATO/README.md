@@ -15,7 +15,7 @@
 <hr>
 
 * [Request a preliminary ATO assessment](#request-a-preliminary-ato-assessment)
-* [Request a Final ATO review](#request-a-final-ato-review)
+* [Request a Pre-launch ATO review](#request-a-pre-launch-ato-review)
 
 <hr>
 
@@ -48,12 +48,12 @@ The Veteran Tools Platform has **a platform-wide ATO from VA** (dated March 2, 2
 1. DSVA will provide a preliminary ATO assessment of whether or not the ATO needs to be updated.
 
 
-### Request a final ATO review
+### Request a Pre-launch ATO review
 
-You'll need a **final ATO review** before you can launch your tool or service. Complete this step when you know that your tool/service **will not** change before launch.
+You'll need a **Pre-launch ATO review** before you can launch your tool or service. Complete this step when you know that your tool/service **will not** change before launch.
 
 1. File an issue in the <a href="https://github.com/department-of-veterans-affairs/vets.gov-team" target="_blank">vets.gov-team</a> repository. *When you've completed the onboarding steps, you'll be able to view that repo.*
-    * Title: ```Request Final ATO review```
+    * Title: ```Request Pre-launch ATO review```
     * Labels:
       * ```external-request```
       * ```devops```
