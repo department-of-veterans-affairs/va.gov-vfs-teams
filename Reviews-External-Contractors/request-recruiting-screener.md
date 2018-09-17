@@ -1,6 +1,6 @@
 # Recruiting for User Research
 
-<hr>
+* **This document applies only to External Contractors.**
 
 **Definitions for terms used in this folder:**
 
@@ -13,8 +13,8 @@
 <hr>
 
 * [General](#general)
-* [Request a preliminary ATO review](#request-a-preliminary-ato-review)
-* [Request a Pre-launch ATO review](#request-a-pre-launch-ato-review)
+* [How to screen participants](#how-to-screen-participants)
+* [Tips](#tips)
 
 <hr>
 
@@ -24,13 +24,13 @@
 **All teams working on the Veteran Tools Platform are required to follow the DSVA process for screening participants for any research study related to the Veteran Tools Platform.** 
 
 * The <a href="https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Research/Request%20or%20Do%20Research/PRA%20and%20Recruiting/PRA/Screener%20Questionnaire%202900-0770/Digital%20Service%20User%20Screener%20Questionnaire.docx" target="_blank">DSVA screener form</a> has PRA clearance and an established OMB form control number.
-  * **For DSVA and Internal Contractors**: Follow the process for your specific team.
-  * **For External Contractors**: Follow the process [outlined below](#screening-participants-for-external-contractors).
+
+* **For External Contractors**: Follow the process [outlined below](#screening-participants-for-external-contractors).
 
 
 <hr>
 
-## Screening participants (for External Contractors)
+## How to screen participants
 
 DSVA uses Optimal Workshop to host its recruiting screener. This allows us to collect responses in an organized way and allows us to report PRA "burden hours" (as required by law) for the screener form.
 
