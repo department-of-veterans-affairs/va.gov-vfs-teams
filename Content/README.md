@@ -27,6 +27,7 @@
 * **External Contractor teams should schedule the Content QA when the complete and final build is on staging.** 
   * The Content QA should happen when the team is confident no further changes will happen before launch.
 
+<hr>
 
 ### Request a Content QA
 
@@ -46,6 +47,7 @@
     * Close the issue.
     * Proceed to other QA and pre-launch activities.
 
+<hr>
 
 ### Content QA Checklist
 * Capitalization
