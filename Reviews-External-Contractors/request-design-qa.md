@@ -19,16 +19,9 @@
 
 ### General
 
-* **All teams working on the Veteran Tools Platform are required to adhere to the [Content Style Guide](https://github.com/department-of-veterans-affairs/vets.gov-content-style-guide)**, including standards for
-  * Voice and Tone
-  * Plain Language Word Choice
-  * Terms (in-house style for specific words and phrases)
-  * Government Forms (Applications)
-  * Content and Structure
-  * Style and Formatting
-  * Site Navigation (Language and Conventions)
-* **External Contractor teams should schedule the Content QA when the complete and final build is on staging.** 
-  * The Content QA should happen when the team is confident no further changes will happen before launch.
+* **All teams working on the Veteran Tools Platform are required to follow the guidelines and patterns in the [Veteran Tools Platform Design System](https://department-of-veterans-affairs.github.io/design-system/).**
+* **External Contractor teams should schedule the Design QA when the complete and final build is on staging.** 
+  * The Design QA should happen when the team is confident no further changes will happen before launch.
 
 <hr>
 
@@ -37,15 +30,18 @@
 1. File an issue in ```vets-team repo```.
     * Title: ```Request Design QA```
     * Labels: 
-      * ```UX```
+      * ```design```
       * ```external-request```
       * ```[your team's Github label]```, e.g., "BAH-526"
     * Assign the issue to: ```[your DSVA contact]```
-    * Comment: Provide some context for your team's project and the content for which you're requesting a review.
+    * Comment: Include the following information:
+      * Context for your team's project, e.g., "Updating the Facility Locator with new data about non-VA health providers."
+      * The places where you've created and used new design patterns (if any)
+      * Any unusual or tricky design problems you needed to solve in this work
       * TODO - provide an example here.
-1. Within 4 business days, DSVA will conduct a Content QA using the [Checklist below](#content-qa-checklist).
-1. DSVA will update the Github issue with a Word document (with changes tracked) to show where content needs to be changed.
-1. Complete all the changes requested in the Word document.
+1. Within 4 business days, DSVA will conduct a Design QA using the [Checklist below](#design-qa-checklist).
+1. DSVA will update the Github issue with screenshots to show where design needs to be changed.
+1. Complete all the changes requested in the screenshots.
     * If your team has questions (or disagrees with a requested change), use the Github issue to discuss that with DSVA.
 1. When all changes are completed:
     * Close the issue.
@@ -53,11 +49,6 @@
 
 <hr>
 
-### Content QA Checklist
-* Capitalization
-* Spelling
-* Typos
-* Spacing (after periods, etc.)
-* Label style (e.g., "Social Security number," not "SSN")
-* Terms per our style guide (e.g., "file a claim for disability compensation," not "apply for benefits")
-* General style - does the form (or other content) adhere to our style guide? (e.g., "GI Bill", not "G.I. Bill")
+### Design QA Checklist
+
+* specifics TBD
