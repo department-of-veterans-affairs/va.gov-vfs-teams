@@ -51,4 +51,4 @@
 
 ### Design QA Checklist
 
-* specifics TBD
+* [ ] specifics TBD
