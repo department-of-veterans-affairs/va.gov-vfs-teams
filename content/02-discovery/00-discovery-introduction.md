@@ -13,13 +13,13 @@ label: Introduction
 
 * <a title="go to research methods" href="https://methods.18f.gov/discover/" target="_blank">Research methods</a>
 
-* <a title="go to create research plan" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/resources/user-research#create-a-research-plan" target="_blank">Create a research plan</a>
+* <a title="go to create research plan" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/resources/more/research-activities#create-a-research-plan" target="_blank">Create a research plan</a>
 
-* <a title="go to plan a research sprint" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/resources/user-research#plan-a-research-sprint" target="_blank">Recruit participants, run user research, and analyze findings</a>
+* <a title="go to plan a research sprint" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/resources/more/research-activities#plan-a-research-sprint" target="_blank">Recruit participants, run user research, and analyze findings</a>
 
 * <a title="go to technical discovery" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/resources/more/technical-discovery" target="_blank">Technical discovery</a>
 
-* <a title="go to ATO" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/resources/more/ato" target="_blank">Start thinking about ATO requirements</a>
+* <a title="go to ATO" href="https://github.com/department-of-veterans-affairs/vets-work-practices/blob/master/Reviews-External-Contractors/request-ato-reviews.md#request-a-preliminary-ato-review" target="_blank">Start thinking about ATO requirements</a>
 
 
 <!-- Next Button -->

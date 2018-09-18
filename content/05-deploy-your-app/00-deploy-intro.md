@@ -14,7 +14,7 @@ label: Deploy Intro
 
 * <a title="go to communications" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/resources/more/marcom" target="_blank">Set up marketing and communications</a>
 
-* <a title="go to va 508" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/resources/more/va508" target="_blank">Review with VA's 508 Office</a>
+* <a title="go to va 508" href="https://github.com/department-of-veterans-affairs/vets-work-practices/blob/master/Reviews-External-Contractors/request-508-review.md#dsva-accessibility-process" target="_blank">Request an Accessibility/508 Review</a>
 
 * <a title="go to learn and improve" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/delivery/learn-and-improve" target="_blank">Launch your MVP and learn and improve</a>
 
