@@ -62,7 +62,7 @@ The IA determines where in the Veteran Tools Platform your service will live, ho
 
 ### Step 3: Define the URLs
 
-As part of defining the information architecture in [Step #2](#step-2-define-the-informatio-architecture), you identified the directory (or subdirectory) in which your service will live. For example, in the ```health-care/apply-for-health-care-form-10-10ez/``` directory.
+As part of defining the information architecture in [Step #2](#step-2-define-the-information-architecture), you identified the directory (or subdirectory) in which your service will live. For example, in the ```health-care/apply-for-health-care-form-10-10ez/``` directory.
 
 You also defined the ```<h1>``` page titles for each page or screen. For example, ```veteran-information/personal-information``` and ```veteran-information/birth-information```.
 
