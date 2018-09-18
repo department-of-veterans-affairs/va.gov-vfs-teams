@@ -55,10 +55,10 @@
 <hr>
 
 ### Content QA Checklist
-* Capitalization
-* Spelling
-* Typos
-* Spacing (after periods, etc.)
-* Label style (e.g., "Social Security number," not "SSN")
-* Terms per our style guide (e.g., "file a claim for disability compensation," not "apply for benefits")
-* General style - does the form (or other content) adhere to our style guide? (e.g., "GI Bill", not "G.I. Bill")
+* [ ] Capitalization
+* [ ] Spelling
+* [ ] Typos
+* [ ] Spacing (after periods, etc.)
+* [ ] Label style (e.g., "Social Security number," not "SSN")
+* [ ] Terms per our style guide (e.g., "file a claim for disability compensation," not "apply for benefits")
+* [ ] General style - does the form (or other content) adhere to our style guide? (e.g., "GI Bill", not "G.I. Bill")
