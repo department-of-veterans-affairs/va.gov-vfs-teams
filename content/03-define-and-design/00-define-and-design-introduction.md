@@ -13,7 +13,7 @@ label: Introduction
 
 * <a title="go to technical discovery" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/resources/more/technical-discovery" target="_blank">Technical capabilities</a>
 
-* <a title="go to Design Sprints" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/delivery/prototype/activities#activities" target="_blank">Prototype and test with users</a>
+* <a title="go to Design Sprints" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/delivery/prototype/activities" target="_blank">Prototype and test with users</a>
 
   * <a title="go to prototyping" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/resources/more/prototyping-tips" target="_blank">See also tips for prototyping</a>
 
