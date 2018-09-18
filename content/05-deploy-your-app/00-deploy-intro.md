@@ -10,7 +10,7 @@ label: Deploy Intro
 
 * <a title="go to uat" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/resources/more/uat" target="_blank">Perform user acceptance testing</a>
 
-* <a title="go to live service details" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/resources/more/service-details" target="_blank">Set up monitoring and logging</a>
+<!--* <a title="go to live service details" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/resources/more/service-details" target="_blank">Set up monitoring and logging</a>-->
 
 * <a title="go to communications" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/resources/more/marcom" target="_blank">Set up marketing and communications</a>
 
