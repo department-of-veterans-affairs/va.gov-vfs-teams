@@ -3,7 +3,7 @@ title: URL Creation – Process & Guidelines
 label: URL Creation
 ---
 
-### The content for this page has been migrated to the <a title="go to VA Digital Service Handbook" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/service-design/related/other-resources/info-architecture" target="_blank">VA Digital Service Handbook - Defining Information Architecture</a>.
+### The content for this page has been migrated to the <a href="https://github.com/department-of-veterans-affairs/vets-work-practices/blob/master/Reviews-External-Contractors/request-ia-review.md" target="_blank">vets-work-practices repo</a>.
 
 <!--
 The URL path is the component of the URL that follows the domain and directs the user to a specific file, or, page on the site. The path is made up of 1 or more directories, depending on how deep the page is within the site.

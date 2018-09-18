@@ -2,7 +2,7 @@
 title: Obtaining Authority To Operate
 label: ATO
 ---
-### The content for this page has been migrated to the <a title="go to VA Digital Service Handbook" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/resources/more/ato" target="_blank">VA Digital Service Handbook - ATO</a>.
+### The content for this page has been migrated to <a title="" href="https://github.com/department-of-veterans-affairs/vets-work-practices/blob/master/Reviews-External-Contractors/request-ato-reviews.md" target="_blank">vets-work-practices repo</a>.
 
 <!--span style="color: red">
 This needs to be further discussed as a group and refined for scalability, but here are some initial thoughts:
