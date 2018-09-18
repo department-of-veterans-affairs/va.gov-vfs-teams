@@ -14,7 +14,7 @@ label: Build and Test Intro
 
 * Plan and conduct <a title="go to usability testing" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/resources/user-research#user-research-activities" target="_blank">usability testing</a>
 
-* Request a <a title="go to ato" href="https://github.com/department-of-veterans-affairs/vets-work-practices/blob/master/Reviews-External-Contractors/request-ato-reviews.md#request-a-pre-launch-ato-review target="_blank">pre-launch ATO review</a>
+* Request a <a title="go to ato" href="https://github.com/department-of-veterans-affairs/vets-work-practices/blob/master/Reviews-External-Contractors/request-ato-reviews.md#request-a-pre-launch-ato-review" target="_blank">pre-launch ATO review</a>
 
 * [Perform end-to-end QA testing](./qa)
 
