@@ -48,7 +48,8 @@
       * **URL:** ```link to working code on staging]``` 
       * **Context:** Provide a high-level description of the functionality for which you're requesting this review, 
         * e.g., ```Functionality adds a new dataset to the Facility Locator so users can search for and view non-VA health providers on the map, as well as in list and detail views.```     
-1. Within XX business days [SLA TBD], DSVA will review your code and let you know the results of your review.
+1. **Within 4 business days**, DSVA will review your code and let you know the results of your review.
+    * If you don't hear anything at the end of 4 business days, reach out to your DSVA contact.
 1. *If problems are found,* DSVA will create a new Github issue for each Accesibility/508 problem found. 
     * The new Github issues will be assigned to the person who requested the review in Step #3. 
     1. Each issue will describe the specific changes required to make the code Accessible/508 compliant - what the problem is, where the problem occurs, how to fix it, and the issue severity.
