@@ -35,11 +35,12 @@
       * ```[your team's Github label]```, e.g., "BAH-526"
     * Assign the issue to: ```[your DSVA contact]```
     * Comment: Include the following information:
-      * Context for your team's project, e.g., "Updating the Facility Locator with new data about non-VA health providers."
-      * The places where you've created and used new design patterns (if any)
-      * Any unusual or tricky design problems you needed to solve in this work
+      * **Context:** Provide context for your team's project, e.g., "Updating the Facility Locator with new data about non-VA health providers."
+      * **URL:** ```link to your project on staging```
+      * **New Design Patterns (if any):** Note the places where you've created and used new design patterns (if any)
+      * **Design Challenges (if any):** Note any unusual or tricky design problems you needed to solve in this work
       * TODO - provide an example here.
-1. Within 4 business days, DSVA will conduct a Design QA using the [Checklist below](#design-qa-checklist).
+1. **Within 4 business days**, DSVA will conduct a Design QA using the [Checklist below](#design-qa-checklist).
 1. DSVA will update the Github issue with screenshots to show where design needs to be changed.
 1. Complete all the changes requested in the screenshots.
     * If your team has questions (or disagrees with a requested change), use the Github issue to discuss that with DSVA.
