@@ -55,11 +55,12 @@
     1. **Your team is expected to make all the changes prior to launch.** When your team has completed the changes, update each Github issue with the following comment
         * ```Changes completed in this code [link to the working code on staging]```
     1. Close all the issues.
-    1. At this point, your code is cleared to launch (*provided you've completed all other pre-launch activities*).
+    1. After you've closed all the issues, this pre-launch activity is considered complete.
     1. DSVA will then do [Step #4](#step-4-va-508-office-review).
-1. *If no problems are found,* DSVA will update the original Github issue with this comment:
-    * ```No issues found.```
-    * At this point, your code is cleared to launch (*provided you've completed all other pre-launch activities*).
+1. *If no problems are found,* 
+    1. DSVA will update the original Github issue with this comment: ```No issues found```
+    1. DSVA will close the issue.
+    1. Github will send the issue creator a notification. This is your team's signal that this pre-launch activity is complete.
     * DSVA will then do [Step #4](#step-4-va-508-office-review).
 
 
