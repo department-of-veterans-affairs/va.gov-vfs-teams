@@ -1,10 +1,22 @@
 # Cross Browser Testing
-Before your app is ready to go live, it's important to run through the user experience in different browsers to ensure that nothing breaks.
-- [Cross Browser Testing Template](../../assets/launch/templates/manual-testing.csv)
-- [Test User Accounts](../../assets/launch/templates/test-users.csv)
+
+* **Definitions for terms used in this folder:**
+
+  * *"DSVA" refers to DSVA team members and DSVA detailees.*
+
+  * *"Internal contractors" refers to DSVA's primary vendor contractor (e.g., AdHoc) and its subcontractors.*
+
+  * *"External contractors" refers to any other contractor team working on the Veteran Tools Platform.*
+
+<hr>
+
+## Tools you'll need
+
+* [Cross Browser Testing Template](../Templates/cross-browser-manual-testing.csv)
+* [Test User Accounts](../Templates/test-users.csv)
 
 *Manual Testing Example*
-![](../../assets/launch/images/manual-testing-example.png)
+![](../../assets/launch/images/cross-browser-manual-testing-example.png)
 
 ## Manual 508 Accessibility Testing
 Manual accessibility testing often comes down to subjective reasoning. If something doesn’t feel right, it probably isn’t, and should be logged as an error. Your answers will help determine the accessibility heat index score for the application or site being tested.
