@@ -1,7 +1,5 @@
 # Automated Accessibility/508 Compliance Testing
 
-* **This document applies only to External Contractors.**
-
 * **Definitions for terms used in this folder:**
 
   * *"DSVA" refers to DSVA team members and DSVA detailees.*
@@ -156,5 +154,3 @@ module.exports = {
 };
 ```
 
-<!-- Next Button -->
-<a href='./qa'><div class="next-button"><h5 class="next-text">Next: Quality Assurance</h5></div></a>
