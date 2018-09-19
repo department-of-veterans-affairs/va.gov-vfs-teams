@@ -72,7 +72,9 @@ You'll need a **Pre-launch ATO review** before you can launch your tool or servi
 1. If the ATO needs to be updated:
     * DSVA will update the relevant ATO documents.
     * DSVA will make all necessary updates in RiskVision.
-    * DSVA will let you know the ATO has been updated.
+    * DSVA will comment in the issue that the ATO has been updated.
+    * DSVA will close the issue. This is your team's signal that this pre-launch activity has been completed.
 
 1. If the ATO does not need to be updated:
-    * DSVA will let you know that the current ATO still applies.
+    * DSVA will comment in the issue that the current ATO still applies.
+    * DSVA will close the issue. This is your team's signal that this pre-launch activity has been completed.
