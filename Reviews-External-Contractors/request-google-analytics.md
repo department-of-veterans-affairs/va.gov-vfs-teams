@@ -50,9 +50,9 @@ Answer the following questions in a Word document:
       * ```[your team's Github label]```, e.g., "BAH-526"
     * Assign the issue to: ```[your DSVA contact]```
     * Comment: 
-      * Provide some context for your team's project, e.g., ```This project adds a new dataset to the Facility Locator so that Veterans can find non-VA health care providers in their community.```
-      * Upload the Word document you prepared above.
-      * Include a link to your project on staging.
+      * **Context**: Provide some context for your team's project, e.g., ```This project adds a new dataset to the Facility Locator so that Veterans can find non-VA health care providers in their community.```
+      * **Tracking information**: Upload the Word document you prepared above.
+      * **URL**: ```link to your project on staging```
 1. **Within 4 business days**, DSVA will create an implementation approach for Google Analytics in your project.
     * There may be some back-and-forth in the Github issue comments as DSVA gathers the information needed to set up GA for your project.
 1. When this is done, DSVA will update the Github issue.
