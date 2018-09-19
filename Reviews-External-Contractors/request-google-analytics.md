@@ -54,6 +54,7 @@ Answer the following questions in a Word document:
       * Upload the Word document you prepared above.
       * Include a link to your project on staging.
 1. **Within 4 business days**, DSVA will create an implementation approach for Google Analytics in your project.
+    * There may be some back-and-forth in the Github issue comments as DSVA gathers the information needed to set up GA for your project.
 1. When this is done, DSVA will update the Github issue.
     * *If custom events are required, DSVA will*
       1. Update the issue with a description of how to implement the custom events in the code.
