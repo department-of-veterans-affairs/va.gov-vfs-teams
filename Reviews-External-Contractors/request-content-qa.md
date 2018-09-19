@@ -48,9 +48,8 @@
 1. DSVA will update the Github issue with a Word document (with changes tracked) to show where content needs to be changed.
 1. Complete all the changes requested in the Word document.
     * If your team has questions (or disagrees with a requested change), use the Github issue to discuss that with DSVA.
-1. When all changes are completed:
-    * Close the issue.
-    * Proceed to other QA and pre-launch activities.
+1. When all changes are completed, close the issue.
+1. After you've closed the issue, this pre-launch activity is considered complete.
 
 <hr>
 
