@@ -127,6 +127,7 @@ Define the page meta description for each page/screen in your service.
       * **Information Architecture**: ```Upload a diagram or table illustrating how users navigate to your service and from where```
       * **Page Title/URL/Page meta description**: ```a table showing each Page Title, its URL, and its Meta Description```
 1. **Within 4 business days**, DSVA will conduct an IA Review and provide feedback.
+    * If you don't hear anything after 4 business days, reach out to your DSVA Contact.
     * DSVA's goal in this review is to make sure your service doesn’t collide with existing services and to provide feedback based on Veteran experiences with other Veteran Tools Platform services.
 1. DSVA will update the Github issue with a Word document that provides feedback and any requested changes.
 1. Complete all the changes requested in the Word document.
