@@ -43,10 +43,12 @@
       * ```[your team's Github label]```, e.g., "BAH-526"
     * Assign the issue to: ```[your DSVA contact]```
     * Comment: 
-      * **Context:** Provide some context for your team's project and the content for which you're requesting a review.
+      * **Context:** Provide a high-level description of the functionality for which you're requesting this review,
+        * e.g., ```Functionality adds a new dataset to the Facility Locator so users can search for and view non-VA health providers on the map, as well as in list and detail views.```
       * **URL:** ```link to your project on staging```
       * TODO - provide an example here.
 1. **Within 4 business days**, DSVA will conduct a Content QA using the [Checklist below](#content-qa-checklist).
+    * If you don't hear anything after 4 business days, reach out to your DSVA Contact.
 1. DSVA will update the Github issue with a Word document (with changes tracked) to show where content needs to be changed.
 1. Complete all the changes requested in the Word document.
     * If your team has questions (or disagrees with a requested change), use the Github issue to discuss that with DSVA.
