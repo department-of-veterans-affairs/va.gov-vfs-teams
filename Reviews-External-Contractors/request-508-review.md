@@ -43,10 +43,10 @@
       * ```[your team's Github label]```, e.g., "BAH-526"
     * Assign the issue to: ```[your DSVA contact]```
     * In the comments field: 
-      * ```Team name is [your team's name]```, e.g., "BAH"
-      * ```Working on [the name of your team's project]```, e.g., "526 forms"
-      * ```For this functionality: [link to working code on staging]``` 
-      * Provide a high-level description of the functionality for which you're requesting this review, 
+      * **Team name:** ```[your team's name]```, e.g., "BAH"
+      * **Working on:** ```Working on [the name of your team's project]```, e.g., "526 forms"
+      * **URL:** ```link to working code on staging]``` 
+      * **Context:** Provide a high-level description of the functionality for which you're requesting this review, 
         * e.g., ```Functionality adds a new dataset to the Facility Locator so users can search for and view non-VA health providers on the map, as well as in list and detail views.```     
 1. Within XX business days [SLA TBD], DSVA will review your code and let you know the results of your review.
 1. *If problems are found,* DSVA will create a new Github issue for each Accesibility/508 problem found. 
