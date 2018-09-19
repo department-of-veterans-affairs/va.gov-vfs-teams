@@ -1,4 +1,4 @@
-# Content Strategy and Writing
+# Google Analytics - IN PROGRESS - DO NOT USE YET
 
 * **This document applies only to External Contractors.**
 
@@ -13,51 +13,57 @@
 <hr>
 
 * [General](#general)
-* [Request a Content QA](#request-a-content-qa)
-* [Content QA Checklist](#content-qa-checklist)
+* [Prepare for Google Analytics](#prepare-for-google-analytics)
+* [Request Google Analytics](#request-google-analytics)
 
 <hr>
 
 ### General
 
-* **All teams working on the Veteran Tools Platform are required to adhere to the [Content Style Guide](https://github.com/department-of-veterans-affairs/vets.gov-content-style-guide)**, including standards for
-  * Voice and Tone
-  * Plain Language Word Choice
-  * Terms (in-house style for specific words and phrases)
-  * Government Forms (Applications)
-  * Content and Structure
-  * Style and Formatting
-  * Site Navigation (Language and Conventions)
-* **External Contractor teams should schedule the Content QA when the complete and final build is on staging.** 
-  * The Content QA should happen when the team is confident no further changes will happen before launch.
+* **All teams working on the Veteran Tools Platform are required to integrate VA's Google Analytics into their services.**
+* **External Contractor teams should request Google Analytics when the complete and final build is on staging.** 
+  * The Request for Google Analytics should happen when the team is confident no further changes will happen before launch.
 
 <hr>
 
-### Request a Content QA
+### Prepare for Google Analytics
+
+Answer the following questions in a Word document:
+
+* What is the final step a user will take in their user experience?
+* What steps in the user experience would you like to measure to understand progress and abandonment?
+* What other user interactions, like Print or Save, are key to understanding the behavior of your users?
+* What other navigation elements on the site will help you understand how your users navigate to, and use, your service?
+* What success metrics have you identified for your service?
+* What user interaction or behavior do you want to count as a "transaction" to track? What are your goals for each of these transactions?
+* What are other events, interactions, behavior you want to track that aren't covered by the above questions?
+
+<hr>
+
+### Request Google Analytics
 
 1. File an issue in ```vets-team repo```.
-    * Title: ```Request Content QA```
+    * Title: ```Request Google Analytics```
     * Labels: 
-      * ```content```
+      * ```analytics```
       * ```external-request```
       * ```[your team's Github label]```, e.g., "BAH-526"
     * Assign the issue to: ```[your DSVA contact]```
-    * Comment: Provide some context for your team's project and the content for which you're requesting a review.
-      * TODO - provide an example here.
-1. Within 4 business days, DSVA will conduct a Content QA using the [Checklist below](#content-qa-checklist).
-1. DSVA will update the Github issue with a Word document (with changes tracked) to show where content needs to be changed.
-1. Complete all the changes requested in the Word document.
-    * If your team has questions (or disagrees with a requested change), use the Github issue to discuss that with DSVA.
-1. When all changes are completed, close the issue.
-1. After you've closed the issue, this pre-launch activity is considered complete.
+    * Comment: 
+      * Provide some context for your team's project, e.g., ```This project adds a new dataset to the Facility Locator so that Veterans can find non-VA health care providers in their community.```
+      * Upload the Word document you prepared above.
+      * Include a link to your project on staging.
+1. **Within 4 business days**, DSVA will create an implementation approach for Google Analytics in your project.
+1. When this is done, DSVA will update the Github issue.
+    * *If custom events are required, DSVA will*
+      1. Update the issue with a description of how to implement the custom events in the code.
+      1. Your team will make the necessary code changes and push them to staging.
+      1. Your team will update the issue with this comment: ```Custom events are set up```
+    * If custom events are not required, DSVA will continue to the next step.
+1. DSVA will verify that Google Analytics is working properly in your project on staging.
+    * If there are any issues, DSVA will fix them and re-verify.
+1. When DSVA is confident Google Analytics is working properly for your project, DSVA will
+    * Add a comment to the Github issue: ```GA ready to go```
+    * Close the issue.
+1. When the issue is closed, Github will send a notification to the issue creator. This is your team's signal that this pre-launch activity is complete.
 
-<hr>
-
-### Content QA Checklist
-* [ ] Capitalization
-* [ ] Spelling
-* [ ] Typos
-* [ ] Spacing (after periods, etc.)
-* [ ] Label style (e.g., "Social Security number," not "SSN")
-* [ ] Terms per our style guide (e.g., "file a claim for disability compensation," not "apply for benefits")
-* [ ] General style - does the form (or other content) adhere to our style guide? (e.g., "GI Bill", not "G.I. Bill")
