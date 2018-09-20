@@ -1,4 +1,4 @@
-## Manual 508 Accessibility Testing - TEMP - DO NOT USE
+## Manual 508 Accessibility Testing - TEMP - DO NOT USE - DECIDING IF USEFUL
 Manual accessibility testing often comes down to subjective reasoning. If something doesn’t feel right, it probably isn’t, and should be logged as an error. Your answers will help determine the accessibility heat index score for the application or site being tested.
 
 #### Screen readers - five or more errors
