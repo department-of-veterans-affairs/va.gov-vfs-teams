@@ -4,6 +4,7 @@ label: Build and Test Intro
 ---
 ### The content for this page has been migrated to the <a title="go to VA Digital Service Handbook" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/delivery/build-and-test/index.html" target="_blank">VA Digital Service Handbook - Build and Test</a>.
 
+<!--*
 **Quick reference**
 
 * <a title="go to build and deploy to staging" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/delivery/build-and-test/activities#mvp-activities" target="_blank">Build and deploy to staging</a>
@@ -20,7 +21,7 @@ label: Build and Test Intro
 
 * [Set up Google Analytics](../vets-developer-docs/google-analytics)
 
-<!--* [Load test your app](needlink) - a guide for making sure your app can handle the anticipated request load without breaking.-->
+ [Load test your app](needlink) - a guide for making sure your app can handle the anticipated request load without breaking.-->
 
 <!-- Next Button -->
 <a href='../deploy-your-app/deploy-intro'><div class="next-button"><h5 class="next-text">Next: Deploy your app</h5></div></a>
