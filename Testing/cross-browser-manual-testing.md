@@ -12,11 +12,13 @@
 
 ## Tools you'll need
 
-* [Cross Browser Testing Template](../Templates/cross-browser-manual-testing.csv)
-* [Test User Accounts](../Templates/test-users.csv)
+[Cross Browser Testing Template](../Templates/cross-browser-manual-testing.csv)
+  * Cross-browser Manual Testing Example
+![](example-cross-browser-manual-testing.png)
 
-*Manual Testing Example*
-![](../../assets/launch/images/cross-browser-manual-testing-example.png)
+[Test User Accounts](../Templates/test-users.csv)
+
+
 
 ## Manual 508 Accessibility Testing
 Manual accessibility testing often comes down to subjective reasoning. If something doesn’t feel right, it probably isn’t, and should be logged as an error. Your answers will help determine the accessibility heat index score for the application or site being tested.
