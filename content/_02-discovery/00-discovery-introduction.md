@@ -5,6 +5,8 @@ label: Introduction
 
 ### The content in this section has been migrated to the <a title="go to VA Digital Service Handbook" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/delivery/research-and-discovery/index.html" target="_blank">VA Digital Service Handbook - Research and Discovery</a>.
 
+
+<!--
 **Quick reference**
 
 * <a title="go to problem statement" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/resources/more/problem-statement" target="_blank">Problem statements and assumptions</a>
@@ -20,6 +22,7 @@ label: Introduction
 * <a title="go to technical discovery" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/resources/more/technical-discovery" target="_blank">Technical discovery</a>
 
 * <a title="go to ATO" href="https://github.com/department-of-veterans-affairs/vets-work-practices/blob/master/Reviews-External-Contractors/request-ato-reviews.md#request-a-preliminary-ato-review" target="_blank">Start thinking about ATO requirements</a>
+-->
 
 
 <!-- Next Button -->

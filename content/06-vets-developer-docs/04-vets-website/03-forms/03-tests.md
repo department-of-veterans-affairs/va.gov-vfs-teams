@@ -2,6 +2,13 @@
 title: Writing Tests
 label: Tests
 ---
+
+### The content for this page has been migrated to the <a title="go to VA Digital Service Handbook" href="https://github.com/department-of-veterans-affairs/vets-work-practices/tree/master/Testing" target="_blank">work-practices repo</a>.
+* <a title="go to VA Digital Service Handbook" href="https://github.com/department-of-veterans-affairs/vets-work-practices/blob/master/Testing/unit-testing.md" target="_blank">Unit Testing</a>.
+* <a title="go to VA Digital Service Handbook" href="https://github.com/department-of-veterans-affairs/vets-work-practices/blob/master/Testing/end-to-end-testing.md" target="_blank">End-to-End Testing</a>.
+
+
+<!--
 We have two types of testing for forms, and code on Vets.gov in general: unit tests and end-to-end tests.
 
 ## Unit tests
@@ -233,6 +240,7 @@ function initApplicationSubmitMock() {
 ```
 
 The burial form submission process uses polling, so there are two mocked API responses, but for most forms you'll have just one. Our `mock` helper calls our mock API server and adds a mock response, so that when the form makes a request to the url at the `path` property with the `verb` action, it gets the `value` data back.
+-->
 
 <!-- Next Button -->
 <a href='./submitting'><div class="next-button"><h5 class="next-text">Next: Submitting</h5></div></a>
