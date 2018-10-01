@@ -25,7 +25,7 @@
   * This meeting will be arranged and facilitated by DSVA.
 * **External Contractor teams should initiate the Contact Center Review when** 
   1. The complete and final build is on staging,
-  1. After they've completed the [Prepare for a Contact Review steps](#prepare-for-a-contact-center-review), and
+  1. After they've completed the [Prepare for a Contact Center Review steps](#prepare-for-a-contact-center-review), and
   1. At least 2 weeks prior to the launch date.
     * If your team thinks it will have trouble meeting the "2 weeks prior to launch" date, reach out to your DSVA Contact to determine how to move forward.
 
