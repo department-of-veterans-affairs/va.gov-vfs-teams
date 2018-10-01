@@ -21,8 +21,8 @@
 ### General
 
 * All applications on the Veteran Tools Platform include a phone number Veterans can call to ask questions about the application's functionality.
-* *8Before applications (or new features) launch on the Veteran Tools Platform, all teams must review functionality with the Contact Center to ensure that Contact Center Representatives are prepared to answer questions about the functionality.**
-  * Your team will review your project with the Contact Center. This meeting will be arranged and facilitated by DSVA.
+* **Before applications (or new features) launch on the Veteran Tools Platform, all teams must review functionality with the Contact Center to ensure that Contact Center Representatives are prepared to answer questions about the functionality.**
+  * This meeting will be arranged and facilitated by DSVA.
 * **External Contractor teams should initiate the Contact Center Review when the complete and final build is on staging AND after they've completed the [Prepare for a Contact Review steps](#prepare-for-a-contact-center-review).**
 
 <hr>
@@ -74,6 +74,7 @@
 
 1. **Within 2 business days**, DSVA will contact the Contact Person (the person who created the Github issue) to arrange a day/time for the Contact Center Review meeting.
     * If you don't hear anything after 2 business days, reach out to your DSVA Contact.
+    * Plan for some back and forth in the Github issue to find a day/time that works for your team and the Contact Center team.
 1. At the Contact Center Review meeting, your team will demo the functionality for the Contact Center Representatives and answer any questions they may have about the functionality.
 1. At the end of the Contact Center Review meeting, DSVA will close the Github issue.
     * Github will send the Contact Person (the person who created the Github issue) a notification. This is your team's signal that this pre-launch activity is complete.
