@@ -1,4 +1,4 @@
-# UX/IxD/UI and Visual Design - IN PROGRESS - DO NOT USE YET
+# UX/IxD/UI and Visual Design
 
 * **This document applies only to External Contractors.**
 
