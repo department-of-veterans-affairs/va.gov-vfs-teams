@@ -53,4 +53,19 @@
 
 ### Design QA Checklist
 
-* [ ] specifics TBD
+* [ ] New design patterns have been vetted by DSVA and documented
+* [ ] Correct use of design patterns in context 
+  * [ ] Form chapters in place
+  * [ ] Privacy policy is present
+  * [ ] Address form follows pattern if applicable
+  * [ ] Name form follows pattern if applicable
+* [ ] Correct use of typography
+* [ ] Padding and spacing has been applied appropriately
+* [ ] Form components used correctly in context
+* [ ] Consistent use of iconography
+* [ ] Colors use are consistent with color palette
+* [ ] Primary and secondary CTA buttons used correctly in context
+* [ ] :hover and :focus states have been accounted for and are consistent with design patterns
+* [ ] Alert messages have been used appropriately
+* [ ] Error states have been accounted for and used appropriately
+* [ ] Loading indicators have been used where appropriate
