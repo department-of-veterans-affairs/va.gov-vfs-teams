@@ -22,7 +22,7 @@ Further Reading:
 * https://git-scm.com/book/en/v2/Getting-Started-Git-Basics
 * https://help.github.com/articles/github-flow/
 
-TIP: Prefix your branch name with your team's initials for improved management.
+**Tip:** Prefix your branch name with your team's initials for improved management.
 
 ## Review Instances
 
@@ -32,7 +32,7 @@ the Pull Request page will provide the instance address. This can be
 particularly useful for [WIP] testing and review.
 
 Further Reading:
-* [Review Instances](./review-instances)
+* [Review Instances](review-instances.md)
 
 ## Automated Testing
 
@@ -53,16 +53,16 @@ staging environments. These can be previewed at https://dev.vets.gov/ and
 https://staging.vets.gov/, respectively. Changes are then deployed to
 production Monday through Friday at 3:00PM ET.
 
-Further Reading: (TODO migrate to contrib):
+Further Reading:
 
-* [Deployment](./deployment)
+* [Deployment](deployment.md)
 
 ## Security Considerations
 
 The Vets.gov code base is public, but deployed to and hosted on heavily secured
 infrastructure with connectivity to the VA network. Code is expected to
 follow industry-standard best security practices, and never relies on secuirty
-by obscurity. Refer to the [Settings](./vets-api/settings) to learn how to access
+by obscurity. Refer to the [Settings](vets-api/settings.md) to learn how to access
 private information / secrets that are required by your integration when
 running in a protected environment.
 
