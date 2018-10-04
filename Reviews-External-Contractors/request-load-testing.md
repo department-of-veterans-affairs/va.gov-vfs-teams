@@ -20,8 +20,18 @@
 ### General
 
 * All applications (and new features for existing applications) on the Veteran Tools Platform need to go through load testing.
-* **External teams cannot load test on their own** -- a DSVA devops engineer is required to coordinate and perform your load testing.
-* **External Contractor teams should initiate the Request for Load Testing when the complete and final build is on staging and you're confident it's ready to launch.**
+* **Do not perform load testing without explicit approval from DSVA** -- a DSVA devops engineer is required to coordinate and perform your load testing.
+* **External Contractor teams should initiate the Request for Load Testing** 
+  * When the complete and final build is on staging and you're confident it's ready to launch
+  * At least 1 week prior to launch
+
+<hr>
+
+## Prepare for Load Testing
+
+For reference, you can [review existing load tests here](https://github.com/department-of-veterans-affairs/devops/tree/master/loadtest).
+
+After you submit the request for load testing, a DSVA devops engineer will work with your team to define what load tests to write, what they should include, and how to conduct the load test under DSVA supervision.
 
 <hr>
 
