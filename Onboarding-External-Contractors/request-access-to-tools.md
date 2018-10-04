@@ -33,6 +33,9 @@ To work on the Veteran Tools Platform, each team member needs access to the VA G
     * The VA Github organization
     * Slack channels relevant to your project
 
+1. Ask your team to add information to their Github and Slack profiles:
+    * Organization: ```Your company name```
+    * Working on: ```The project your team is working on```, e.g., "526 ancillary forms"
 1. Developers must complete [additional onboarding steps](#additional-onboarding-steps-for-developers) to access the code repositories and tools they'll need for development and deployment. They should complete these steps as soon as they've received the email invitation to join the VA Github organization.
 
 1. Understand the [norms for using these tools](../Norms/tools.md) when you're working on the Veteran Tools Platform.
