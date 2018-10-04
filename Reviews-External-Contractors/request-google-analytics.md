@@ -1,4 +1,4 @@
-# Google Analytics - IN PROGRESS - DO NOT USE YET
+# Google Analytics
 
 * **This document applies only to External Contractors.**
 
