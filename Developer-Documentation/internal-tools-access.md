@@ -38,5 +38,9 @@ You do not need to run the SOCKS proxy while you're developing unless you need a
 1. <a title="Go to create ssh keys" href="https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Internal%20Tools.md#testing-and-using-the-socks-proxy" target="_blank">Test and use the SOCKS proxy</a>
 -->
 
-<!-- Next Button -->
-<a href='./vets-website/vets-website-readme'><div class="next-button"><h5 class="next-text">Next: Vets Website ReadMe</h5></div></a>
+<hr>
+<hr>
+
+[Back: Development Workflow](development-workflow.md)
+
+[Next: Vets Website ReadMe](vets-website/vets-website-readme.md)
