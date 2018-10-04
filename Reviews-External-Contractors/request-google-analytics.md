@@ -21,8 +21,9 @@
 ### General
 
 * **All teams working on the Veteran Tools Platform are required to integrate VA's Google Analytics into their services.**
-* **External Contractor teams should request Google Analytics when the complete and final build is on staging.** 
-  * The Request for Google Analytics should happen when the team is confident no further changes will happen before launch.
+* **External Contractor teams should request Google Analytics when**
+  * The complete and final build is on staging and you're confident it's ready to launch. 
+  * At least 1.5 weeks before planned launch date
 
 <hr>
 
@@ -62,7 +63,7 @@ Answer the following questions in a Word document:
       1. Update the issue with a description of how to implement the custom events in the code.
       1. Your team will make the necessary code changes and push them to staging.
       1. Your team will update the issue with this comment: ```Custom events are set up```
-    * If custom events are not required, DSVA will continue to the next step.
+    * *If custom events are not required*, DSVA will continue to the next step.
 1. DSVA will verify that Google Analytics is working properly in your project on staging.
     * If there are any issues, DSVA will fix them and re-verify.
 1. When DSVA is confident Google Analytics is working properly for your project, DSVA will
