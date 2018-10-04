@@ -15,6 +15,7 @@
 * [General](#general)
 * [Prepare for Google Analytics](#prepare-for-google-analytics)
 * [Request Google Analytics](#request-google-analytics)
+* [Using Google Analytics](#using-google-analytics)
 
 <hr>
 
@@ -71,3 +72,10 @@ Answer the following questions in a Word document:
     * Close the issue.
 1. When the issue is closed, Github will send a notification to the issue creator. This is your team's signal that this pre-launch activity is complete.
 
+<hr>
+
+### Using Google Analytics
+
+> Note: This section only applies if your team is contracted to do continuous improvement (or maintenance) after launch.
+
+**In progress*
