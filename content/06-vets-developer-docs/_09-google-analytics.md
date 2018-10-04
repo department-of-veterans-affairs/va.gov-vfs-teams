@@ -3,6 +3,10 @@ title: Google Analytics
 label: Google Analytics
 ---
 
+### The content for this page has been migrated to <a title="" href="https://github.com/department-of-veterans-affairs/vets-work-practices/blob/master/Reviews-External-Contractors/request-google-analytics.md" target="_blank">vets-work-practices repo</a>.
+
+
+<!--
 ## Planning for Analytics in Design
 This documentation outlines analytics considerations for the Vets.gov Google Tag Manager container and its Google Analytics account (UA-50123418-3) and is not specific to the DAP implementation.
 
@@ -34,3 +38,4 @@ To request access, email or DM the vets.gov analytics POC (currently Mina Farzad
 ## Pre-Launch Testing
 - Once the configuration via the dataLayer and Google Tag Manager is complete, Analytics will send a Google Tag Manager preview link for you to ensure events are firing on the user interactions you identified in the Design phase.
 - User interactions measured as Events and goals measured as Transactions will be added to a new Data Studio dashboard
+-->
