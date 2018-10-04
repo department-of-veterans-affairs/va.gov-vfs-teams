@@ -47,7 +47,7 @@
 
   1. You'll need to update the existing Product Guide.
       * If you can't find the existing Product Guide on Github, ask your DSVA Contact to find it for you.
-  1. Store the updated Product Guide in your team's Product folder on Github.
+  1. Store the updated Product Guide in its original location.
 
 
 ### Step 2: Create the Product Video
