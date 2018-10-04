@@ -58,8 +58,7 @@ DSVA engineering resources are available to provide guidance and support through
 If you encounter issues or have any questions, raise them in your team's Slack channel or reach out to your DSVA Contact.
 
 <hr>
-<hr>
 
-[Back: Welcome](welcome.md)
+<div style="text-align:left">[Back: Welcome](welcome.md)</div>
 
-[Next: Environments](environments.md)
+<div style="text-align:right">[Next: Environments](environments.md)</div>
