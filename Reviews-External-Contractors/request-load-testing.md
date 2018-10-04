@@ -49,7 +49,6 @@ After you submit the request for load testing, a DSVA devops engineer will work 
       * **Context**: Provide a high-level description of the functionality involved in this request, for example:
         * ```Functionality adds a new dataset to the Facility Locator so users can search for and view non-VA health providers on the map, as well as in list and detail views.```
       * **URL**: ```link to your project on staging```
-      * **Load tests**: ```links to any load tests your team has written```
 1. **Within 2 business days**, DSVA will contact the person who created the Github Issue to coordinate the load testing.
     * If you don't hear anything after 2 business days, reach out to your DSVA Contact.
 1. DSVA will collaborate with your team to set up and perform the load test.
