@@ -23,7 +23,7 @@
 * **Before applications (or new features) launch on the Veteran Tools Platform, all teams must review functionality with the Contact Center to ensure that Contact Center Representatives are prepared to answer questions about the functionality.**
   * This meeting will be arranged and facilitated by DSVA.
 * **External Contractor teams should initiate the Contact Center Review when** 
-  1. The complete and final build is on staging,
+  1. The complete and final build is on staging and you're confident it's ready to launch,
   1. After they've completed the [Prepare for a Contact Center Review steps](#prepare-for-a-contact-center-review), and
   1. At least 2 weeks prior to the launch date.
     * If your team thinks it will have trouble meeting the "2 weeks prior to launch" date, reach out to your DSVA Contact to determine how to move forward.
