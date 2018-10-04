@@ -2,7 +2,7 @@
 
 * This repo contains public-facing work practices for teams working on the Veteran Tools Platform.
 
-* If you're on the DSVA team and looking for how to respond to requests from External Contractors, [go here](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Work%20Practices/Manage-External-Teams).
+* **DSVA team:** [Go here to see how to respond to requests and questions from External Contractors](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Work%20Practices/Manage-External-Teams).
 
 <hr>
 
