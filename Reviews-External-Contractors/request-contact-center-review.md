@@ -75,9 +75,9 @@
       * **Product Video**: ```link to the Product Video on Github```
       * **Contact Person**: Provide the name, email address, and Slack username for the person on your team who schedules meetings, e.g., your Project Manager.
 
-1. **Within 2 business days**, DSVA will contact the Contact Person (the person who created the Github issue) to arrange a day/time for the Contact Center Review meeting.
+1. **Within 2 business days**, DSVA will contact the Contact Person to arrange a day/time for the Contact Center Review meeting.
     * If you don't hear anything after 2 business days, reach out to your DSVA Contact.
     * Plan for some back and forth in the Github issue to find a day/time that works for your team and the Contact Center team.
 1. At the Contact Center Review meeting, your team will demo the functionality for the Contact Center Representatives and answer any questions they may have about the functionality.
 1. At the end of the Contact Center Review meeting, DSVA will close the Github issue.
-    * Github will send the Contact Person (the person who created the Github issue) a notification. This is your team's signal that this pre-launch activity is complete.
+    * Github will send the person who created the Github issue a notification. This is your team's signal that this pre-launch activity is complete.
