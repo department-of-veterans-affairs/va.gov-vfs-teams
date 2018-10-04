@@ -24,7 +24,7 @@
 * **Do not perform load testing without explicit approval from DSVA** -- a DSVA devops engineer is required to coordinate and perform your load testing.
 * **External Contractor teams should initiate the Request for Load Testing** 
   * When the complete and final build is on staging and you're confident it's ready to launch
-  * At least 1 week prior to launch
+  * At least 1.5 weeks prior to launch
 
 <hr>
 
