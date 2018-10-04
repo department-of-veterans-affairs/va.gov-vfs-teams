@@ -38,6 +38,7 @@ Answer the following questions in a Word document:
 * What other navigation elements on the site will help you understand how your users navigate to, and use, your service?
 * What success metrics have you identified for your service?
 * What user interaction or behavior do you want to count as a "transaction" to track? What are your goals for each of these transactions?
+* What custom dimensions (if any) would you like to collect? These can be user, session, or product traits.
 * What are other events, interactions, behavior you want to track that aren't covered by the above questions?
 
 <hr>
@@ -66,7 +67,10 @@ Answer the following questions in a Word document:
       1. Your team will update the issue with this comment: ```Custom events are set up```
     * *If custom events are not required*, DSVA will continue to the next step.
 1. DSVA will verify that Google Analytics is working properly in your project on staging.
-    * If there are any issues, DSVA will fix them and re-verify.
+    * DSVA will update the Github issue with a preview link for your team.
+    * During verification, DSVA may discover problems that require your team to update the code. If this happens, DSVA will update the Github issue with instructions on how to do that.
+      * Once your team has fixed these problems, update the Github issue to ask DSVA to re-verify.
+    * During verification, DSVA may discover problems that need to be fixed via Google Tag Manager. If this happens, DSVA will fix the problems and re-verify.
 1. When DSVA is confident Google Analytics is working properly for your project, DSVA will
     * Add a comment to the Github issue: ```GA ready to go```
     * Close the issue.
