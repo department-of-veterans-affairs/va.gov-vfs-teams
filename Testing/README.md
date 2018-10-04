@@ -4,4 +4,3 @@
 * [Cross-browser Manual Testing](cross-browser-manual-testing.md)
 * [Unit Testing](unit-testing.md)
 * [End-to-End Testing](end-to-end-testing.md)
-* [Load Testing](load-testing.md)
