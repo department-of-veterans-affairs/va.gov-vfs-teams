@@ -42,8 +42,14 @@ If you're building a new service, you'll need to create a name for it.
 The IA determines where in the Veteran Tools Platform your service will live, how users navigate to your service, and how users navigate within your service. 
 
 * How your service will integrate into the existing Veteran Tools Platform?
+  * Is this a new standalone service, or is it part of an existing service?
+  * Does the service require authentication? 
+  * If yes, will there be static content available prior to authentication? Currently we build static content pages for tools that require authentication to provide SEO value and a landing page in the user experience rather than an immediate redirect to login when accessing. 
 
 * How will your users find and get to your service?
+  * Consider top navigation, home page, hub pages, and crosslinking opportunities
+  * Top nav and Top Tasks on the home page are limited to the top key tasks of a benefit area
+  * Hub pages are limited to 10 links per spoke (Get, Manage and More), and 5 links in the Other Benefits section
 
 * Where does your service live within the existing content hubs?
   * Which directory (or subdirectory) does it live in?
@@ -58,6 +64,7 @@ The IA determines where in the Veteran Tools Platform your service will live, ho
   * If so, what are those secondary entry points?
 
 * What is the ```<h1>``` (the page title) for each page/screen of your service?
+  * Inputs to decision are SEO and user terminology, internal VA terms, Form #s
 
 
 ### Step 3: Define the URLs
@@ -87,15 +94,33 @@ Now you can define the URL(s) for your service by putting those two elements tog
 
 * Avoid repetition of words. In some cases it may naturally happen, but avoid it when possible.
 
-* For form URLs, use both the form number, as well as keywords, to create the URL:
+* For form URLs, use the form number, as well as keywords that describe the purpose of the form:
 
   * **structure**
-    <code>/form-1234-keywords-from-form-name</code>
+    <code>/action-keyword1-keywordn-form-number/</code>
 
   * **example** *(page is not live)*
-    <code>https://www.vets.gov/pension/application/form-527EZ-veteran-pension</code>  
+    <code>https://www.va.gov/pension/apply-for-veteran-pension-form-527ez</code>  
 
+* For tool URLs, use an action word and keywords to describe the tool:
 
+  * **structure**
+    <code>/action-keyword1-keywordn/</code>
+
+  * **example** *(page is not live)* 
+    <code>https://www.va.gov/health-care/refill-track-prescriptions</code>  
+  
+* Some tools are merely reporting and do not require an action on the part of the user, and therefore may not have an action word in their URL.  
+
+  * **example:** *(page is not live)* 
+  * <code>https://www.va.gov/claim-or-appeal-status/</code>.  Use SEO and IA structure as guidance. 
+ 
+* If a tool/form requires authentication and will have static page available to unauthenticated users, ensure that URL for that static page is optimized for SEO and UX.  The URL for the actual tool/form behind authentication can be less descriptive.  
+
+  * **example** *(page is not live)*
+  * static page: <code>https://www.va.gov/claim-or-appeal-status/</code>
+  * tool/form:  <code>https://www.va.gov/claim-or-appeal-status/status/</code>
+    
 ### Step 4: Test the proposed Information Architecture with Veterans
 
 * Your service's IA should map to Veteran mental models &mdash; even if this differs from how VA thinks about your service.
