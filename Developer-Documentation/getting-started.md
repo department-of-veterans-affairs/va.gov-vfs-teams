@@ -17,20 +17,18 @@ To build a service on the Veteran Tools Platform, which can be anything from a d
 1. Follow the steps to <a title="go to create ssh keys" href="https://github.com/department-of-veterans-affairs/vets-work-practices/blob/master/Onboarding-External-Contractors/request-access-to-tools.md#additional-onboarding-steps-for-developers">create new SSH keys, configure, and test the SOCKS proxy</a>.
 
 1. Verify that you have
+    * Access to the [Veteran Tools Platform code repositories](#code-repositories)
 
-  * Access to the [Veteran Tools Platform code repositories](#code-repositories)
+    * Credentials for the shared testing environments &mdash;  <a title="go to dev.vets.gov" href="https://dev.vets.gov" target="_blank">dev.vets.gov</a> and <a title="go to staging.vets.gov" href="https://staging.vets.gov" target="_blank">staging.vets.gov</a>
 
-  * Credentials for the shared testing environments &mdash;  <a title="go to dev.vets.gov" href="https://dev.vets.gov" target="_blank">dev.vets.gov</a> and <a title="go to staging.vets.gov" href="https://staging.vets.gov" target="_blank">staging.vets.gov</a>
-
-  * Access to [Internal Tools](./internal-tools-access)
-
-  * **Tip**: If you have a problem or can't get access, [email us](mailto:elizabeth.hunt@va.gov).
+    * Access to [Internal Tools](internal-tools-access.md)
+      * **Tip**: If you have a problem or can't get access, reach out to your DSVA Contact.
 
 1. Review all the content the Vets Developer Docs section (everything after this page).
 
-1. Review the frontend documentation for <a title="Go to Vets-Website readme" href="./vets-website/vets-website-readme" target="_blank">Vets-Website</a>.
+1. Review the frontend documentation for <a title="Go to Vets-Website readme" href="vets-website/vets-website-readme.md" target="_blank">Vets-Website</a>.
 
-1. Review the backend documentation for <a title="Go to Vets-API readme" href="./vets-api/vets-api-readme" target="_blank">Vets-API</a> (including the section named "Integration Overview").
+1. Review the backend documentation for <a title="Go to Vets-API readme" href="vets-api/vets-api-readme.md" target="_blank">Vets-API</a> (including the section named "Integration Overview").
 
 <hr>
 
@@ -49,7 +47,7 @@ The Veteran Tools Platform is broken into three parts:
 
 #### Internal Tools
 
-To access metrics, build logs, deployment information and exception details, see the the [Internal Tools](./internal-tools-access) documentation.
+To access metrics, build logs, deployment information and exception details, see the the [Internal Tools](internal-tools-access.md) documentation.
 
 <hr>
 
