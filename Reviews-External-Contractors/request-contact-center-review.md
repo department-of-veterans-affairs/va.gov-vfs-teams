@@ -1,5 +1,4 @@
-# Contact Center - IN PROGRESS - DO NOT USE YET
-
+# Contact Center
 * **This document applies only to External Contractors.**
 
 * **Definitions for terms used in this folder:**
