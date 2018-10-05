@@ -1,7 +1,5 @@
----
-title: Production Support
-label: Production
----
+# Forms in Production
+
 Now that you have a form in production, making future changes requires some extra care.
 
 ## Changing your form schema
