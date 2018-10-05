@@ -57,6 +57,6 @@ If you encounter issues or have any questions, raise them in your team's Slack c
 
 <hr>
 
-[Back: Welcome](welcome.md)
+Back: [Welcome](welcome.md)
 
-[Next: Environments](environments.md)
+Next: [Environments](environments.md)
