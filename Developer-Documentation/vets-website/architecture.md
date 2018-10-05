@@ -27,11 +27,11 @@ If you're a developer, most of your time will likely be spent working on a React
 
 ## Design system
 
-You will also find that our visual components and site-wide styles live in an external design system named [Jean Pants](https://department-of-veterans-affairs.github.io/design-system/). This design system is based on the [US Web Design System](https://designsystem.digital.gov/), with some additional modifications by our team. As part of that design system, we provide a set of React components covering common patterns, which is [published to npm](https://www.npmjs.com/package/@department-of-veterans-affairs/jean-pants). You'll likely use these components to make your apps accessible and consistent with the rest of Vets.gov.
+You will also find that our visual components and site-wide styles live in our [design system](https://department-of-veterans-affairs.github.io/design-system/). This design system is based on the [US Web Design System](https://designsystem.digital.gov/), with some additional modifications by our team. As part of that design system, we provide a set of React components covering common patterns, which is [published to npm](https://www.npmjs.com/package/@department-of-veterans-affairs/jean-pants). You'll likely use these components to make your apps accessible and consistent with the rest of Vets.gov.
 
 ## Further reading
 
-You'll find lots more front end documentation to go through on this site. The most helpful place to start is probably the tutorials for building a basic React app and a content page. If you're brand new to React or other parts of our front end stack, we have an article with some good getting started resources.
+The most helpful next place to start is probably the tutorials for building a basic React app and a content page.
 
 <hr>
 
