@@ -1,4 +1,4 @@
-# Vets-API ReadMex
+# Vets-API ReadMe
 
 Vets.gov's front-end repo(Vets-Website) uses Vets-API as a service layer for all features. To expose new data or systems to Vets-Website, engineers should create an integration in Vets-API. If you would like to expose an existing service's API, without an associated Vets-Website form, save in progress functionality, or prefill, please reach out to the DSVA for additional options.
 
