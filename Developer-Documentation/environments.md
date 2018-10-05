@@ -9,7 +9,6 @@ Vets-API and Vets-Website are automatically deployed to three shared environment
 | production | api.vets.gov | www.vets.gov |
 
 <hr>
-<hr>
 
 [Back: Getting Started](getting-started.md)
 
