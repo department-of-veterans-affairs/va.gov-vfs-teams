@@ -10,7 +10,7 @@ To build a service on the Veteran Tools Platform, which can be anything from a d
 
 <hr>
 
-### Getting started
+## Getting started
 
 1. Confirm that your team Project Manager has added your name, email address, and Github username to the team spreadsheet and sent it to DSVA. You'll know when you can visit [this Github repo and see the content](https://github.com/department-of-veterans-affairs/vets.gov-team).
 
@@ -30,9 +30,8 @@ To build a service on the Veteran Tools Platform, which can be anything from a d
 
 1. Review the backend documentation for <a title="Go to Vets-API readme" href="vets-api/vets-api-readme.md" target="_blank">Vets-API</a> (including the section named "Integration Overview").
 
-<hr>
 
-### Development
+## Development
 
 #### Code repositories
 
@@ -45,13 +44,12 @@ The Veteran Tools Platform is broken into three parts:
 1. <a title="Go to Vets-JSON-Schema" href="https://github.com/department-of-veterans-affairs/vets-json-schema" target="_blank">Vets-JSON-Schema</a>, which contains shared resources used to structure and validate form data between Vets-Website and Vets-API.
 
 
-#### Internal Tools
+### Internal Tools
 
 To access metrics, build logs, deployment information and exception details, see the the [Internal Tools](internal-tools-access.md) documentation.
 
-<hr>
 
-### Getting help
+## Getting help
 
 DSVA engineering resources are available to provide guidance and support through the development effort.
 
