@@ -39,7 +39,6 @@ You do not need to run the SOCKS proxy while you're developing unless you need a
 -->
 
 <hr>
-<hr>
 
 [Back: Development Workflow](development-workflow.md)
 
