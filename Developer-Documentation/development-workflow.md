@@ -81,7 +81,6 @@ Further Reading:
 * https://www.powerdown.io/blog/posts/stories/web-developer-security-checklist.html
 
 <hr>
-<hr>
 
 [Back: Environments](environments.md)
 
