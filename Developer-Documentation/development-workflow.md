@@ -1,5 +1,14 @@
 # Development Workflow
 
+<hr>
+
+* [Pull Requests](#pull-requests)
+* [Review Instances](#review-instances)
+* [Automated Testing](#automated-testing)
+* [Deployment](#deployment)
+* [Security Considerations](#security-considerations)
+
+<hr>
 
 ## Pull Requests
 
@@ -24,6 +33,7 @@ Further Reading:
 
 **Tip:** Prefix your branch name with your team's initials for improved management.
 
+
 ## Review Instances
 
 Open Pull Requests are automatically deployed to an isolated "Review Instance"
@@ -33,6 +43,7 @@ particularly useful for [WIP] testing and review.
 
 Further Reading:
 * [Review Instances](review-instances.md)
+
 
 ## Automated Testing
 
@@ -46,6 +57,7 @@ While our automated tests are extensive, they are not expected to catch all
 issues. The manual Pull Request review process is carefully and completely
 executed for all changes.
 
+
 ## Deployment
 
 Once a Pull Request is merged, changes will be deployed to the development and
@@ -56,6 +68,7 @@ production Monday through Friday at 3:00PM ET.
 Further Reading:
 
 * [Deployment](deployment.md)
+
 
 ## Security Considerations
 
