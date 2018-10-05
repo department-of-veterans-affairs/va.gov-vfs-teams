@@ -30,6 +30,6 @@ Vets-API provides utilities and patterns for appropriate instrumentation, error 
 
 <hr>
 
-[Back: Creating Form Schema](../creating-form-schema.md)
+Back: [Creating Form Schema](../creating-form-schema.md)
 
-[Next: Vets API Development](development.md)
+Next: [Vets API Development](development.md)
