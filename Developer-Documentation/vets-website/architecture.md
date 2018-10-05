@@ -1,10 +1,17 @@
----
-title: Front End Architecture
-label: Architecture
----
-Welcome to the VA digital services platform front-end overview. The goal of this article is to provide a high level overview of our front end architecture to get you oriented with the [vets-website](https://github.com/department-of-veterans-affairs/vets-website) repository.
+# Front End Architecture
+
+Welcome to the Veteran Tools Platform front-end overview. The goal of this article is to provide a high level overview of our front-end architecture to get you oriented with the [vets-website](https://github.com/department-of-veterans-affairs/vets-website) repository.
 
 The overall architecture for Vets.gov is comprised of an API backend written in Ruby on Rails ([vets-api](https://github.com/department-of-veterans-affairs/vets-api)) and a static front-end, written in HTML, CSS, and Javascript (`vets-website`). There's no server-side rendering or processing for the front-end; the build process compiles everything into static resources which are served to users.
+
+<hr>
+
+* [Build process](#build-process)
+* [Javascript applications](#javascript-applications)
+* [Design system](#design-system)
+* [Further reading](#further-reading)
+
+<hr>
 
 ## Build process
 
@@ -18,7 +25,7 @@ Javascript applications are the other type of functionality in vets-website. The
 
 If you're a developer, most of your time will likely be spent working on a React application. We use React because it's widely used by front end developers and provides a good balance of performance and approachability. We also use Redux to manage application state, also because it's commonly used with React and fits most of the applications on Vets.gov well. We use [React Router](https://reacttraining.com/react-router/) for client-side routing and [Webpack](https://webpack.js.org/) as a build tool, both of which are the *de facto* standards in the Javascript world. For styles we use [Sass](https://sass-lang.com/) and for dependency management we use [Yarn](https://yarnpkg.com/en/).
 
-## Jean Pants (design system)
+## Design system
 
 You will also find that our visual components and site-wide styles live in an external design system named [Jean Pants](https://department-of-veterans-affairs.github.io/design-system/). This design system is based on the [US Web Design System](https://designsystem.digital.gov/), with some additional modifications by our team. As part of that design system, we provide a set of React components covering common patterns, which is [published to npm](https://www.npmjs.com/package/@department-of-veterans-affairs/jean-pants). You'll likely use these components to make your apps accessible and consistent with the rest of Vets.gov.
 
@@ -26,5 +33,8 @@ You will also find that our visual components and site-wide styles live in an ex
 
 You'll find lots more front end documentation to go through on this site. The most helpful place to start is probably the tutorials for building a basic React app and a content page. If you're brand new to React or other parts of our front end stack, we have an article with some good getting started resources.
 
-<!-- Next Button -->
-<a href='./forms/form-tutorial'><div class="next-button"><h5 class="next-text">Next: Form - Basic</h5></div></a>
+<hr>
+
+[Back: Vets Website Development](development.md)
+
+[Next: Form Tutorial - Basic](form-tutorial-basic.md)
