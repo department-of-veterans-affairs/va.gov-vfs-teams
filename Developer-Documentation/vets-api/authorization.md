@@ -78,6 +78,3 @@ Back: [Vets API Authentication](authentication.md)
 
 Next: [Vets API Documentation](documentation.md)
 
-
-<!-- Next Button -->
-<a href='./documentation'><div class="next-button"><h5 class="next-text">Next: Documentation</h5></div></a>
