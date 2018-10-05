@@ -1,9 +1,6 @@
+# Vets-API ReadMex
 
----
-title: Vets-API ReadMe
-label: ReadMe
----
-Vets.gov's frontend repo(Vets-Website) uses Vets-API as a service layer for all features. To expose new data or systems to Vets-Website, engineers should create an integration in Vets-API. If you would like to expose an existing service's API, without an associated Vets-Website form, save in progress functionality, or prefill, please reach out to the DSVA for additional options.
+Vets.gov's front-end repo(Vets-Website) uses Vets-API as a service layer for all features. To expose new data or systems to Vets-Website, engineers should create an integration in Vets-API. If you would like to expose an existing service's API, without an associated Vets-Website form, save in progress functionality, or prefill, please reach out to the DSVA for additional options.
 
 The Vets-API Platform is a wrapper around VA data services with utilities and tools that support interaction with those services on behalf of a Veteran. It exposes tools to retrieve information and submit data to VA systems, and does so with a unified sign-in mechanism. When services are down or are experiencing problems, Vets-API integrations are designed to gracefully handle failures and provide useful notifications to consumers. Vets-API is built on top of Ruby on Rails, providing a unified JSON-based REST interface and additional resilience for VA data services that may not be designed to operate directly with users 24x7.
 
@@ -17,8 +14,7 @@ The Vets-API Platform is a wrapper around VA data services with utilities and to
 
 ## Development
 
-See the [Vets-API Development](./development) documentation to get started with
-a local instance of Vets-API and for guidance on how to submit changes and new features.
+See the [Vets-API Development](development.md) documentation to get started with a local instance of Vets-API and for guidance on how to submit changes and new features.
 
 ## Integration Overview
 
@@ -32,5 +28,8 @@ A Vets-API integration must handle user requests, validate inputs, make one or m
 
 Vets-API provides utilities and patterns for appropriate instrumentation, error handling, and documentation for defining this integration consistently and resiliently. Refer to the guides in the sidebar for more information on how to utilize each of these features and develop  an integration.
 
-<!-- Next Button -->
-<a href='./development'><div class="next-button"><h5 class="next-text">Next: Development</h5></div></a>
+<hr>
+
+[Back: Creating Form Schema](../creating-form-schema.md)
+
+[Next: Vets API Development](development.md)
