@@ -1,4 +1,4 @@
-# Front End Architecture
+# Vets Website Front-end Architecture
 
 Welcome to the Veteran Tools Platform front-end overview. The goal of this article is to provide a high level overview of our front-end architecture to get you oriented with the [vets-website](https://github.com/department-of-veterans-affairs/vets-website) repository.
 
