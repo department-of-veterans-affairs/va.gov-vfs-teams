@@ -1,7 +1,4 @@
----
-title: Authentication
-label: Authentication
----
+# Vets API Authentication
 
 Authenticated requests to Vets-API provide access to a `User` object containing information about the user who made the request. Your integration may utilize this object to pass Veteran information to your service for authentication or processing purposes. By default, all controller actions are non-public facing and require authentication.
 
@@ -107,6 +104,6 @@ TODO: RDoc reference link
 
 <hr>
 
-[Back: Vets API Development](development.md)
+Back: [Vets API Development](development.md)
 
-[Next: Vets API Authorization](authorization.md)
+Next: [Vets API Authorization](authorization.md)
