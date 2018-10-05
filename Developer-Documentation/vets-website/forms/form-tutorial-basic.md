@@ -32,7 +32,7 @@ You can answer the questions with the [documentation](https://github.com/departm
 
 After you run the generator, run `yarn watch` (or restart it if you already had it running) and navigate to http://localhost:3001/new-form. You should see something like this:
 
-![](/va-digital-services-platform-docs/assets/develop/images/forms/initial-form.png)
+<img src="../../assets/initial-form.png" width="70%">
 
 ## Updating your form
 
@@ -108,7 +108,7 @@ page1: {
 
 Now if you go to http://localhost:3001/new-form/first-page you should see this:
 
-![](/va-digital-services-platform-docs/assets/develop/images/forms/first-field.png)
+<img src="../../assets/first-field.png" width="70%">
 
 That's not the most exciting field, but it's a field! We can add a title to it by adding to `uiSchema`:
 
@@ -134,7 +134,7 @@ page1: {
 
 That makes it look a little more presentable:
 
-![](/va-digital-services-platform-docs/assets/develop/images/forms/field-with-label.png)
+<img src="../../assets/field-with-label.png" width="70%">
 
 Note that `uiSchema` doesn't follow exactly the same structure as `schema`: you don't need the `properties` object. This is because `uiSchema` treats everything without a `ui:` prefix as a field name, with one exception for array fields.
 
@@ -166,7 +166,7 @@ page1: {
 
 That will get you a select box with options:
 
-![](/va-digital-services-platform-docs/assets/develop/images/forms/select-field.png)
+<img src="../../assets/select-field.png" width="70%">
 
 Some types of data might have different valid ways of asking the user for input. For example, a field that uses `enum` could also use radio buttons. You can change that with `ui:widget`:
 
@@ -197,7 +197,7 @@ page1: {
 
 Now the form offers two radio buttons to choose from:
 
-![](/va-digital-services-platform-docs/assets/develop/images/forms/radio-buttons.png)
+<img src="../../assets/radio-buttons.png" width="70%">
 
 You can also mark fields as required, which will prevent you from moving to the next page without filling them out:
 
@@ -229,7 +229,7 @@ page1: {
 
 If you do fill in the required information and click Continue, you'll end up on the review page. The review page for our forms is generated based on your chapters and pages and provides a quick way to review the data that you've entered:
 
-![](/va-digital-services-platform-docs/assets/develop/images/forms/review.png)
+<img src="../../assets/review.png" width="70%">
 
 Note that if you refresh in the middle of the form, your data will be lost and the review page won't have any content to edit.
 
@@ -237,5 +237,8 @@ Once you've reviewed your form, you have to click the checkbox to agree to the p
 
 That's it! Continue on in our documentation to learn about building more complex forms and the whole process for building and submitting a new form.
 
-<!-- Next Button -->
-<a href='./form-intermediate'><div class="next-button"><h5 class="next-text">Next: Form - Intermediate</h5></div></a>
+<hr>
+
+[Back: Vets Website Architecture](welcome.md)
+
+[Next: Form Tutorial - Intermediate](form-tutorial-intermediate.md)
