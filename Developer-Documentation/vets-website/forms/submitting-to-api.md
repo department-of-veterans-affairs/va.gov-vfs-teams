@@ -68,11 +68,11 @@ Some things to note:
 - Whatever is in a successful response will go into the Redux state at `form.submission.response`
 - The error message text is important; you need to start the message with `vets_server_error` to show the server error message and likewise `vets_client_error` for the client error message (which is an error on the user's browser, like the Internet being down). For example, here's the error shown for client errors:
 
-![](/va-digital-services-platform-docs/assets/develop/images/forms/client_error.png)
+<img src="../../assets/client_error.png" width="70%">
 
 And here's the error message for a server error:
 
-![](/va-digital-services-platform-docs/assets/develop/images/forms/server_error.png)
+<img src="../../assets/server_error.png" width="70%">
 
 As long as you return a promise and throw the expected errors, you can do whatever else you need to do in this submit function.
 
