@@ -1,9 +1,5 @@
 # Welcome to VA Digital Service - Developer Documentation
 
-[Next: Getting Started](getting-started.md)
-
-<hr>
-
 ### This content is specifically designed to answer questions for developers who are building services and tools on the Veteran Tools Platform, including how to set up locally, develop and test iteratively, use VA APIs, etc.
 
 The complete process for building services and tools on the Veteran Tools Platform is outlined in the <a title="go to VA Digital Service Handbook" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/delivery/index.html" target="_blank">VA Digital Service Handbook - Digital Delivery Guide</a>, which includes the following sections:
