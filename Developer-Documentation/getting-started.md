@@ -59,6 +59,6 @@ If you encounter issues or have any questions, raise them in your team's Slack c
 
 <hr>
 
-<div style="text-align:left">[Back: Welcome](welcome.md)</div>
+[Back: Welcome](welcome.md)
 
-<div style="text-align:right">[Next: Environments](environments.md)</div>
+[Next: Environments](environments.md)
