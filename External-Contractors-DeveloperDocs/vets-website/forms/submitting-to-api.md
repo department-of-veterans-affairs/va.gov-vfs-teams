@@ -79,6 +79,6 @@ As long as you return a promise and throw the expected errors, you can do whatev
 
 <hr>
 
-[Back: Vets Website Writing Tests](writing-tests.md)
+Back: [Vets Website Writing Tests](writing-tests.md)
 
-[Next: Vets Website Save in Progress](save-in-progress.md)
+Next: [Vets Website Save in Progress](save-in-progress.md)
