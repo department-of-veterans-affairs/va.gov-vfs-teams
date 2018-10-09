@@ -11,7 +11,9 @@ on Vets-Website.
 
 Further Reading
 
-* [Form Tutorial](../vets-website/forms/form-tutorial-basic.md)
+* [Form Tutorial - Basic](../vets-website/forms/form-tutorial-basic.md)
+* [Form Tutorial - Intermediate](../vets-website/forms/form-tutorial-intermediate.md)
+* [Form Tutorial - Advanced](../vets-website/forms/form-tutorial-advanced.md)
 
 ## Model
 
@@ -50,6 +52,6 @@ end
 
 <hr>
 
-[Back: Vets API Documentation](documentation.md)
+Back: [Vets API Documentation](documentation.md)
 
-[Next: Vets API PDF Generation](pdf-generation.md)
+Next: [Vets API PDF Generation](pdf-generation.md)
