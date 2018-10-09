@@ -57,7 +57,7 @@ You'll note that the `:internal_rating` attribute was omitted from the serialize
 
 ## Workflow
 
-Our standard is for calls to any [External Service Clients](external-service-client.md) to return native Ruby objects. This allows new
+Our standard is for calls to any External Service Clients {TODO - add content} to return native Ruby objects. This allows new
 endpoints and integrations to utilize existing clients, and aids the testing
 process.
 
@@ -109,6 +109,6 @@ For these reasons, be sure to only define attributes within the Serializer that 
 
 <hr>
 
-[Back: Vets API Request Processing](request-processing.md)
+Back: [Vets API Request Processing](request-processing.md)
 
-[Next: Vets API Service Objects](service-objects.md)
+Next: [Vets API Service Objects](service-objects.md)
