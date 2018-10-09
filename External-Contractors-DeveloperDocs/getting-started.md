@@ -27,7 +27,7 @@ To build a service on the Veteran Tools Platform, which can be anything from a d
 
     * **Tip**: If you have a problem or can't get access, post in the *#support-external* Slack channel or reach out to your DSVA contact.
 
-1. Review all the content this folder &mdash; ```External-Contractors-DeveloperDocs```.
+1. Review all the content this folder &mdash; ```External-Contractors-DeveloperDocs```
 
 1. Review the frontend documentation for [Vets-Website](vets-website/README.md).
 
