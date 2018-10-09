@@ -1,0 +1,220 @@
+/* HIDE JEANPANTS SECTION */
+.Navigation-group:nth-child(2){
+  display: none;
+}
+
+/*Hide Index.md File*/
+.Tree-items.Tree-depth-1 .Tree-entity:nth-child(1){
+  display: none;
+}
+/*UnHide other intro files override item before*/
+.Tree-collectionItems .Tree-entity:nth-child(1){
+  display: block !important;
+}
+
+.fractal-vets-logo {
+  display: block;
+  height: inherit;
+  width: inherit;
+}
+
+.fractal-vets-logo path,
+.fractal-vets-logo rect {
+  fill: white;
+}
+
+.Header {
+  color: #ffffff;
+  background-color: #112e51;
+}
+
+.Header .f-pipe {
+  font-size: 3rem;
+}
+
+.Header h2 {
+  color: #ffffff;
+}
+
+.Header-navToggle svg {
+  fill: #ffffff;
+}
+
+.Frame-panel {
+  background-color: #ffffff;
+}
+.Document-content {
+  padding-bottom: 8rem;
+}
+
+.Prose > *:not(:last-child){
+  margin-bottom: 1.5em;
+}
+
+
+/* Override Fractal left-nav */
+
+/* Suppress caret */
+h4.Tree-collectionLabel{
+  pointer-events: none;
+}
+
+.Tree-depth-3 .Tree-collectionLabel{
+  pointer-events: all;
+  font-size: 1rem;
+  position: relative;
+  color: #048;
+}
+
+.Tree-depth-3.is-closed .Tree-collectionLabel::before{
+  content: '+';
+}
+
+.Tree-depth-3 .Tree-collectionLabel::before{
+  content: '-';
+  font-weight: bold;
+  font-size: 1rem;
+  color: #048;
+  position: absolute;
+  vertical-align: top;
+  left: 12px;
+  top: 6px
+}
+
+.Tree-depth-4 .Tree-collectionLabel{
+  padding-left: 3rem !important;
+}
+
+.Tree-depth-4.is-closed .Tree-collectionLabel::before{
+  content: '+';
+}
+
+.Tree-depth-4 .Tree-collectionLabel::before{
+  content: '-';
+  font-weight: bold;
+  font-size: 1rem;
+  color: #048;
+  position: absolute;
+  vertical-align: top;
+  left: 12px;
+  top: 6px
+}
+
+
+.Tree-collectionLabel span::before {
+  content: none;
+}
+
+/* Expose submenus */
+/*#tree-docs .Tree-collection.is-closed .Tree-collectionItems {
+  display: block;
+}*/
+
+/* Hide Documentation title */
+#tree-docs .Tree-title {
+  display: none;
+}
+
+/* Space sections out */
+#tree-docs .Tree-depth-2 {
+  margin-top: 1.5rem;
+}
+
+/* Adjust first header up */
+#tree-docs {
+  margin-top: -1rem;
+}
+
+/* Don’t make the sections headers clickable */
+#tree-docs .Tree-depth-2 > h4 {
+  background: transparent;
+  font-size: 1rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+#tree-docs .Tree-depth-2 > h4 span {
+  padding-left: 1.7rem !important;
+}
+#tree-docs .Tree-depth-2 > h4:hover {
+  background: transparent;
+  cursor: default;
+}
+
+.Tree-collection.is-closed .Tree-collectionItems{
+  display: block !important;
+}
+
+.Tree-depth-3.is-closed .Tree-collectionItems{
+  display: none !important;
+}
+
+.Tree-depth-4.is-closed .Tree-collectionItems{
+  display: none !important;
+}
+
+/* Hide subhead collection label */
+/*#tree-docs .Tree-depth-3 .Tree-collectionLabel {
+  display: none;
+  font-size: 1rem;
+}*/
+
+/* Style nested links */
+#tree-docs .Tree-depth-3 .Tree-collectionItems {
+  margin-left: 1rem;
+}
+#tree-docs .Tree-depth-3 .Tree-collectionItems .Tree-item a {
+
+  margin-left: -1rem;
+  padding-left: 3rem !important;
+}
+/*#tree-docs .Tree-depth-3 .Tree-collectionItems .Tree-item:nth-child(1) a {
+
+  padding-left: 2rem !important;
+}*/
+
+/* Link size and spacing */
+#tree-docs a.Tree-entityLink {
+  font-size: 1rem;
+  margin: 0;
+  padding-left: 2rem !important;
+}
+
+/* You are here */
+.is-current .Tree-entityLink {
+  background-color: rgba(251,217,128,.25);
+}
+
+
+
+
+
+/*Next Button*/
+.next-button{
+  border: 1px solid #048;
+  border-radius: 4px;
+  box-sizing: border-box;
+  cursor: pointer;
+  float: left;
+  margin-top: 20px;
+  transition: all 0.15s ease-out;
+}
+
+.next-button:hover{
+  background: #048;
+}
+
+.next-button:hover .next-text a{
+  color: white;
+}
+
+.next-text{
+  position: relative;
+  padding: 9px 0;
+}
+
+.next-text a{
+  color: #048;
+  padding: 10px;
+  position: relative;
+  text-decoration: none;
+}

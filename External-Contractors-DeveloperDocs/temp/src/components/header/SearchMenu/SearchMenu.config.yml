@@ -1,0 +1,7 @@
+label: Search Menu
+status: wip
+
+context:
+  componentSourcePath: 'SearchMenu.jsx'
+  id: default
+  title: 'Default SearchMenu'

@@ -22,5 +22,5 @@
 
 ### Content for External Contractors
 
-* [Onboarding for External Contractors](../Onboarding-External-Contractors)
+* [Onboarding for External Contractors](../External-Contractors-Onboarding)
 * [Norms for using tools](norms-tools.md)
