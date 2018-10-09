@@ -334,6 +334,6 @@ That should get you started with some of the common validation and conditional f
 
 <hr>
 
-[Back: Vets Website Form Tutorial - Basic](form-tutorial-basic.md)
+Back: [Vets Website Form Tutorial - Basic](form-tutorial-basic.md)
 
-[Next: Vets Website Form Tutorial - Advanced](form-tutorial-advanced.md)
+Next: [Vets Website Form Tutorial - Advanced](form-tutorial-advanced.md)
