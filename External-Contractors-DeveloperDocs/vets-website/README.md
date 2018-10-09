@@ -13,6 +13,6 @@ See the [Vets-Website Development](development.md) documentation to get started 
 
 <hr>
 
-[Back: Deployment](../deployment.md)
+Back: [Deployment](../deployment.md)
 
-[Next: Vets Website Architecture](architecture.md)
+Next: [Vets Website Architecture](architecture.md)
