@@ -52,6 +52,6 @@ In this doc, we'll explain where the content you see on the form actually comes 
 
 <hr>
 
-[Back: Vets Website Forms in Production](forms-in-production.md)
+Back: [Vets Website Forms in Production](forms-in-production.md)
 
-[Next: Creating Form Schema](../../creating-form-schema.md)
+Next: [Creating Form Schema](../../creating-form-schema.md)
