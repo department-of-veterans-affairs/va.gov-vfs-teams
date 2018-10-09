@@ -26,6 +26,6 @@ The most helpful next place to start is probably the tutorials for building a ba
 
 <hr>
 
-Back: [Vets Website Introducion](README.md)
+Back: [Vets Website Introduction](README.md)
 
 Next: [Vets Website Development](development.md)
