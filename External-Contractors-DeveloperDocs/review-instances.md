@@ -45,6 +45,6 @@ For implementation specific details, see the [revproxy nginx configuration](http
 
 <hr>
 
-[Back: Internal Tools Access](internal-tools-access.md)
+Back: [Internal Tools Access](internal-tools-access.md)
 
-[Next: Deployment](deployment.md)
+Next: [Deployment](deployment.md)
