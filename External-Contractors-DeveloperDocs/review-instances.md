@@ -41,7 +41,7 @@ ID.me SAML configuration requires explicitly defining a callback URL via a manua
 
 For implementation specific details, see the [revproxy nginx configuration](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/roles/revproxy-configure/templates/nginx_revproxy.conf). The following sequence diagram presents an overview of this process:
 
-![](/va-digital-services-platform-docs/assets/develop/images/review-instance-sequence.png)
+![](assets/review-instance-sequence.png)
 
 <hr>
 
