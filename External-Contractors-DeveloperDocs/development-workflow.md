@@ -44,7 +44,7 @@ While our automated tests are extensive, they are not expected to catch all issu
 
 Once a Pull Request is merged, changes will be deployed to the development and staging environments. These can be previewed at https://dev.vets.gov/ and https://staging.vets.gov/, respectively. Changes are then deployed to production Monday through Friday at 3:00PM ET.
 
-Further Reading: (TODO migrate to contrib):
+Further Reading:
 
 * [Deployment](deployment.md)
 
