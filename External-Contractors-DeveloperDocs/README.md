@@ -1,8 +1,8 @@
 # VA Digital Service - Developer Documentation
 
-**This document applies to External Contractors only.**
+**Documents in this folder apply to External Contractors only.**
 
-**Definitions for terms used in this document:**
+**Definitions for terms used in this folder:**
 
 * *"DSVA" refers to DSVA team members and DSVA detailees.*
 
@@ -11,8 +11,6 @@
 * *"External Contractors" refers to any other contractor team working on the Veteran Tools Platform.*
 
 <hr>
-
-**This content is specifically designed to answer questions for developers on External Contractor teams who are building services/tools/features on the Veteran Tools Platform.** 
 
 ### Table of Contents
 
