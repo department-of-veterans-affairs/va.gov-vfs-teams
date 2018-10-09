@@ -10,11 +10,11 @@ Further Reading:
 
 ## Process
 
-Please see the [Development Workflow](../development-workflow) documentation to learn
+Please see the [Development Workflow](../development-workflow.md) documentation to learn
 how to ship changes to Vets-Website.
 
 <hr>
 
-[Back: Vets Website Architecture](architecture.md)
+Back: [Vets Website Architecture](architecture.md)
 
-[Next: Vets Website Form Tutorial - Basic](forms/form-tutorial-basic.md)
+Next: [Vets Website Form Tutorial - Basic](forms/form-tutorial-basic.md)
