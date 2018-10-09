@@ -33,6 +33,6 @@
 
 <hr>
 
-[Next: Getting Started](getting-started.md)
+Next: [Getting Started](getting-started.md)
 
 
