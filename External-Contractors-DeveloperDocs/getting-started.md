@@ -30,7 +30,6 @@ To build a service on the Veteran Tools Platform, which can be anything from a d
 1. Review all the content the External-Contractors-DeveloperDocs section (everything after this page).
 
 1. Review the frontend documentation for [Vets-Website](vets-website/README.md).
-<br/><br/>
 
 1. Review the backend documentation for [Vets-API](vets-api/README.md).
 
