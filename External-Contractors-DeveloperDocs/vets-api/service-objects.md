@@ -314,6 +314,6 @@ See the [Settings Documentation](settings.md) for more details.
 
 <hr>
 
-[Back: Vets API Response Serialization](response-serialization.md)
+Back: [Vets API Response Serialization](response-serialization.md)
 
-[Next: Vets API Settings](settings.md)
+Next: [Vets API Settings](settings.md)
