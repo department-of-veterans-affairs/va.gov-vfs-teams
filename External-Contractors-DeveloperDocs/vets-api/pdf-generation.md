@@ -64,6 +64,6 @@ PdfFill::Filler.fill_form(burial_claim) # => "tmp/pdfs/21P-530_1.pdf"
 
 <hr>
 
-[Back: Vets API Forms](forms.md)
+Back: [Vets API Forms](forms.md)
 
-[Next: Vets API Request Processing](request-processing.md)
+Next: [Vets API Request Processing](request-processing.md)
