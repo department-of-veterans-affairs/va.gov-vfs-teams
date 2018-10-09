@@ -66,6 +66,6 @@ Writing migrations is not very common, but you may need to do it if you end up m
 
 <hr>
 
-[Back: Vets Website Save in Progress](save-in-progress.md)
+Back: [Vets Website Save in Progress](save-in-progress.md)
 
-[Next: Vets Website Form Map](form-map.md)
+Next: [Vets Website Form Map](form-map.md)
