@@ -10,6 +10,6 @@ Vets-API and Vets-Website are automatically deployed to three shared environment
 
 <hr>
 
-[Back: Getting Started](getting-started.md)
+Back: [Getting Started](getting-started.md)
 
-[Next: Development Workflow](development-workflow.md)
+Next: [Development Workflow](development-workflow.md)
