@@ -161,6 +161,6 @@ The point of having these common definitions and sharing a schema between the fr
 
 <hr>
 
-[Back: Vets Website Form Tutorial - Intermediate](form-tutorial-intermediate.md)
+Back: [Vets Website Form Tutorial - Intermediate](form-tutorial-intermediate.md)
 
-[Next: Vets Website Writing Tests](writing-tests.md)
+Next: [Vets Website Writing Tests](writing-tests.md)
