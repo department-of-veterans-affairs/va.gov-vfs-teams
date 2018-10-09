@@ -31,9 +31,6 @@
 * [Working with Back-end Code](vets-api/README.md)
 
 
-> NOTE: The complete process for building services and tools on the Veteran Tools Platform is outlined in the [VA Digital Service Handbook - Digital Delivery Guide](https://department-of-veterans-affairs.github.io/va-digital-service-handbook/delivery/index.html)</a>.
-
-
 *If you have any questions about this documentation, ask in your team's Slack channel or reach out to your DSVA Contact.*
 
 <hr>
