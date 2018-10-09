@@ -1,0 +1,1 @@
+Assets supporting content in Developer Docs folder
