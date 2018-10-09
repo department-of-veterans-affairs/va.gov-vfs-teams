@@ -76,10 +76,10 @@ The main things to note are the set of URLs where this widget will be active. Th
 
 Once you've got all that set up, your form should appear on the profile page:
 
-![](/../../assets/saved_form.png)
+![](../../assets/saved_form.png)
 
 <hr>
 
-[Back: Vets Website Submitting to API](submitting-to-api.md)
+Back: [Vets Website Submitting to API](submitting-to-api.md)
 
-[Next: Vets Website Forms in Production](forms-in-production.md)
+Next: [Vets Website Forms in Production](forms-in-production.md)
