@@ -14,6 +14,6 @@ how to ship changes to Vets-API.
 
 <hr>
 
-[Back: Vets API Introduction](README.md)
+Back: [Vets API Introduction](README.md)
 
-[Next: Vets API Authentication](authentication.md)
+Next: [Vets API Authentication](authentication.md)
