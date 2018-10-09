@@ -211,6 +211,6 @@ Run `bundle update vets_json_schema` and everything should be updated correctly.
 
 <hr>
 
-[Back: Vets Website Form Map](vets-website/forms/form-map.md)
+Back: [Vets Website Form Map](vets-website/forms/form-map.md)
 
-[Next: Vets API Introduction](vets-api/README.md)
+Next: [Vets API Introduction](vets-api/README.md)
