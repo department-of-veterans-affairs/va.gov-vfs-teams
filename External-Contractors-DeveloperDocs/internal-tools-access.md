@@ -23,6 +23,6 @@ You do not need to run the SOCKS proxy while you're developing unless you need a
 
 <hr>
 
-[Back: Development Workflow](development-workflow.md)
+Back: [Development Workflow](development-workflow.md)
 
-[Next: Review Instances](review-instances.md)
+Next: [Review Instances](review-instances.md)
