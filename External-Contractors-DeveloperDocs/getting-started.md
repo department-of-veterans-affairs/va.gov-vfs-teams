@@ -11,7 +11,7 @@ To build a service on the Veteran Tools Platform, which can be anything from a d
 
 <hr>
 
-### Get started
+## Get started
 
 1. Confirm that your team's Project Manager has added your name, email address, and Github username to the team spreadsheet and sent it to DSVA. You'll know when you can visit [this Github repo and see the content](https://github.com/department-of-veterans-affairs/vets.gov-team).
 
@@ -36,7 +36,7 @@ To build a service on the Veteran Tools Platform, which can be anything from a d
 
 <hr>
 
-### Development
+## Development
 
 #### Code repositories
 
@@ -55,7 +55,7 @@ To get access to metrics, build logs, deployment information and exception detai
 
 <hr>
 
-### Getting help
+## Get help
 
 DSVA engineering resources are available to provide guidance and support through the development effort.
 
