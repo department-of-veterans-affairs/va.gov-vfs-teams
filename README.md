@@ -1,6 +1,8 @@
 # Work Practices for the Veteran Tools Platform
 
-* This repo contains public-facing work practices for teams working on the Veteran Tools Platform.
+* External Contractors should follow the general user-centered agile delivery processes outlined in the [VA Digital Service Handbook](https://department-of-veterans-affairs.github.io/va-digital-service-handbook/).
+
+* This repo contains specific public-facing work practices for teams working on the Veteran Tools Platform.
 
 * **DSVA team:** [Go here to see how to respond to requests and questions from External Contractors](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Work%20Practices/Manage-External-Teams).
 
@@ -37,27 +39,3 @@
   * [Request Google Analytics](External-Contractors-Reviews/request-google-analytics.md)    
   * [Request for Load Testing](External-Contractors-Reviews/request-load-testing.md)    
 
-<hr>
-
-# old platform docs readme content
-
-# VA Digital Services Platform Documentation
-
-### Pro-tip - Always do a PR to make sure the site continues to build correctly!
-
-<hr>
-
-### Migration to VA Digital Service Handbook
-
-**In Progress -** The content in this site is being migrated to the <a title="go to Handbook" href="https://department-of-veterans-affairs.github.io/va-digital-service-handbook/" target="_blank">Handbook site</a>.
-
-**This site is a work in progress proof of concept documentation effort, not yet ready for use or external review.**
-
-This repository contains the source for the VA Digital Services Platform Documentation portal, which is published at https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs. This project provides documentation for designers and developers who are interested in building applications that help Veterans get the services and benefits that they deserve. Use this repository to submit updates to the documentation. If you are a designer or developer hoping to learn more about building your applications, please use the link above.
-
-**This project is currently under active development and is subject to change without notice. Please contact the DSVA for additional information.**
-
-
-## Installation
-
-Please see the installation documentation at `./docs/development.md` to learn how to set up a local copy of this documentation and submit changes.
