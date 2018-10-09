@@ -38,7 +38,7 @@ To work on the Veteran Tools Platform, each team member needs access to the VA G
     * Working on: ```The project your team is working on```, e.g., "526 ancillary forms"
 1. Developers must complete [additional onboarding steps](#additional-onboarding-steps-for-developers) to access the code repositories and tools they'll need for development and deployment. They should complete these steps as soon as they've received the email invitation to join the VA Github organization.
 
-1. Understand the [norms for using these tools](../Norms/tools.md) when you're working on the Veteran Tools Platform.
+1. Understand the [norms for using these tools](../Norms/norms-tools.md) when you're working on the Veteran Tools Platform.
 
 
 #### Tip:
@@ -52,7 +52,7 @@ To work on the Veteran Tools Platform, each team member needs access to the VA G
 1. Create [new SSH keys](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Internal%20Tools.md#create-an-ssh-public-key).
 
 1. Request that your SSH keys be authorized so that you can use the developer tools.
-    * File an issue in <a href="https://github.com/department-of-veterans-affairs/vets.gov-team" target="_blank">vets.gov-team repo</a>.
+    * File an issue in [vets.gov-team repo](https://github.com/department-of-veterans-affairs/vets.gov-team).
       * Title: ```Add SSH key for external developer```
       * Labels: 
         * ```external-request```
@@ -63,7 +63,7 @@ To work on the Veteran Tools Platform, each team member needs access to the VA G
 
 1. When your key has been added, DSVA will close the Github issue, which will send a Github notification to you. This is your signal that you can continue to the next step.
 
-1. Configure [the SOCKS proxy](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Internal%20Tools.md#configure-the-socks-proxy---for-external-developers).
+1. Configure [the SOCKS proxy](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Internal%20Tools.md#configure-the-socks-proxy---all-other-developers).
 
 1. Understand [how to use the SOCKS proxy from inside the VA network and from the internet](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Internal%20Tools.md#accessing-socks-proxy-from-va-network).
 
