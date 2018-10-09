@@ -16,7 +16,7 @@
 
 * [Getting Started](getting-started.md)
 * [Environments](environments.md)
-* [Development Workflow](developer-workflow.md)
+* [Development Workflow](development-workflow.md)
 * [Access to Internal Developer Tools](internal-tools.md)
 * [Using Review Instances](review-instances.md)
 * [Deploying Code](deployment.md)
