@@ -105,6 +105,6 @@ TODO: RDoc reference link
 
 <hr>
 
-[Back: Vets API Development](development.md)
+Back: [Vets API Development](development.md)
 
-[Next: Vets API Authorization](authorization.md)
+Next: [Vets API Authorization](authorization.md)
