@@ -105,6 +105,6 @@ Tags are used to group your endpoints with a service. It's important that tag na
 
 <hr>
 
-[Back: Vets API Authorization](authorization.md)
+Back: [Vets API Authorization](authorization.md)
 
-[Next: Vets API Forms](forms.md)
+Next: [Vets API Forms](forms.md)
