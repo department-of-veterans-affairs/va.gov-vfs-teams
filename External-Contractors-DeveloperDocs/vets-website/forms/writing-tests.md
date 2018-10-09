@@ -6,6 +6,6 @@
 
 <hr>
 
-[Back: Vets Website Form Tutorial - Advanced](form-tutorial-advanced.md)
+Back: [Vets Website Form Tutorial - Advanced](form-tutorial-advanced.md)
 
-[Next: Vets Website Submitting to API](submitting-to-api.md)
+Next: [Vets Website Submitting to API](submitting-to-api.md)
