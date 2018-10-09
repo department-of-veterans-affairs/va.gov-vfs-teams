@@ -74,6 +74,6 @@ You should see a 404 Response.
 
 <hr>
 
-[Back: Vets API Authentication](authentication.md)
+Back: [Vets API Authentication](authentication.md)
 
-[Next: Vets API Documentation](documentation.md)
+Next: [Vets API Documentation](documentation.md)
