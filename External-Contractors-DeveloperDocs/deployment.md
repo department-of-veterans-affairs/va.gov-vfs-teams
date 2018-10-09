@@ -10,7 +10,7 @@ Code goes through several steps to get to production. This document describes th
 * [Process Details](#process-details)
 * [Other Notes](#other-notes)
 * [Deployment Rollbacks](#deployment-rollbacks)
-* [Problems/Concerns](#problems---concerns)
+* [Problems/Concerns](#problems--concerns)
 
 <hr>
 
@@ -123,6 +123,6 @@ This is one of the weaknesses with Git Flow, which requires additional managemen
 
 <hr>
 
-[Back: Review Instances](review-instances.md)
+Back: [Review Instances](review-instances.md)
 
-[Next: Vets Website ReadMe](vets-website/README.md)
+Next: [Vets Website ReadMe](vets-website/README.md)
