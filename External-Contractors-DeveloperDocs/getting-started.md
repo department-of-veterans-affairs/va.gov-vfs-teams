@@ -19,15 +19,15 @@ To build a service on the Veteran Tools Platform, which can be anything from a d
 
 1. Verify that you have
 
-  * Have access to the [Veteran Tools Platform code repositories](#code-repositories)
+    * Have access to the [Veteran Tools Platform code repositories](#code-repositories)
 
-  * Have credentials for the shared testing environments &mdash;  [dev.vets.gov](https://dev.vets.gov) and [staging.vets.gov](https://staging.vets.gov).
+    * Have credentials for the shared testing environments &mdash;  [dev.vets.gov](https://dev.vets.gov) and [staging.vets.gov](https://staging.vets.gov).
 
-  * Have access to [Internal Tools](internal-tools-access.md)
+    * Have access to [Internal Tools](internal-tools-access.md)
 
-  * **Tip**: If you have a problem or can't get access, post in the *#support-external* Slack channel or reach out to your DSVA contact.
+    * **Tip**: If you have a problem or can't get access, post in the *#support-external* Slack channel or reach out to your DSVA contact.
 
-1. Review all the content the External-Contractors-DeveloperDocs section (everything after this page).
+1. Review all the content the {External-Contractors-DeveloperDocs folder (this folder)]().
 
 1. Review the frontend documentation for [Vets-Website](vets-website/README.md).
 
@@ -43,9 +43,9 @@ The Veteran Tools Platform is broken into three parts:
 
 1. [Vets-Website](https://github.com/department-of-veterans-affairs/vets-website), which contains frontend applications and components users interact with
 
-2. [Vets-API](https://github.com/department-of-veterans-affairs/vets-api), a JSON-based API used by the frontend to provide data to and from VA systems
+1. [Vets-API](https://github.com/department-of-veterans-affairs/vets-api), a JSON-based API used by the frontend to provide data to and from VA systems
 
-3. [Vets-JSON-Schema](https://github.com/department-of-veterans-affairs/vets-json-schema), which contains shared resources used to structure and validate form data between Vets-Website and Vets-API.
+1. [Vets-JSON-Schema](https://github.com/department-of-veterans-affairs/vets-json-schema), which contains shared resources used to structure and validate form data between Vets-Website and Vets-API.
 
 
 #### Internal Tools
