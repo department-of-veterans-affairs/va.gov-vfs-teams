@@ -62,6 +62,6 @@ If you encounter issues or have any questions, raise them in hte *#support-exter
 
 <hr>
 
-[Next: Environments](environments.md)
+Next: [Environments](environments.md)
 
-[Back: Developer Docs Introduction](README.md)
+Back: [Developer Docs Introduction](README.md)
