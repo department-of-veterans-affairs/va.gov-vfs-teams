@@ -18,7 +18,7 @@ Conduct cross-browser manual testing after you've pushed your final/complete bui
 
 ## Tools you'll need
 
-[Cross Browser Testing Template](../Templates/template-cross-browser-manual-testing.xlsx)
+[Cross Browser Testing Template](../../Templates/template-cross-browser-manual-testing.xlsx)
   * Cross-browser Manual Testing Example
 ![](Assets/example-cross-browser-manual-testing.png)
 
