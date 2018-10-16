@@ -80,6 +80,28 @@ Answer the following questions in a Word document:
 
 ### Using Google Analytics
 
-> Note: This section only applies if your team is contracted to do continuous improvement (or maintenance) after launch.
+> **Skip this section if your team is NOT contracted to do continuous improvement (or maintenance) after launch.**
 
-**In progress*
+If your team will be continuously improving (or maintaining) the service **after launch,** you'll need to create a Google Analytics account using your VA email address. This will give you access to Google Analytics for VA web properties.
+
+* Each person who will use Google Analytics will need to create a new Google Analytics account.
+* Each person should create a **new Google Analytics account** using their VA email address.
+
+Once your team has created new Google Analytics accounts:
+
+1. File an issue in ```vets-team repo```.
+    * Title: ```Provision Google Analytics```
+    * Labels: 
+      * ```analytics```
+      * ```external-request```
+      * ```[your team's Github label]```, e.g., "BAH-526"
+    * Assign the issue to: ```[your DSVA contact]```
+    * Comment: 
+      * **Context**: Provision the following Google Analytics accounts.
+        * ```Provide a list of the Google Analytics accounts including full names and VA email addresses```
+1. **Within 4 business days**, DSVA will provision these accounts so your team can start using Google Analytics.
+    * If you don't hear anything after 4 business days, reach out to your DSVA Contact.
+1. When DSVA has provisioned the accounts, DSVA will:
+    * Add a comment to the Github issue: ```Google Analytics accounts provisioned```
+    * Close the issue.
+1. When the issue is closed, Github will send a notification to the issue creator. This is your team's signal that you can start using Google Analytics.
