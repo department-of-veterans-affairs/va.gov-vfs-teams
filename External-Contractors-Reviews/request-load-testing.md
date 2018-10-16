@@ -1,4 +1,4 @@
-# Load Testing -- IN PROGRESS
+# Load Testing
 
 * **This document applies only to External Contractors.**
 
