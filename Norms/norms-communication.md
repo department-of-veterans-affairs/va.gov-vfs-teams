@@ -1,14 +1,12 @@
 # Norms for Communication
 
-**This document applies to the DSVA team (including detailees) and any contractor working on the Veteran Tools Platform.**
-
 **Definitions for terms used in this document:**
 
 * *"DSVA" refers to DSVA team members and DSVA detailees.*
 
 * *"Internal Contractors" refers to DSVA's primary vendor contractor (e.g., AdHoc) and its subcontractors.*
 
-* *"External Contractors" refers to any other contractor team working on the Veteran Tools Platform.*
+* *"External Contractors" refers to any other contractor team working on the Veteran-facing Services Platform.*
 
 <hr>
 

@@ -8,7 +8,7 @@
 
   * *"Internal contractors" refers to DSVA's primary vendor contractor (e.g., AdHoc) and its subcontractors.*
 
-  * *"External contractors" refers to any other contractor team working on the Veteran Tools Platform.*
+  * *"External contractors" refers to any other contractor team working on the Veteran-facing Services Platform.*
 
 <hr>
 
@@ -20,7 +20,7 @@
 
 ### General
 
-* All applications (and new features for existing applications) on the Veteran Tools Platform need to go through load testing.
+* All applications (and new features for existing applications) on the Veteran-facing Services Platform need to go through load testing.
 * **Do not perform load testing without explicit approval from DSVA** -- a DSVA devops engineer is required to coordinate and perform your load testing.
 * **External Contractor teams should initiate the Request for Load Testing** 
   * When the complete and final build is on staging and you're confident it's ready to launch

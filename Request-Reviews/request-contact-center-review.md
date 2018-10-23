@@ -7,7 +7,7 @@
 
   * *"Internal contractors" refers to DSVA's primary vendor contractor (e.g., AdHoc) and its subcontractors.*
 
-  * *"External contractors" refers to any other contractor team working on the Veteran Tools Platform.*
+  * *"External contractors" refers to any other contractor team working on the Veteran-facing Services Platform.*
 
 <hr>
 
@@ -19,10 +19,10 @@
 
 ### General
 
-* All applications on the Veteran Tools Platform include a phone number Veterans can call to ask questions about the application's functionality.
-* **Before applications (or new features) launch on the Veteran Tools Platform, all teams must review functionality with the Contact Center to ensure that Contact Center Representatives are prepared to answer questions about the functionality.**
+* All applications on the Veteran-facing Services Platform include a phone number Veterans can call to ask questions about the application's functionality.
+* **Before applications (or new features) launch on the Veteran-facing Services Platform, all teams must review functionality with the Contact Center to ensure that Contact Center Representatives are prepared to answer questions about the functionality.**
   * This meeting will be arranged and facilitated by DSVA.
-* **External Contractor teams should initiate the Contact Center Review when** 
+* **External Contractor teams should initiate the Contact Center Review when**
   1. The complete and final build is on staging and you're confident it's ready to launch,
   1. After they've completed the [Prepare for a Contact Center Review steps](#prepare-for-a-contact-center-review), and
   1. At least 2 weeks prior to the launch date.
@@ -34,8 +34,8 @@
 
 ### Step 1: Create the Product Guide
 
-* <a href="https://github.com/department-of-veterans-affairs/vets-work-practices/blob/master/Templates/sample-product-guide-1.pdf" target="_blank">Example Product Guide 1</a>
-* <a href="https://github.com/department-of-veterans-affairs/vets-work-practices/blob/master/Templates/sample-product-guide-2.pdf" target="_blank">Example Product Guide 2</a>
+* <a href="../Templates/sample-product-guide-1.pdf" target="_blank">Example Product Guide 1</a>
+* <a href="../Templates/sample-product-guide-2.pdf" target="_blank">Example Product Guide 2</a>
 
 *If you're building a brand new service*:
 

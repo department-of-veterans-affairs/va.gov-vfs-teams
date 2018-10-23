@@ -8,7 +8,7 @@
 
   * *"Internal contractors" refers to DSVA's primary vendor contractor (e.g., AdHoc) and its subcontractors.*
 
-  * *"External contractors" refers to any other contractor team working on the Veteran Tools Platform.*
+  * *"External contractors" refers to any other contractor team working on the Veteran-facing Services Platform.*
 
 <hr>
 
@@ -19,7 +19,7 @@
 
 ### General
 
-* **All teams working on the Veteran Tools Platform are required to follow the guidelines and patterns in the [Veteran Tools Platform Design System](https://department-of-veterans-affairs.github.io/design-system/).**
+* **All teams working on the Veteran-facing Services Platform are required to follow the guidelines and patterns in the [Veteran-facing Services Platform Design System](https://department-of-veterans-affairs.github.io/design-system/).**
 * **External Contractor teams should schedule the Design QA when the complete and final build is on staging.** 
   * The Design QA should happen when the team is confident no further changes will happen before launch.
 

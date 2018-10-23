@@ -8,7 +8,7 @@
 
   * *"Internal contractors" refers to DSVA's primary vendor contractor (e.g., AdHoc) and its subcontractors.*
 
-  * *"External contractors" refers to any other contractor team working on the Veteran Tools Platform.*
+  * *"External contractors" refers to any other contractor team working on the Veteran-facing Services Platform.*
 
 <hr>
 
@@ -21,7 +21,7 @@
 
 ## General
 
-**All teams working on the Veteran Tools Platform are required to follow the DSVA process for screening participants for any research study related to the Veteran Tools Platform.** 
+**All teams working on the Veteran-facing Services Platform are required to follow the DSVA process for screening participants for any research study related to the Veteran-facing Services Platform.** 
 
 * The <a href="https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Research/Request%20or%20Do%20Research/PRA%20and%20Recruiting/PRA/Screener%20Questionnaire%202900-0770/Digital%20Service%20User%20Screener%20Questionnaire.docx" target="_blank">DSVA screener form</a> has PRA clearance and an established OMB form control number.
 
