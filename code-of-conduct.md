@@ -1,4 +1,4 @@
-# Veteran Tools Platform Code of Conduct
+# Veteran-facing Services Platform Code of Conduct
 
 ## Notes
 
@@ -13,9 +13,9 @@ This document is not all encompassing, nor does it supersede any laws. It is des
 
 ## Code of Conduct
 
-The Veteran Tools Platform (VTP) team believes in active inclusivity and creating friendly and welcoming environments for all -- free from discrimination for any reason.
+The Veteran-facing Services Platform (VSP) team believes in active inclusivity and creating friendly and welcoming environments for all -- free from discrimination for any reason.
 
-The VTP team is absolutely dedicated to providing a harassment-free work experience for everyone.  Harassment includes statements or actions related to gender identity (including history and expression), age, sexual orientation, disability, physical appearance, body size, race, religion, or other protected status that we reasonably determine offend, demean, intimidate or harm another person, whether those statements occur in public or in private.
+The VSP team is absolutely dedicated to providing a harassment-free work experience for everyone.  Harassment includes statements or actions related to gender identity (including history and expression), age, sexual orientation, disability, physical appearance, body size, race, religion, or other protected status that we reasonably determine offend, demean, intimidate or harm another person, whether those statements occur in public or in private.
 
 Examples of conduct that may be considered to violate this code of conduct include the following: the use of sexual language or imagery; unwanted sexual attention; failure to maintain reasonable personal space boundaries; refusing to end conversation when requested; unauthorized access to computer equipment, including keylogging, screenshotting or tampering.
 

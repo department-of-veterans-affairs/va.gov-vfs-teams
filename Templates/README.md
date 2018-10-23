@@ -1,8 +1,8 @@
-# Templates - Work Practices for the Veteran Tools Platform
-
-* This folder contains public-facing templates for teams working on the Veteran Tools Platform.
+# Templates for External Contractors
 
 <hr>
+
+* **These Templates apply only to External Contractors.**
 
 **Definitions for terms used in this folder:**
 
@@ -10,7 +10,7 @@
 
 * *"Internal contractors" refers to DSVA's primary vendor contractor (e.g., AdHoc) and its subcontractors.*
 
-* *"External contractors" refers to any other contractor team working on the Veteran Tools Platform.*
+* *"External contractors" refers to any other contractor team working on the Veteran-facing Services Platform.*
 
 <hr>
 

@@ -8,7 +8,7 @@
 
   * *"Internal contractors" refers to DSVA's primary vendor contractor (e.g., AdHoc) and its subcontractors.*
 
-  * *"External contractors" refers to any other contractor team working on the Veteran Tools Platform.*
+  * *"External contractors" refers to any other contractor team working on the Veteran-facing Services Platform.*
 
 <hr>
 
@@ -21,7 +21,7 @@
 
 ### General
 
-* **All teams working on the Veteran Tools Platform are required to integrate VA's Google Analytics into their services.**
+* **All teams working on the Veteran-facing Services Platform are required to integrate VA's Google Analytics into their services.**
 * **External Contractor teams should request Google Analytics when**
   * The complete and final build is on staging and you're confident it's ready to launch. 
   * At least 2 weeks before planned launch date

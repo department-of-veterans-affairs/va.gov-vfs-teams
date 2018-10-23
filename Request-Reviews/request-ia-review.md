@@ -8,7 +8,7 @@
 
   * *"Internal contractors" refers to DSVA's primary vendor contractor (e.g., AdHoc) and its subcontractors.*
 
-  * *"External contractors" refers to any other contractor team working on the Veteran Tools Platform.*
+  * *"External contractors" refers to any other contractor team working on the Veteran-facing Services Platform.*
 
 <hr>
 
@@ -20,7 +20,7 @@
 
 ### General
 
-* **All teams working on the Veteran Tools Platform are required to work with DSVA to integrate your service into the platform so your users can easily find (and search for) your service.**
+* **All teams working on the Veteran-facing Services Platform are required to work with DSVA to integrate your service into the platform so your users can easily find (and search for) your service.**
 * **External Contractor teams should intiate the IA review as soon as they have a good idea of what their service will do.** 
   * For most teams, this will be at some point in the *Prototype* phase or early in the *Build and Test* phase. 
 
@@ -39,9 +39,9 @@ If you're building a new service, you'll need to create a name for it.
 
 ### Step 2: Define the Information Architecture
 
-The IA determines where in the Veteran Tools Platform your service will live, how users navigate to your service, and how users navigate within your service. 
+The IA determines where in the Veteran-facing Services Platform your service will live, how users navigate to your service, and how users navigate within your service. 
 
-* How your service will integrate into the existing Veteran Tools Platform?
+* How your service will integrate into the existing Veteran-facing Services Platform?
   * Is this a new standalone service, or is it part of an existing service?
   * Does the service require authentication? 
   * If yes, will there be static content available prior to authentication? Currently we build static content pages for tools that require authentication to provide SEO value and a landing page in the user experience rather than an immediate redirect to login when accessing. 
@@ -60,7 +60,7 @@ The IA determines where in the Veteran Tools Platform your service will live, ho
 
 * What are the primary entry points to the service?
 
-* Would cross-linking from other tools on the Veteran Tools Platform help Veterans find and use your service?
+* Would cross-linking from other tools on the Veteran-facing Services Platform help Veterans find and use your service?
   * If so, what are those secondary entry points?
 
 * What is the ```<h1>``` (the page title) for each page/screen of your service?
@@ -153,7 +153,7 @@ Define the page meta description for each page/screen in your service.
       * **Page Title/URL/Page meta description**: ```a table showing each Page Title, its URL, and its Meta Description```
 1. **Within 4 business days**, DSVA will conduct an IA Review and provide feedback.
     * If you don't hear anything after 4 business days, reach out to your DSVA Contact.
-    * DSVA's goal in this review is to make sure your service doesn’t collide with existing services and to provide feedback based on Veteran experiences with other Veteran Tools Platform services.
+    * DSVA's goal in this review is to make sure your service doesn’t collide with existing services and to provide feedback based on Veteran experiences with other Veteran-facing Services Platform services.
 1. DSVA will update the Github issue with a Word document that provides feedback and any requested changes.
 1. Complete all the changes requested in the Word document.
     * If your team has questions (or disagrees with a requested change), use the Github issue to discuss that with DSVA.

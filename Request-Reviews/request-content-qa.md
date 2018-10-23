@@ -8,7 +8,7 @@
 
   * *"Internal contractors" refers to DSVA's primary vendor contractor (e.g., AdHoc) and its subcontractors.*
 
-  * *"External contractors" refers to any other contractor team working on the Veteran Tools Platform.*
+  * *"External contractors" refers to any other contractor team working on the Veteran-facing Services Platform.*
 
 <hr>
 
@@ -20,7 +20,7 @@
 
 ### General
 
-* **All teams working on the Veteran Tools Platform are required to adhere to the [Content Style Guide](https://github.com/department-of-veterans-affairs/vets.gov-content-style-guide)**, including standards for
+* **All teams working on the Veteran-facing Services Platform are required to adhere to the [Content Style Guide](https://github.com/department-of-veterans-affairs/vets.gov-content-style-guide)**, including standards for
   * Voice and Tone
   * Plain Language Word Choice
   * Terms (in-house style for specific words and phrases)

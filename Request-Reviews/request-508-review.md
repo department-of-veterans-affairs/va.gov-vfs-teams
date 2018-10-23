@@ -8,14 +8,14 @@
 
   * *"Internal contractors" refers to DSVA's primary vendor contractor (e.g., AdHoc) and its subcontractors.*
 
-  * *"External contractors" refers to any other contractor team working on the Veteran Tools Platform.*
+  * *"External contractors" refers to any other contractor team working on the Veteran-facing Services Platform.*
 
 <hr>
 
 
 ## DSVA Accessibility Process
 
-**All applications and features on the Veteran Tools Platform are required to be accessible and 508 compliant.** 
+**All applications and features on the Veteran-facing Services Platform are required to be accessible and 508 compliant.** 
 
 ### Step 1: Automated Accessibility/508 testing
 
@@ -69,7 +69,7 @@
 
 **DSVA handles the VA 508 review for your team. You do not need to specifically request it. DSVA will automatically begin the following process for you based on the outcome of [Step #3](#step-3-request-an-accessibility508-review).**
 
-Because all Veteran Tools Platform code goes through rigorous manual and automated 508 testing, the VA 508 office has approved DSVA to launch code before the VA 508 office reviews it. 
+Because all Veteran-facing Services Platform code goes through rigorous manual and automated 508 testing, the VA 508 office has approved DSVA to launch code before the VA 508 office reviews it. 
 
 1. Once a month, DSVA meets with the VA 508 office. At the meeting, DSVA presents all code submitted in the preceding 30 days.
 

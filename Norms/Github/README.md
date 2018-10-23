@@ -14,7 +14,7 @@
 
 ## Background
 
-Teams working on the Veteran Tools Platform use [Github](https://github.com/department-of-veterans-affairs) to
+Teams working on the Veteran-facing Services Platform use [Github](https://github.com/department-of-veterans-affairs) to
 
 1. Store and share project documents. We do this to keep a record of project work and so all teams can learn from what other teams are doing.
 2. Store and share Work Practices &#8212; our best practices for how we do things.
@@ -24,7 +24,7 @@ Teams working on the Veteran Tools Platform use [Github](https://github.com/depa
 
 ## Tips for creating a Github account
 
-1. Everyone working on the Veteran Tools Platform must set up a Github account.
+1. Everyone working on the Veteran-facing Services Platform must set up a Github account.
 1. Github accounts are subject to FOIA.
     * Set up a **new Github account for VA work.**
     * Do not use a personal Github account for VA work.
@@ -37,7 +37,7 @@ Teams working on the Veteran Tools Platform use [Github](https://github.com/depa
 
 ### What is Github?
 
-GitHub is a system that stores documents and keeps a revision history of those files. It's divided into "repositories" (or "repos") which are groups of related files or documents. For example, this file lives in the ```vets-work-practices``` repo.
+GitHub is a system that stores documents and keeps a revision history of those files. It's divided into "repositories" (or "repos") which are groups of related files or documents. For example, this file lives in the ```vets-external-teams``` repo.
 
 * You can use Github by visiting the URL for a specific repo in your browser and editing files from there. Or you can use the command line to interact with files.
   * If you're not familiar with Github, use the web URL to learn how Github works and what you can do with it.
