@@ -6,7 +6,7 @@
 
 * *"DSVA" refers to DSVA team members and DSVA detailees.*
 
-* *"Internal Contractors" refers to DSVA's primary vendor contractor (e.g., AdHoc) and its subcontractors.*
+* *"Internal Contractors" refers to DSVA's primary vendor contractor and its subcontractors.*
 
 * *"External Contractors" refers to any other contractor team working on the Veteran-facing Services Platform.*
 
