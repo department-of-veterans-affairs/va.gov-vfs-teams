@@ -17,7 +17,10 @@
 
 ## Request Github and Slack access
 
-To work on the Veteran-facing Services Platform, each team member needs access to the VA Github organization and access to DSVA Slack channels.
+To work on the Veteran-facing Services Platform, each team member needs to request access to the VA Github organization and to DSVA Slack channels.
+
+**Team members must use their VA.gov email address to request access to Github and Slack.**
+> If you don't have a VA.gov email address, you need to go through the PIV process before you can work on the Veteran-facing Services Platform.
 
 1. Have each team member review the [tips for creating a Github account](../Norms/Github/README.md#tips-for-creating-a-github-account) **before creating a Github account.**
 
