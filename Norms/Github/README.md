@@ -26,7 +26,7 @@ Teams working on the Veteran-facing Services Platform use [Github](https://githu
 
 1. Everyone working on the Veteran-facing Services Platform must set up a Github account.
 1. **All content in our VA Github repositories is subject to FOIA**.
-1. We **strongly recommend** that you set up a **new Github account for VA work**. 
+1. We **strongly recommend** that you set up a **new Github account for VA work** using your VA.gov email address. 
 1. We **strongly recommend** that you
     * **Do not use** a personal Github account for VA work
     * **Do not use** a Github account connected to a previous employer for VA work
