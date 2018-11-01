@@ -25,10 +25,11 @@ Teams working on the Veteran-facing Services Platform use [Github](https://githu
 ## Tips for creating a Github account
 
 1. Everyone working on the Veteran-facing Services Platform must set up a Github account.
-1. Github accounts are subject to FOIA.
-    * Set up a **new Github account for VA work.**
-    * Do not use a personal Github account for VA work.
-    * Do not use a previous employer Github account for VA work.
+1. **All content in our VA Github repositories is subject to FOIA**.
+1. We **strongly recommend** that you set up a **new Github account for VA work**. 
+1. We **strongly recommend** that you
+    * **Do not use** a personal Github account for VA work
+    * **Do not use** a Github account connected to a previous employer for VA work
 1. Github requires two-factor authentication (2FA) for new accounts.
     * If you use a Github account without enabling 2FA, you're likely to have problems pushing code.
 
