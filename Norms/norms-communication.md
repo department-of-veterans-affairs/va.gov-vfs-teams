@@ -36,7 +36,7 @@ The solution: A Slack bot that automatically posts breaking change content from 
     * E.g., "Sketch file has been updated to include new treatment for X. Find the Sketch file here [link]" or "We changed how the feature flag works. Instead of doing [describe the old way], you need to do X [describe the new way].
 1. If additional information is needed to communicate the change and its impact, the team member can write it in Slack or include a link to a **public-facing** document on Github.
 1. After posting the message, the team member must react to it using the ```:breaking``` emoji.
-1. The ```:breaking``` triggers Slack to automatically post a copy of the team member's Slack post in the ```#breaking-changes``` channel where everyone can see it.
+1. Using the ```:breaking``` emoji triggers Slack to automatically post a copy of the team member's Slack post in the ```#breaking-changes``` channel where everyone can see it.
  
 #### Learning about a "breaking change"
 
@@ -44,6 +44,7 @@ The solution: A Slack bot that automatically posts breaking change content from 
 * New team members will be auto-subscribed to the ```#breaking-changes``` channel when they're invited to Slack. 
 * Team members will pay attention to announcements in the ```#breaking-changes``` channel.
 * Team members will not clutter the ```#breaking-changes``` with other content. If conversation is needed about a breaking change, team members will thread (the goal is to make this channel as easy as possible for everyone to scan).
+* Team members agree not to use the ```:breaking``` emoji except for the purpose of breaking changes. E.g., don't use it to announce that new stuff is on the website (there's other channels for that).
 
 
 ## DSVA and Internal Contractor responsibilities
