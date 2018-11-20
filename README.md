@@ -2,7 +2,7 @@
 
 * **External Contractors** should follow the general user-centered agile delivery processes outlined in the [VA Digital Service Handbook](https://department-of-veterans-affairs.github.io/va-digital-service-handbook/).
 
-* **DSVA team:** [Go here to see how to respond to requests and questions from External Contractors](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Work%20Practices/Manage-External-Teams).
+* **DSVA team:** [Go here to see how to respond to requests and questions from External Contractors](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Work%20Practices/Platform-Support/manage-requests).
 
 <hr>
 
