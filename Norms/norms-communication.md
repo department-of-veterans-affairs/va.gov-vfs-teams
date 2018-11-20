@@ -10,11 +10,40 @@
 
 <hr>
 
+* [Communicating "breaking changes"](#communicating-breaking-changes)
 * [DSVA and Internal Contractor responsibilities](#dsva-and-internal-contractor-responsibilities)
 * [External Contractor responsibilities](#external-contractor-responsibilities)
 * [Background for these decisions](#background-for-these-decisions)
 
 <hr>
+
+## Communicating "breaking changes"
+
+Breaking changes are changes to design, content, or code that have the potential to affect (break) the work of other teams currently working on the Veteran-facing Services Platform (VSP). For example:
+* A new design pattern is added to the design system
+* The Sketch file has been updated
+* A change to how the feature flag works
+* A change to how the website build process works
+* A significant change to the content style guide
+
+The problem: We have many Slack channels where team members are figuring out the changes that need to be made. When decisions are made in these channels, those decisions are not always communicated to all the teams working on the VSP, notably the External Contractors are left behind.
+
+The solution: A Slack bot that automatically posts breaking change content from other channels to a central Slack channel (```#breaking-changes```) where all teams can see the content. This Slack channel should contain no other conversation, so that team members can easily scan the channel to see if a breaking change affects their work or not.
+
+#### Announcing a "breaking change"
+1. When a decision has been made about a breaking change, a team member posts about the change in any **public Slack channel**. Channel must be public for this process to work.
+1. The post needs to provide enough information that a designer, developer, or content person can know what they need to do in order to accomodate the change in their work.
+    * E.g., "Sketch file has been updated to include new treatment for X. Find the Sketch file here [link]" or "We changed how the feature flag works. Instead of doing [describe the old way], you need to do X [describe the new way].
+1. If additional information is needed to communicate the change and its impact, the team member can write it in Slack or include a link to a **public-facing** document on Github.
+1. After posting the message, the team member must react to it using the ```:breaking``` emoji.
+1. The ```:breaking``` triggers Slack to automatically post a copy of the team member's Slack post in the ```#breaking-changes``` channel where everyone can see it.
+ 
+#### Learning about a "breaking change"
+
+* Existing team members will join the ```#breaking-changes``` channel.
+* New team members will be auto-subscribed to the ```#breaking-changes``` channel when they're invited to Slack. 
+* Team members will pay attention to announcements in the ```#breaking-changes``` channel.
+* Team members will not clutter the ```#breaking-changes``` with other content. If conversation is needed about a breaking change, team members will thread (the goal is to make this channel as easy as possible for everyone to scan).
 
 
 ## DSVA and Internal Contractor responsibilities
