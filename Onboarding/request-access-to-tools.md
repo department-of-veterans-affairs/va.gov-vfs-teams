@@ -53,22 +53,22 @@ To work on the Veteran-facing Services Platform, each team member needs to reque
 
 ## Additional onboarding steps for developers
 
-1. Create [new SSH keys](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Internal%20Tools.md#create-an-ssh-public-key).
+#### 1. Create [new SSH keys](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Internal%20Tools.md#create-an-ssh-public-key).
 
-1. Request that your SSH keys be authorized so that you can use the developer tools.
-    * File an issue in [vets.gov-team repo](https://github.com/department-of-veterans-affairs/vets.gov-team).
-      * Title: ```Add SSH key for external developer```
-      * Labels:
-        * ```external-request```
-        * ```devops```
-        * ```your teams' Github label```, e.g., "BAH-526"
-      * Assign the issue to: ```your DSVA contact```
-      * Comment: ```paste in your public SSH key``` (NOT the fingerprint)    
+#### 2. Request that your SSH keys be authorized so that you can use the developer tools.
+* File an issue in [vets.gov-team repo](https://github.com/department-of-veterans-affairs/vets.gov-team).
+  * Title: ```Add SSH key for external developer```
+  * Labels:
+    * ```external-request```
+    * ```devops```
+    * ```your teams' Github label```, e.g., "BAH-526"
+  * Assign the issue to: ```your DSVA contact```
+  * Comment: ```paste in your public SSH key``` (NOT the fingerprint)    
 
-1. When your key has been added, DSVA will close the Github issue, which will send a Github notification to you. This is your signal that you can continue to the next step.
+#### 3. When your key has been added, DSVA will close the Github issue, which will send a Github notification to you. This is your signal that you can continue to the next step.
 
-1. Configure [the SOCKS proxy](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Internal%20Tools.md#configure-the-socks-proxy---all-other-developers).
+#### 4. Configure [the SOCKS proxy](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Internal%20Tools.md#configure-the-socks-proxy---all-other-developers).
 
-1. Understand [how to use the SOCKS proxy from inside the VA network and from the internet](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Internal%20Tools.md#accessing-socks-proxy-from-va-network).
+#### 5. Understand [how to use the SOCKS proxy from inside the VA network and from the internet](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Internal%20Tools.md#accessing-socks-proxy-from-va-network).
 
-1. [Test and use the SOCKS proxy](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Internal%20Tools.md#testing-and-using-the-socks-proxy).
+#### 6. [Test and use the SOCKS proxy](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Internal%20Tools.md#testing-and-using-the-socks-proxy).
