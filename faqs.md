@@ -3,6 +3,8 @@
 <hr>
 
 * [Github FAQs](#github)
+* [Internal Developer Tools FAQs](#internal-developer-tools)
+* [Recruiting for Research FAQs](#recruiting-for-research)
 
 <hr>
 
@@ -15,13 +17,13 @@
     * [Try this solution](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Internal%20Tools.md#permission-denied---public-key-error-when-pushing-to-github).
 
 
-### Using Interal Developer Tools
+### Internal Developer Tools
 
 1. *I'm getting a ```ssh sock -D 2001 -N failing``` error. How can I fix it?*
     * [Try this solution](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Internal%20Tools.md#ssh-sock--d-2001--n-failing).
 
 
-### Recruiting
+### Recruiting for Research
 
 1. *The [sample recruiting emails](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Research/Request%20or%20Do%20Research/PRA%20and%20Recruiting/Outreachrecruiting-language-proposed.md) say that Veterans can email ```feedback@va.gov``` with questions. Who monitors this email and can I get responses sent to it for my recruiting emails?*
     * No. The ```feedback@va.gov``` email address is only for DSVA use. You need to modify the sample recruiting emails to use your own email address, preferably your va.gov email address.
