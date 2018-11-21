@@ -14,7 +14,7 @@
     * [Try this solution](https://mycyberuniverse.com/web/how-fix-fatal-authentication-failed-for-https-github-com.html).
 
 1. *I'm getting a ```Permission denied - public key``` error when I push to Github.*
-    * [Try this solution](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Internal%20Tools.md#permission-denied---public-key-error-when-pushing-to-github).
+    * [Try this solution](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Internal%20Tools.md#permission-denied---public-key-error-when-pushing-to-github).   
 
 
 ## Internal Developer Tools
