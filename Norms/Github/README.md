@@ -82,5 +82,5 @@ The "Issues" section of the ```vets.gov-team``` repo is where all teams manage t
 
 ## Get help with Github
 
-1. If you have problems using Github, [check the Github FAQs for potential solutions](../faqs.md#github).
+1. If you have problems using Github, [check the Github FAQs for potential solutions](../../faqs.md#github).
 2. Ask in a Slack channel.
