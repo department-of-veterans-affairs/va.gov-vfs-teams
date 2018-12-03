@@ -17,7 +17,7 @@ Code reviews are a crucial part of how we work. Understanding why they are impor
 
 #### Prerequisites
 
-1. Understand [Why we use Code Reviews](#why-we-use-code-reviews).
+1. Understand [Why we use Code Reviews](#why-should-i-request-a-code-review).
 
 1. Understand how we use [Continuous Integration](/Work%20Practices/Engineering/Continuous%20Integration%20Process.md) to develop and deploy code using GitHub.
 
@@ -40,7 +40,6 @@ Code reviews are a crucial part of how we work. Understanding why they are impor
 
 * The master branch is a place for stable code (even if it's not initially deployed to production). Code reviews are the last line of defense for catching bugs, stopping bad architectural changes, and making sure that things being added are in sync with team priorities.
 </details>
-<br/>
 
 
 <details>
@@ -54,7 +53,6 @@ Code reviews are a crucial part of how we work. Understanding why they are impor
   * Be sure to prepend the PR title with "[WIP]" if you're seeking a WIP Code Review.
   * Be sure to use the `feature flag` if your code should not be visible in production.
 </details>
-<br/>
 
 
 <details>
@@ -71,7 +69,6 @@ Code reviews are a crucial part of how we work. Understanding why they are impor
   * **Note:** The easiest way for product people to review changes is the [review instances](Review%20Instances.md), accessible from the PR in Github.
   * This is important so we don't deploy beautiful, functional, elegant, technically brilliant but wrong products
 </details>
-<br/>
 
 
 <details>
@@ -96,7 +93,6 @@ Code reviews are a crucial part of how we work. Understanding why they are impor
 
 * Be sure to allow time for following up on code review comments, as well as refactoring.
 </details>
-<br/>
 
 
 <details>
@@ -117,7 +113,6 @@ Code reviews are a crucial part of how we work. Understanding why they are impor
 * If the only changes you have are small "nits", such as removing a semi-colon, the reviewer can give a "LGTM with nits" and assign back to the author. This tells the author that once they make those small changes, they can merge the PR themselves without further review. This should only be used when there are few, trivial changes.
 * The phrase In My Humble Opinion (IMHO) does not belong in code reviews. Code review is about learning together and supporting each other, not about one person's personal opinion vs. another's.
 </details>
-<br/>
 
 
 <details>
@@ -132,8 +127,6 @@ Code reviews are a crucial part of how we work. Understanding why they are impor
 * PTAL - Please Take a Look. Tells when a review is ready to be reviewed or re-reviewed. Example: "Good catches! Edits made. PTAL @xyz"
 
 </details>
-<br/>
-
 
 
 ## Request a Code Review
@@ -171,7 +164,6 @@ Code reviews are a crucial part of how we work. Understanding why they are impor
     * Your PR needs a `LGTM` before it can be merged [see What acronyms mean](#what-aronyms-mean)).
 
 </details>
-<br/>
 
 
 <details>
@@ -206,17 +198,15 @@ Code reviews are a crucial part of how we work. Understanding why they are impor
 * Some code reviews take multiple rounds of review. It is expected that any minor reviews after the first round will go quickly. Making someone wait 24 hours for you to review a few lines of code is not courteous and does not create a positive code review culture.
 
 * Some PRs are higher priority than others. These include active bugs in production and PRs that touch many files, as all other branches are likely to be out of date if the PR sits long without being merged ("bit rot" is the term often used for this). If a PR is high priority, communicate this directly to the reviewer in Slack. It is the PR author's job to communicate how quickly they need a review and why this should be prioritized above other work.
-
 </details>
-<br/>
 
 
 
 ## How to do a Code Review
 
-* If you're assigned to a PR, **take responsibility and review it as soon as you can.** Don't assume someone else will.
+If you're assigned to a PR, take responsibility and **review it as soon as you can.** Don't assume someone else will.
 
-* When you're doing a Code Review, ask these questions:
+#### When you're doing a Code Review, ask these questions:
   * Are there logic errors in the code?
   * Are all cases (including edge cases and error cases) fully implemented?
   - Are the automated tests sufficient for the new code? Do existing automated tests need to be rewritten to account for changes in the code?
