@@ -5,8 +5,9 @@
 > * "External Contractors" refers to any other contractor team working on the Veteran-facing Services Platform.
 
 * [Overview](#overview)
+* [Code Review Norms](#code-review-norms)
 * [Request a Code Review](#request-a-code-review)
-* [Do a Code Review](#do-a-code-review)
+* [How to do a Code Review](#how-to-do-a-code-review)
 
 <hr>
 
@@ -24,7 +25,7 @@ Code reviews are a crucial part of how we work. Understanding why they are impor
     * ***External contractors:*** See [Development Workflow](link-here) for more information on how to your work down into small Code Review Pull Requests (PRs).
 
 
-## Request a Code Review
+## Code Review Norms
 
 <details>
 <summary>
@@ -58,6 +59,23 @@ Code reviews are a crucial part of how we work. Understanding why they are impor
 
 <details>
 <summary>
+  <b>Who should do my Code Review?</b>
+</summary>
+
+ Another developer who works on the same stuff from your team.
+  * E.g. you're a back end developer requesting a review from another back end developer on your team.
+* If the PR is purely for content, it can probably just be reviewed by a product person. Use your best judgement and be mindful of everybody's workload.
+* If there are UX or copy changes, a designer or content writer should review the screenshots included in your PR.
+* If there are product changes, a product strategist or designer should review your change before it goes to production
+  * This doesn't necessarily have to happen during the PR phase. Some teams have product owners review feature changes in staging. Your team should have a process that you can follow.
+  * **Note:** The easiest way for product people to review changes is the [review instances](Review%20Instances.md), accessible from the PR in Github.
+  * This is important so we don't deploy beautiful, functional, elegant, technically brilliant but wrong products
+</details>
+<br/>
+
+
+<details>
+<summary>
   <b>What makes a good Code Review Pull Request (PR)?</b>
 </summary>
 
@@ -81,126 +99,10 @@ Code reviews are a crucial part of how we work. Understanding why they are impor
 <br/>
 
 
-## Request a Code Review
-
 <details>
 <summary>
-  <b>For External Contractors</b>
+  <b>Code Review Guidelines</b>
 </summary>
-
-1. Create a PR by filling in the template: 
-    * It asks for PR title, which should be preappended with [Project/Feature Name] follow by a one line description. For example "[Facility Locator Update] Adding choice locations data." 
-    * PR description should include a description of the change done and the local testing done. The description needs to provide a description of the changes done to provide the code reviewer with enough context to do an effective code review.
-
-1. Request a code review from someone on your team.
-    * Click the gears icon under "Reviewers" to request someone on your team to review your code.
-    * Make sure it's someone who can review your code and provide good feedback on it. Your teammate should review the [Specific Questions to Ask When Code Reviewing](#specific-questions-to-ask-when-code-reviewing) before reviewing your code.
-    * **Your teammate must approve your code before you can go to the next step.**
-
-1. After your teammate has approved your code, add the following comment to your PR
-    * ```Requesting a code review from @department-of-veterans-affairs/code-reviewers-for-external-teams-group```
-    * **The Veteran-facing Services team will only review your PR after someone on your team has approved your PR.**
-
-1. **Your PR must be approved by two Veteran-facing Services Team reviewers before it can be merged to master.**
-    * Approval can come from any combination of engineers from DSVA or its primary vendor contractor teams.
-
-
-#### Code Review Turnaround Time - for External Contractors
-
-- As a general rule, a PR's first review and responses to feedback updates will be completed in **2 business days**. Turn around time is dependent on the number of PRs in the queue and the overall size and complexity of the code change.
-
-- Code quality is important. Expect code review churn until the changes meet the code quality bar. 
-  * To reduce churn, pay attention to the codeclimate results of your PR.
-  * Also review the [Specific Questions to Ask When Code Reviewing](#specific-questions-to-ask-when-code-reviewing) below and have someone on your team do a good code review of your PR.
-
-- If two days have gone by with no response, please reach out in the #support-external Slack channel.
-
-- For PRs that are high priority, such as active bugs in production, please work with your DSVA point of contact to get this prioritized by the code reviewers from the Veteran-facing Services team.
-</details>
-<br/>
-
-
-<details>
-<summary>
-  <b>For Veteran-facing Services Team</b>
-</summary>
-
-- We recommend you use the **Request reviews** feature to request reviews from others.
-
-- Sometimes it may take multiple rounds to fully review a PR. In that case, it's the responsibility of the PR author to make sure the reviewers know another round of reviews is required.
-  - One good way of doing this is to clear the previous reviews and re-request reviews.
-  - If a PR changes substantially in scope over time or changes and suggestions become hard to follow, consider closing it and opening a new one.
-
-- If you need reviews from everyone you've requested, rather than just one, note that in the PR somewhere. Overcommunicating about what you need is ok!
-
-- It can be valuable to get someone experienced with the code to do a review (for example, the individual who wrote the initial code you're refactoring). It can also be valuable, however, to have someone unfamiliar with the code review it, both as a sanity check and to make sure multiple people on the team understand the code. Use your best judgment to appropriately balance team member's work loads, skill sets, and code base familiarity and remember that multiple people can review a PR (or portions of a PR) if necessary or desired.
-
-- If you have no idea who to get a review from, ask your team's tech lead or post the PR link in the #vetsgov-engineers Slack channel and ask "who is the best person to review this?"
-
-
-#### Code Review Turnaround Time - for Veteran-facing Services Team
-
-- The PR author is the one responsible for the PR; it is not sufficient to push up a PR, assign someone, and not follow up. If you aren't getting a review in a timely manner, it's up to you to follow up until you do.
-
-- Code reviews are a high priority. They generally are not higher priority than the immediate thing the reviewer is in the middle of when the PR is created, but they bump up the priority queue every hour that passes.
-
-- Code reviews should be done as soon as possible without interrupting the reviewers flow on what they are currently working on.
-
-- As a general rule, PRs put in before lunch should have a first review completed before the end of the day. PRs put in after lunch, if not able to be reviewed that day, should be the reviewer's first task the next morning.
-  - This primarily applies to PRs that follow good PR practices and aren't overly large. If you have a PR that's very large or complex, coordinate with reviewers to figure out when a PR can be reviewed.
-
-- Some code reviews take multiple rounds of review. It is expected that any minor reviews after the first round will go quickly. Making someone wait 24 hours for you to review a few lines of code is not courteous and does not create a positive code review culture.
-
-- Some PRs are higher priority than others. These include active bugs in production and PRs that touch many files, as all other branches are likely to be out of date if the PR sits long without being merged ("bit rot" is the term often used for this). If a PR is high priority, communicate this directly to the reviewer in Slack. It is the PR author's job to communicate how quickly they need a review and why this should be prioritized above other work.
-
-</details>
-<br/>
-
-
-
-## Do a Code Review
-
-* If you're assigned to a PR, **take responsibility and review it as soon as you can**, don't assume someone else will.
-* Another developer who works on the same stuff from your team
-  * E.g. you're a back end developer requesting a review from another back end developer on your team
-  * If the PR is purely for content, it can probably just be reviewed by a product person. Use your best judgement and be mindful of everybody's workload.
-* If there are UX or copy changes, a designer or content writer should review the screenshots included in your PR
-* If there are product changes, a product strategist or designer should review your change before it goes to production
-  * This doesn't necessarily have to happen during the PR phase. Some teams have product owners review feature changes in staging. Your team should have a process that you can follow.
-  * This is important so we don't deploy beautiful, functional, elegant, technically brilliant but wrong products
-
-**Note:** The easiest way for product people to review changes is the [review instances](Review%20Instances.md), accessible from the PR in github.
-
-
-### Specific Questions to Ask When Code Reviewing
-
-* Are there logic errors in the code?
-* Are all cases (including edge cases and error cases) fully implemented?
-- Are the automated tests sufficient for the new code? Do existing automated tests need to be rewritten to account for changes in the code?
-* Does the new code conform to existing [style guidelines](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Work%20Practices/Engineering/Style%20Guides)?
-* Does the new code conform to language and framework best practices?
-* Is the code readable and consistent?
-* Are variables and methods names self describing?
-* Is there a simpler way to solve this problem or implement this feature?
-* Should there be documentation included that would be useful to future developers?
-* How does this change impact the overall architecture of the application?
-* Does this align with an existing need (i.e. a GitHub Issue, business requirement, etc.)
-* Does this change impact the [threat model](/Work%20Practices/Engineering/Threat%20Model%20In%20Practice.md) (assets, attackers, attack vector)?
-* Is this the kind of change that might impact a dependent system (i.e. API URL change, etc.)
-* Were unit tests, linters, security scans, and accessibility scanners run?
-* Is there something that should be tracked in Google Analytics that isn't being done?
-* Is there any sensitive information in the commits? (If so, please remove it from Git history immediately and/or kill the remote branch until you can remove it locally)
-  * Hardcoded PHI/PII from tests
-  * Internal VA URLs and IPs (it doesn't make sense, but the VA OI&T goes berserk about this)
-  * Authentication credentials or keys
-* Are database schema changes or other updates affecting global state hot-compatibility (the change must be compatible with existing running versions of the application)? (If so, use a multi-phase process introducing the migrations one step at a time - https://blog.codeship.com/rails-migrations-zero-downtime/).
-* Are data migration tasks side by side with schema updates? (If so, use a separate rake task to introduce data migrations and if necessary schedule that task manually during off hours).
-
-
-
-
-
-### Cultural Guidelines
 
 * Nothing related to the code is off limits or taboo. Code reviews can and should be about the nit-picky ("should there be a semi-colon there?"), the big picture ("why are we using a global variable?"), and everything in between.
 * Giving a LGTM with no comments should be the exception, not the norm. The expectation is that every PR could be better with another set of eyes.
@@ -214,15 +116,126 @@ Code reviews are a crucial part of how we work. Understanding why they are impor
 * It is expected that the assignee role gets alternated between creator and reviewer during the lifetime of a PR. Whoever's turn it is to review comments or take an action should be the present holder of the assignee role.
 * If the only changes you have are small "nits", such as removing a semi-colon, the reviewer can give a "LGTM with nits" and assign back to the author. This tells the author that once they make those small changes, they can merge the PR themselves without further review. This should only be used when there are few, trivial changes.
 * The phrase In My Humble Opinion (IMHO) does not belong in code reviews. Code review is about learning together and supporting each other, not about one person's personal opinion vs. another's.
+</details>
+<br/>
 
 
-
-
-
-## What acronyms mean
+<details>
+<summary>
+  <b>What acronyms mean</b>
+</summary>
 
 * LGTM - Looks Good to Me. A PR always needs one of these before it can be merged (only exception below).
 
 * TBR - To Be Reviewed. This means that the code author needs to get this PR in immediately and is merging the code without a review. The person the TBR is directed at should do a review ASAP. TBRs should be used sparingly and the reason for doing so needs to be explained in the PR. A conversation should occur about what can be done in the future to avoid TBRs in similar situations. Example: "TBR = @xyz. Production outage and everyone else is sleeping."
 
 * PTAL - Please Take a Look. Tells when a review is ready to be reviewed or re-reviewed. Example: "Good catches! Edits made. PTAL @xyz"
+
+</details>
+<br/>
+
+
+
+## Request a Code Review
+
+<details>
+<summary>
+  <b>For External Contractors</b>
+</summary>
+
+1. Create a PR by filling in the template: 
+    * It asks for PR title, which should be preappended with [Project/Feature Name] follow by a one line description. For example "[Facility Locator Update] Adding choice locations data." 
+    * The PR description should include a description of the change to give the code reviewer enough context to do an effective reivew.
+    * The PR description should also describe the local testing you've done.
+
+1. Pay attention to the codeclimate results of your PR, and fix any issues before moving to the next step.
+
+1. Request a code review from someone on your team.
+    * Click the gears icon under "Reviewers" to request someone on your team to review your code.
+    * Make sure it's someone who can review your code and provide good feedback on it. Your teammate should review the [Specific Questions to Ask When Code Reviewing](#specific-questions-to-ask-when-code-reviewing) before reviewing your code.
+    * **Your teammate must approve your code before you can go to the next step.**
+
+1. After your teammate has approved your code, add the following comment to your PR:
+    * ```Requesting a code review from @department-of-veterans-affairs/code-reviewers-for-external-teams-group```
+    * **The Veteran-facing Services team will only review your PR after someone on your team has approved your PR.**
+
+1. Code quality is important. Expect code review comments and followup until your changes meet the code quality bar. 
+  
+1. As a general rule, a PR's first review will be completed in **2 business days**. 
+    * Turn around time is dependent on the number of PRs in the queue and the overall size and complexity of your code changes. 
+    * If two days have gone by with no response, please reach out in the #support-external Slack channel.
+      * For high-priority PRs, such as active bugs in production, please work with your DSVA point of contact to get this prioritized by the code reviewers from the Veteran-facing Services team.
+
+1. **Your PR must be approved by two Veteran-facing Services Team reviewers before it can be merged to master.**
+    * Approval can come from any combination of engineers from DSVA or its primary vendor contractor teams.
+    * Your PR needs a `LGTM` before it can be merged [see What acronyms mean](#what-aronyms-mean)).
+
+</details>
+<br/>
+
+
+<details>
+<summary>
+  <b>For Veteran-facing Services Team</b>
+</summary>
+
+1. We recommend you use the **Request reviews** feature to request reviews from others.
+
+1. Sometimes it may take multiple rounds to fully review a PR. In that case, it's the responsibility of the PR author to make sure the reviewers know another round of reviews is required.
+    * One good way of doing this is to clear the previous reviews and re-request reviews.
+    * If a PR changes substantially in scope over time or changes and suggestions become hard to follow, consider closing it and opening a new one.
+
+1. If you need reviews from everyone you've requested, rather than just one, note that in the PR somewhere. Overcommunicating about what you need is ok!
+
+1. It can be valuable to get someone experienced with the code to do a review (for example, the individual who wrote the initial code you're refactoring). It can also be valuable, however, to have someone unfamiliar with the code review it, both as a sanity check and to make sure multiple people on the team understand the code. Use your best judgment to appropriately balance team member's work loads, skill sets, and code base familiarity and remember that multiple people can review a PR (or portions of a PR) if necessary or desired.
+
+1. If you have no idea who to get a review from, ask your team's tech lead or post the PR link in the #vetsgov-engineers Slack channel and ask "who is the best person to review this?"
+
+
+#### Code Review Turnaround Time - for Veteran-facing Services Team
+
+* The PR author is the one responsible for the PR; it is not sufficient to push up a PR, assign someone, and not follow up. If you aren't getting a review in a timely manner, it's up to you to follow up until you do.
+
+* Code reviews are a high priority. They generally are not higher priority than the immediate thing the reviewer is in the middle of when the PR is created, but they bump up the priority queue every hour that passes.
+
+* Code reviews should be done as soon as possible without interrupting the reviewers flow on what they are currently working on.
+
+* As a general rule, PRs put in before lunch should have a first review completed before the end of the day. PRs put in after lunch, if not able to be reviewed that day, should be the reviewer's first task the next morning.
+  * This primarily applies to PRs that follow good PR practices and aren't overly large. If you have a PR that's very large or complex, coordinate with reviewers to figure out when a PR can be reviewed.
+
+* Some code reviews take multiple rounds of review. It is expected that any minor reviews after the first round will go quickly. Making someone wait 24 hours for you to review a few lines of code is not courteous and does not create a positive code review culture.
+
+* Some PRs are higher priority than others. These include active bugs in production and PRs that touch many files, as all other branches are likely to be out of date if the PR sits long without being merged ("bit rot" is the term often used for this). If a PR is high priority, communicate this directly to the reviewer in Slack. It is the PR author's job to communicate how quickly they need a review and why this should be prioritized above other work.
+
+</details>
+<br/>
+
+
+
+## How to do a Code Review
+
+* If you're assigned to a PR, **take responsibility and review it as soon as you can.** Don't assume someone else will.
+
+* When you're doing a Code Review, ask these questions:
+  * Are there logic errors in the code?
+  * Are all cases (including edge cases and error cases) fully implemented?
+  - Are the automated tests sufficient for the new code? Do existing automated tests need to be rewritten to account for changes in the code?
+  * Does the new code conform to existing [style guidelines](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Work%20Practices/Engineering/Style%20Guides)?
+  * Does the new code conform to language and framework best practices?
+  * Is the code readable and consistent?
+  * Are variables and methods names self describing?
+  * Is there a simpler way to solve this problem or implement this feature?
+  * Should there be documentation included that would be useful to future developers?
+  * How does this change impact the overall architecture of the application?
+  * Does this align with an existing need (i.e. a GitHub Issue, business requirement, etc.)
+  * Does this change impact the [threat model](/Work%20Practices/Engineering/Threat%20Model%20In%20Practice.md) (assets, attackers, attack vector)?
+  * Is this the kind of change that might impact a dependent system (i.e. API URL change, etc.)
+  * Were unit tests, linters, security scans, and accessibility scanners run?
+  * Is there something that should be tracked in Google Analytics that isn't being done?
+  * Is there any sensitive information in the commits? (If so, please remove it from Git history immediately and/or kill the remote branch until you can remove it locally)
+    * Hardcoded PHI/PII from tests
+    * Internal VA URLs and IPs (it doesn't make sense, but the VA OI&T goes berserk about this)
+    * Authentication credentials or keys
+  * Are database schema changes or other updates affecting global state hot-compatibility (the change must be compatible with existing running versions of the application)? (If so, use a multi-phase process introducing the migrations one step at a time - https://blog.codeship.com/rails-migrations-zero-downtime/).
+  * Are data migration tasks side by side with schema updates? (If so, use a separate rake task to introduce data migrations and if necessary schedule that task manually during off hours).
+
