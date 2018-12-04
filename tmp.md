@@ -10,14 +10,19 @@
 
 Code Reviews are a crucial part of how we work. Understanding why they are important and how we do them is an important part of working on the Veteran-facing Services Platform. *Any code going into a `master` branch needs a Code Review before it can be merged in.* 
 
-With a few exceptions, requesting a Code Review is the same for both External Contractors and the Veteran-facing Services Team. Review the section for [Everyone](), then review the section for your team ([External Contractors]() or [Veteran-facing Services Team]()).
+With a few exceptions, requesting a Code Review is the same for both External Contractors and the Veteran-facing Services Team. Review the section for [Everyone](#for-everyone), then review the section for your team ([External Contractors](#for-external-contractors) or [Veteran-facing Services Team](#for-veteran-facing-services-team)).
 
-* [For Everyone](#for-everyone)
+#### Table of Contents
+
+* [Code Review Norms](#code-review-norms)
 * [Request a Code Review](#request-a-code-review)
+  * [For Everyone](#for-everyone)
+  * [For External Contractors](#for-external-contractors)
+  * [For Veteran-facing Services Team](#for-veteran-facing-services-team)
 * [How to do a Code Review](#how-to-do-a-code-review)
 
 
-## For Everyone
+## Code Review Norms
 
 ### Prerequisites
 
@@ -26,10 +31,7 @@ With a few exceptions, requesting a Code Review is the same for both External Co
 1. Organize your work so that **each Code Review covers no more than 400-500 lines of code**. 
     * ***External contractors:*** See [Development Workflow](link-here) for more information on how to break your work into small Code Review Pull Requests (PRs).
 
-
-### Code Review Norms
-
-#### Why should I request a Code Review?
+### Why should I request a Code Review?
 
 * Social pressures work. Knowing someone else is going to thoroughly examine your code incentivizes you to make better, more purposeful decisions.
 
@@ -39,7 +41,7 @@ With a few exceptions, requesting a Code Review is the same for both External Co
 
 * The master branch is a place for stable code (even if it's not initially deployed to production). Code reviews are the last line of defense for catching bugs, stopping bad architectural changes, and making sure that things being added are in sync with team priorities.
 
-#### When should I request a Code Review?
+### When should I request a Code Review?
 
 * You must request a code review any time you're putting new code into `master` or any other long-lived branch that multiple people are working off of.
 
@@ -47,7 +49,7 @@ With a few exceptions, requesting a Code Review is the same for both External Co
   * Be sure to prepend the PR title with "[WIP]" if you're seeking a WIP Code Review.
   * Be sure to use the `feature flag` if your code should not be visible in production.
 
-#### Who should do my Code Review?
+### Who should do my Code Review?
 
 * Another developer who works on the same stuff from your team.
   * E.g. you're a back end developer requesting a review from another back end developer on your team.
@@ -61,7 +63,7 @@ With a few exceptions, requesting a Code Review is the same for both External Co
   * **Note:** The easiest way for product people to review changes is the [review instances](Review%20Instances.md), accessible from the PR in Github.
   * This is important so we don't deploy beautiful, functional, elegant, technically brilliant but wrong products
 
-#### What makes a good Code Review Pull Request (PR)?
+### What makes a good Code Review Pull Request (PR)?
 
 * If a PR touches multiple content or application types (static, React applications, hybrid), split it along those lines and treat each content type as a separate feature with separate Code Review PRs.
 
@@ -80,7 +82,7 @@ With a few exceptions, requesting a Code Review is the same for both External Co
 
 * Be sure to allow time for following up on code review comments, as well as refactoring.
 
-#### Code Review Guidelines
+### Code Review Guidelines
    
 * Nothing related to the code is off limits or taboo. Code reviews can and should be about the nit-picky ("should there be a semi-colon there?"), the big picture ("why are we using a global variable?"), and everything in between.
 
