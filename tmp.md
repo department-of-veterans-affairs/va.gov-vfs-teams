@@ -10,15 +10,13 @@
 
 Code Reviews are a crucial part of how we work. Understanding why they are important and how we do them is an important part of working on the Veteran-facing Services Platform. *Any code going into a `master` branch needs a Code Review before it can be merged in.* 
 
-With a few exceptions, requesting a Code Review is the same for both External Contractors and the Veteran-facing Services Team. Review the section for [Everyone](#for-everyone), then review the section for your team ([External Contractors](#for-external-contractors) or [Veteran-facing Services Team](#for-veteran-facing-services-team)).
-
 #### Table of Contents
 
 * [Code Review Norms](#code-review-norms)
 * [Request a Code Review](#request-a-code-review)
-  * [For Everyone](#for-everyone)
-  * [For External Contractors](#for-external-contractors)
-  * [For Veteran-facing Services Team](#for-veteran-facing-services-team)
+<br/>With a few exceptions, requesting a Code Review is the same for both External Contractors and the Veteran-facing Services Team. 
+  * Review the section for [Everyone](#for-everyone).
+  * Then review the section for your team ([External Contractors](#for-external-contractors) or [Veteran-facing Services Team](#for-veteran-facing-services-team)).
 * [How to do a Code Review](#how-to-do-a-code-review)
 
 <hr>
