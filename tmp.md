@@ -97,23 +97,33 @@ Code reviews are a crucial part of how we work. Understanding why they are impor
 * Be sure to allow time for following up on code review comments, as well as refactoring.
 </details>
 
-
 <details>
 <summary>
   <b>Code Review Guidelines</b>
 </summary>
-
+   
 * Nothing related to the code is off limits or taboo. Code reviews can and should be about the nit-picky ("should there be a semi-colon there?"), the big picture ("why are we using a global variable?"), and everything in between.
+
 * Giving a LGTM with no comments should be the exception, not the norm. The expectation is that every PR could be better with another set of eyes.
+
 * Ask questions; don't make demands.
+
 * Don't assume anything. If there's something weird or if you don't understand why the developer made the choice they did, ask about it!
+
 * Learning by either talking to the author or Googling is expected. If someone implements something you don't understand or haven't seen before, look it up!
+
 * If you still don't understand, ask for clarification.
+
 * Don't use sarcasm.
+
 * Talk in person if there are too many "I don't understand" or "Alternative solution" comments. Post a follow-up comment summarizing offline discussion.
+
 * Review code in-line instead of in general PR comments. This makes it easier to see what you're referring to.
+
 * It is expected that the assignee role gets alternated between creator and reviewer during the lifetime of a PR. Whoever's turn it is to review comments or take an action should be the present holder of the assignee role.
+
 * If the only changes you have are small "nits", such as removing a semi-colon, the reviewer can give a "LGTM with nits" and assign back to the author. This tells the author that once they make those small changes, they can merge the PR themselves without further review. This should only be used when there are few, trivial changes.
+
 * The phrase In My Humble Opinion (IMHO) does not belong in code reviews. Code review is about learning together and supporting each other, not about one person's personal opinion vs. another's.
 </details>
 
@@ -187,20 +197,20 @@ Code reviews are a crucial part of how we work. Understanding why they are impor
 1. If you have no idea who to get a review from, ask your team's tech lead or post the PR link in the #vetsgov-engineers Slack channel and ask "who is the best person to review this?"
 
 
-#### Code Review Turnaround Time - for Veteran-facing Services Team
+* #### Code Review Turnaround Time - for Veteran-facing Services Team
 
-* The PR author is the one responsible for the PR; it is not sufficient to push up a PR, assign someone, and not follow up. If you aren't getting a review in a timely manner, it's up to you to follow up until you do.
+  * The PR author is the one responsible for the PR; it is not sufficient to push up a PR, assign someone, and not follow up. If you aren't getting a review in a timely manner, it's up to you to follow up until you do.
 
-* Code reviews are a high priority. They generally are not higher priority than the immediate thing the reviewer is in the middle of when the PR is created, but they bump up the priority queue every hour that passes.
+  * Code reviews are a high priority. They generally are not higher priority than the immediate thing the reviewer is in the middle of when the PR is created, but they bump up the priority queue every hour that passes.
 
-* Code reviews should be done as soon as possible without interrupting the reviewers flow on what they are currently working on.
+  * Code reviews should be done as soon as possible without interrupting the reviewers flow on what they are currently working on.
 
-* As a general rule, PRs put in before lunch should have a first review completed before the end of the day. PRs put in after lunch, if not able to be reviewed that day, should be the reviewer's first task the next morning.
-  * This primarily applies to PRs that follow good PR practices and aren't overly large. If you have a PR that's very large or complex, coordinate with reviewers to figure out when a PR can be reviewed.
+  * As a general rule, PRs put in before lunch should have a first review completed before the end of the day. PRs put in after lunch, if not able to be reviewed that day, should be the reviewer's first task the next morning.
+    * This primarily applies to PRs that follow good PR practices and aren't overly large. If you have a PR that's very large or complex, coordinate with reviewers to figure out when a PR can be reviewed.
 
-* Some code reviews take multiple rounds of review. It is expected that any minor reviews after the first round will go quickly. Making someone wait 24 hours for you to review a few lines of code is not courteous and does not create a positive code review culture.
+  * Some code reviews take multiple rounds of review. It is expected that any minor reviews after the first round will go quickly. Making someone wait 24 hours for you to review a few lines of code is not courteous and does not create a positive code review culture.
 
-* Some PRs are higher priority than others. These include active bugs in production and PRs that touch many files, as all other branches are likely to be out of date if the PR sits long without being merged ("bit rot" is the term often used for this). If a PR is high priority, communicate this directly to the reviewer in Slack. It is the PR author's job to communicate how quickly they need a review and why this should be prioritized above other work.
+  * Some PRs are higher priority than others. These include active bugs in production and PRs that touch many files, as all other branches are likely to be out of date if the PR sits long without being merged ("bit rot" is the term often used for this). If a PR is high priority, communicate this directly to the reviewer in Slack. It is the PR author's job to communicate how quickly they need a review and why this should be prioritized above other work.
 </details>
 
 
