@@ -29,7 +29,7 @@ With a few exceptions, requesting a Code Review is the same for both External Co
 1. Understand how we use [Continuous Integration](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Continuous%20Integration%20Process.md) to develop and deploy code using GitHub.
 
 1. Organize your work so that **each Code Review covers no more than 400-500 lines of code**. 
-    * ***External contractors:*** See [Development Workflow](https://github.com/department-of-veterans-affairs/vets-external-teams/blob/master/DeveloperDocs/deployment.md) for more information on how to break your work into small Code Review Pull Requests (PRs).
+    * ***External contractors:*** See [Development Workflow](https://github.com/department-of-veterans-affairs/vets-external-teams/blob/master/DeveloperDocs/development-workflow.md) for more information on how to break your code into small Code Review Pull Requests (PRs).
 
 ### Why should I request a Code Review?
 
