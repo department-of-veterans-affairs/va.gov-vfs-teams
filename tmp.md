@@ -28,7 +28,7 @@ Code reviews are a crucial part of how we work. Understanding why they are impor
 ## Code Review Norms
 
 <details>
-   <summary>
+<summary>
   <b>Why should I request a Code Review?</b>
 </summary>
 
@@ -60,10 +60,13 @@ Code reviews are a crucial part of how we work. Understanding why they are impor
   <b>Who should do my Code Review?</b>
 </summary>
 
- Another developer who works on the same stuff from your team.
+* Another developer who works on the same stuff from your team.
   * E.g. you're a back end developer requesting a review from another back end developer on your team.
+
 * If the PR is purely for content, it can probably just be reviewed by a product person. Use your best judgement and be mindful of everybody's workload.
+
 * If there are UX or copy changes, a designer or content writer should review the screenshots included in your PR.
+
 * If there are product changes, a product strategist or designer should review your change before it goes to production
   * This doesn't necessarily have to happen during the PR phase. Some teams have product owners review feature changes in staging. Your team should have a process that you can follow.
   * **Note:** The easiest way for product people to review changes is the [review instances](Review%20Instances.md), accessible from the PR in Github.
