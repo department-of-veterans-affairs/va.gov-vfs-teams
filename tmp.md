@@ -17,9 +17,9 @@ Code reviews are a crucial part of how we work. Understanding why they are impor
 
 #### Prerequisites
 
-1. Understand [Why we use Code Reviews](#why-should-i-request-a-code-review).
+1. Understand how we use [Continuous Integration](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Continuous%20Integration%20Process.md) to develop and deploy code using GitHub.
 
-1. Understand how we use [Continuous Integration](/Work%20Practices/Engineering/Continuous%20Integration%20Process.md) to develop and deploy code using GitHub.
+1. Review the [Code Review Norms](#code-review-norms), especially the **[What makes a good Code Review Pull Request](#what-makes-a-good-code-review-pull-request-pr)** section.
 
 1. Organize your work so that **each Code Review covers no more than 400-500 lines of code**. 
     * ***External contractors:*** See [Development Workflow](link-here) for more information on how to your work down into small Code Review Pull Requests (PRs).
@@ -28,7 +28,7 @@ Code reviews are a crucial part of how we work. Understanding why they are impor
 ## Code Review Norms
 
 <details>
-<summary>
+   <summary>
   <b>Why should I request a Code Review?</b>
 </summary>
 
