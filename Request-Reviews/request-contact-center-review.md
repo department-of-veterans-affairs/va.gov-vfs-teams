@@ -55,7 +55,6 @@
 *For new services and updates to existing services*:
 
   1. Create a Product Video (with audio) that steps through the primary user flows.
-  ~~1. Store the Product Video in the same folder as the Product Guide.~~  
   1. Review your Product Video with your DSVA Contact to make sure you've covered everything.
   1. Request that your Product Video be added to the official VA YouTube channel.
       * Your Product Video will be unlisted but visible to people with the URL.
