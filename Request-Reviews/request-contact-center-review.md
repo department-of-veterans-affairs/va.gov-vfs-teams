@@ -40,6 +40,7 @@
 *If you're building a brand new service*:
 
   1. Create a Product Guide that covers all the functionality, the main user flow(s), any error conditions, and how the user can resolve those errors.
+  1. The Product Guide must be a Word document or a PDF.
   1. Store the Product Guide in your team's Product folder on Github in a new folder called ```Contact Center.```
 
 *If you're building new features for an existing service*:
@@ -54,7 +55,12 @@
 *For new services and updates to existing services*:
 
   1. Create a Product Video (with audio) that steps through the primary user flows.
-  1. Store the Product Video in the same folder as the Product Guide.  
+  ~~1. Store the Product Video in the same folder as the Product Guide.~~  
+  1. Review your Product Video with your DSVA Contact to make sure you've covered everything.
+  1. Request that your Product Video be added to the official VA YouTube channel.
+      * Your Product Video will be unlisted but visible to people with the URL.
+      * [Follow the instructions here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Product%20Management/Demo%20Video%20Creation%20Process.md#4-request-that-the-video-be-posted-on-the-va-youtube-channel) to request the Product Video be added to the official VA YouTube channel.
+  1. Once you receive the email saying your video has been added, use the URL when you [Request a Contact Center Review](#request-a-contact-center-review).
 
 <hr>
 
