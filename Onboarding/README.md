@@ -29,6 +29,8 @@ Have all team members review the:
 
   * If you have questions about the Code of Conduct, ask your DSVA contact.
 
+* [Platform Principles](https://github.com/department-of-veterans-affairs/vets-external-teams/blob/master/Norms/platform-principles.md) 
+
 * [Norms for communication](../Norms/norms-communication.md)
 
   * Teams working on the Veteran-facing Services Platform come from different organizations (DSVA, Internal Contractors, External Contractors).
