@@ -1,6 +1,6 @@
 # Internal Tools Access
 
-This document describes tools available to Vets.gov developers, and configuration required to access them. You'll need access to these tools if you need:
+Developers working on the Veteran-facing Services Platform have access to Internal Tools that allow them to:
 
 * Build logs and details from Jenkins (linked to from GitHub PRs for each project)
 * System metrics for diagnostic/troubleshooting purposes (Grafana/Prometheus)
