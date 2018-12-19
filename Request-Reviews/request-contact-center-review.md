@@ -40,7 +40,7 @@
 
   1. Create a Product Guide that covers all the functionality, the main user flow(s), any error conditions, and how the user can resolve those errors.
   1. The Product Guide must be a Word document or a PDF.
-  1. Createa a new folder in your team's Product folder called ```Contact Center.``` Store the Product Guide there.
+  1. Create a new folder in your team's Product folder called ```Contact Center.``` Store the Product Guide there.
 
 *If you're building new features for an existing service*:
 
