@@ -42,7 +42,7 @@ While our automated tests are extensive, they are not expected to catch all issu
 
 ## Deployment
 
-Once a Pull Request is merged, changes will be deployed to the development and staging environments. These can be previewed at https://dev.vets.gov/ and https://staging.vets.gov/, respectively. Changes are then deployed to production Monday through Friday at 3:00PM ET.
+Once a Pull Request is merged, changes will be deployed to the development and staging environments. These can be previewed at https://dev.va.gov/ and https://staging.va.gov/, respectively. Changes are then deployed to production Monday through Friday at 3:00PM ET.
 
 Further Reading:
 

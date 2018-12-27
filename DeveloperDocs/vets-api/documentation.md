@@ -7,7 +7,7 @@ All endpoints exposed through Vets-API must be thoroughly documented with [Swagg
 * All possible success and error `responses`.
 
 
-A Swagger document is a computer-readable collection of documentation details for an API. Documentation callouts within Vets-API provide the information required to generate this [Vets-API document](https://dev-api.vets.gov/v0/apidocs).
+A Swagger document is a computer-readable collection of documentation details for an API. Documentation callouts within Vets-API provide the information required to generate this [Vets-API document](https://dev-api.va.gov/v0/apidocs).
 
 The Vets-API developers use the [Swagger Blocks](https://github.com/fotinakis/swagger-blocks) gem as a DSL to define our Swagger documentation. This document will cover an example using that DSL.
 

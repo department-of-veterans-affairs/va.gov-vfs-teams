@@ -133,7 +133,7 @@ Now you can define the URL(s) for your service by putting those two elements tog
 Define the page meta description for each page/screen in your service.
 
 * Keep the description short: 1-2 sentences.
-* Describe the most important thing the Veteran can do on the page/screen. For example, <a href="https://www.vets.gov/health-care/after-you-apply/" target="_blank">on the ```After you apply``` page</a>, the meta description is ```Find out what to do after applying for VA health care benefits, including when to schedule your first VA medical appointment```.
+* Describe the most important thing the Veteran can do on the page/screen. For example, <a href="https://www.va.gov/health-care/after-you-apply/" target="_blank">on the ```After you apply``` page</a>, the meta description is ```Find out what to do after applying for VA health care benefits, including when to schedule your first VA medical appointment```.
 
 
 <hr>
