@@ -56,7 +56,7 @@ To work on the Veteran-facing Services Platform, each team member needs to reque
 #### 1. Create [new SSH keys](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Internal%20Tools.md#create-an-ssh-public-key).
 
 #### 2. Request that your SSH keys be authorized so that you can use the developer tools.
-* File an issue in [vets.gov-team repo](https://github.com/department-of-veterans-affairs/vets.gov-team).
+* File an issue in [vets.gov-team repo](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/new).
   * Title: ```Add SSH key for external developer```
   * Labels:
     * ```external-request```
