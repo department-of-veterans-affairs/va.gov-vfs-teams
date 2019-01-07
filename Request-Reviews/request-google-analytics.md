@@ -24,7 +24,10 @@
 * **All teams working on the Veteran-facing Services Platform are required to integrate VA's Google Analytics into their services.**
 * **External Contractor teams should request Google Analytics when**
   * The complete and final build is on staging and you're confident it's ready to launch. 
-  * At least 2 weeks before planned launch date
+  * At least 4 weeks before planned launch date
+    - coordination with FE team needed
+    - validation in staging needed
+    - further clarification with PM is also helpful (Wireframes, intro meeting, etc)
 
 <hr>
 
@@ -57,9 +60,9 @@ Answer the following questions in a Word document:
         * e.g., ```Functionality adds a new dataset to the Facility Locator so users can search for and view non-VA health providers on the map, as well as in list and detail views.```
       * **Tracking information**: Upload the Word document you prepared above.
       * **URL**: ```link to your project on staging```
-1. **Within 4 business days**, DSVA will create an implementation approach for Google Analytics in your project.
+1. **Within 4 business days**, DSVA will create an implementation approach for Google Analytics in your project and will triage the analytics request to the appropriate Analytics Team member for implementation.
     * If you don't hear anything after 4 business days, reach out to your DSVA Contact.
-    * There may be some back-and-forth in the Github issue comments as DSVA gathers the information needed to set up GA for your project.
+    * There may be some back-and-forth in the Github issue comments as DSVA gathers the information needed to set up GA for your project and there may be additional analytics items created to support the original analytics request
 1. When this is done, DSVA will update the Github issue.
     * *If custom events are required, DSVA will*
       1. Update the issue with a description of how to implement the custom events in the code.
@@ -105,3 +108,4 @@ Once your team has created new Google Analytics accounts:
     * Add a comment to the Github issue: ```Google Analytics accounts provisioned```
     * Close the issue.
 1. When the issue is closed, Github will send a notification to the issue creator. This is your team's signal that you can start using Google Analytics.
+1. If the team will be continuing to monitor the Google Analytics, they should create new Github issues for addressing any changes to the GA implementation
