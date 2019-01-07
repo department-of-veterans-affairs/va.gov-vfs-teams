@@ -67,7 +67,7 @@ To work on the Veteran-facing Services Platform, each team member needs to reque
 
 #### 3. When your key has been added, DSVA will close the Github issue, which will send a Github notification to you. This is your signal that you can continue to the next step.
 
-#### 4. Configure [the SOCKS proxy](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Internal%20Tools.md#configure-the-socks-proxy---all-other-developers).
+#### 4. Configure [the SOCKS proxy](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Internal%20Tools.md#configure-the-socks-proxy---for-external-contractors).
 
 #### 5. Understand [how to use the SOCKS proxy from inside the VA network and from the internet](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Internal%20Tools.md#accessing-socks-proxy-from-va-network).
 
