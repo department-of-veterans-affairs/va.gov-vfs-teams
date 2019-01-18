@@ -15,8 +15,8 @@
 New features are merged to the Platform through a GitHub Pull Request. Your work is applied to a Git branch on your local system. After pushing this branch to GitHub, you'll open a Pull Request to let other developers on the team know that your work is ready for review and subsequent deployment.
 
 To initiate a pull request review, comment in the issue with one of the *Github Group* tags below depending on the type of PR you're submitting:
-- For Backend PRs tag - *@department-of-veterans-affairs/backend-review-group*
-- For Frontend PRs tag - *@department-of-veterans-affairs/frontend-review-group*
+- For Backend PRs tag - **@department-of-veterans-affairs/backend-review-group**
+- For Frontend PRs tag - **@department-of-veterans-affairs/frontend-review-group**
 
 A Platform developer will perform a [Code Review](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Code%20Review%20Norms.md) and provide feedback on your changes. Once addressed, the reviewer will Approve the Pull Request and the changes can be merged to master.
 
