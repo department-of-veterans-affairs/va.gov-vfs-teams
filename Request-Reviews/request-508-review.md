@@ -21,6 +21,10 @@
 
 1. When you push your code to testing, the automated build process will test for Accessibility/508 compliance.
 
+1. **AXE Scans**
+   - Front-end engineering should install the axe plugin for Chrome or Firefox (https://deque.com/axe) and run it periodically during their daily work.
+   - This AXE scan should be seconded by e2e Nightwatch tests that scan the rendered page so we get regression proof every time a build is initiated.
+
 1. If a build error occurs, fix it and submit your code again.
 
 
@@ -28,7 +32,20 @@
 
 1. When your team has pushed all code to staging, you should manually test for Accessibility/508 compliance before doing Step #2.
 
-1. Follow the [manual testing steps in #3 under *Launch Criteria*](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Accessibility%20and%20508/a11y-508-launch-guidelines.md#launch-criteria).
+1. **Zoom Test** 
+   - Zoom to 400%
+   - Set browser width to 1280px
+   - Zoom using `Ctrl and +` or `Cmd and +` on Mac, until browser says 400%
+   - Layouts should not scroll sideways or have content to the edges
+   - [WCAG: Understanding Reflow](https://www.w3.org/WAI/WCAG21/Understanding/reflow.html)
+1. **Keyboard Navigation Test**
+   - All natively focusable elements (links, form inputs, buttons, radios, checkboxes) reachable by keyboard
+   - No keyboard traps
+   - Predictable tabbing order
+   - Ways to skip large groups of links (skip to content link)
+   - [WebAIM keyboard accessibility guide](https://webaim.org/techniques/keyboard/)
+
+1. For more information visit [manual testing steps in #3 under *Launch Criteria*](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Accessibility%20and%20508/a11y-508-launch-guidelines.md#launch-criteria).
 
 1. Fix any issues found, and submit your code again.
 
