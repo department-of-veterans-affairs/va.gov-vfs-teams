@@ -25,7 +25,7 @@
 
 <hr>
 
-### Request a Manual QA
+### Request Manual QA
 
 1. File an issue in ```vets-team repo```.
     * Title: ```Request Manual QA```
@@ -39,13 +39,13 @@
         * e.g., ```Functionality adds a new dataset to the Facility Locator so users can search for and view non-VA health providers on the map, as well as in list and detail views.```
       * **URL:** ```link to your project on staging```
       * TODO - provide an example here.
-1. **Within 4 business days**, DSVA will conduct a Content QA using the [Checklist below](#content-qa-checklist).
+1. **Within 4 business days**, DSVA will conduct manual QA using information provided in the [Checklist below](#Manual-qa-checklist).
     * If you don't hear anything after 4 business days, reach out to your DSVA Contact.
-1. DSVA will update the Github issue with a Word document (with changes tracked) to show where content needs to be changed.
-1. Complete all the changes requested in the Word document.
-    * If your team has questions (or disagrees with a requested change), use the Github issue to discuss that with DSVA.
-1. When all changes are completed, close the issue.
-1. After you've closed the issue, this pre-launch activity is considered complete.
+1. DSVA will update the Github issue with requirements expected to be met before release and should include a testing matrix.
+1. Complete all test cases in the testing matrix, logging each defect in Github, referencing the epic.
+    * If your team has questions about application requirements, use the Github issue to discuss that with DSVA.
+1. When each defect is verified, mark it as such in its Github ticket and close it. 
+
 
 <hr>
 
