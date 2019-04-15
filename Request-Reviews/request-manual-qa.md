@@ -13,15 +13,21 @@
 <hr>
 
 * [General](#general)
-* [Request a Content QA](#request-a-manual-qa)
+* [Request Manual QA](#request-manual-qa)
 * [Manual QA Checklist](#manual-qa-checklist)
 
 <hr>
 
 ### General
 
-* **All teams working on the Veteran-facing Services Platform should ask for the following materials for projects being tested
- 
+* All teams working on the Veteran-facing Services Platform should ask for the following materials for projects being tested:
+     - Product Name
+     - Product Outline link
+     - Staging link
+     - Staging user(s)
+     - Scenarios Matrix: (raw version: https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/QA/QA_Testing_Matrix_Template.xlsx)
+     - Product Manager
+     - Engineering Lead
 
 <hr>
 
@@ -49,11 +55,11 @@
 
 <hr>
 
-### Manual QA Checklist
-* [ ] 
-* [ ] 
-* [ ] 
-* [ ] 
-* [ ] 
-* [ ] 
-* [ ] 
+## Manual QA Checklist
+* Please enter [bugs](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Personalization/bug-reporting-template.md) as you go and assign to product manager and engineering lead, labeled with with your estimation of launch-blocking, high priority, or low priority.
+* To be udpated and communicated to implementation team by QA Lead
+     - Estimated completion date:
+* Definition of done
+     - product has been tested in all applicable browsers
+     - product has been tested across all applicable devices
+     - all bugs per testing have been entered, labeled, and assigned
