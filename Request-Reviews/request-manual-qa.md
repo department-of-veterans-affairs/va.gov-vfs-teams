@@ -54,7 +54,7 @@
 <hr>
 
 ### Manual QA Checklist
-* As stated in the General section above, All teams working on the Veteran-facing Services Platform should ask for the following materials for projects being tested:
+* As stated in the General section above, all teams working on the Veteran-facing Services Platform should ask for the following materials for projects being tested:
      - Product Name
      - Product Outline link
      - Staging link
