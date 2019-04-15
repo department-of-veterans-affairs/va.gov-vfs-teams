@@ -19,7 +19,6 @@
 <hr>
 
 ### General
-
 * All teams working on the Veteran-facing Services Platform should ask for the following materials for projects being tested:
      - Product Name
      - Product Outline link
@@ -32,7 +31,6 @@
 <hr>
 
 ### Request Manual QA
-
 1. File an issue in ```vets-team repo```.
     * Title: ```Request Manual QA```
     * Labels: 
@@ -55,7 +53,7 @@
 
 <hr>
 
-## Manual QA Checklist
+### Manual QA Checklist
 * Please enter [bugs](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Personalization/bug-reporting-template.md) as you go and assign to product manager and engineering lead, labeled with with your estimation of launch-blocking, high priority, or low priority.
 * To be udpated and communicated to implementation team by QA Lead
      - Estimated completion date:
