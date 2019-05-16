@@ -18,7 +18,7 @@ To initiate a pull request review, comment in the issue with one of the *Github 
 - For Backend PRs tag - **@department-of-veterans-affairs/backend-review-group**
 - For Frontend PRs tag - **@department-of-veterans-affairs/frontend-review-group**
 
-A Platform developer will perform a [Code Review](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Code%20Review%20Norms.md) and provide feedback on your changes. Once addressed, the reviewer will Approve the Pull Request and the changes can be merged to master.
+A Platform developer will perform a [Code Review](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Code%20Review%20Norms.md) and provide feedback on your changes. Once addressed, the reviewer will Approve the Pull Request and the changes can be merged to master.
 
 To gather comments and informal review during development, a Pull Request may be titled with a "[WIP]" prefix. This indicates that the Pull Request is a "Work in Progress", and should not be considered a candidate for merge.
 
