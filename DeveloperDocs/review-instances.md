@@ -4,7 +4,7 @@ Review instances are a deployment of a combination of vets-api and vets-website 
 
 These are different from Heroku review apps (which will have a URL like https://vetsgov-pr-5306.herokuapp.com). Heroku review apps only serve up our static content; they do not build our React apps and have no connectivity to an API backend. These may be viewed by external stakeholders. Heroku review apps are typically created automatically as part of a vets-website pull request.
 
-Internal review instances are built by Jenkins (these have a url like http://71aaf141c9283eb0f29ded3b967a118c.review.vetsgov-internal) and are connected to an API backend. These require access to the [SOCKS proxy](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Internal%20Tools.md#configuring-the-socks-proxy) so can not be review by external stakeholders.
+Internal review instances are built by Jenkins (these have a url like http://71aaf141c9283eb0f29ded3b967a118c.review.vetsgov-internal) and are connected to an API backend. These require access to the [SOCKS proxy](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Internal%20Tools.md#configuring-the-socks-proxy) so can not be review by external stakeholders.
 
 Review instances may be created as part of a pull request for the vets-api or vets-website github repositories (automatic), or manually by running a Jenkins job.
 
