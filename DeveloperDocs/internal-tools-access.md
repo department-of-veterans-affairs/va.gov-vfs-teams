@@ -6,7 +6,7 @@ Developers working on the Veteran-facing Services Platform have access to Intern
 * System metrics for diagnostic/troubleshooting purposes (Grafana/Prometheus)
 * Exception reports and tracebacks (Sentry)
 
-[Learn how to set up and use Internal Tools](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Internal%20Tools.md).
+[Learn how to set up and use Internal Tools](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Internal%20Tools.md).
 
 <hr>
 
