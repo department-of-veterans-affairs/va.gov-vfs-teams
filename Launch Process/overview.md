@@ -9,20 +9,19 @@ These processes are here to help ensure we're launching features that are:
 * maintainable over time
 * have measurable analytics and success metrics to empower future planning and development
 
-
 ## Launch reviews
 
 Each of these reviews MUST be scheduled with the appropriate VSP contact, and completed by VSP before application launch.
 
-- [ ]   [Accessibility / 508 review](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Platform%20Support/manage-requests/accessibility-508-review.md)
-- [ ]   [ATO assessment](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Platform%20Support/manage-requests/ato-security.md) + review(?)
-- [ ]   [Content QA](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Platform%20Support/manage-requests/content-qa.md) / review(?)
-- [ ]   [Design QA](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Platform%20Support/manage-requests/design-qa.md) / review(?)
+- [ ]   [Accessibility / 508 review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-508-review.md)
+- [ ]   [ATO assessment](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-ato-reviews.md) + review(?)
+- [ ]   [Content QA](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-content-qa.md) / review(?)
+- [ ]   [Design QA](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-design-qa.md) / review(?)
 - [ ]   Analytics / Product Health Report review
     *   Reviewing analytics that will be used to just the product health / success, and making recommendations as appropriate.
 - [ ]   Release plan review
     *   Review release phases and criteria for moving between them. This should include rollout schedule, success/rollback criteria, any pre- and post-launch user testing and monitoring, external documentation and comms.
-- [ ]   IA review
+- [ ]   [IA review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-ia-review.md)
     *   Should include review of URLs, navigation hierarchy, crosslinks/redirects, SEO
 - [ ]   Security review
     *   Review looking for potential technical security issues / vulnerabilities, focusing particularly on frontend-backend interactions, anything involving certificates or cookies, and any new interactions with dependent backends.
@@ -43,6 +42,7 @@ These are other launch requirements that don't have formal reviews but also MUST
 - [ ]   Testing requirements
     - [ ]   E2e tests, running in CI/CD, passing on all browsers
     - [ ]   Code coverage requirements
+    - [ ]   Load testing
 - [ ]   Monitoring requirements
     - [ ]   Contact (mailing list? Slack channel?) for errors to be reported to
     - [ ]   Errors getting sent directly to team
