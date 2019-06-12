@@ -55,6 +55,6 @@ Once the external service has been integrated:
 
 <hr>
 
-Back: [Vets API Service Objects](settings.md)
+Back: [Vets API Settings](settings.md)
 
 Next: [Developer Docs Introduction](../README.md)
