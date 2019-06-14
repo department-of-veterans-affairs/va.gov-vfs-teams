@@ -39,10 +39,10 @@ Here is a brief list of Veteran Services Platform (VSP) recommended engineering 
 ### Backend development
 
 - Discuss your implementation ideas with VSP backend team members early and often. There are many common patterns and classes that are in place in Vets-API that should be leveraged, that we can point you to.
-- RuboCop is used for Ruby style linting, and is enforced at the CI level.
-- [Screencast](https://youtu.be/R7F4BruOAwo) on patterns and practices when adding an endpoint to Vets-API (30min.)
+- [RuboCop](https://github.com/rubocop-hq/rubocop) is used for Ruby style linting, and is enforced at the CI level.
+- [Screencast](https://youtu.be/u61LOvbG0ig) on patterns and practices when adding an endpoint to Vets-API (30min.)
   - [Slide deck](https://hackmd.io/@5i0bFuB7T4601Y0VaS90pw/r1Mn_TqYG?type=slide#/) on adding endpoints to Vets-API, includes links to code in the screencast
-  - [Vets-API Endpoint Punch List](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/9fd4d5da296a4570fd10e7a6643c8418020c97c0/Practice%20Areas/Engineering/vets-api-endpoint-punch-list.md)
+  - [Vets-API Endpoint Punch List](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/DeveloperDocs/vets-api/vets-api-endpoint-punch-list.md)
 
 ### Frontend development
 
@@ -51,6 +51,14 @@ Here is a brief list of Veteran Services Platform (VSP) recommended engineering 
 - If modifying an existing app, we encourage writing code that's [easy to delete](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to). We encourage coarse feature gating logic (i.e. "please repeat yourself") to avoid needing "shotgun surgery" later when the feature goes live. 
 - We rely heavily on automated testing in our continuous integration flow to detect regressions. It's important to follow our unit testing and end to end testing patterns to maintain a highly collaborative environment. 
 
+### 508/Accessibility 
+
+- Add the [aXe browser plugin](https://deque.com/axe).
+- Rendered pages must pass an aXe check in e2e suite ([example](https://github.com/department-of-veterans-affairs/vets-website/blob/master/test/accessibility/sample.spec.js)). 
+- Run a keyboard navigation spot check.
+- Ensure proper keyboard focus settings for single-page apps.
+- Ensure headings are properly nested.
+
 ### General
 
-Reminder, VSP backend and frontend engineers are available to review and/or discuss changes!
+Reminder, VSP engineers are available to review and/or discuss changes!
