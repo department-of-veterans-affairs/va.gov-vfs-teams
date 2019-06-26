@@ -145,7 +145,7 @@ The burial form submission process uses polling, so there are two mocked API res
 
 ### Additonal Resources
 
-- (More about writing End to End Tests)[https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/common-tasks/new-end-to-end-test]
+- [More about writing End to End Tests](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/common-tasks/new-end-to-end-test)
 - [Running Tests](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/common-tasks/test/)
 - [Debugging Tests](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/common-tasks/debugging-tests/)
 - [Keyboard E2E testing](https://github.com/department-of-veterans-affairs/vets-website/blob/master/docs/Keyboard_e2e.md)
