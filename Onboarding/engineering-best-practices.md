@@ -42,7 +42,7 @@ Here is a brief list of Veteran Services Platform (VSP) recommended engineering 
 - [RuboCop](https://github.com/rubocop-hq/rubocop) is used for Ruby style linting, and is enforced at the CI level.
 - [Screencast](https://youtu.be/u61LOvbG0ig) on patterns and practices when adding an endpoint to Vets-API (30min.)
   - [Slide deck](https://hackmd.io/@5i0bFuB7T4601Y0VaS90pw/r1Mn_TqYG?type=slide#/) on adding endpoints to Vets-API, includes links to code in the screencast
-  - [Vets-API Endpoint Punch List](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/DeveloperDocs/vets-api/vets-api-endpoint-punch-list.md)
+  - [Vets-API Endpoint Punch List](../DeveloperDocs/vets-api/vets-api-endpoint-punch-list.md)
 
 ### Frontend development
 
