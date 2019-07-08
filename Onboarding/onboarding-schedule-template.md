@@ -1,6 +1,6 @@
 # Ondboarding schedule template
 
-## Post onboarding (1 week before)
+## Pre onboarding (1 week before)
 - Monday
     - Send welcome email (this should include the intake questionaire and things they should expect going forward)
     - Create a place to store all relavent documents for the team we are supporting
@@ -31,12 +31,12 @@
 Post onboarding should be determined by project and team experience.
 
 ### Teams with experienc
-- Assign Liason
+- Assign Liaison
 - Slack support
 - Meetings if neccesary
 
 ### Teams with limited experience
-- Assign Liason
+- Assign Liaison
 - Slack support
 - First month bi-weekly standup meeting (adjust as needed
 - Ongoing weekly meeting
