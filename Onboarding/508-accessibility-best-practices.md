@@ -11,24 +11,24 @@
 
 ## Semantic Markup
 
-1. Review rendered HTML periodically, especially during development. Ensure HTML validates against the `HTML5` doctype.
-2. Each page should have an H1 as the first heading.
-3. Headings should be properly nested.
-   - The H1 should convey the page's purpose
-   - H2s should be used to semantically define the high-level content groups
-   - H3 through H6 should be used to define sub-points
+- Review rendered HTML periodically, especially during development. Ensure HTML validates against the `HTML5` doctype.
+- Each page should have an H1 as the first heading.
+- Headings should be properly nested.
+  - The H1 should convey the page's purpose
+  - H2s should be used to semantically define the high-level content groups
+  - H3 through H6 should be used to define sub-points
 
 ## Formation Design System
 
-1. Use the [Formation](https://github.com/department-of-veterans-affairs/veteran-facing-services-tools) design system as the base for your visual designs.
-2. Read the [design system documentation](https://design.va.gov/)
+- Use the [Formation](https://github.com/department-of-veterans-affairs/veteran-facing-services-tools) design system as the base for your visual designs.
+- Read the [design system documentation](https://design.va.gov/)
 
 ## Automated Accessibility/508 Testing
 
-1. **axe Scans**
+1. Axe Scans
 
-   - Front-end engineering should install the [axe plugin for Chrome or Firefox](https://deque.com/axe) and run it periodically during their daily work.
-   - This manual process should be repeated in end-to-end tests that scan rendered pages for regressions every time a build is initiated. These e2e 508 scans should be looking for `['Section 508', 'WCAG 2 Level A', 'WCAG 2 Level AA']` errors.
+   1. Front-end engineering should install the [axe plugin for Chrome or Firefox](https://deque.com/axe) and run it periodically during their daily work.
+   2. This manual process should be repeated in end-to-end tests that scan rendered pages for regressions every time a build is initiated. These e2e 508 scans should be looking for `['Section 508', 'WCAG 2 Level A', 'WCAG 2 Level AA']` errors.
 
 2. When you push your code to a feature branch or merge to master, the automated build process will test for Accessibility/508 compliance.
 
