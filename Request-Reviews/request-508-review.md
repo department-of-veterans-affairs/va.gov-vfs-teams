@@ -23,29 +23,36 @@
 
 1. **AXE Scans**
    - Front-end engineering should install the axe plugin for Chrome or Firefox (https://deque.com/axe) and run it periodically during their daily work.
-   - This AXE scan should be seconded by e2e Nightwatch tests that scan the rendered page so we get regression proof every time a build is initiated.
+   - This manual scan should be repeated in end-to-end tests that scan the rendered page for regressions every time a build is initiated. These e2e 508 scans should be looking for Section 508, WCAG 2 Level A, and WCAG 2 Level AA errors.
 
-1. If a build error occurs, fix it and submit your code again.
+1. If a build error occurs, fix the issue and submit your code again.
 
 
 ### Step 2: Manually test your code for Accessibility/508 compliance
 
 1. When your team has pushed all code to staging, you should manually test for Accessibility/508 compliance before doing Step #2.
 
-1. **Zoom Test** 
-   - Zoom to 400%
+1. **Zoom Test to 400%** 
    - Set browser width to 1280px
-   - Zoom using `Ctrl and +` or `Cmd and +` on Mac, until browser says 400%
-   - Layouts should not scroll sideways or have content to the edges
+   - Zoom in by pressing `Ctrl and +` on Windows or `Cmd and +` on Mac, until browser shows 400% zoom.
+   - Most layouts should not scroll sideways or have content to the edges. Horizontal scrolling is permitted for content like images, maps, diagrams,
+presentations, and data tables.
+   - [Understanding Success Criterion 1.4.10: Reflow](https://www.w3.org/WAI/WCAG21/Understanding/reflow.html)
    - [WCAG: Understanding Reflow](https://www.w3.org/WAI/WCAG21/Understanding/reflow.html)
 1. **Keyboard Navigation Test**
-   - All natively focusable elements (links, form inputs, buttons, radios, checkboxes) reachable by keyboard
-   - No keyboard traps
-   - Predictable tabbing order
-   - Ways to skip large groups of links (skip to content link)
-   - [WebAIM keyboard accessibility guide](https://webaim.org/techniques/keyboard/)
+   - Ensure focusable elements (links, form inputs, buttons, radios, checkboxes) are all reachable by keyboard. Ensure any elements with a `tabIndex="0"` can be focused in the normal document flow.
+   - Whenever possible, use proper semantic elements. For instance, it is better to use a `<button>` than re-create events and focus behaviors using custom tags.
+   - Avoid keyboard traps. These are situations where users can tab into an
+     interface, but cannot tab out of it by pressing `TAB` or `SHIFT+TAB`.
+   - Ensure your application has a predictable tabbing order. In left-right
+     languages like English, this is assumed to be left to right, top to bottom.
+In multi-column layouts, use your best judgment. Interfaces that include a left
+navigation bar would likely allow users to focus each link or button in the left
+nav, then move focus to the main content area. 
+   - Offer ways to skip large groups of links like a [skip to content link](https://webaim.org/techniques/skipnav/)
+   - Review the [WebAIM keyboard accessibility guide](https://webaim.org/techniques/keyboard/) for keyboard navigation patterns.
 
-1. For more information visit [manual testing steps in #3 under *Launch Criteria*](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Accessibility%20and%20508/a11y-508-launch-guidelines.md#launch-criteria).
+1. For more information visit [manual testing steps in #3 under *Launch Criteria*](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Accessibility/a11y-508-launch-guidelines.md#launch-criteria).
 
 1. Fix any issues found, and submit your code again.
 
