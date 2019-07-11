@@ -16,14 +16,13 @@
 ## Onboarding week
 - Monday
     - Onboarding meeting/Kickoff meeting
-- Tuesday
     - Engineering meeting 
     - Design meeting
     - Product meeting 
-- Wednesday 
+- Tuesday
     - Meeting to make sure the team is setup and ready for development
     - Strategy and implementation meeting (discuss how we might integrate the project)
--  Thursday
+- Wednesday 
     - Start support
     - Schedule times to meet with team
 
