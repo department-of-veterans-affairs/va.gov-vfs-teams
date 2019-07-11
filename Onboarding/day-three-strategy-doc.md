@@ -2,8 +2,6 @@
 
 The purpose of this document is to strategize what items we should be discussing and demonstrating on Day Three to be productive. This could include things we want to know about the onboarding team, and things we want the onboarding team to provide during discussion.
 
----
-
 ** Table of Contents**
 
 - [Day Three VSP Strategy Meeting](#day-three-vsp-strategy-meeting)
