@@ -1,7 +1,5 @@
 # 508 Accessibility Best Practices
 
----
-
 **Table of Contents**
 
 - [508 Accessibility Best Practices](#508-accessibility-best-practices)

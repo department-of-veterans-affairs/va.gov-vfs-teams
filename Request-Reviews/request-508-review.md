@@ -1,7 +1,5 @@
 # Request a Pre-launch 508 Review
 
----
-
 **Table of Contents**
 
 - [Request a Pre-launch 508 Review](#request-a-pre-launch-508-review)
