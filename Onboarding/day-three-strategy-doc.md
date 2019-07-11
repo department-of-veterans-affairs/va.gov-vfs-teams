@@ -100,6 +100,10 @@ These goals and top-level sections are items we would want to discuss with the o
 
 **1 hour:** VSP team will demonstrate how to create and manage pull requests in Github
 
+- Discuss the pull request cadence:
+  - Frequency
+  - Size of code change
+  - When to break a PR into smaller atomic changes
 - Show the PR template
 - Show how to associate the pull request with a Zenhub issue
 - Show how to use the draft PR feature
