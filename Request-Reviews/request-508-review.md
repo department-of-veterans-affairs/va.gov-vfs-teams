@@ -1,12 +1,12 @@
 **Table of Contents**
 
-- [Accessibility and 508 compliance](#accessibility-and-508-compliance)
+- [Accessibility and 508 Compliance](#accessibility-and-508-compliance)
 - [DSVA Accessibility Process](#dsva-accessibility-process)
 - [Step 1: Review the 508/Accessibility Best Practices Documenent](#step-1-review-the-508accessibility-best-practices-documenent)
 - [Step 2: Request an Accessibility/508 review](#step-2-request-an-accessibility508-review)
 - [Step 3: VA 508 Office Review](#step-3-va-508-office-review)
 
-## Accessibility and 508 compliance
+## Accessibility and 508 Compliance
 
 - **This document applies only to External Contractors.**
 - **Definitions for terms used in this folder:**
@@ -20,7 +20,7 @@
 
 ## Step 1: Review the 508/Accessibility Best Practices Documenent
 
-1. Review the latest Veteran-facing Services Platform [best pratices for 508 and web accessibility](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Onboarding/508-accessibility-best-practices.md)
+1. Review the latest Veteran-facing Services Platform [best practices for 508 and web accessibility](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Onboarding/508-accessibility-best-practices.md)
 2. File [issues for any 508/accessibility items](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?labels=508%2FAccessibility&template=508-issue.md) you would like VSP to consult on
 
 ## Step 2: Request an Accessibility/508 review
