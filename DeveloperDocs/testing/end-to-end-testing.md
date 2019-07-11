@@ -142,3 +142,12 @@ function initApplicationSubmitMock() {
 ```
 
 The burial form submission process uses polling, so there are two mocked API responses, but for most forms you'll have just one. Our `mock` helper calls our mock API server and adds a mock response, so that when the form makes a request to the url at the `path` property with the `verb` action, it gets the `value` data back.
+
+### Additonal Resources
+
+- [More about writing end to end tests](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/common-tasks/new-end-to-end-test)
+- [Running tests](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/common-tasks/test/)
+- [Debugging tests](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/common-tasks/debugging-tests/)
+- [Keyboard e2e testing](https://github.com/department-of-veterans-affairs/vets-website/blob/master/docs/Keyboard_e2e.md)
+- [AxeCore e2e testing](https://github.com/department-of-veterans-affairs/vets-website/blob/6a27450abed0eb724d9fa0334633ff8ffe700f78/src/platform/testing/e2e/nightwatch-commands/axeCheck.js)
+ 

@@ -47,6 +47,12 @@ The Veteran-facing Services Platform is broken into three parts:
 
 1. [Vets-JSON-Schema](https://github.com/department-of-veterans-affairs/vets-json-schema), which contains shared resources used to structure and validate form data between Vets-Website and Vets-API.
 
+#### Local development environment setup
+
+1. [How to setup your front end VA.gov local environment](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started)
+1. [How to setup your back end VA.gov local environment](https://github.com/department-of-veterans-affairs/vets-api)
+1. After you are setup and running both front-end and back-end servers, try logging in using a mock user. Information on how to login with a mock user can be found [here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/2d03fbabafe9c4840596e6687795a1906e4596ec/Administrative/Accessing-Staging.md).
+1. Once you can seccessfully login you should be setup for developing on VA.gov.
 
 #### Internal Tools
 
