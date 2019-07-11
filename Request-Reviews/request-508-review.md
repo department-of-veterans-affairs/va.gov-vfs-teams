@@ -26,8 +26,8 @@
 ## Step 2: Request an Accessibility/508 review
 
 1. File a [request for a pre-launch 508 review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/issues/new?assignees=1Copenut&labels=508%2Faccessibility%2C+launch+review%2C+external+team&template=508-review-template.md&title=Request+accessibility%2F508+review+for+PRODUCT_NAME) in the va.gov-vfs-team repo
-2. **Within 4 business days**, DSVA will review your code and let you know the results of your review.
-   - If you don't hear anything after 4 business days, reach out to your DSVA contact.
+2. **Within 5 business days**, DSVA will review your code and let you know the results of your review.
+   - If you don't hear anything after 5 business days, reach out to your DSVA contact.
 3. _If problems are found,_ DSVA will create a new Github issue for each Accesibility/508 problem found.
    - The new Github issues will be assigned to the person who requested the review in Step #3.
    1. Each issue will describe the specific changes required to make the code Accessible/508 compliant - what the problem is, where the problem occurs, how to fix it, and the issue severity.
