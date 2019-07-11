@@ -72,3 +72,22 @@ To work on the Veteran-facing Services Platform, each team member needs to reque
 #### 5. Understand [how to use the SOCKS proxy from inside the VA network and from the internet](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Internal%20Tools.md#accessing-socks-proxy-from-va-network).
 
 #### 6. [Test and use the SOCKS proxy](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Internal%20Tools.md#accessing-socks-proxy-from-the-internet).
+
+### AWS Console access
+
+This is similar to and follows the `ssh` procedure outlined above. **Do not initiate** this process until PIV background check is underway.
+#### 1. Request to create account
+* File an issue in [va.gov-team repo](https://github.com/department-of-veterans-affairs/va.gov-team).
+* Use the issue template `AWS Console Access Request Template`
+  * Follow the template instructions
+    * Provide your name, role and company
+  * Tag group `vsp-operations` to review
+  * Monitor the issue for updates and respond to any questions from the operations group.
+  * Occasionally operations will need to reach out via Slack for additional information.
+
+#### 2. When your account has been setup, you will receive a DM with your temporary password and login URL.
+#### 3. You are required to login and change the temporary password immediately.
+* AWS will prompt you to change your password during first login
+* Additionally you are required to setup a virtual MFA device in order to access services in the AWS cloud and programatically via the CLI.
+  * Follow the walkthru for MFA setup [here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/AWS%20Console%20Setup.md#mfa-virtual-device)
+
