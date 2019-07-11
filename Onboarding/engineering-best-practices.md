@@ -54,7 +54,7 @@ Here is a brief list of Veteran Services Platform (VSP) recommended engineering 
 ### 508/Accessibility 
 
 - Add the [aXe browser plugin](https://deque.com/axe).
-- Rendered pages must pass an aXe check in e2e suite ([axeCheck helper function](https://github.com/department-of-veterans-affairs/vets-website/blob/150a9867939b011ab385b908fa54cae67dd12ec0/src/platform/forms-system/test/config/helpers.js#L4)). 
+- Rendered pages must pass an aXe check in e2e suite ([axeCheck helper function](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/forms-system/test/config/helpers.js#L4)). 
 - Run a keyboard navigation spot check.
 - Ensure proper keyboard focus settings for single-page apps.
 - Ensure headings are properly nested.
