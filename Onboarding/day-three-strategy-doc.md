@@ -37,9 +37,9 @@ These are the items that need to be completed before the Day Three Workshop. Hav
 ### What does the VSP team need to do in advance for every team?
 
 - Review the intake questionnaire
-- Start a project folder in [sensitive team repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive)
-- Copy the sample-product-contacts file into project folder **(TODO: Add URL when PR is approved)**
-- Copy the sample-product-discovery-questions file into project folder **(TODO: Add URL when PR is approved)**
+- Create a vendor folder (if necessary) and a new project folder
+- Copy the [sample contacts file](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Templates/sample-product-contacts.md) into project folder
+- Copy the [sample discovery questions](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Templates/sample-product-discovery-questions.md) into project folder
 
 ## Agenda
 
@@ -68,7 +68,7 @@ These goals and top-level sections are items we would want to discuss with the o
 **1 hour to 1.75 hours:** This is the VSP team's opportunity to ask questions and learn about the onboarding team's product.
 
 - Establish the points of contact. Fill out the team contacts document.
-- Review questions from the sample-product-discovery-questions doc **(TODO: Add URL when PR is approved)**
+- Review questions from the [sample discovery questions](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Templates/sample-product-discovery-questions.md)
 - Is team integrating a new external API at the onset?
   - If yes, write an issue ticket to request VPS DevOps team to make connections between respective Vets-API & external API environments (i.e. staging to staging, etc.)
 
