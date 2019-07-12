@@ -65,7 +65,7 @@ These goals and top-level sections are items we would want to discuss with the o
 
 ### Learn About the Product
 
-**1 hour to 1.75 hours:**
+**1 hour to 1.75 hours**
 
 This is the VSP team's opportunity to ask questions and learn about the onboarding team's product.
 
@@ -76,11 +76,11 @@ This is the VSP team's opportunity to ask questions and learn about the onboardi
 
 ### Break
 
-**10-15 minute off-camera break**
+- **10-15 minute off-camera break**
 
 ## Workshop Part II: Demo Ticket Creation in Zenhub
 
-**30 minutes:**
+**30 minutes**
 
 VSP team will demonstrate how to create issues and use the features in Zenhub to get work done.
 
@@ -91,7 +91,7 @@ VSP team will demonstrate how to create issues and use the features in Zenhub to
 
 ## Workshop Part III: Fostering Open Communication
 
-**30 minutes:**
+**30 minutes**
 
 VSP team will demonstate the ways to foster communication through Slack messages and Zenhub comments.
 
@@ -100,11 +100,13 @@ VSP team will demonstate the ways to foster communication through Slack messages
 
 ### Break
 
-**10-15 minute off-camera break**
+- **10-15 minute off-camera break**
 
 ## Workshop Part IV: Demo Pull Request Creation in Github
 
-**1 hour:** VSP team will demonstrate how to create and manage pull requests in Github
+**1 hour**
+
+VSP team will demonstrate how to create and manage pull requests in Github
 
 - Discuss the pull request cadence:
   - Frequency
