@@ -17,7 +17,7 @@
 
 <hr>
 
-## Communicating "breaking changes"
+## Communicating "breaking changes" [deprecated, need to update]
 
 Breaking changes are changes to design, content, or code that have the potential to affect (break) the work of other teams currently working on the Veteran-facing Services Platform (VSP). For example:
 * A new design pattern is added to the design system
@@ -30,7 +30,7 @@ The problem: We have many Slack channels where team members are figuring out the
 
 The solution: A Slack bot that automatically posts breaking change content from other channels to a central Slack channel (```#breaking-changes```) where all teams can see the content. This Slack channel should contain no other conversation, so that team members can easily scan the channel to see if a breaking change affects their work or not.
 
-#### Announcing a "breaking change"
+#### Announcing a "breaking change" [deprecated, need to update]
 1. When a decision has been made about a breaking change, a team member posts about the change in any **public Slack channel**. Channel must be public for this process to work.
 1. The post needs to provide enough information that a designer, developer, or content person can know what they need to do in order to accomodate the change in their work.
     * E.g., "Sketch file has been updated to include new treatment for X. Find the Sketch file here [link]" or "We changed how the feature flag works. Instead of doing [describe the old way], you need to do X [describe the new way].
@@ -38,7 +38,7 @@ The solution: A Slack bot that automatically posts breaking change content from 
 1. After posting the message, the team member must react to it using the ```:breaking``` emoji.
 1. Using the ```:breaking``` emoji triggers Slack to automatically post a copy of the team member's Slack post in the ```#breaking-changes``` channel where everyone can see it.
  
-#### Learning about a "breaking change"
+#### Learning about a "breaking change"  [deprecated, need to update]
 
 * Existing team members will join the ```#breaking-changes``` channel.
 * New team members will be auto-subscribed to the ```#breaking-changes``` channel when they're invited to Slack. 
@@ -100,12 +100,14 @@ We will track these "gray areas," so we can document our responses to them and d
 * If you don't find an answer, post in a Slack channel.
 
 
-### 2. Use the 2 Slack channels for different purposes.
+### 2. Use Slack channels for different purposes.
 
 * **For product questions** use your team's "product" Slack channel (e.g., *#claimsmodern*).
   * Example question: "Where can I find previous research?"
 * **For process questions**, use the *#support-external* Slack channel.
   * Example questions: "I can't get the proxy to work" or "How do I integrate this into that?" or "How do I use Zenhub to do X?"
+* **For practice area questions** use your practice area Slack channel (e.g., *#design* or *#engineering*)
+* [See a full list of practice area Slack channels here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Platform/Intake/June%202019%20MVP%20Workshop/meetings-and-slack-channels.md#slack-channels)
 * If you don't get a response within a few hours, ping someone you know in the channel to look at your question.
 * If you don't get a response within 1 business day, contact the DSVA Product Manager, who will make sure the right people address your question.
 
@@ -115,7 +117,7 @@ We will track these "gray areas," so we can document our responses to them and d
 #### Slack - best communication method
 * Slack channels allow us to do our work in the open so that others can learn from the questions asked and the answers provided. Please do the same.
 * We discourage private Slack conversations (DMs) for the same reason.
-* **External Contractors should use the 2 Slack channels as their first method for contacting anyone on the DSVA or Internal Contractor team.**
+* **External Contractors should use public Slack channels as their first method for contacting anyone on the DSVA or Internal Contractor team.**
 
 
 #### Meetings - slowest communication method
