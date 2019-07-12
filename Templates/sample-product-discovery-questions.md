@@ -63,20 +63,24 @@ of the product being developed.
 **1. Are there any changes in strategy or copy for this product?**
 
 - Answers:
+- Description:
 
 **2. Are there any changes in formatting or SEO strategy?**
 
 - Answers:
+- Description:
 
 ## Information Architecture
 
 **1. Are there any URL or site structure changes included in this product?**
 
 - Answers:
+- Description:
 
 **2. Will this product require any new URLs or homepage calls to action?**
 
 - Answers:
+- Description:
 
 ## User Research
 
@@ -87,22 +91,25 @@ of the product being developed.
 **2. If yes to 1, do you conduct quantitative, qualitative, or another type of
    research?**
 
-- Answers:
+- Description:
 
 **3. Does your team do any type of mobile or accessibility testing as part of your
    research?**
 
 - Answers:
+- Description:
 
 ## Design and User Experience
 
 **1. What is your team's design process? Do you prefer to work mobile-first?**
 
 - Answers:
+- Description:
 
 **2. How does your team approach responsive design?**
 
 - Answers:
+- Description:
 
 ## Front-end Development
 
@@ -111,15 +118,18 @@ of the product being developed.
    design system?**
 
 - Answers:
+- Description:
 
 **2. How do you approach testing? Does your team prefer to write unit, e2e, or
    integration tests?**
 
 - Answers:
+- Description:
 
 **3. Does your team include tests as part of code submissions?**
 
 - Answers:
+- Description:
 
 ## Back-end Development
 
@@ -127,6 +137,7 @@ of the product being developed.
    be needed for your product?**
 
 - Answers:
+- Description:
 
 **2. Are there any APIs needed to make your product function correctly?**
 
@@ -142,6 +153,7 @@ of the product being developed.
    components like drag-and-drop or mapping interfaces?**
 
 - Answers:
+- Description:
 
 **2. Does your QA effort include any accessibility testing?**
 
@@ -155,3 +167,7 @@ of the product being developed.
    sessions?**
 
 - Answers:
+
+**5. If yes to 4, can you describe the type of training that would be most useful?**
+
+- Description:
