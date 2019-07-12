@@ -1,13 +1,16 @@
+# 508 Accessibility Best Practices
+
 **Table of Contents**
 
-- [Semantic Markup](#semantic-markup)
-- [Formation Design System](#formation-design-system)
-- [Automated Accessibility/508 Testing](#automated-accessibility508-testing)
-- [Manual Accessibility/508 Testing](#manual-accessibility508-testing)
-  - [Zoom to 400%](#zoom-to-400)
-  - [Keyboard Navigation](#keyboard-navigation)
-  - [Screen Readers](#screen-readers)
-  - [Color Tests](#color-tests)
+- [508 Accessibility Best Practices](#508-accessibility-best-practices)
+  - [Semantic Markup](#semantic-markup)
+  - [Formation Design System](#formation-design-system)
+  - [Automated Accessibility/508 Testing](#automated-accessibility508-testing)
+  - [Manual Accessibility/508 Testing](#manual-accessibility508-testing)
+    - [Zoom to 400%](#zoom-to-400)
+    - [Keyboard Navigation](#keyboard-navigation)
+    - [Screen Readers](#screen-readers)
+    - [Color Tests](#color-tests)
 
 ## Semantic Markup
 

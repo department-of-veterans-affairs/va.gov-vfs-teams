@@ -1,10 +1,13 @@
+# Request a Pre-launch 508 Review
+
 **Table of Contents**
 
-- [Accessibility and 508 Compliance](#accessibility-and-508-compliance)
-- [DSVA Accessibility Process](#dsva-accessibility-process)
-- [Step 1: Review the 508/Accessibility Best Practices Documenent](#step-1-review-the-508accessibility-best-practices-documenent)
-- [Step 2: Request an Accessibility/508 review](#step-2-request-an-accessibility508-review)
-- [Step 3: VA 508 Office Review](#step-3-va-508-office-review)
+- [Request a Pre-launch 508 Review](#request-a-pre-launch-508-review)
+  - [Accessibility and 508 Compliance](#accessibility-and-508-compliance)
+  - [DSVA Accessibility Process](#dsva-accessibility-process)
+  - [Step 1: Review the 508/Accessibility Best Practices Documenent](#step-1-review-the-508accessibility-best-practices-documenent)
+  - [Step 2: Request an Accessibility/508 review](#step-2-request-an-accessibility508-review)
+  - [Step 3: VA 508 Office Review](#step-3-va-508-office-review)
 
 ## Accessibility and 508 Compliance
 
