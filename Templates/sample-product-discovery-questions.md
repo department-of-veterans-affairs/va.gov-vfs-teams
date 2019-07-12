@@ -145,7 +145,7 @@ of the product being developed.
 - Description:
 - API 1 Documentation:
 - API 1 Endpoints needed:
-- API 1 Methodology (REST, GraphQL)
+- API 1 Methodology (REST, GraphQL):
 
 ## Accessibility
 
