@@ -1,34 +1,34 @@
-# Day Three VSP Strategy Meeting
+# Day Three VSP Strategy Workshop
 
 The purpose of this document is to strategize what items we should be discussing and demonstrating on Day Three to be productive. This could include things we want to know about the onboarding team, and things we want the onboarding team to provide during discussion.
 
 **Table of Contents**
 
-- [Day Three VSP Strategy Meeting](#day-three-vsp-strategy-meeting)
+- [Day Three VSP Strategy Workshop](#day-three-vsp-strategy-workshop)
   - [TODO Items to Iterate On](#todo-items-to-iterate-on)
-  - [Before Strategy Meeting](#before-strategy-meeting)
+  - [Before Strategy Workshop](#before-strategy-workshop)
     - [What does the onboarding team need to do in advance?](#what-does-the-onboarding-team-need-to-do-in-advance)
     - [What does the VSP team need to do in advance for every team?](#what-does-the-vsp-team-need-to-do-in-advance-for-every-team)
   - [Agenda](#agenda)
-  - [Strategy Meeting Part I: Discovery](#strategy-meeting-part-i-discovery)
+  - [Strategy Workshop Part I: Discovery](#strategy-workshop-part-i-discovery)
     - [Goals](#goals)
     - [Learn About the Product](#learn-about-the-product)
     - [Break](#break)
-  - [Strategy Meeting Part II: Demo Ticket Creation in Zenhub](#strategy-meeting-part-ii-demo-ticket-creation-in-zenhub)
-  - [Strategy Meeting Part III: Fostering Open Communication](#strategy-meeting-part-iii-fostering-open-communication)
+  - [Strategy Workshop Part II: Demo Ticket Creation in Zenhub](#strategy-workshop-part-ii-demo-ticket-creation-in-zenhub)
+  - [Strategy Workshop Part III: Fostering Open Communication](#strategy-workshop-part-iii-fostering-open-communication)
     - [Break](#break-1)
-  - [Strategy Meeting Part IV: Demo Pull Request Creation in Github](#strategy-meeting-part-iv-demo-pull-request-creation-in-github)
+  - [Strategy Workshop Part IV: Demo Pull Request Creation in Github](#strategy-workshop-part-iv-demo-pull-request-creation-in-github)
 
 ## TODO Items to Iterate On
 
 - ~~Create templates for adding points of contact, project specifics~~
 - ~~Create a meeting notes template for Day Three discovery~~
-- Define logistics of the day. Is this a one-hour meeting, is it all-day? What's the breakdown?
+- ~~Define logistics of the day. Is this a one-hour meeting, is it all-day? What's the breakdown?~~
 - Define project folders that are not in the public repo
 
-## Before Strategy Meeting
+## Before Strategy Workshop
 
-These are the items that need to be completed before the Day Three meeting(s). Having these items finished will make Day Three go smoothly and help teams learn more in discovery.
+These are the items that need to be completed before the Day Three Workshop. Having these items finished will make Day Three go smoothly and help teams learn more in discovery.
 
 ### What does the onboarding team need to do in advance?
 
@@ -54,7 +54,7 @@ These are the items that need to be completed before the Day Three meeting(s). H
 - Second break
 - Demo creating and managing pull requests in Github
 
-## Strategy Meeting Part I: Discovery
+## Strategy Workshop Part I: Discovery
 
 These goals and top-level sections are items we would want to discuss with the onboarding team. We want to discover as much as we can through question and answer sessions. By the end of the day, we should be writing tickets so the project team can get started with a clear set of next steps.
 
@@ -76,7 +76,7 @@ These goals and top-level sections are items we would want to discuss with the o
 
 - 10-15 minute off-camera break
 
-## Strategy Meeting Part II: Demo Ticket Creation in Zenhub
+## Strategy Workshop Part II: Demo Ticket Creation in Zenhub
 
 **30 minutes:** VSP team will demonstrate how to create issues and use the features in Zenhub to get work done.
 
@@ -85,7 +85,7 @@ These goals and top-level sections are items we would want to discuss with the o
 - Create another issue and demonstrate the blocker feature
 - Q&A session
 
-## Strategy Meeting Part III: Fostering Open Communication
+## Strategy Workshop Part III: Fostering Open Communication
 
 **30 minutes:** VSP team will demonstate the ways to foster communication through Slack messages and Zenhub comments.
 
@@ -96,7 +96,7 @@ These goals and top-level sections are items we would want to discuss with the o
 
 - 10-15 minute off-camera break
 
-## Strategy Meeting Part IV: Demo Pull Request Creation in Github
+## Strategy Workshop Part IV: Demo Pull Request Creation in Github
 
 **1 hour:** VSP team will demonstrate how to create and manage pull requests in Github
 
