@@ -1,40 +1,46 @@
 # Product Points of Contact
+
 These are the team members we will attempt to contact first with regard to
 department-specific questions.
 
 ## Product
-**Contact name:**
-**Email address:**
-**Slack short name:**
+
+**Contact first name:**
+
+**Github username:**
 
 ## Content Strategy
-**Contact name:**
-**Email address:**
-**Slack short name:**
+
+**Contact first name:**
+
+**Github username:**
 
 ## Information Architecture
-**Contact name:**
-**Email address:**
-**Slack short name:**
+
+**Contact first name:**
+
+**Github username:**
 
 ## Design
-**Contact name:**
-**Email address:**
-**Slack short name:**
+
+**Contact first name:**
+
+**Github username:**
 
 ## Front-end Development
-**Contact name:**
-**Email address:**
-**Slack short name:**
+
+**Contact first name:**
+
+**Github username:**
 
 ## Back-end Development
-**Contact name:**
-**Email address:**
-**Slack short name:**
+
+**Contact first name:**
+
+**Github username:**
 
 ## Other Point of Contact
-**Contact name:**
-**Project role:**
-**Email address:**
-**Slack short name:**
 
+**Contact first name:**
+
+**Github username:**
