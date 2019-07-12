@@ -1,10 +1,10 @@
-# Day Three VSP Strategy Workshop
+# Day Two VSP Strategy Workshop
 
-The purpose of this document is to strategize what items we should be discussing and demonstrating on Day Three to be productive. This could include things we want to know about the onboarding team, and things we want the onboarding team to provide during discussion.
+The purpose of this document is to strategize what items we should be discussing and demonstrating on Day Two to be productive. This could include things we want to know about the onboarding team, and things we want the onboarding team to provide during discussion.
 
 **Table of Contents**
 
-- [Day Three VSP Strategy Workshop](#day-three-vsp-strategy-workshop)
+- [Day Two VSP Strategy Workshop](#day-two-vsp-strategy-workshop)
   - [TODO Items to Iterate On](#todo-items-to-iterate-on)
   - [Before Strategy Workshop](#before-strategy-workshop)
     - [What does the onboarding team need to do in advance?](#what-does-the-onboarding-team-need-to-do-in-advance)
@@ -22,13 +22,13 @@ The purpose of this document is to strategize what items we should be discussing
 ## TODO Items to Iterate On
 
 - ~~Create templates for adding points of contact, project specifics~~
-- ~~Create a meeting notes template for Day Three discovery~~
+- ~~Create a meeting notes template for Day Two discovery~~
 - ~~Define logistics of the day. Is this a one-hour meeting, is it all-day? What's the breakdown?~~
 - Define project folders that are not in the public repo
 
 ## Before Strategy Workshop
 
-These are the items that need to be completed before the Day Three Workshop. Having these items finished will make Day Three go smoothly and help teams learn more in discovery.
+These are the items that need to be completed before the Day Two Workshop. Having these items finished will make Day Two go smoothly and help teams learn more in discovery.
 
 ### What does the onboarding team need to do in advance?
 

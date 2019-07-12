@@ -5,56 +5,42 @@ department-specific questions.
 
 ## Product
 
-**Contact name:**
+**Contact first name:**
 
-**Email address:**
-
-**Slack short name:**
+**Github username:**
 
 ## Content Strategy
 
-**Contact name:**
+**Contact first name:**
 
-**Email address:**
-
-**Slack short name:**
+**Github username:**
 
 ## Information Architecture
 
-**Contact name:**
+**Contact first name:**
 
-**Email address:**
-
-**Slack short name:**
+**Github username:**
 
 ## Design
 
-**Contact name:**
+**Contact first name:**
 
-**Email address:**
-
-**Slack short name:**
+**Github username:**
 
 ## Front-end Development
 
-**Contact name:**
+**Contact first name:**
 
-**Email address:**
-
-**Slack short name:**
+**Github username:**
 
 ## Back-end Development
 
-**Contact name:**
+**Contact first name:**
 
-**Email address:**
-
-**Slack short name:**
+**Github username:**
 
 ## Other Point of Contact
 
-**Contact name:**
+**Contact first name:**
 
-**Email address:**
-
-**Slack short name:**
+**Github username:**
