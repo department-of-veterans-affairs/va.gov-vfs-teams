@@ -46,6 +46,10 @@ of the product being developed.
 
 **5. Are there any promotional or marketing efforts planned?**
 
+- Answers:
+- Description:
+- URL:
+
 ## Work In Progress
 
 **1. Are there any work items in progress? This could include content strategy,
