@@ -55,7 +55,7 @@ To work on the Veteran-facing Services Platform, each team member needs to reque
 
 #### 1. Create [new SSH keys](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Internal%20Tools.md#create-ssh-public-key).
 
-#### 2. Request that your SSH keys be authorized so that you can use the developer tools.
+#### 2. Request that your SSH keys be authorized so that you can use the developer tools such as Jenkins, Grafana and Sentry.
 * File an issue in [va.gov-team repo](https://github.com/department-of-veterans-affairs/va.gov-team).
 * Use the issue template `Environment Access Request Template`
   * Follow the template instructions
@@ -73,6 +73,18 @@ To work on the Veteran-facing Services Platform, each team member needs to reque
 #### 5. Understand [how to use the SOCKS proxy from inside the VA network and from the internet](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Internal%20Tools.md#accessing-socks-proxy-from-va-network).
 
 #### 6. [Test and use the SOCKS proxy](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Internal%20Tools.md#accessing-socks-proxy-from-the-internet).
+
+#### 7. Sentry invitation
+* You will receive an invitation URL to Sentry via a Slack private message.
+* The URL will only work **AFTER** your SOCKS proxy is configured and working properly.
+  * Create a password for your user account
+  * If you do not have access to teams / projects that you feel you should please update and reopen the issue ticket.
+
+#### 8. Jenkins and Grafana
+* Jenkins and Grafana have been linked to GitHub for user authentication.
+* When logging into these services for the first time click the button `Login with GitHub` or similar
+  * You will be prompted to link your GitHub account and presented with a permissions dialog
+  * Allow the service to access your account and view your Organization membership
 
 ### AWS Console access
 
