@@ -60,6 +60,7 @@ To work on the Veteran-facing Services Platform, each team member needs to reque
 * Use the issue template `Environment Access Request Template`
   * Follow the template instructions
     * Provide your name, role and company
+    * Request type: SSH key
     * Paste the public portion of your ssh key. The template has an example.
   * Tag group `vsp-operations` to review
   * Monitor the issue for updates and respond to any questions from the operations group.
@@ -78,9 +79,10 @@ To work on the Veteran-facing Services Platform, each team member needs to reque
 This is similar to and follows the `ssh` procedure outlined above. **Do not initiate** this process until PIV background check is underway.
 #### 1. Request to create account
 * File an issue in [va.gov-team repo](https://github.com/department-of-veterans-affairs/va.gov-team).
-* Use the issue template `AWS Console Access Request Template`
+* Use the issue template `Environment Access Request Template`
   * Follow the template instructions
     * Provide your name, role and company
+    * Request type: AWS Console
   * Tag group `vsp-operations` to review
   * Monitor the issue for updates and respond to any questions from the operations group.
   * Occasionally operations will need to reach out via Slack for additional information.
