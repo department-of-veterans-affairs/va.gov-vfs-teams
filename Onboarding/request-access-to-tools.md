@@ -53,6 +53,11 @@ To work on the Veteran-facing Services Platform, each team member needs to reque
 
 ## Additional onboarding steps for developers
 
+The internal tools available include Grafana, Sentry, Prometheus and Jenkins. These tools are hosted internally and 
+available for developers via proxy access. We use `ssh` and the Chrome plugin SwitchyOmega to route web requests from 
+your browser to the SOCKS5 proxy for these private domains. For this we require the use of an `ssh` key pair to secure 
+access which we will be walking through in the steps below.
+
 #### 1. Create [new SSH keys](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Internal%20Tools.md#create-ssh-public-key).
 
 #### 2. Request that your SSH keys be authorized so that you can use the developer tools such as Jenkins, Grafana and Sentry.
@@ -103,6 +108,6 @@ This is similar to and follows the `ssh` procedure outlined above. **Do not init
 #### 2. When your account has been setup, you will receive a DM with your temporary password and login URL.
 #### 3. You are required to login and change the temporary password immediately.
 * AWS will prompt you to change your password during first login
-* Additionally you are required to setup a virtual MFA device in order to access services in the AWS cloud and programatically via the CLI.
+* Additionally you are required to setup a virtual MFA device in order to access services in the AWS cloud and programmatically via the CLI.
   * Follow the walkthru for MFA setup [here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/AWS%20Console%20Setup.md#mfa-virtual-device)
 
