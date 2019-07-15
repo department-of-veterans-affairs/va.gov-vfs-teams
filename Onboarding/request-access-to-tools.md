@@ -85,6 +85,7 @@ To work on the Veteran-facing Services Platform, each team member needs to reque
 * When logging into these services for the first time click the button `Login with GitHub` or similar
   * You will be prompted to link your GitHub account and presented with a permissions dialog
   * Allow the service to access your account and view your Organization membership
+* The services will not be accessible until the SOCKS proxy is configured and working properly.
 
 ### AWS Console access
 
