@@ -67,7 +67,7 @@ access which we will be walking through in the steps below.
     * Provide your name, role and company
     * Paste the public portion of your ssh key. The template has an example.
     * AWS Console Access? Yes or No.
-  * Tag group `vsp-operations` to review
+  * Tag group `@department-of-veterans-affairs/vsp-operations` to review
   * Monitor the issue for updates and respond to any questions from the operations group.
   * Occasionally operations will need to reach out via Slack for additional information.
 
