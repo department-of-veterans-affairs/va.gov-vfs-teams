@@ -97,7 +97,7 @@ access which we will be walking through in the steps below.
 ##### 9B. You are required to login and change the temporary password immediately.
 * AWS will prompt you to change your password during first login
 * Additionally you are required to setup a virtual MFA device in order to access services in the AWS cloud and programmatically via the CLI.
-  * Follow the walk through for MFA setup [here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/AWS%20Console%20Setup.md#mfa-virtual-device)
+  * Follow the walk through for MFA setup [here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/AWS%20Account%20Setup.md#mfa-virtual-device)
 
 
 ## Tools overview
