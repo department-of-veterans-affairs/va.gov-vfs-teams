@@ -92,22 +92,26 @@ access which we will be walking through in the steps below.
   * Allow the service to access your account and view your Organization membership
 * The services will not be accessible until the SOCKS proxy is configured and working properly.
 
-### AWS Console access
+## Tools overview
 
-This is similar to and follows the `ssh` procedure outlined above. **Do not initiate** this process until PIV background check is underway.
-#### 1. Request to create account
-* File an issue in [va.gov-team repo](https://github.com/department-of-veterans-affairs/va.gov-team).
-* Use the issue template `Environment Access Request Template`
-  * Follow the template instructions
-    * Provide your name, role and company
-    * Request type: AWS Console
-  * Tag group `vsp-operations` to review
-  * Monitor the issue for updates and respond to any questions from the operations group.
-  * Occasionally operations will need to reach out via Slack for additional information.
+### Jenkins
 
-#### 2. When your account has been setup, you will receive a DM with your temporary password and login URL.
-#### 3. You are required to login and change the temporary password immediately.
-* AWS will prompt you to change your password during first login
-* Additionally you are required to setup a virtual MFA device in order to access services in the AWS cloud and programmatically via the CLI.
-  * Follow the walkthru for MFA setup [here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/AWS%20Console%20Setup.md#mfa-virtual-device)
+With the Socks proxy set up and running, go to http://jenkins.vetsgov-internal. You can see the builds without logging in, but will need to authenticate (with GitHub OAuth) to re-run failed builds. 
+
+### Sentry
+
+With the Socks proxy set up and running, go to http://sentry.vfs.va.gov. 
+
+We do not really use Sentry teams except to separate production, staging, and dev errors. To view the most recent production errors, which is the most common thing to do while on call, go to http://sentry.vfs.va.gov/vets-gov/platform-api-production/
+
+### Grafana
+With the Socks proxy set up and running, go to http://grafana.vfs.va.gov/login. You can sign in using your GitHub account by clicking the "GitHub" button on the login page.
+
+There are many dashboards and you should click around to get familiar with the variety of metrics being collected and visualized (make sure Data Source is set to Production). A few highlights are:
+
+- [Site](http://grafana.vfs.va.gov/dashboard/db/site) to see overall metrics about the health of the site
+- [External Service Status](http://grafana.vfs.va.gov/dashboard/db/external-service-status) to see the availability of the services vets.gov depends on. 
+- [RDS](http://grafana.vfs.va.gov/dashboard/db/rds) to see the database statistics. 
+- [Rev Proxy](http://grafana.vfs.va.gov/dashboard/db/revproxy) to see metrics on the reverse proxies.
+
 
