@@ -65,8 +65,8 @@ access which we will be walking through in the steps below.
 * Use the issue template `Environment Access Request Template`
   * Follow the template instructions
     * Provide your name, role and company
-    * Request type: SSH key
     * Paste the public portion of your ssh key. The template has an example.
+    * AWS Console Access? Yes or No.
   * Tag group `vsp-operations` to review
   * Monitor the issue for updates and respond to any questions from the operations group.
   * Occasionally operations will need to reach out via Slack for additional information.
@@ -91,6 +91,14 @@ access which we will be walking through in the steps below.
   * You will be prompted to link your GitHub account and presented with a permissions dialog
   * Allow the service to access your account and view your Organization membership
 * The services will not be accessible until the SOCKS proxy is configured and working properly.
+
+#### 9. For AWS Console access
+##### 9A. When your account has been setup, you will receive a Slack private message with your temporary password and login URL.
+##### 9B. You are required to login and change the temporary password immediately.
+* AWS will prompt you to change your password during first login
+* Additionally you are required to setup a virtual MFA device in order to access services in the AWS cloud and programmatically via the CLI.
+  * Follow the walk through for MFA setup [here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/AWS%20Console%20Setup.md#mfa-virtual-device)
+
 
 ## Tools overview
 
