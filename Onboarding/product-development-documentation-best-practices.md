@@ -1,4 +1,4 @@
-# Documentation Best Practices at Va.gov
+# Documentation Best Practices at VA.gov
 
 _Last updated: July 17, 2019_
 
