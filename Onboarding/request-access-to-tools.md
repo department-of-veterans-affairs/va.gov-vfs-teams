@@ -106,7 +106,7 @@ timely manner.
 
 ### Jenkins
 
-With the Socks proxy set up and running, go to http://jenkins.vetsgov-internal. You can see the builds without logging in, but will need to authenticate (with GitHub OAuth) to re-run failed builds. 
+With the Socks proxy set up and running, go to http://jenkins.vfs.va.gov. You can see the builds without logging in, but will need to authenticate (with GitHub OAuth) to re-run failed builds. 
 
 ### Sentry
 
