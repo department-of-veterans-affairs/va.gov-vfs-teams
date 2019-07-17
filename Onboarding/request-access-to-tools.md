@@ -56,7 +56,9 @@ To work on the Veteran-facing Services Platform, each team member needs to reque
 The internal tools available include Grafana, Sentry, Prometheus and Jenkins. These tools are hosted internally and 
 available for developers via proxy access. We use `ssh` and the Chrome plugin SwitchyOmega to route web requests from 
 your browser to the SOCKS5 proxy for these private domains. For this we require the use of an `ssh` key pair to secure 
-access which we will be walking through in the steps below.
+access which we will be walking through in the steps below. For AWS Console access please remember **do not initiate** 
+until PIV background check is underway. Filing the request prematurely will slow down our ability to respond to you in a
+timely manner.
 
 #### 1. Create [new SSH keys](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Internal%20Tools.md#create-ssh-public-key).
 
@@ -66,7 +68,7 @@ access which we will be walking through in the steps below.
   * Follow the template instructions
     * Provide your name, role and company
     * Paste the public portion of your ssh key. The template has an example.
-    * AWS Console Access? Yes or No.
+    * Grant AWS Console Access? Yes or No.
   * Tag group `@department-of-veterans-affairs/vsp-operations` to review
   * Monitor the issue for updates and respond to any questions from the operations group.
   * Occasionally operations will need to reach out via Slack for additional information.
