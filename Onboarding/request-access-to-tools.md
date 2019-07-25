@@ -82,22 +82,16 @@ timely manner.
 
 #### 6. [Test and use the SOCKS proxy](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Internal%20Tools.md#accessing-socks-proxy-from-the-internet).
 
-#### 7. Sentry invitation
-* You will receive an invitation URL to Sentry via a Slack private message.
-* The URL will only work **AFTER** your SOCKS proxy is configured and working properly.
-  * Create a password for your user account
-  * If you do not have access to teams / projects that you feel you should please update and reopen the issue ticket.
-
-#### 8. Jenkins and Grafana
-* Jenkins and Grafana have been linked to GitHub for user authentication.
+#### 7. Jenkins and Grafana
+* Jenkins, Grafana and Sentry have been linked to GitHub for user authentication.
 * When logging into these services for the first time click the button `Login with GitHub` or similar
   * You will be prompted to link your GitHub account and presented with a permissions dialog
   * Allow the service to access your account and view your Organization membership
 * The services will not be accessible until the SOCKS proxy is configured and working properly.
 
-#### 9. For AWS Console access
-##### 9A. When your account has been setup, you will receive a Slack private message with your temporary password and login URL.
-##### 9B. You are required to login and change the temporary password immediately.
+#### 8. For AWS Console access
+##### 8A. When your account has been setup, you will receive a Slack private message with your temporary password and login URL.
+##### 8B. You are required to login and change the temporary password immediately.
 * AWS will prompt you to change your password during first login
 * Additionally you are required to setup a virtual MFA device in order to access services in the AWS cloud and programmatically via the CLI.
   * Follow the walk through for MFA setup [here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/AWS%20Account%20Setup.md#mfa-virtual-device)
