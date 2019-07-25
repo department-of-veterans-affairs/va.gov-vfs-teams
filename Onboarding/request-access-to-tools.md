@@ -82,7 +82,7 @@ timely manner.
 
 #### 6. [Test and use the SOCKS proxy](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Internal%20Tools.md#accessing-socks-proxy-from-the-internet).
 
-#### 7. Jenkins and Grafana
+#### 7. Jenkins, Grafana and Sentry
 * Jenkins, Grafana and Sentry have been linked to GitHub for user authentication.
 * When logging into these services for the first time click the button `Login with GitHub` or similar
   * You will be prompted to link your GitHub account and presented with a permissions dialog
