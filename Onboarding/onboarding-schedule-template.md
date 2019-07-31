@@ -14,22 +14,22 @@
     - Setup ZenHub for team
 
 ## Onboarding week
-- Monday
-    - Onboarding meeting/Kickoff meeting
+- Day 1
+    - Full team onboarding kickoff meeting
     - Engineering meeting 
     - Design meeting
     - Product meeting 
-- Tuesday
+- Day 2
     - Meeting to make sure the team is setup and ready for development
-    - Strategy and implementation meeting (discuss how we might integrate the project)
-- Wednesday 
-    - Start support
-    - Schedule times to meet with team
+    - Discovery & Logistics meeting (discuss how we might integrate the project)
+- Day 3
+    - Frontend development Q&A
+    - Backend development Q&A
 
 ## Post onboarding
 Post onboarding should be determined by project and team experience.
 
-### Teams with experienc
+### Teams with experience
 - Assign Liaison
 - Slack support
 - Meetings if neccesary
@@ -37,6 +37,6 @@ Post onboarding should be determined by project and team experience.
 ### Teams with limited experience
 - Assign liaison
 - Slack support
-- First month bi-weekly standup meeting (adjust as needed
+- First month bi-weekly standup meeting (adjust as needed)
 - Ongoing weekly meeting
 - After first month determine cadence for meetings and support
