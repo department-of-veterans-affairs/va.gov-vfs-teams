@@ -1,15 +1,11 @@
 # Security and ATO
 
 
-* **This document applies only to External Contractors.**
+* **This document applies only to teams building functionality on VSP.**
 
 * **Definitions for terms used in this folder:**
 
   * *"DSVA" refers to DSVA team members and DSVA detailees.*
-
-  * *"Internal contractors" refers to DSVA's primary vendor contractor and its subcontractors.*
-
-  * *"External contractors" refers to any other contractor team working on the Veteran-facing Services Platform.*
 
 <hr>
 
@@ -29,24 +25,24 @@ The Veteran-facing Services Platform has **a platform-wide ATO from VA** (dated 
 
 ### Request a preliminary ATO review
 
-**Connect with the DSVA team as early as possible to start this process.**
+**Connect with the VSP team as early as possible to start this process.**
 
-1. File an issue in the <a href="https://github.com/department-of-veterans-affairs/vets.gov-team" target="_blank">vets.gov-team</a> repository. *When you've completed the onboarding steps, you'll be able to view that repo.*
+1. File an issue in the <a href="https://github.com/department-of-veterans-affairs/va.gov-team" target="_blank">va.gov-team</a> repository. *When you've completed the onboarding steps, you'll be able to view that repo.*
     * Title: ```Request preliminary ATO review```
     * Labels:
-      * ```external-request```
       * ```devops```
+      * ```product support```
       * ```[your team's Github label]```, e.g., "BAH-526"
-    * Assign the issue to: ```[your DSVA contact]```
+    * Assign the issue to: ```Andrea Hewitt```
     * Provide the following information in the Comment field: 
       * What data are you collecting? For example, what data are you requesting from users?
       * What data are you using? For example, what data are you requesting from some VA service?
       * Where does that data come from? For example, what API endpoint are you getting the data from?
       * See [an example issue](https://github.com/department-of-veterans-affairs/vets.gov-ato/issues/318) to illustrate the kinds of information we need for this preliminary assessment.
-1. DSVA will examine the existing ATO documents and determine if they need to be updated based on the information you've provided.
+1. VSP will examine the existing ATO documents and determine if they need to be updated based on the information you've provided.
     * Plan for some back and forth conversation in the Github issue to get all the information DSVA needs.
 
-1. DSVA will provide a preliminary ATO assessment of whether or not the ATO needs to be updated.
+1. VSP will provide a preliminary ATO assessment of whether or not the ATO needs to be updated.
 
 <hr>
 
@@ -54,27 +50,27 @@ The Veteran-facing Services Platform has **a platform-wide ATO from VA** (dated 
 
 You'll need a **Pre-launch ATO review** before you can launch your tool or service. Complete this step when you know that your tool/service **will not** change before launch.
 
-1. File an issue in the <a href="https://github.com/department-of-veterans-affairs/vets.gov-team" target="_blank">vets.gov-team</a> repository. *When you've completed the onboarding steps, you'll be able to view that repo.*
+1. File an issue in the <a href="https://github.com/department-of-veterans-affairs/va.gov-team" target="_blank">va.gov-team</a> repository. *When you've completed the onboarding steps, you'll be able to view that repo.*
     * Title: ```Request Pre-launch ATO review```
     * Labels:
-      * ```external-request```
+      * ```product support```
       * ```devops```
       * ```[your Github label]```, e.g., "BAH-526"
-    * Assign the issue to: ```[your team's DSVA contact]```
+    * Assign the issue to: ```Andrea Hewitt```
     * Provide the following information in the Comment field: 
       * What data are you collecting? For example, what data are you requesting from users?
       * What data are you using? For example, what data are you requesting from some VA service?
       * Where does that data come from? For example, what API endpoint are you getting the data from?
 
-1. DSVA will examine the existing ATO documents and determine if they need to be updated based on the information you've provided.
-    * Plan for some back and forth conversation in the Github issue to get all the information DSVA needs.
+1. VSP will examine the existing ATO documents and determine if they need to be updated based on the information you've provided.
+    * Plan for some back and forth conversation in the Github issue to get all the information VSP needs.
 
 1. If the ATO needs to be updated:
-    * DSVA will update the relevant ATO documents.
-    * DSVA will make all necessary updates in RiskVision.
-    * DSVA will comment in the issue that the ATO has been updated.
-    * DSVA will close the issue. This is your team's signal that this pre-launch activity has been completed.
+    * VSP will update the relevant ATO documents.
+    * VSP will make all necessary updates in RiskVision.
+    * VSP will comment in the issue that the ATO has been updated.
+    * VSP will close the issue. This is your team's signal that this pre-launch activity has been completed.
 
 1. If the ATO does not need to be updated:
-    * DSVA will comment in the issue that the current ATO still applies.
-    * DSVA will close the issue. This is your team's signal that this pre-launch activity has been completed.
+    * VSP will comment in the issue that the current ATO still applies.
+    * VSP will close the issue. This is your team's signal that this pre-launch activity has been completed.
