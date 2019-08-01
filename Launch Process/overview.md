@@ -16,7 +16,7 @@ Status: **DRAFT** / not official
 
 ## Design
 - [Here's how to create great user-centered designs for VA.gov solutions](https://design.va.gov/documentation/designers).
-- You'll need reviews from VSP to help you make sure you're on track! Reach out to #vfs-platform-support in Slack to schedule a 1:1 with us so we can decide on your cadence for Design check ins.
+- You'll need reviews from VSP to help you make sure you're on track! [Here's what to expect, and how to request a design review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-design-qa.md)
 
 ## Engineering
 - [Here's how to write great FE code for VA.gov solutions](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/).
@@ -27,11 +27,19 @@ Status: **DRAFT** / not official
 
 ## Product
 - [Here's how to write a great Product Outline](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Product/ProductOutline.md).
-- 
+- We are undergoing some repository construction, so this may change in the future, but for now please store your VA.gov Product documentation in the [vets.gov-team repo product folders](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products).
+- [Here's how to use ZenHub to manage your projects](/)
+
 
 ## 508
+- [Here's how to write and test FE code for 508 Accessibility](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Onboarding/508-accessibility-best-practices.md)
+- You'll need reviews from VSP to help ensure accessibility of your solutions! [Here's what to expect, and how to request a 508 review](/)
 
 ## Analytics
+- [Here's how to set KPIs to track the success of your VA.gov solutions](/)
+- [Here's how to incorporate analytics into your VA.gov solutions](/)
+- VSP is here to help you as you set up analytics in your code. [Here's how to request Analytics support](/)
+- You'll need reviews from VSP to help you make sure you're on track! [Here's what to expect, and how to request an Analytics review](/)
 
 ## QA
 
