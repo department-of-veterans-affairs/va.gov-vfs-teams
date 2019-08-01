@@ -1,10 +1,10 @@
-# Launch checklist
+# Product development checklist
 
 Status: **DRAFT** / not official
 
 ---
 
-# Getting Started
+1. Read through these things and understand how reviews will work
 
 ## Content
 - [Here are the best practices on writing great, plain language content on VA.gov](https://design.va.gov/content-style-guide/)
@@ -30,7 +30,6 @@ Status: **DRAFT** / not official
 - We are undergoing some repository construction, so this may change in the future, but for now please store your VA.gov Product documentation in the [vets.gov-team repo product folders](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products).
 - [Here's how to use ZenHub to manage your projects](/)
 
-
 ## 508
 - [Here's how to write and test FE code for 508 Accessibility](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Onboarding/508-accessibility-best-practices.md)
 - You'll need reviews from VSP to help ensure accessibility of your solutions! [Here's what to expect, and how to request a 508 review](/)
@@ -42,6 +41,10 @@ Status: **DRAFT** / not official
 - You'll need reviews from VSP to help you make sure you're on track! [Here's what to expect, and how to request an Analytics review](/)
 
 ## QA
+
+- [Here's how to QA your solutions](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/QA/How%20To%20Coordinate%20QA%20Testing.md)
+- [Here's how to incorporate QA testing in development](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/tree/master/DeveloperDocs/testing)
+- VSP is here to help you as you test to ensure your solutions are top quality! Reach out to #vfs-platform-support in Slack to ask questions, or schedule a meeting with us so we can help when you need it.
 
 ---
 
