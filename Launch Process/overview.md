@@ -4,7 +4,7 @@ Status: **DRAFT** / not official
 
 ---
 
-1. Read through these things and understand how reviews will work
+1. Read through these things and understand how to work with VSP to design and build things on VA.gov.
 
 ## Content
 - [Here are the best practices on writing great, plain language content on VA.gov](https://design.va.gov/content-style-guide/)
@@ -20,15 +20,13 @@ Status: **DRAFT** / not official
 
 ## Engineering
 - [Here's how to write great FE code for VA.gov solutions](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/).
-- [Here's how to write great BE code for VA.gov solutions](/).
+- [Here's how to write great BE code for VA.gov solutions](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Practice%20Areas/Engineering/Backend).
 - You'll need frequent (usually around weekly) code reviews from VSP to hep you make sure you're on track! [Here's what to expect, and how to request a code review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Practice%20Areas/Engineering/code_review_guidelines.md)
-- Here's how On Call works?
-- Tools?
 
 ## Product
 - [Here's how to write a great Product Outline](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Product/ProductOutline.md).
 - We are undergoing some repository construction, so this may change in the future, but for now please store your VA.gov Product documentation in the [vets.gov-team repo product folders](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products).
-- [Here's how to use ZenHub to manage your projects](/)
+- [Here's how to use ZenHub to manage your projects](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Onboarding/zenhub_product_management.pdf)
 
 ## 508
 - [Here's how to write and test FE code for 508 Accessibility](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Onboarding/508-accessibility-best-practices.md)
@@ -48,7 +46,7 @@ Status: **DRAFT** / not official
 
 ---
 
-Each of these items represent work that must be completed and signed off on by VSP before a new application launches.
+2. Build, Measure, Learn! As you go, each of these items represent work that must be completed and signed off on by VSP before a new application launches.
 
 These processes are here to help ensure we're launching features that are:
 * in line with VA.gov's standards for design, UX, reliability, and availability
