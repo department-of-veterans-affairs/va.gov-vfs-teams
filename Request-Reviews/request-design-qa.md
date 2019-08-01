@@ -1,14 +1,10 @@
 # UX/IxD/UI and Visual Design
 
-* **This document applies only to External Contractors.**
+* **This document applies only to teams building functionality on VA.gov.**
 
 * **Definitions for terms used in this folder:**
 
   * *"DSVA" refers to DSVA team members and DSVA detailees.*
-
-  * *"Internal contractors" refers to DSVA's primary vendor contractor and its subcontractors.*
-
-  * *"External contractors" refers to any other contractor team working on the Veteran-facing Services Platform.*
 
 <hr>
 
