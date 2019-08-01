@@ -60,7 +60,7 @@ Each of these reviews MUST be scheduled with the appropriate VSP contact, and co
 
 - [ ]   [Accessibility / 508 review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-508-review.md)
 - [ ]   [ATO assessment](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-ato-reviews.md) + review(?)
-- [ ]   [Content Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Practice%20Areas/Content/content-review-process.md) / Content POC: Peggy Gannon
+- [ ]   [Content Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Practice%20Areas/Content/content-review-process.md) / VSP Content POC: Peggy Gannon
 - [ ]   [Design QA](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-design-qa.md) / review(?)
 - [ ]   Analytics / Product Health Report review
     *   Reviewing analytics that will be used to just the product health / success, and making recommendations as appropriate.
