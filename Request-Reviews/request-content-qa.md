@@ -1,5 +1,5 @@
 # This document is now obsolete. 
-### The current content review process document is located here: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Practice%20Areas/Content/content-review-process.md
+### Click here for the current [content review process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Practice%20Areas/Content/content-review-process.md) document. 
 
 
 
