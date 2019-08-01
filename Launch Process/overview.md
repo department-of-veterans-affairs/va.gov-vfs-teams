@@ -8,7 +8,8 @@ Status: **DRAFT** / not official
 
 ## Content
 - [Here are the best practices on writing great, plain language content on VA.gov](https://design.va.gov/content-style-guide/)
-- You'll need reviews from VSP to help you make sure you're on track! [Here's what to expect, and how to request a content review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Practice%20Areas/Content/content-review-process.md)
+- [Here's how to request a content review and what to expect](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Practice%20Areas/Content/content-review-process.md)
+- You'll need content reviews from VSP to help you make sure you're on track! Reach out to #vsp-content-ia in Slack to ask questions or to schedule a meeting with us so we can help when you need it. 
 
 ## IA
 - [Here are the best practices on writing URLs](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Information%20Architecture/URL%20Creation%20Process%20and%20Guidelines.md).
@@ -59,7 +60,7 @@ Each of these reviews MUST be scheduled with the appropriate VSP contact, and co
 
 - [ ]   [Accessibility / 508 review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-508-review.md)
 - [ ]   [ATO assessment](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-ato-reviews.md) + review(?)
-- [ ]   [Content QA](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-content-qa.md) / review(?)
+- [ ]   [Content Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Practice%20Areas/Content/content-review-process.md) / Content POC: Peggy Gannon
 - [ ]   [Design QA](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-design-qa.md) / review(?)
 - [ ]   Analytics / Product Health Report review
     *   Reviewing analytics that will be used to just the product health / success, and making recommendations as appropriate.
