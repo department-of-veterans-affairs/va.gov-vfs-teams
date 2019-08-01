@@ -1,23 +1,5 @@
 # Content Strategy and Writing
 
-* **This document applies only to External Contractors.**
-
-* **Definitions for terms used in this folder:**
-
-  * *"DSVA" refers to DSVA team members and DSVA detailees.*
-
-  * *"Internal contractors" refers to DSVA's primary vendor contractor and its subcontractors.*
-
-  * *"External contractors" refers to any other contractor team working on the Veteran-facing Services Platform.*
-
-<hr>
-
-* [General](#general)
-* [Request a Content QA](#request-a-content-qa)
-* [Content QA Checklist](#content-qa-checklist)
-
-<hr>
-
 ### General
 
 * **All teams working on the Veteran-facing Services Platform are required to adhere to the [Content Style Guide](https://github.com/department-of-veterans-affairs/vets.gov-content-style-guide)**, including standards for
@@ -28,21 +10,19 @@
   * Content and Structure
   * Style and Formatting
   * Site Navigation (Language and Conventions)
-* **External Contractor teams should schedule the Content QA when the complete and final build is on staging.** 
+* **VFS teams should schedule the Content QA when the complete and final build is on staging.**
   * The Content QA should happen when the team is confident no further changes will happen before launch.
-
-<hr>
 
 ### Request a Content QA
 
 1. File an issue in ```vets-team repo```.
     * Title: ```Request Content QA```
-    * Labels: 
+    * Labels:
       * ```content```
       * ```external-request```
       * ```[your team's Github label]```, e.g., "BAH-526"
     * Assign the issue to: ```[your DSVA contact]```
-    * Comment: 
+    * Comment:
       * **Context:** Provide a high-level description of the functionality for which you're requesting this review,
         * e.g., ```Functionality adds a new dataset to the Facility Locator so users can search for and view non-VA health providers on the map, as well as in list and detail views.```
       * **URL:** ```link to your project on staging```

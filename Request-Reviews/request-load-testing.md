@@ -1,32 +1,12 @@
 # Load Testing
 
-* **This document applies only to External Contractors.**
-
-* **Definitions for terms used in this folder:**
-
-  * *"DSVA" refers to DSVA team members and DSVA detailees.*
-
-  * *"Internal contractors" refers to DSVA's primary vendor contractor and its subcontractors.*
-
-  * *"External contractors" refers to any other contractor team working on the Veteran-facing Services Platform.*
-
-<hr>
-
-* [General](#general)
-* [Prepare for Load Testing](#prepare-for-load-testing)
-* [Request for Load Testing](#request-for-load-testing)
-
-<hr>
-
 ### General
 
 * All applications (and new features for existing applications) on the Veteran-facing Services Platform need to go through load testing.
-* **Do not perform load testing without explicit approval from DSVA** -- a DSVA devops engineer is required to coordinate and perform your load testing.
-* **External Contractor teams should initiate the Request for Load Testing** 
+* **Do not perform load testing without explicit approval from DSVA** -- a platform engineer is required to coordinate and perform your load testing.
+* **VFS teams should initiate the Request for Load Testing**
   * When the complete and final build is on staging and you're confident it's ready to launch
   * At least 1.5 weeks prior to launch
-
-<hr>
 
 ## Prepare for Load Testing
 
@@ -38,7 +18,7 @@ After you submit the request for load testing, a DSVA devops engineer will work 
 
 ## Request for Load Testing
 
-1. File an issue in ```vets-team repo```.
+1. File an issue in ```va.gov-team repo```.
     * Title: ```Request for Load Testing```
     * Labels:
       * ```loadtest```

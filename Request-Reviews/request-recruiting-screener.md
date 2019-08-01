@@ -1,34 +1,10 @@
 # Recruiting for User Research
 
-* **This document applies only to External Contractors.**
-
-* **Definitions for terms used in this folder:**
-
-  * *"DSVA" refers to DSVA team members and DSVA detailees.*
-
-  * *"Internal contractors" refers to DSVA's primary vendor contractor and its subcontractors.*
-
-  * *"External contractors" refers to any other contractor team working on the Veteran-facing Services Platform.*
-
-<hr>
-
-* [General](#general)
-* [How to screen participants](#how-to-screen-participants)
-* [Tips](#tips)
-
-<hr>
-
-
 ## General
 
-**All teams working on the Veteran-facing Services Platform are required to follow the DSVA process for screening participants for any research study related to the Veteran-facing Services Platform.** 
+**All teams working on the Veteran-facing Services Platform are required to follow the DSVA process for screening participants for any research study related to the Veteran-facing Services Platform.**
 
 * The <a href="https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Research/Request%20or%20Do%20Research/PRA%20and%20Recruiting/PRA/Screener%20Questionnaire%202900-0770/Digital%20Service%20User%20Screener%20Questionnaire.docx" target="_blank">DSVA screener form</a> has PRA clearance and an established OMB form control number.
-
-* **For External Contractors**: Follow the process [outlined below](#screening-participants-for-external-contractors).
-
-
-<hr>
 
 ## How to screen participants
 
@@ -37,15 +13,15 @@ DSVA uses Optimal Workshop to host its recruiting screener. This allows us to co
 
 ### Request to use recruiting screener
 
-1. File a Github issue in the ```vets.gov-team repo``` with the following information:
+1. File a Github issue in the ```va.gov-team repo``` with the following information:
     * Title: ```Request recruiting screener for research study```
-    * Labels: 
+    * Labels:
       * ```research```
       * ```external-request```
       * ```[your team's Github label]```, e.g., "BAH-526"
     * Assign the issue to: ```[your DSVA contact]```
-    * In the comments field: 
-      * ```External contractor team requesting a recruiting screener.```
+    * In the comments field:
+      * ```VFS team requesting a recruiting screener.```
       * ```Team name is [your team's name]```, e.g., "BAH"
       * ```Working on [the name of your team's project]```, e.g., "526 forms"
       * ```For this research study: [name of the research study]```, e.g., "Round 1 research for 781 form"      
@@ -64,7 +40,7 @@ DSVA uses Optimal Workshop to host its recruiting screener. This allows us to co
 1. **Within 2 business days**, you will receive an **encrypted email** with the screener responses.  
     * If you don't get a response within 2 days, reach out to your DSVA contact.
 1. Choose potential participants from the screener responses and continue with your normal recruiting process (i.e., setting up dates/times, etc.)
-    * **External Contractors**: [See tips below](#tips).
+    * **VFS teams**: [See tips below](#tips).
     * **Note:** If you need specific participant types (e.g., Veterans with a MyHealtheVet account), call potential participants and ask them via phone. Questions asked via phone **are not subject to PRA,** so you can use a phone call to narrow your participant pool to the exact participant types you need.
 
 <hr>
@@ -75,7 +51,7 @@ DSVA uses Optimal Workshop to host its recruiting screener. This allows us to co
 
 * Be sure your recruiting pool includes the kinds of Veterans you need for this study.
 
-* External Contractors are responsible for their own recruiting. If your team doesn't have in-house recruiters for user research, you can
+* VFS teams are responsible for their own recruiting. If your team doesn't have in-house recruiters for user research, you can
 
 	* Hire a recruiting firm to assist you.
 	  * If you haven't done so already, talk to your COR about how to do this.
@@ -84,5 +60,3 @@ DSVA uses Optimal Workshop to host its recruiting screener. This allows us to co
 	* Try recruiting Veterans through your own social networks.
 
 * See <a href="https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Research/Request%20or%20Do%20Research/PRA%20and%20Recruiting/Outreachrecruiting-language-proposed.md" target="_blank">some examples of recruiting emails</a> at different points in the recruiting process (*after completing the onboarding steps, you’ll be able to see this content*).
-
-

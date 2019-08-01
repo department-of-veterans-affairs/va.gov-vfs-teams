@@ -1,30 +1,9 @@
 # Information Architecture - IN PROGRESS - DO NOT USE YET
 
-* **This document applies only to External Contractors.**
-
-* **Definitions for terms used in this folder:**
-
-  * *"DSVA" refers to DSVA team members and DSVA detailees.*
-
-  * *"Internal contractors" refers to DSVA's primary vendor contractor and its subcontractors.*
-
-  * *"External contractors" refers to any other contractor team working on the Veteran-facing Services Platform.*
-
-<hr>
-
-* [General](#general)
-* [Prepare for an IA review](#prepare-for-an-ia-review)
-* [Request an IA review](#request-an-ia-review)
-
-<hr>
-
 ### General
 
 * **All teams working on the Veteran-facing Services Platform are required to work with DSVA to integrate your service into the platform so your users can easily find (and search for) your service.**
-* **External Contractor teams should intiate the IA review as soon as they have a good idea of what their service will do.** 
-  * For most teams, this will be at some point in the *Prototype* phase or early in the *Build and Test* phase. 
-
-<hr>
+* **VFS teams should initiate the IA review as soon as they have a good idea of what their service will do.**
 
 ## Prepare for an IA Review
 
@@ -39,12 +18,12 @@ If you're building a new service, you'll need to create a name for it.
 
 ### Step 2: Define the Information Architecture
 
-The IA determines where in the Veteran-facing Services Platform your service will live, how users navigate to your service, and how users navigate within your service. 
+The IA determines where in the Veteran-facing Services Platform your service will live, how users navigate to your service, and how users navigate within your service.
 
 * How your service will integrate into the existing Veteran-facing Services Platform?
   * Is this a new standalone service, or is it part of an existing service?
-  * Does the service require authentication? 
-  * If yes, will there be static content available prior to authentication? Currently we build static content pages for tools that require authentication to provide SEO value and a landing page in the user experience rather than an immediate redirect to login when accessing. 
+  * Does the service require authentication?
+  * If yes, will there be static content available prior to authentication? Currently we build static content pages for tools that require authentication to provide SEO value and a landing page in the user experience rather than an immediate redirect to login when accessing.
 
 * How will your users find and get to your service?
   * Consider top navigation, home page, hub pages, and crosslinking opportunities
@@ -54,7 +33,7 @@ The IA determines where in the Veteran-facing Services Platform your service wil
 * Where does your service live within the existing content hubs?
   * Which directory (or subdirectory) does it live in?
 
-* Will the service live in the global navigation of the site? 
+* Will the service live in the global navigation of the site?
   * If so, where?
   * If not, how will users navigate to your service?
 
@@ -107,20 +86,20 @@ Now you can define the URL(s) for your service by putting those two elements tog
   * **structure**
     <code>/action-keyword1-keywordn/</code>
 
-  * **example** *(page is not live)* 
+  * **example** *(page is not live)*
     <code>https://www.va.gov/health-care/refill-track-prescriptions</code>  
-  
+
 * Some tools are merely reporting and do not require an action on the part of the user, and therefore may not have an action word in their URL.  
 
-  * **example:** *(page is not live)* 
-  * <code>https://www.va.gov/claim-or-appeal-status/</code>.  Use SEO and IA structure as guidance. 
- 
+  * **example:** *(page is not live)*
+  * <code>https://www.va.gov/claim-or-appeal-status/</code>.  Use SEO and IA structure as guidance.
+
 * If a tool/form requires authentication and will have static page available to unauthenticated users, ensure that URL for that static page is optimized for SEO and UX.  The URL for the actual tool/form behind authentication can be less descriptive.  
 
   * **example** *(page is not live)*
   * static page: <code>https://www.va.gov/claim-or-appeal-status/</code>
   * tool/form:  <code>https://www.va.gov/claim-or-appeal-status/status/</code>
-    
+
 ### Step 4: Test the proposed Information Architecture with Veterans
 
 * Your service's IA should map to Veteran mental models &mdash; even if this differs from how VA thinks about your service.
@@ -133,16 +112,13 @@ Now you can define the URL(s) for your service by putting those two elements tog
 Define the page meta description for each page/screen in your service.
 
 * Keep the description short: 1-2 sentences.
-* Describe the most important thing the Veteran can do on the page/screen. For example, <a href="https://www.vets.gov/health-care/after-you-apply/" target="_blank">on the ```After you apply``` page</a>, the meta description is ```Find out what to do after applying for VA health care benefits, including when to schedule your first VA medical appointment```.
-
-
-<hr>
+* Describe the most important thing the Veteran can do on the page/screen.
 
 ## Request an IA Review
 
 1. File an issue in ```vets-team repo```.
     * Title: ```Request IA Review```
-    * Labels: 
+    * Labels:
       * ```ia```
       * ```external-request```
       * ```[your team's Github label]```, e.g., "BAH-526"

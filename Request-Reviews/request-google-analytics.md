@@ -1,35 +1,14 @@
 # Google Analytics
 
-* **This document applies only to External Contractors.**
-
-* **Definitions for terms used in this folder:**
-
-  * *"DSVA" refers to DSVA team members and DSVA detailees.*
-
-  * *"Internal contractors" refers to DSVA's primary vendor contractor and its subcontractors.*
-
-  * *"External contractors" refers to any other contractor team working on the Veteran-facing Services Platform.*
-
-<hr>
-
-* [General](#general)
-* [Prepare for Google Analytics](#prepare-for-google-analytics)
-* [Request Google Analytics](#request-google-analytics)
-* [Using Google Analytics](#using-google-analytics)
-
-<hr>
-
 ### General
 
 * **All teams working on the Veteran-facing Services Platform are required to integrate VA's Google Analytics into their services.**
-* **External Contractor teams should request Google Analytics when**
-  * The complete and final build is on staging and you're confident it's ready to launch. 
+* **VFS teams should request Google Analytics when:**
+  * The complete and final build is on staging and you're confident it's ready to launch.
   * At least 4 weeks before planned launch date
     - coordination with FE team needed
     - validation in staging needed
     - further clarification with PM is also helpful (Wireframes, intro meeting, etc)
-
-<hr>
 
 ### Prepare for Google Analytics
 
@@ -44,18 +23,16 @@ Answer the following questions in a Word document:
 * What custom dimensions (if any) would you like to collect? These can be user, session, or product traits.
 * What are other events, interactions, behavior you want to track that aren't covered by the above questions?
 
-<hr>
-
 ### Request Google Analytics
 
 1. File an issue in ```vets-team repo```.
     * Title: ```Request Google Analytics```
-    * Labels: 
+    * Labels:
       * ```analytics```
       * ```external-request```
       * ```[your team's Github label]```, e.g., "BAH-526"
     * Assign the issue to: ```[your DSVA contact]```
-    * Comment: 
+    * Comment:
       * **Context**: Provide some context for your team's project.
         * e.g., ```Functionality adds a new dataset to the Facility Locator so users can search for and view non-VA health providers on the map, as well as in list and detail views.```
       * **Tracking information**: Upload the Word document you prepared above.
@@ -79,11 +56,8 @@ Answer the following questions in a Word document:
     * Close the issue.
 1. When the issue is closed, Github will send a notification to the issue creator. This is your team's signal that this pre-launch activity is complete.
 
-<hr>
 
 ### Using Google Analytics
-
-> **Skip this section if your team is NOT contracted to do continuous improvement (or maintenance) after launch.**
 
 If your team will be continuously improving (or maintaining) the service **after launch,** you'll need to create a Google Analytics account using your VA email address. This will give you access to Google Analytics for VA web properties.
 
@@ -94,12 +68,12 @@ Once your team has created new Google Analytics accounts:
 
 1. File an issue in ```vets-team repo```.
     * Title: ```Provision Google Analytics```
-    * Labels: 
+    * Labels:
       * ```analytics```
       * ```external-request```
       * ```[your team's Github label]```, e.g., "BAH-526"
     * Assign the issue to: ```[your DSVA contact]```
-    * Comment: 
+    * Comment:
       * **Context**: Provision the following Google Analytics accounts.
         * ```Provide a list of the Google Analytics accounts including full names and VA email addresses```
 1. **Within 4 business days**, DSVA will provision these accounts so your team can start using Google Analytics.

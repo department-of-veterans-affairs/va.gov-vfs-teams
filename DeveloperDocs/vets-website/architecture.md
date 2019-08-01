@@ -18,7 +18,7 @@ If you're a developer, most of your time will likely be spent working on a React
 
 ## Design system
 
-You will also find that our visual components and site-wide styles live in an external [design system](https://department-of-veterans-affairs.github.io/design-system/). This design system is based on the [US Web Design System](https://designsystem.digital.gov/), with some additional modifications by our team. As part of that design system, we provide a set of React components covering common patterns, which is [published to npm](https://www.npmjs.com/package/@department-of-veterans-affairs/jean-pants). You'll likely use these components to make your apps accessible and consistent with the rest of Vets.gov.
+You will also find that our visual components and site-wide styles live in their own [design system](https://design.va.gov). This design system is based on the [US Web Design System](https://designsystem.digital.gov/), with some additional modifications by our team. As part of that design system, we provide a set of React components covering common patterns, which is [published to npm](https://www.npmjs.com/package/@department-of-veterans-affairs/jean-pants). You'll likely use these components to make your apps accessible and consistent with the rest of Vets.gov.
 
 ## Further reading
 

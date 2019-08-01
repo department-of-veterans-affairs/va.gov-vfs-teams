@@ -1,15 +1,5 @@
 # Unit Testing
 
-* **Definitions for terms used in this folder:**
-
-  * *"DSVA" refers to DSVA team members and DSVA detailees.*
-
-  * *"Internal contractors" refers to DSVA's primary vendor contractor and its subcontractors.*
-
-  * *"External contractors" refers to any other contractor team working on the Veteran-facing Services Platform.*
-
-<hr>
-
 ## Unit tests
 
 Write unit tests as you build to make sure your form (or other component) is behaving as you expect and to help guard against future bugs. Your test files should go in a `tests` folder in your application folder. 
@@ -55,7 +45,7 @@ describe('VIC veteran information', () => {
 });
 ```
 
-At the top, we've done some basic test set up and imported some helpers from `schemaform-utils.jsx`. The most important item in that list is `DefinitionTester`, which is a component we use to simulate a page being rendered (without having to set up a whole form application with all the dependencies). 
+At the top, we've done some basic test set up and imported some helpers from `schemaform-utils.jsx`. The most important item in that list is `DefinitionTester`, which is a component we use to simulate a page being rendered (without having to set up a whole form application with all the dependencies).
 
 We write unit tests with [Enzyme](http://airbnb.io/enzyme/) and mount a `DefinitionTester` component that is passed in the schema information from our `veteranInformation` page as props. Then, we check to make sure that we have 7 `input`s and 4 `select`s on the page. When there are errors with definitions on our form pages, you will often see inputs not being rendered, so this helps check for that scenario.
 
@@ -116,4 +106,3 @@ Finally in this file we fill in all the data and submit:
 We have some helper functions that will make the right Enzyme calls to fill in data for us, so we don't have a lot of repeated code. Those helpers are documented in the `schemaform-utils.jsx` file. And you can see at the end we check that no errors are displayed and that our `onSubmit` prop was called, which will only happen if our data passed all of the page's validation rules.
 
 Now that you've see these three tests, you should be able to get started writing your own tests. Testing conditional logic works as you might expect, where we use our helpers to fill in data, then check to see that the right number of inputs appear in the page after that change. Some of our tests also directly test logic in `depends` functions on the page config, since that will often not get tested elsewhere.
-

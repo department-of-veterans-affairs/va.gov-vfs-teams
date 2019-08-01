@@ -30,10 +30,8 @@
     > No. The ```feedback@va.gov``` email address is only for DSVA use. You need to modify the sample recruiting emails to use your own email address, preferably your va.gov email address.
 
 1. *Can I use my own recruiting screener?*
-    > No. You must use the [DSVA recruiting screener](https://github.com/department-of-veterans-affairs/vets-external-teams/blob/master/Request-Reviews/request-recruiting-screener.md#how-to-screen-participants), which has PRA clearance and an approved OMB control number.
-    
+    > No. You must use the [DSVA recruiting screener](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-recruiting-screener.md), which has PRA clearance and an approved OMB control number.
+
 1. *We're planning to recruit Veterans in person at an event (or location). What is the best way to describe who we are to Veterans so that they trust us?*
-    > You can say that you work for [your company] who is working on behalf of VA to do this research.<br/> 
+    > You can say that you work for [your company] who is working on behalf of VA to do this research.<br/>
     If you're handing out printed materials, your va.gov email address will also help legitimize you with the Veteran community.
-    
-    

@@ -1,17 +1,5 @@
 # VA Digital Service - Developer Documentation
 
-**Documents in this folder apply to External Contractors only.**
-
-**Definitions for terms used in this folder:**
-
-* *"DSVA" refers to DSVA team members and DSVA detailees.*
-
-* *"Internal Contractors" refers to DSVA's primary vendor contractor and its subcontractors.*
-
-* *"External Contractors" refers to any other contractor team working on the Veteran-facing Services Platform.*
-
-<hr>
-
 ### Table of Contents
 
 * [Getting Started](getting-started.md)
@@ -29,10 +17,8 @@
 * [Working with Back-end Code](vets-api/README.md)
 
 
-*If you have any questions about this documentation, ask in your team's Slack channel or reach out to your DSVA Contact.*
+*If you have any questions about this documentation, ask in* #vfs-platform-support *or reach out to your DSVA Contact.*
 
 <hr>
 
 Next: [Getting Started](getting-started.md)
-
-

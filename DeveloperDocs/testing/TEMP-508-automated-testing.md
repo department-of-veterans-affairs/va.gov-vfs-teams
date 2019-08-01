@@ -2,17 +2,6 @@
 
 ## DO NOT USE YET
 
-* **Definitions for terms used in this folder:**
-
-  * *"DSVA" refers to DSVA team members and DSVA detailees.*
-
-  * *"Internal contractors" refers to DSVA's primary vendor contractor and its subcontractors.*
-
-  * *"External contractors" refers to any other contractor team working on the Veteran-facing Services Platform.*
-
-<hr>
-
-
 ## Automated Accessibility/508 Compliance Tests
 
 The intent of this script is to create a common language, extensible functions, and predictable test runs for automated keyboard testing. For the initial test script, I used custom `data-` attributes that take cues from Java and BEM naming conventions:
@@ -155,4 +144,3 @@ module.exports = {
   },
 };
 ```
-
