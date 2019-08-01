@@ -21,7 +21,7 @@ a local instance of Vets-API and for guidance on how to submit changes and new f
 
 A Vets-API integration must handle user requests, validate inputs, make one or multiple requests to another (external) service, and then render a response based on the results of those external service responses. To expose a service integration, a developer must:
 
-1. Provide Routing for a new endpoint on api.vets.gov
+1. Provide Routing for a new endpoint on api.va.gov
 2. Authorize requests to this endpoint appropriately through a Policy
 3. Validate user input or form submissions
 3. Instantiate an External Service Client connection and interact with an External Service
