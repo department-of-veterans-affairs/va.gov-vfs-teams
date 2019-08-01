@@ -2,6 +2,41 @@
 
 Status: **DRAFT** / not official
 
+---
+
+# Getting Started
+
+## Content
+- [Here are the best practices on writing great, plain language content on VA.gov](https://design.va.gov/content-style-guide/)
+- You'll need reviews from VSP to help you make sure you're on track! [Here's what to expect, and how to request a content review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Practice%20Areas/Content/content-review-process.md)
+
+## IA
+- [Here are the best practices on writing URLs](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Information%20Architecture/URL%20Creation%20Process%20and%20Guidelines.md).
+- You'll need check ins with VSP to help you make sure you're on track! Reach out to #vfs-platform-support in Slack to schedule a 1:1 with us so we can decide on your cadence for IA check ins.
+
+## Design
+- [Here's how to create great user-centered designs for VA.gov solutions](https://design.va.gov/documentation/designers).
+- You'll need reviews from VSP to help you make sure you're on track! Reach out to #vfs-platform-support in Slack to schedule a 1:1 with us so we can decide on your cadence for Design check ins.
+
+## Engineering
+- [Here's how to write great FE code for VA.gov solutions](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/).
+- [Here's how to write great BE code for VA.gov solutions](/).
+- You'll need frequent (usually around weekly) code reviews from VSP to hep you make sure you're on track! [Here's what to expect, and how to request a code review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Practice%20Areas/Engineering/code_review_guidelines.md)
+- Here's how On Call works?
+- Tools?
+
+## Product
+- [Here's how to write a great Product Outline](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Product/ProductOutline.md).
+- 
+
+## 508
+
+## Analytics
+
+## QA
+
+---
+
 Each of these items represent work that must be completed and signed off on by VSP before a new application launches.
 
 These processes are here to help ensure we're launching features that are:
