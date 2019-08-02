@@ -1,15 +1,8 @@
 # Veteran-facing Services Platform Code of Conduct
 
-## Notes
-
-* This file is a copy of the [Code of Conduct here](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/code-of-conduct.md) - visible if you're a member of the VA Github organization.
-* TODO - move the original COC to this location.
-
 ## Background
 
 This document is not all encompassing, nor does it supersede any laws. It is designed to explicitly state what we all should already know to be true.
-
-<hr>
 
 ## Code of Conduct
 
