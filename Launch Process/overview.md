@@ -1,3 +1,7 @@
+## This doc is obsolete. It lives here now: [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Administrative/Onboarding/Product%20Development%20Checklist.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Administrative/Onboarding/Product%20Development%20Checklist.md)
+
+---
+
 # Product development checklist
 
 From day one, you should be checking in with VSP to connect on each of the items in this list. All items here must be completed and signed off on by VSP before a new application can launch. If you're unsure how to tackle various things on this list, just ask in #vfs-platform-support so VSP can help! Hearing your questions also helps VSP iterate on the VSP documents and tools over time to make these things easier for VFS Teams to come.
