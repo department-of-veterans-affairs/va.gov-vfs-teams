@@ -1,3 +1,7 @@
+==========
+
+**This document is outdated.** Please view the [current vesion of the 508 Prelaunch Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Practice%20Areas/Accessibility/508-request-prelaunch-review.md) on the `va.gov-team` repository.
+
 # Request a Pre-launch 508 Review
 
 **Table of Contents**
