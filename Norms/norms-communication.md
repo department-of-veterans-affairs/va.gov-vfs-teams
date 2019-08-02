@@ -12,7 +12,7 @@ For example:
 * A change to how the website build process works
 * A significant change to the content style guide
 
-All instances of breaking changes should be posted to *#vfs-all-teams*.
+**All instances of breaking changes should be posted to *#vfs-all-teams*.**
 
 The post needs to provide enough information that a designer, developer, or content person can know what they need to do in order to accommodate the change in their work. Some examples:
 
