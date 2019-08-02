@@ -1,14 +1,9 @@
-# Content Strategy and Writing
+# This document is now obsolete. 
+### Click here for the current [content review process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Practice%20Areas/Content/content-review-process.md) document. 
 
-* **This document applies only to External Contractors.**
 
-* **Definitions for terms used in this folder:**
 
-  * *"DSVA" refers to DSVA team members and DSVA detailees.*
-
-  * *"Internal contractors" refers to DSVA's primary vendor contractor and its subcontractors.*
-
-  * *"External contractors" refers to any other contractor team working on the Veteran-facing Services Platform.*
+~~## Content Strategy and Writing~~
 
 <hr>
 
