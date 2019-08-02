@@ -1,33 +1,31 @@
 # Request access to tools
 
-## Request Github and Slack access
+## Configure your Github and Slack accounts
 
-To work on the Veteran-facing Services Platform, each team member needs to request access to the VA Github organization and to DSVA Slack channels.
+To work on the Veteran-facing Services Platform, each team member needs to use the VA Github organization and to DSVA Slack channels.
 
-**Team members must use their VA.gov email address to request access to Github and Slack.**
-> If you don't have a VA.gov email address, ask your company Project Manager (or other project lead) for help.
+## Slack
+1. If you haven't already, check your email for an invitation to join Digital Service at VA on Slack, and join!
 
-1. Have each team member review the [tips for creating a Github account](../Norms/Github/README.md#tips-for-creating-a-github-account) **before creating a Github account.**
+1. Add information to your Slack profile:
+    * Profile image
+    * Full name
+    * What I do (i.e. your practice area: Front-end Engineer, Designer, etc)
+    * Time zone
+    * Pronouns
+    * GitHub (i.e. the account handle / username you created when you set up your GitHub account)
 
-1. Have everyone on the team create a Github account.
+## GitHub
 
-1. The **team Project Manager** should capture all names, email addresses, and Github usernames for the team in a spreadsheet.
-    * Indicate which team members are developers (so we can give them access to developer code repos and tools).
-    * Please rename the spreadsheet according to your team, e.g., BAH-team-tracker.xlsx.
+1. If you haven't already, check your email for an invitation to the Department of Veterans Affairs GitHub Organization, and join!
+ 
+1. Make sure you have "Read" access (not just "Write" access) to the [va.gov-team GitHub repository](https://github.com/department-of-veterans-affairs/va.gov-team). If you don't have the appropriate access, or if you're unsure, let VSP know in the #vfs-platform-support Slack channel.
 
-1. Email the spreadsheet to your DSVA contact.
-
-1. DSVA will add the people on the list to
-    * The VA Github organization
-    * Slack channels relevant to your project
-
-1. Ask your team to add information to their Github and Slack profiles:
+1. Add information to your Github profile:
     * Organization: ```Your company name```
     * Working on: ```The project your team is working on```, e.g., "526 ancillary forms"
 
-1. Developers must complete [additional onboarding steps](#additional-onboarding-steps-for-developers) to access the code repositories and tools they'll need for development and deployment. They should complete these steps as soon as they've received the email invitation to join the VA Github organization.
-
-1. Understand the [norms for using these tools](../Norms/norms-tools.md) when you're working on the Veteran-facing Services Platform.
+1. Developers, complete the [additional onboarding steps](#additional-onboarding-steps-for-developers) below to access the code repositories and tools you'll need for development and deployment.
 
 ## Additional onboarding steps for developers
 
@@ -60,12 +58,13 @@ timely manner.
 
 #### 6. [Test and use the SOCKS proxy](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Internal%20Tools.md#accessing-socks-proxy-from-the-internet).
 
-#### 7. Jenkins, Grafana and Sentry
-* Jenkins, Grafana and Sentry have been linked to GitHub for user authentication.
+#### 7. Jenkins, Grafana, and Sentry
+
+Jenkins, Grafana, and Sentry have been linked to GitHub for user authentication.
+* The services will not be accessible until the SOCKS proxy is configured and working properly.
 * When logging into these services for the first time click the button `Login with GitHub` or similar
   * You will be prompted to link your GitHub account and presented with a permissions dialog
   * Allow the service to access your account and view your Organization membership
-* The services will not be accessible until the SOCKS proxy is configured and working properly.
 
 #### 8. For AWS Console access
 ##### 8A. When your account has been setup, you will receive a Slack private message with your temporary password and login URL.
