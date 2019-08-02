@@ -45,13 +45,13 @@
 
 ## Request Contact Center Review
 
-1. File an issue in ```vets-team repo```.
+1. File an issue in ```va.gov-team repo```.
     * Title: ```Request Contact Center Review```
     * Labels:
       * ```call center```
       * ```external-request```
       * ```[your team's Github label]```, e.g., "BAH-526"
-    * Assign the issue to: ```[your DSVA contact]```
+    * Assign the issue to: ```Chante Lantos-Swett```
     * Comment: Include the following information.
       * **Context**: Provide a high-level description of the functionality for which you're requesting this review, for example:
         * ```Functionality adds a new dataset to the Facility Locator so users can search for and view non-VA health providers on the map, as well as in list and detail views.```

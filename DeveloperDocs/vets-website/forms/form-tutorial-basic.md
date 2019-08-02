@@ -38,7 +38,7 @@ After you run the generator, run `yarn watch` (or restart it if you already had 
 
 ## Updating your form
 
-Now that you're up and running, we can add a new page and field to our form. If you open up `src/applications/new-form/config.js`, you should see a `formConfig` variable:
+Now that you're up and running, we can add a new page and field to our form. If you open up `src/applications/new-form/config/form.js`, you should see a `formConfig` variable:
 
 ```js
 const formConfig = {

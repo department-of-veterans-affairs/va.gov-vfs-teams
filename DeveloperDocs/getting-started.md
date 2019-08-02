@@ -21,7 +21,7 @@ To build a service on the Veteran-facing Services Platform, which can be anythin
 
     * Have access to the [Veteran-facing Services Platform code repositories](#code-repositories)
 
-    * Have credentials for the shared testing environments &mdash;  [dev.vets.gov](https://dev.vets.gov) and [staging.vets.gov](https://staging.vets.gov).
+    * Have credentials for the shared testing environments &mdash;  [dev.va.gov](https://dev.va.gov) and [staging.va.gov](https://staging.va.gov).
 
     * Have access to [Internal Tools](internal-tools-access.md)
 
