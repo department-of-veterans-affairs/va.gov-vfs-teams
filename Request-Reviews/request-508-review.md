@@ -23,12 +23,12 @@
 
 ## Step 1: Review the 508/Accessibility Best Practices Documenent
 
-1. Review the latest Veteran-facing Services Platform [best practices for 508 and web accessibility](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Onboarding/508-accessibility-best-practices.md)
+1. Review the latest Veteran-facing Services Platform [best practices for 508 and web accessibility](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Platform/Onboarding/508-accessibility/508-accessibility-best-practices.md)
 2. File [issues for any 508/accessibility items](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?labels=508%2FAccessibility&template=508-issue.md) you would like VSP to consult on
 
 ## Step 2: Request an Accessibility/508 review
 
-1. File a [request for a pre-launch 508 review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/issues/new?assignees=1Copenut&labels=508%2Faccessibility%2C+launch+review%2C+external+team&template=508-review-template.md&title=Request+accessibility%2F508+review+for+PRODUCT_NAME) in the va.gov-vfs-team repo
+1. File a [request for a pre-launch 508 review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=1Copenut&labels=508%2Faccessibility%2C+launch+review%2C+product+support&template=508-review-template.md&title=Request+accessibility%2F508+review+for+ENTER_PRODUCT_NAME) in the va.gov-vfs-team repo
 2. **Within 5 business days**, DSVA will review your code and let you know the results of your review.
    - If you don't hear anything after 5 business days, reach out to your DSVA contact.
 3. _If problems are found,_ DSVA will create a new Github issue for each Accesibility/508 problem found.
