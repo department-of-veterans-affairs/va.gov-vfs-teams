@@ -4,7 +4,7 @@ These principles guide us in creating appropriate policies, process, and procedu
 
 ### Service design, not bureaucracy.
 
-* We're here to improve Veteran Facing Services and the way the VA builds them, not create better bureaucracy.
+* We're here to improve Veteran-facing services and the way the VA builds them, not create better bureaucracy.
 * For process improvements, we start by researching and documenting the problem and user stories. Then, we use our journey map to discuss and prioritize potential solutions.
 
 ### Work in the open.
@@ -23,7 +23,7 @@ These principles guide us in creating appropriate policies, process, and procedu
 
 ### More trust can be earned.
 
-* We extend more trust (i.e., more permissions, ability for teams to review their own PRs) as teams demonstrate that they can maintain our quality standards.
+* We extend more trust as teams demonstrate that they can maintain our quality standards.
 
 ### Carrots, not sticks.
 
