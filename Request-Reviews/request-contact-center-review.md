@@ -1,40 +1,18 @@
 # Contact Center
-* **This document applies only to External Contractors.**
-
-* **Definitions for terms used in this folder:**
-
-  * *"DSVA" refers to DSVA team members and DSVA detailees.*
-
-  * *"Internal contractors" refers to DSVA's primary vendor contractor and its subcontractors.*
-
-  * *"External contractors" refers to any other contractor team working on the Veteran-facing Services Platform.*
-
-<hr>
-
-* [General](#general)
-* [Prepare for Contact Center Review](#prepare-for-contact-center-review)
-* [Request Contact Center Review](#request-contact-center-review)
-
-<hr>
 
 ### General
 
 * All applications on the Veteran-facing Services Platform include a phone number Veterans can call to ask questions about the application's functionality.
 * **Before applications (or new features) launch on the Veteran-facing Services Platform, all teams must send a Product Guide and Product Video to the Contact Center to ensure that Contact Center Representatives are prepared to answer questions about the functionality.**
-* **External Contractor teams should initiate the Contact Center Review when**
+* **VFS teams should initiate the Contact Center Review when**
   1. The complete and final build is on staging and you're confident it's ready to launch,
   1. After they've completed the [Prepare for Contact Center Review](#prepare-for-contact-center-review) steps, and
   1. At least 2 weeks prior to the launch date.
     * If your team thinks it will have trouble meeting the "2 weeks prior to launch" date, reach out to your DSVA Contact to determine how to move forward.
 
-<hr>
-
 ## Prepare for Contact Center Review
 
 ### Step 1: Create the Product Guide
-
-* <a href="../Templates/sample-product-guide-1.pdf" target="_blank">Example Product Guide 1</a>
-* <a href="../Templates/sample-product-guide-2.pdf" target="_blank">Example Product Guide 2</a>
 
 *If you're building a brand new service*:
 
@@ -48,6 +26,10 @@
       * If you can't find the existing Product Guide on Github, ask your DSVA Contact to find it for you.
   1. Store the updated Product Guide in its original location.
 
+*Examples*:
+
+[Example Product Guide 1](../Templates/sample-product-guide-1.pdf)
+[Example Product Guide 2](../Templates/sample-product-guide-2.pdf)
 
 ### Step 2: Create the Product Video
 
@@ -60,9 +42,6 @@
       * Your Product Video will be unlisted but visible to people with the URL.
       * [Follow the instructions here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Product%20Management/Demo%20Video%20Creation%20Process.md#4-request-that-the-video-be-posted-on-the-va-youtube-channel) to request the Product Video be added to the official VA YouTube channel.
   1. Once you receive the email saying your video has been added, continue to [Request Contact Center Review](#request-contact-center-review).
-
-
-<hr>
 
 ## Request Contact Center Review
 

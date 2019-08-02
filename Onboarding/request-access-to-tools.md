@@ -1,20 +1,5 @@
 # Request access to tools
 
-<hr>
-
-* **This document applies only to External Contractors.**
-
-* **Definitions for terms used in this folder:**
-
-  * *"DSVA" refers to DSVA team members and DSVA detailees.*
-
-  * *"Internal Contractors" refers to DSVA's primary vendor contractor and its subcontractors.*
-
-  * *"External Contractors" refers to any other contractor team working on the Veteran-facing Services Platform.*
-
-<hr>
-
-
 ## Request Github and Slack access
 
 To work on the Veteran-facing Services Platform, each team member needs to request access to the VA Github organization and to DSVA Slack channels.
@@ -26,7 +11,7 @@ To work on the Veteran-facing Services Platform, each team member needs to reque
 
 1. Have everyone on the team create a Github account.
 
-1. The **team Project Manager** should [use this spreadsheet](external-contractor-team-tracker.xlsx) to capture all names, email addresses, and Github usernames for the team.
+1. The **team Project Manager** should capture all names, email addresses, and Github usernames for the team in a spreadsheet.
     * Indicate which team members are developers (so we can give them access to developer code repos and tools).
     * Please rename the spreadsheet according to your team, e.g., BAH-team-tracker.xlsx.
 
@@ -44,18 +29,11 @@ To work on the Veteran-facing Services Platform, each team member needs to reque
 
 1. Understand the [norms for using these tools](../Norms/norms-tools.md) when you're working on the Veteran-facing Services Platform.
 
-
-#### Tip:
-
-* If your team is new to Github, we can arrange a short meeting to show you how to use it share documents.
-
-<hr>
-
 ## Additional onboarding steps for developers
 
-The internal tools available include Grafana, Sentry, Prometheus and Jenkins. These tools are hosted internally and 
-available for developers via proxy access. We use `ssh` and the Chrome plugin SwitchyOmega to route web requests from 
-your browser to the SOCKS5 proxy for these private domains. For this we require the use of an `ssh` key pair to secure 
+The internal tools available include Grafana, Sentry, Prometheus and Jenkins. These tools are hosted internally and
+available for developers via proxy access. We use `ssh` and the Chrome plugin SwitchyOmega to route web requests from
+your browser to the SOCKS5 proxy for these private domains. For this we require the use of an `ssh` key pair to secure
 access which we will be walking through in the steps below. Please remember **do not initiate** the issue until your
 PIV background check is underway. Opening the issue prematurely will slow down our ability to respond to you in a
 timely manner.
@@ -101,11 +79,11 @@ timely manner.
 
 ### Jenkins
 
-With the Socks proxy set up and running, go to http://jenkins.vfs.va.gov. You can see the builds without logging in, but will need to authenticate (with GitHub OAuth) to re-run failed builds. 
+With the Socks proxy set up and running, go to http://jenkins.vfs.va.gov. You can see the builds without logging in, but will need to authenticate (with GitHub OAuth) to re-run failed builds.
 
 ### Sentry
 
-With the Socks proxy set up and running, go to http://sentry.vfs.va.gov. 
+With the Socks proxy set up and running, go to http://sentry.vfs.va.gov.
 
 We do not really use Sentry teams except to separate production, staging, and dev errors. To view the most recent production errors, which is the most common thing to do while on call, go to http://sentry.vfs.va.gov/vets-gov/platform-api-production/
 
@@ -115,8 +93,6 @@ With the Socks proxy set up and running, go to http://grafana.vfs.va.gov/login. 
 There are many dashboards and you should click around to get familiar with the variety of metrics being collected and visualized (make sure Data Source is set to Production). A few highlights are:
 
 - [Site](http://grafana.vfs.va.gov/dashboard/db/site) to see overall metrics about the health of the site
-- [External Service Status](http://grafana.vfs.va.gov/dashboard/db/external-service-status) to see the availability of the services vets.gov depends on. 
-- [RDS](http://grafana.vfs.va.gov/dashboard/db/rds) to see the database statistics. 
+- [External Service Status](http://grafana.vfs.va.gov/dashboard/db/external-service-status) to see the availability of the services vets.gov depends on.
+- [RDS](http://grafana.vfs.va.gov/dashboard/db/rds) to see the database statistics.
 - [Rev Proxy](http://grafana.vfs.va.gov/dashboard/db/revproxy) to see metrics on the reverse proxies.
-
-

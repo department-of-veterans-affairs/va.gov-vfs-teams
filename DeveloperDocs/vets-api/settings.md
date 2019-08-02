@@ -27,7 +27,7 @@ my_external_service:
 
 # Settings in the development, staging, and production Vets.gov environments
 
-**Settings in non-local environments are managed by the Platform team. Changes to settings (new settings, changed settings, or removed settings) must be coordinated with them.** To coordinate with the Platform team on Settings, post a request in the *#support-external* Slack channel.
+**Settings in non-local environments are managed by the Platform team. Changes to settings (new settings, changed settings, or removed settings) must be coordinated with them.** To coordinate with the Platform team on Settings, post a request in the *#vfs-platform-support* Slack channel.
 
 ## Overriding Settings
 
@@ -93,4 +93,3 @@ end
 Back: [Vets API Service Objects](service-objects.md)
 
 Next: [Vets API Punch List](vets-api-endpoint-punch-list.md)
-

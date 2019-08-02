@@ -1,13 +1,5 @@
 # End-to-end tests
 
-* **Definitions for terms used in this folder:**
-
-  * *"DSVA" refers to DSVA team members and DSVA detailees.*
-
-  * *"Internal contractors" refers to DSVA's primary vendor contractor and its subcontractors.*
-
-  * *"External contractors" refers to any other contractor team working on the Veteran-facing Services Platform.*
-
 <hr>
 
 End-to-end (e2e) tests are tests that run in a browser and test that a user can fill out information and progress through the form. We typically have one e2e test per form, which fills in all the information for that form and submits it to a mock service.
@@ -24,7 +16,7 @@ Look at an [existing e2e test](https://github.com/department-of-veterans-affairs
 
 ![](Assets/redux_dev.png)
 
-4. Once you've done this, you should be all set to start. 
+4. Once you've done this, you should be all set to start.
 
 ### Example e2e Test
 
@@ -150,4 +142,3 @@ The burial form submission process uses polling, so there are two mocked API res
 - [Debugging tests](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/common-tasks/debugging-tests/)
 - [Keyboard e2e testing](https://github.com/department-of-veterans-affairs/vets-website/blob/master/docs/Keyboard_e2e.md)
 - [AxeCore e2e testing](https://github.com/department-of-veterans-affairs/vets-website/blob/6a27450abed0eb724d9fa0334633ff8ffe700f78/src/platform/testing/e2e/nightwatch-commands/axeCheck.js)
- 

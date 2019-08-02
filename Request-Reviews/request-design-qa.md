@@ -1,31 +1,16 @@
 # UX/IxD/UI and Visual Design
 
-* **This document applies only to teams building functionality on VA.gov.**
-
-* **Definitions for terms used in this folder:**
-
-  * *"DSVA" refers to DSVA team members and DSVA detailees.*
-
-<hr>
-
-* [General](#general)
-* [Request a Design QA](#request-a-design-qa)
-
-<hr>
-
 ### General
 
 * **All teams working on the Veteran-facing Services Platform are required to follow the guidelines and patterns in the [Veteran-facing Services Platform Design System](https://department-of-veterans-affairs.github.io/design-system/).**
-* **External Contractor teams should schedule the Design QA when the complete and final build is on staging.** 
+* **VFS teams should schedule the Design QA when the complete and final build is on staging.**
   * The Design QA should happen when the team is confident no further changes will happen before launch.
-
-<hr>
 
 ### Request a Design QA
 
 1. File an issue in ```va-team repo```.
     * Title: ```Request Design QA```
-    * Labels: 
+    * Labels:
       * ```design```
       * ```product support```
       * ```[your team's Github label]```, e.g., "BAH-526"
@@ -45,12 +30,10 @@
 1. When all changes are completed, close the issue.
 1. When the issue is closed, this pre-launch activity is considered complete.
 
-<hr>
-
 ### Design QA Checklist
 
 * [ ] New design patterns have been vetted by DSVA and documented
-* [ ] Correct use of design patterns in context 
+* [ ] Correct use of design patterns in context
   * [ ] Form chapters in place
   * [ ] Privacy policy is present
   * [ ] Address form follows pattern if applicable
