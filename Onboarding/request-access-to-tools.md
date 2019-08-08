@@ -29,6 +29,8 @@ To work on the Veteran-facing Services Platform, each team member needs to use t
 
 ## Additional onboarding steps for developers
 
+*MUST have PIV E-QIP Background Check in process to proceed with the steps below.*
+
 The internal tools available include Grafana, Sentry, Prometheus and Jenkins. These tools are hosted internally and
 available for developers via proxy access. We use `ssh` and the Chrome plugin SwitchyOmega to route web requests from
 your browser to the SOCKS5 proxy for these private domains. For this we require the use of an `ssh` key pair to secure
