@@ -10,7 +10,7 @@
 
   * This is where you can ask **process questions about onboarding, development, deployment, and project management**.
 
-* Refer to [the communication norms](norms-communication.md) for the best way to use Slack to communicate with DSVA and Internal Contractors.
+* Refer to [Norms for communication](norms-communication.md) for the best way to use Slack to communicate with DSVA and Internal Contractors.
 
 
 ## Understanding Github access
