@@ -1,4 +1,4 @@
-# Norms for Communication
+# Norms for communication
 
 ## Communicating "breaking changes"
 
@@ -8,9 +8,9 @@ For example:
 
 * A new design pattern is added to the design system
 * The Sketch file has been updated
-* A change to how the feature flag works
-* A change to how the website build process works
-* A significant change to the content style guide
+* A change is made to how the feature flag works
+* A change is made to how the website build process works
+* A significant change is made to the content style guide
 
 **All instances of breaking changes should be posted to *#vfs-all-teams*.**
 
@@ -20,36 +20,36 @@ The post needs to provide enough information that a designer, developer, or cont
 
 > We changed how the feature flag works. Instead of doing [describe the old way], you need to do X [describe the new way].
 
-## DSVA and platform responsibilities
+## DSVA and Platform responsibilities
 
 ### DSVA authorizes access for VFS teams
 
 * To ensure we limit VA access to the right people, a DSVA person will add VFS team members.
   * If a new need arises (e.g., access to a new Github repo is needed), direct the request to the DSVA contact, who will determine access and permissions.
 
-### DSVA and the platform team provide support
-* DSVA and the platform team will monitor the #vfs-platform-support Slack channel for product-focused questions/inquiries from VFS teams.
+### DSVA and the Platform team provide support
+* DSVA and the Platform team will monitor the *#vfs-platform-support* Slack channel for product-focused questions/inquiries from VFS teams.
 
-### The platform team cannot direct VFS teams
+### The Platform team can't direct VFS teams
 
-The platform team cannot direct the roadmaps of VFS teams or tell them what project they should work on next. For example:
+The Platform team can't direct a VFS team's roadmap or tell them what project they should work on next. For example:
 
 * What should I be working on?
 * What task should I do next?
 
-If these questions come up, the platform team will ask the VFS team to contact their DSVA product contact.
+If these questions come up, the Platform team will ask the VFS team to contact their DSVA product contact.
 
-However, we do want the platform team and all VFS teams to collaborate because their projects will have dependencies and connections. For example, the platform team may provide guidance or feedback on a VFS team's architecture so that adjustments can be made to allow dependent tools to work well together.
+However, we do want the Platform team and all VFS teams to collaborate because their projects will have dependencies and connections. For example, the Platform team may provide guidance or feedback on a VFS team's architecture so that adjustments can be made to allow dependent tools to work well together.
 
 #### Gray areas
 
-Questions are bound to come up that fall somewhere between "How do I?" and "What do I?" In these cases, the platform team will direct VFS teams to their DSVA product contact, who will decide how to handle the question or request.
+Questions are bound to come up that fall somewhere between "How do I?" and "What do I?" In these cases, the Platform team will direct VFS teams to their DSVA product contact, who will decide how to handle the question or request.
 
 ## VFS team responsibilities
 
 ### Look for documentation before posting a question in Slack (or contacting DSVA).
 * See your team's Github "Product" folder or onboarding guides.
-* If you don't find an answer, post in #vfs-platform-support.
+* If you don't find an answer, post your question in *#vfs-platform-support*.
 
 ### Use Slack channels for different purposes.
 
@@ -68,8 +68,8 @@ Questions are bound to come up that fall somewhere between "How do I?" and "What
 
 #### Meetings - slowest communication method
 * If your team has a question about something, ask it in a Slack channel.
-* Don't wait to organize a meeting to ask a question; this will slow your team down.
+* Don't wait to organize a meeting to ask a question; this will slow down your team.
 
 #### Email - least effective communication method
-* Email communications are not easily searchable or archivable.
-* Use this as a last resort for communication.
+* Email communications aren't easily searchable or archivable.
+* Use email as a last resort for communication.
