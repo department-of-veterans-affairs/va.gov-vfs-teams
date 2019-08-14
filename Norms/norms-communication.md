@@ -14,7 +14,7 @@ For example:
 
 **All instances of breaking changes should be posted to *#vfs-all-teams*.**
 
-The post needs to provide enough information that a designer, developer, or content person can know what they need to do in order to accommodate the change in their work. Some examples:
+The post needs to provide enough information so a designer, developer, or content person can know what they need to do in order to accommodate the change in their work. Some examples:
 
 > Sketch file has been updated to include new treatment for X. Find the Sketch file here [link].
 
@@ -49,7 +49,7 @@ Questions are bound to come up that fall somewhere between "How do I?" and "What
 
 ### Look for documentation before posting a question in Slack (or contacting DSVA).
 * See your team's Github "Product" folder or onboarding guides.
-* If you don't find an answer, post your question in *#vfs-platform-support*.
+* If you don't find an answer, post your question in the *#vfs-platform-support* channel.
 
 ### Use Slack channels for different purposes.
 
