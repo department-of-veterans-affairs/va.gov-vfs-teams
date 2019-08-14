@@ -4,7 +4,7 @@ These principles guide us in creating appropriate policies, process, and procedu
 
 ### Service design, not bureaucracy.
 
-* We're here to improve Veteran-facing services and the way the VA builds them, not create better bureaucracy.
+* We're here to improve Veteran-facing services and the way VA builds them, not create better bureaucracy.
 * For process improvements, we start by researching and documenting the problem and user stories. Then, we use our journey map to discuss and prioritize potential solutions.
 
 ### Work in the open.
@@ -18,8 +18,8 @@ These principles guide us in creating appropriate policies, process, and procedu
 
 ### Trust, but verify.
 
-* We ensure the quality of Veteran-facing Services. But we do not operate as helicopter parents for teams building VFS.
-* We create the lightest weight process possible. Our goal is forward movement, not process.
+* We ensure the quality of Veteran-facing services. But we don't operate as helicopter parents for teams building VFS.
+* We create the lightest-weight process possible. Our goal is forward movement, not process.
 
 ### More trust can be earned.
 
@@ -27,7 +27,7 @@ These principles guide us in creating appropriate policies, process, and procedu
 
 ### Carrots, not sticks.
 
-* We empower all teams building VFS. We do not block teams’ forward progress with our bureaucracy or our own internal process. We design our processes so that the best option for teams is also the easiest option.
+* We empower all teams building VFS. We do not block teams’ forward progress with our bureaucracy or our own internal process. We design our processes so that the best option for teams is also the easiest.
 
 ### Don’t make perfect the enemy of the good.
 
