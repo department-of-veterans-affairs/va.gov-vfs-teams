@@ -27,7 +27,7 @@ These principles guide us in creating appropriate policies, process, and procedu
 
 ### Carrots, not sticks.
 
-* We empower all teams building VFS. We do not block teams’ forward progress with our bureaucracy or our own internal process. We design our processes so that the best option for teams is also the easiest.
+* We empower all teams building Veteran-facing services. We don't block teams’ forward progress with our bureaucracy or our own internal process. We design our processes so that the best option for teams is also the easiest.
 
 ### Don’t make perfect the enemy of the good.
 
@@ -35,7 +35,7 @@ These principles guide us in creating appropriate policies, process, and procedu
 
 ### Ask for forgiveness, not permission.
 
-* We empower all teams building VFS to make their own decisions, as long as they align with our quality standards.
+* We empower all teams building Veteran-facing services to make their own decisions, as long as they align with our quality standards.
 
 ### Be kind to each other.
 
