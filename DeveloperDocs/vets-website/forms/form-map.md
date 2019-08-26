@@ -12,7 +12,7 @@ In this doc, we'll explain where the content you see on the form actually comes 
 4. Form title: Rendered by `src/applications/new-form/containers/IntroductionPage.jsx`. Initially set in the Yeoman generator.
 5. Form benefits: The `SaveInProgressIntro` component rendered by `src/applications/new-form/containers/IntroductionPage.jsx`. Initially set in the Yeoman generator.
 6. Subway text: Rendered by `src/applications/new-form/containers/IntroductionPage.jsx`.
-7. Time burder: The `OMBInfo` component rendered by `src/applications/new-form/containers/IntroductionPage.jsx`. Initially set in the Yeoman generator.
+7. Time burden: The `OMBInfo` component rendered by `src/applications/new-form/containers/IntroductionPage.jsx`. Initially set in the Yeoman generator.
 8. OMB control number: The `OMBInfo` component rendered by `src/applications/new-form/containers/IntroductionPage.jsx`. Initially set in the Yeoman generator.
 9. Expiration date: The `OMBInfo` component rendered by `src/applications/new-form/containers/IntroductionPage.jsx`. Initially set in the Yeoman generator.
 
