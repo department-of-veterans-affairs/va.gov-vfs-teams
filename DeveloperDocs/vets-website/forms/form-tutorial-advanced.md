@@ -60,7 +60,7 @@ We have a collection of common definitions and fields on the front-end for you t
 
 ```js
 import fullSchema from 'vets-json-schema/dist/VIC-schema.json';
-import fullNameUI from '../../common/schemaform/definitions/fullName';
+import fullNameUI from 'platform/forms/definitions/fullName';
 // ...code omitted...
 
 const {
@@ -73,7 +73,7 @@ const {
 
 const formConfig = {
   // ...code omitted...
-  definitions: {
+  defaultDefinitions: {
     fullName
   },
   // ...code omitted...
@@ -107,7 +107,7 @@ Often you'll need to slightly modify common definitions on the front-end to chan
 ```js
 import _ from 'lodash/fp';
 import fullSchema from 'vets-json-schema/dist/VIC-schema.json';
-import fullNameUI from '../../common/schemaform/definitions/fullName';
+import fullNameUI from 'platform/forms/definitions/fullName';
 // ...code omitted...
 
 const {
@@ -120,7 +120,7 @@ const {
 
 const formConfig = {
    // ...code omitted...
-  definitions: {
+  defaultDefinitions: {
     fullName
   },
   // ...code omitted...
