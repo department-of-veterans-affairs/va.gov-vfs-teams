@@ -6,7 +6,7 @@ Now that you've gone through and created a really simple form using the tutorial
 
 ## Custom validation
 
-Because our forms are based on JSON Schema, you can rely on the built in types and pattern property to do a lot of your validation. However, sometimes you need validation rules that go beyond what JSON Schema offers. To write custom validation, we have a `ui:validation` helper:
+Because our forms are based on JSON Schema, you can rely on the built in types and pattern property to do a lot of your validation. However, sometimes you need validation rules that go beyond what JSON Schema offers. To write custom validation, we have a `ui:validations` helper:
 
 ```js
 page1: {
@@ -15,7 +15,7 @@ page1: {
   uiSchema: {
     myField: {
       'ui:title': 'My field label',
-      'ui:validation': [
+      'ui:validations': [
         (errors, field) => {
           if (field && field.startsWith('bad')) {
             errors.addError("Sorry, you can't start this field with 'bad'");
@@ -35,9 +35,9 @@ page1: {
 }
 ```
 
-`ui:validation` takes an array of functions, each of which is passed an errors object and the field data (plus some other parameters). So in the above example, if a user puts 'badString' in `myField`, then the form will display a validation error with the message passed in `addError()`.
+`ui:validations` takes an array of functions, each of which is passed an errors object and the field data (plus some other parameters). So in the above example, if a user puts 'badString' in `myField`, then the form will display a validation error with the message passed in `addError()`.
 
-One thing to note is that you can add `ui:validation` on any field or object in `uiSchema`, which allows you to validate groups of fields together:
+One thing to note is that you can add `ui:validations` on any field or object in `uiSchema`, which allows you to validate groups of fields together:
 
 
 ```js
@@ -51,7 +51,7 @@ page1: {
     confirmEmail: {
       'ui:title': 'Confirm email'
     },
-    'ui:validation': [
+    'ui:validations': [
       (errors, field) => {
         if (field.email !== field.confirmEmail) {
           errors.confirmEmail.addError('Sorry, your emails must match');
