@@ -171,7 +171,7 @@ page1: {
       myField: {
         type: 'boolean',
       }
-      myOtherField: {
+      myConditionalField: {
         type: 'string',
       }
     }
@@ -208,7 +208,7 @@ page1: {
       myField: {
         type: 'boolean'
       }
-      myOtherField: {
+      myConditionalField: {
         type: 'string'
       }
     }
