@@ -50,8 +50,7 @@ Once the external service has been integrated:
 
 ## Source
 
-- Stems from the [Endpoint Punch List Presentation](https://hackmd.io/p/r1Mn_TqYG#/)
-- [Source file](https://hackmd.io/s/r1Mn_TqYG) for the presentation
+- Stems from the [Endpoint Punch List Presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/tutorials/endpoint-punch-list-presentation.md)
 
 <hr>
 
