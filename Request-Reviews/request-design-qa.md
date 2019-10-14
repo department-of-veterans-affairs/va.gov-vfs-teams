@@ -33,6 +33,7 @@
 ### Design QA Checklist
 
 * [ ] New design patterns have been vetted by DSVA and documented
+* [ ] Mobile, tablet, and desktop breakpoints have been accounted for
 * [ ] Correct use of design patterns in context
   * [ ] Form chapters in place
   * [ ] Privacy policy is present
