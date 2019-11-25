@@ -1,4 +1,4 @@
-## This doc is obsolete. It lives here now: [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Administrative/Onboarding/Product%20Development%20Checklist.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Administrative/Onboarding/Product%20Development%20Checklist.md)
+## This doc is obsolete. It lives here now: [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Administrative/Onboarding/Product%20Development%20Checklist.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/Product%20Development%20Checklist.md)
 
 ---
 
