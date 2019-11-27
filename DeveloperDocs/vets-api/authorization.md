@@ -1,3 +1,5 @@
+# This file is deprecated. The most recent information should be at https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering/backend/vets-api
+
 # Vets API Authorization
 
 Authorization is a process of permitting an identity, asserted through authentication, of accessing a specified resource. Requests to Vets-API integration endpoints must be authorized based on the provided [Authentication](authentication.md) information. Vets-API provides authorization functions through Policy classes in `app/policies`.

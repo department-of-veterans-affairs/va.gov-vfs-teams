@@ -1,3 +1,5 @@
+# This file is deprecated. The most recent information should be at https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering/backend/vets-api
+
 # Vets API Settings
 
 Settings are used to provide any values that may differ between

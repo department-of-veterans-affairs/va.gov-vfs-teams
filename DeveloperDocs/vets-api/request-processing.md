@@ -1,3 +1,5 @@
+# This file is deprecated. The most recent information should be at https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering/backend/vets-api
+
 # Vets API Request Processing
 
 Request processing occurs after Routing {TODO - add content}, [Authentication](authentication.md), and [Authorization](authorization.md). It consists of validating any user input or parameters, processing that input, and generating a response.

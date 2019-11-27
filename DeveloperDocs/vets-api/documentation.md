@@ -1,3 +1,5 @@
+# This file is deprecated. The most recent information should be at https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering/backend/vets-api
+
 # Vets API Documentation
 
 All endpoints exposed through Vets-API must be thoroughly documented with [Swagger](https://swagger.io/). The goal is to provide enough information for another engineer to create an independent integration with your service. This documentation also serves as the starting point for final review of the integration. At a minimum this should include:
