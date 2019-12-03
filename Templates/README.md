@@ -1,3 +1,5 @@
+# This file is deprecated. The most recent information should be at https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/templates
+
 # Templates for VFS teams
 
 * [Consent Form for research participants](va-consent-form-generic.docx)

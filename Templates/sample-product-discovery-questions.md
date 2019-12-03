@@ -1,3 +1,5 @@
+# This file is deprecated. The most recent information should be at https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/templates
+
 # Product Discovery Questions by Department
 
 These questions are intended to start conversations and facilitate discovery. We
