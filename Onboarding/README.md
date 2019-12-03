@@ -1,3 +1,5 @@
+# This file is deprecated. The most recent information should be at https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/README.md
+
 # Onboarding for VFS teams
 
 ## Welcome to the Veteran-facing Services Platform
