@@ -1,3 +1,4 @@
+# This file is deprecated. The most recent information should be at https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-review-process.md
 
 ## Content writing and plain language best practices
 

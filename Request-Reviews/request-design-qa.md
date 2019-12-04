@@ -1,3 +1,5 @@
+# This file is deprecated. The most recent information should be at https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/working-with-platform-design-team.md
+
 # UX/IxD/UI and Visual Design
 
 ### General

@@ -1,3 +1,5 @@
+# This file is deprecated. The most recent information should be at https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/README.md
+
 # Documentation for VFS teams working on the Veteran-facing Services Platform (VSP)
 
 ### Contents

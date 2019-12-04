@@ -1,3 +1,5 @@
+# This file is deprecated. The most recent information should be at https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/norms-communication.md
+
 # Norms for communication
 
 ## Communicating "breaking changes"
