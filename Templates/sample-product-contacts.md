@@ -1,3 +1,5 @@
+# This file is deprecated. The most recent information should be at https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/templates
+
 # Product Points of Contact
 
 These are the team members we will attempt to contact first with regard to
