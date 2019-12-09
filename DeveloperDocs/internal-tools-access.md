@@ -1,3 +1,5 @@
+# This file is deprecated. The most recent information should be at https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/platform/engineering
+
 # Internal Tools Access
 
 Developers working on the Veteran-facing Services Platform have access to Internal Tools that allow them to:

@@ -1,3 +1,5 @@
+# This file is deprecated. The most recent information should be at https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/platform/engineering
+
 # Review Instances
 
 Review instances are a deployment of a combination of vets-api and vets-website at specified versions.

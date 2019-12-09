@@ -1,3 +1,5 @@
+# This file is deprecated. The most recent information should be at https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/platform/engineering
+
 # Environments
 
 Vets-API and Vets-Website are automatically deployed to three shared environments. Additionally, the latest changes on all Pull Requests are automatically deployed to a [Review Instance](development-workflow.md/#review-instances). Each of these deployments is connected with External Services within the VA to facilitate testing.

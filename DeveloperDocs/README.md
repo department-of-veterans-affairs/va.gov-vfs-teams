@@ -1,3 +1,5 @@
+# This file is deprecated. The most recent information should be at https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/platform/engineering
+
 # VA Digital Service - Developer Documentation
 
 ### Table of Contents
