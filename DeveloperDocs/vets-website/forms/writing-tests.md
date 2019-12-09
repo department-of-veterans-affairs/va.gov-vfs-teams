@@ -1,3 +1,5 @@
+# This file is deprecated. The most recent information should be at https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering
+
 # Vets Website Writing Tests
 
 

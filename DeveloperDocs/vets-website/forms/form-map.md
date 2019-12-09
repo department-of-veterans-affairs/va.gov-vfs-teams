@@ -1,3 +1,5 @@
+# This file is deprecated. The most recent information should be at https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering
+
 # Form Map - Where Does This Stuff Come From?
 
 In this doc, we'll explain where the content you see on the form actually comes from. The file locations in this doc assumes you created a simple form using the Yeoman generator, saving the app in `new-form` and giving it a root URL of `/new-form` (questions 2 and 4 in the generator).

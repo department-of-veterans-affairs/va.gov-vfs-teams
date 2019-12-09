@@ -1,3 +1,5 @@
+# This file is deprecated. The most recent information should be at https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering
+
 # Creating a Form Schema in Vets-JSON-Schema
 
 When building a form, you'll need to create a JSON Schema document that lives in the [vets-json-schema](https://github.com/department-of-veterans-affairs/vets-json-schema) repo and is shared by both the front-end and back-end. This schema will be the contract for data submitted by the front-end to the back-end API.

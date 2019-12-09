@@ -1,3 +1,5 @@
+# This file is deprecated. The most recent information should be at https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering
+
 # Deployment Process
 
 Code goes through several steps to get to production. This document describes this process. It should also be noted that this is the same flow for both content and code changes.
