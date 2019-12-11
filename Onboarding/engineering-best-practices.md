@@ -1,3 +1,5 @@
+# This file is deprecated. The most recent information should be at https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering/frontend
+
 # Engineering Best Practices
 
 Here is a brief list of Veteran Services Platform (VSP) recommended engineering best practices when working to add new features to the VSP.  

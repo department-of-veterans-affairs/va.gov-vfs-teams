@@ -1,3 +1,5 @@
+# This file is deprecated. The most recent information should be at https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering
+
 # Setting up Save in Progress
 
 Forms on Vets.gov support the ability to save them in progress to a user's account and resume them later. Enabling Save in Progress requires
