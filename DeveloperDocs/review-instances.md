@@ -1,4 +1,4 @@
-# This file is deprecated. The most recent information should be at https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/platform/engineering
+# This file is deprecated. The most recent information should be at https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/DeveloperDocs/review-instances.md
 
 # Review Instances
 
