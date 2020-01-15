@@ -27,11 +27,11 @@
 ## Repo access restriction plan 
 As part of continued efforts to consolidate crucial documentation for building on VA.gov into one accessible place, much of the content in this repository has been migrated to the public va.gov-team repository (and some to the private va.gov-team-sensitive repository). 
 
-To reduce confusion and ensure that va.gov-team is the single source of truth for documentation, access to vets.gov-team (this repo) is being restricted beginning in January 2020. The timeline and access details are below. 
+To reduce confusion and ensure that va.gov-team is the single source of truth for documentation, access to va.gov-vfs-teams (this repo) is being restricted beginning in January 2020. The timeline and access details are below. 
 
 ### Timeline for access restriction to va.gov-vfs-teams:
 
-**January 14, 2020:** **Write access to vets.gov-team is limited to key stakeholders in VSP and DEPO.** (VFS teams lose write access.)
+**January 14, 2020:** **Write access to va.gov-vfs-teams is limited to key stakeholders in VSP and DEPO.** (VFS teams lose write access.)
 
 **TBD: Read access to vets.gov-team is limited to all of VSP and DEPO.** (VFS teams lose read access.) 
 
