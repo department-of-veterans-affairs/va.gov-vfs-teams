@@ -33,7 +33,7 @@ To reduce confusion and ensure that va.gov-team is the single source of truth fo
 
 **January 14, 2020:** **Write access to va.gov-vfs-teams is limited to key stakeholders in VSP and DEPO.** (VFS teams lose write access.)
 
-**TBD: Read access to vets.gov-team is limited to all of VSP and DEPO.** (VFS teams lose read access.) 
+**TBD: Read access to va.gov-vfs-teams is limited to all of VSP and DEPO.** (VFS teams lose read access.) 
 
 ### Proposed access details
 
